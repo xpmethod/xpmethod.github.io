@@ -1,34 +1,5 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset=utf-8 />
-  <title> {% if page.title %} {{ page.title }} | {% endif %} xpmethods </title>
-  <link rel="stylesheet" href="/css/styles.css" />
-</head>
-<body>
- 
-  <div id="main">
- 
-    <header>
-      <h1> xpmethods </h1>
-    <header>
- 
-    <nav role="navigation">
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/format.html">Format</a></li>
-        <li><a href="/core_team.html">Core Team</a></li>
-        <li><a href="/encounters.html">Encounters</a></li>
-        <li><a href="/testpage.html">Test Page</a></li>
-      </ul>
-    </nav>
- 
-    {{ content }}
- 
-    <footer>
-      <p>@copy; xpmethods 2014 | All Rights Reserved. </p>
-    </footer>
- 
-  </div>
-</body>
-</html>
+---
+theme :
+  name : dbyll
+---
+{% include default.html %}
