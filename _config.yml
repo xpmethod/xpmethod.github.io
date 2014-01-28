@@ -15,13 +15,13 @@ author:
   pinterest: 
   linkedin: 
   bio: 
-  email_md5: 726351295ec82e145928582f595aa3aa
+  email_md5: 029573d85035a22a545b71c70a08a7ca
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
-BASE_PATH: http://dbtek.github.io/dbyll
+BASE_PATH: http://xpmethod.github.io/
 
 # All links will be namespaced by BASE_PATH if defined.
 # Links in your website should always be prefixed with {{ site.BASE_PATH }}
@@ -31,7 +31,7 @@ BASE_PATH: http://dbtek.github.io/dbyll
 #   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
 #   (urls will be prefixed with "/" and work relatively)
 #
-# GitHub Pages (http://username.github.io)
+GitHub Pages (http://xpmethod.github.io)
 #   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
 #   (urls will be prefixed with "/" and work relatively)
 #
