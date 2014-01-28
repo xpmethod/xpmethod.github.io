@@ -6,7 +6,7 @@ exclude: ["README.md"] # files to exclude
 pygments: true
 
 title: XPmethods
-description: Rapid prototyping of speculative ideas.
+description: Columbia University
 author:
   name: xpmethods
   email: 
@@ -14,7 +14,7 @@ author:
   twitter: elotroalex
   pinterest: 
   linkedin: 
-  bio: 
+  bio: Rapid prototyping of speculative ideas.
   email_md5: 029573d85035a22a545b71c70a08a7ca
 
 rss_path: feed.xml
