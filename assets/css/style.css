@@ -10,6 +10,7 @@ body{
 	padding-top: 10%;
 }
 
+
 .sidebar-header {
 	text-align: center;
 	margin-bottom: 10px;
@@ -23,6 +24,7 @@ body{
 	text-decoration: none;
 	color: #75AADB;
 }
+
 
 a.nav-link {
 	padding-bottom: 5px;
@@ -108,3 +110,10 @@ footer {
     left: inherit;
     right: 0px;
 }
+
+/*phillip's add*/
+
+.mainbody{
+	padding: 10%;
+}
+

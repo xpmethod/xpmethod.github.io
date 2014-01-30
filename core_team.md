@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Core Team
 permalink: /core_team.html
 ---
