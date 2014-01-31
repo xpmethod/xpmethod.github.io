@@ -21,11 +21,20 @@ tagline: Experimental methods in the humanities
             </span>
 
             <h2>
-                <a href="{{ site.BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+                <a href="{{ post.artlink }}">{{ post.title }}</a>
             </h2>
+            
+            </br>
+			
+			<div>
+			<a href="{{ post.artlink }}"><img src="{{ post.image }}" /></a>
+			</div>
 
+			
+			</br>
             <div>
                 {% if post.fullview %}
+                  
                   {{ post.content }}
                 {% else %}
                     {% if post.shortinfo %}
