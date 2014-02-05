@@ -1,0 +1,7 @@
+body { margin:0; padding:0; }
+
+a:link, a:visited{color:#f7941d; text-decoration:none;}
+a:hover{color:#f7941d; text-decoration:underline;}
+
+.fakelink{color:#f7941d; cursor:pointer;}
+.fakelink:hover{text-decoration:underline};

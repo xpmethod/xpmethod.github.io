@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <title>Golf Developer Documentation</title>
+ <link href="http://golf.github.com/atom.xml" rel="self"/>
+ <link href="http://golf.github.com/"/>
+ <updated>2014-02-05T17:58:25-05:00</updated>
+ <id>http://golf.github.com/</id>
+ <author>
+   <name>Micha Niskin</name>
+   <email>micha@thinkminimo.com</email>
+ </author>
+ 
+ <entry>
+   <title>Testing Page Gen</title>
+   <link href="http://golf.github.com/testing-page-gen/"/>
+   <updated>2014-04-30T00:00:00-04:00</updated>
+   <id>http://golf.github.com/testing-page-gen</id>
+   <content type="html">&lt;p&gt;Note--the way to automatically generate pages (and make links work) is : + the filename as it appears after the date, as a directory. I.e. the url for this file would be :/testing-page-gen/&lt;/p&gt;
+</content>
+   <author>
+     <name>Saint Augustine</name>
+     <uri>http://github.com/prpole</uri>
+   </author>
+ </entry>
+ 
+ <entry>
+   <title>Dennis Tenen</title>
+   <link href="http://golf.github.com/dennis-tenen/"/>
+   <updated>2014-02-05T00:00:00-05:00</updated>
+   <id>http://golf.github.com/dennis-tenen</id>
+   <content type="html">&lt;p&gt;This would be Dennis&#39;s page if we had an encounter with Dennis.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/fake.jpg&quot; alt=&quot;Dennis&quot; /&gt;&lt;/p&gt;
+</content>
+   <author>
+     <name>Phillip Polefrone</name>
+     <uri>http://github.com/prpole</uri>
+   </author>
+ </entry>
+ 
+</feed>

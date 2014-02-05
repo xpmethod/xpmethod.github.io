@@ -1,0 +1,1 @@
+jQuery.golf.components={};jQuery.golf.res={"README.markdown":"README.markdown"};jQuery.golf.plugins={};jQuery.golf.scripts={};jQuery.golf.styles={};jQuery.golf.setupComponents();

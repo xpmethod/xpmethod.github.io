@@ -1,0 +1,100 @@
+<div>
+
+  <style type="text/golf">
+    * {
+      font-family: sans-serif;
+      color: #444;
+    }
+
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+
+    div.container {
+      margin: 0 auto;
+      width: 800px;
+      padding: 20px;
+    }
+
+    table.jquery-tablesort > thead > tr > th > span,
+    table.jquery-tablesort > thead > tr > th > a > span {
+      text-align: left;
+      cursor: pointer;
+      padding-right: 20px;
+      background-image: url('?resource=bg.gif');
+      background-position: center right;
+      background-repeat: no-repeat;
+    }
+
+    table.jquery-tablesort > thead > tr > th > span.sort-asc,
+    table.jquery-tablesort > thead > tr > th > a > span.sort-asc {
+      background-image: url('?resource=asc.gif');
+    }
+
+    table.jquery-tablesort > thead > tr > th > span.sort-desc,
+    table.jquery-tablesort > thead > tr > th > a > span.sort-desc {
+      background-image: url('?resource=desc.gif');
+    }
+
+    table.properties {
+      border: 1px solid #444;
+      margin: 0px auto;
+    }
+
+    table.properties > thead > tr > th {
+      border-bottom: 1px solid #444;
+      padding: 5px 10px;
+      margin: 0px;
+    }
+
+    table.properties > tfoot > tr > td {
+      border-top: 1px solid #444;
+      padding: 5px 10px;
+      margin: 0px;
+    }
+
+    table.properties > tbody > tr > td {
+      padding: 5px 10px;
+      border-bottom: 1px solid #ccc;
+      border-left: 1px dashed #ddd;
+    }
+
+    table.properties > tbody > tr > td:first-child {
+      border-left: none;
+    }
+
+    table.properties > tbody > tr:last > td {
+      border-bottom: none;
+    }
+
+    table.properties > tbody > tr:nth-child(odd) {
+      background: #eee;
+    }
+  </style>
+
+  <script type="text/golf">
+    
+    function(data) {
+
+      $(".container").append(
+        $(data)
+          .tableize()
+          .addClass("properties")
+          .thead(["one","two","three"])
+          .tfoot(["one","two","three"])
+          .talign(["left","right","left"])
+          .twidth([100,200,400])
+          .tcaption("Hello, Tables")
+      );
+
+      $("table.properties").sortable();
+
+    };
+
+  </script>
+
+  <div class="container">
+  </div>
+
+</div>

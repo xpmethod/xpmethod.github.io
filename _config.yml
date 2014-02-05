@@ -1,40 +1,5 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
-
-paginate: 10 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
+auto: true
 pygments: true
-
-title: XPmethods
-description: Columbia University
-author:
-  name: xpmethods
-  email: 
-  github: xpmethod
-  twitter: elotroalex
-  pinterest: 
-  linkedin: 
-  bio: Rapid prototyping of speculative ideas.
-  email_md5: 029573d85035a22a545b71c70a08a7ca
-
-rss_path: feed.xml
-categories_path: categories.html
-tags_path: tags.html
-
-BASE_PATH: http://xpmethod.github.io
-
-# All links will be namespaced by BASE_PATH if defined.
-# Links in your website should always be prefixed with {{ site.BASE_PATH }}
-# Do not put a "/" at the end of the url.
-#
-# CNAME (http://yourcustomdomain.com)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
-#   (urls will be prefixed with "/" and work relatively)
-#
-# GitHub Pages (http://xpmethod.github.io)
-#   DO NOT SET BASE_PATH JUST LEAVE IT BLANK 
-#   (urls will be prefixed with "/" and work relatively)
-#
-# GitHub Project Pages (http://username.github.io/project-name)
-#  A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-#  REQUIRED! Set BASE_PATH to "http://username.github.io/project-name"
+markdown: rdiscount
+permalink: /:categories/:title/
+url: http://xpmethod.github.io
