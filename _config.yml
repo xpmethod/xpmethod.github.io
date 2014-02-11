@@ -1,5 +1,5 @@
 auto: true
 pygments: true
-markdown: rdiscount
+markdown: kramdown
 permalink: /:categories/:title/
 url: http://xpmethod.github.io
