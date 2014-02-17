@@ -3,10 +3,10 @@ layout: default
 title: Core Team
 ---
 
-Dennis Tenen  
+[Dennis Tenen](http://dennistenen.com) 
 
-Alex Gil  
+[Alex Gil](https://twitter.com/elotroalex)  
 
-Grant Wythoff  
+[Grant Wythoff](https://github.com/gwijthoff)  
 
-Phillip Polefrone
+[Phillip Polefrone](https://github.com/prpole)

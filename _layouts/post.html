@@ -3,7 +3,26 @@ layout: default
 ---
 <div id="post">
   <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }} - <a href="{{ page.author_url }}">{{ page.author }}</a></p>
+  <p class="meta">{{ page.date | date_to_string }}{% if page.location%}  |  {{ page.location }} {% endif %}</p>
+  
+<!--include participants--!>
+  {% if page.participants %}
+  </br>
+  <h2 class="encounter">Participants</h2>
+    {% for participant in page.participants %}
+      {{ participant }}</br>
+    {% endfor %}
+  {% endif %}
+  
+  <!-- include prompt --!>
+  </br>
+  {% if page.prompt %}
+  <h2 class="encounter">Prompt</h2>
+  <p>{{ page.prompt }}</p>
+  {% endif %}
+
+</br>
+<h2 class="encounter">Experiment</h2>
 {{ content }}
 </div>
 
