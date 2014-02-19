@@ -107,11 +107,13 @@ img {
   color: #a00;
   font-weight: bold;
   margin-bottom: 2em;
+  font-size: 125%;
 }
 
   .site .title a {
     color: #a00;
     text-decoration: none;
+    font-size: 20px;
   }
 
   .site .title a:hover {
