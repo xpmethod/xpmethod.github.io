@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: helvetica, arial, clean, sans-serif;
+  font: 13.34px helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -140,8 +140,6 @@ img {
 
   .site .meta {
     color: #aaa;
-    border-bottom: 1px dashed #dba;
-    padding-bottom: 5px;
   }
 
   .site .footer {
@@ -290,11 +288,5 @@ span.new {
 }
 
 .last {
-  margin-bottom: 1em;
-}
-
-.encounter {
-  color: #a00;
-  font-weight: bold;
   margin-bottom: 1em;
 }
