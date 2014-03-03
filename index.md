@@ -3,8 +3,6 @@ layout: home
 title: XPMethods
 ---
 
-Group for Experimental Methods in the Humanities
-
 What does it mean to "experiment" in the study of history, literature, or philosophy? In answering that question we draw from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always subjective and indeterminate. In both spaces, thought is secreted from practice, "on the fetid and throbbing ground of life."[^LN1]
 
 The Columbia group for experimental methods in the humanities is dedicated to the **rapid prototyping of speculative ideas**. Our aim is to stage productive *encounters* between theory and method, connecting top theorists and model-makers in the field with makers of things, builders of code, and architects of the pixel. 
