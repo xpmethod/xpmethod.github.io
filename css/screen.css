@@ -17,7 +17,7 @@ html, body {
 
 body {
   background-color: white;
-  font: .75em helvetica, arial, clean, sans-serif;
+  font: 1.25em helvetica, arial, clean, sans-serif;
   *font-size: small;
   text-align: center;
 }
@@ -65,7 +65,7 @@ table {
 .site #home ol,
 ul.toc {
   margin-top: 1em;
-  list-style-position: inside;
+  margin-left: 2em;
   list-style-type: decimal;
   margin-bottom: 2em;
 }
@@ -76,7 +76,7 @@ ul.posts {
 }
 
   ul.posts li {
-    line-height: 1.75em;
+    line-height: 1em;
   }
 
   ul.posts span {
@@ -92,13 +92,12 @@ ul.posts {
 /*****************************************************************************/
 
 img {
-  max-width: 640px;
+  max-width: 75%;
 }
 
 .site {
-  font-size: 110%;
   text-align: justify;
-  width: 640px;
+  width: 75%;
   margin: 3em auto 2em auto;
   line-height: 1.5em;
 }
@@ -106,7 +105,7 @@ img {
 .title {
   color: #a00;
   font-weight: bold;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
 }
 
   .site .title a {

@@ -11,12 +11,3 @@ In each encounter, we ask our guest to provide a brief (15-30 min) *prompt*, a p
 
 [^LN1]: Bernard, Claude (1865). *Introduction à l'étude de la médecine expérimentale*. Paris.
 [^LN2]: John Cage as quoted in Nyman, Michael (1974). *Experimental Music: Cage and Beyond*. Cambridge, UK.
-
-<h2>Encounters</h2>
-
-<ul class="posts toc">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-
