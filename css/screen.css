@@ -14,7 +14,11 @@ html, body {
 
 body {
   background-color: white;
+<<<<<<< HEAD
   font: 1.25em helvetica, arial, clean, sans-serif;
+=======
+  font: 13.34px helvetica, arial, clean, sans-serif;
+>>>>>>> parent of 019848a... smaller font size
   *font-size: small;
   text-align: center;
 }
