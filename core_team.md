@@ -10,3 +10,5 @@ title: Core Team
 [Grant Wythoff](https://github.com/gwijthoff)  
 
 [Phillip Polefrone](https://github.com/prpole)
+
+[Aaron Plasek](http://aaronplasek.com)
