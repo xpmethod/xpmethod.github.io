@@ -12,3 +12,5 @@ title: Core Team
 [Phillip Polefrone](https://github.com/prpole)
 
 [Aaron Plasek](http://aaronplasek.com)
+
+[Graham Sack](http://www.columbia.edu/~gas2117/grahamsack.html)
