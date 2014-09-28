@@ -33,53 +33,5 @@
   
   {{ content }}
   
-  <div class="footer">
-    <div class="contact">
-      <p>
-        made with plain text, markdown, & jekyll
-      </p>
-    </div>
-    <div class="contact">
-      <p>
-        <a href="http://github.com/xpmethod/">github.com/xpmethod</a><br />
-        {{ site.time | date: '%Y' }}
-        <a href="http://web.archive.org/web/20140303080752/http://www.gnu.org/philosophy/free-sw.html">free culture</a> 
-      </p>
-    </div>
-    <div class="rss">
-    </div>
-  </div>
-</div>
+{% include footer.html %} 
 
-<!--<a href="http://github.com/xpmethod"><img style="position: absolute; top: 0; right: 0; border: 0;" src="http://s3.amazonaws.com/github/ribbons/forkme_right_red_aa0000.png" alt="Fork me on GitHub" /></a>-->
-
-<!-- Disqus Comments 
-<script type="text/javascript">
-//<![CDATA[
-(function() {
-  var links = document.getElementsByTagName('a');
-  var query = '?';
-  for(var i = 0; i < links.length; i++) {
-  if(links[i].href.indexOf('#disqus_thread') >= 0) {
-    query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
-  }
-  }
-  document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/golfwebapps/get_num_replies.js' + query + '"></' + 'script>');
-})();
-//]]>
-</script> -->
-
-<!-- Google Analytics 
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
-
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-8437802-6");
-pageTracker._trackPageview();
-} catch(err) {}</script> -->
-
-</body>
-</html>
