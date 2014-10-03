@@ -1,4 +1,0 @@
----
-layout: cats
-title: encounters
----

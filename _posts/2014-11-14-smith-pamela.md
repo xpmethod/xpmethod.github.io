@@ -7,4 +7,4 @@ prompt: TBA
 category: encounters
 ---
 
-Not confirmed. Stay tuned for details.
+Details coming soon.
