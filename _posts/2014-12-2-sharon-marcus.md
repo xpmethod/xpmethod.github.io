@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Pamela Smith"
+title: "Sharon Marcus"
 location: "Butler Studio"
 participants: TBA
 prompt: TBA
 category: encounters
-tags: material history
+tags: publishing
 ---
 
 Details coming soon.
