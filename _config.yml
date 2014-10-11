@@ -5,5 +5,5 @@ url: http://xpmethod.github.io
 
 # Required if you want to move pages into a a separate directory
 # not working at the moment for some reason
-# include: ['_pages']
+include: ['_pages']
 # relative_permalinks: false
