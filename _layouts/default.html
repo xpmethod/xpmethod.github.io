@@ -5,35 +5,28 @@
 <head>
    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
    <title>xpMeth | Group for experimental methods in the humanities</title>
-   <meta name="author" content="XPMethods" />
+   <meta name="author" content="xpMethods" />
 
    <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/css/syntax.css" type="text/css" />
+   <link rel="stylesheet" href="/public/css/syntax.css" type="text/css" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="/public/css/screen.css" type="text/css" media="screen, projection" />
 
    <!-- Atom/RSS feed thing -->
    <!-- <link rel="alternate" type="application/atom+xml" href="/atom.xml" /> -->
 
-   <!-- Typekit 
+   <!-- Typekit
    <script type="text/javascript" src="http://use.typekit.com/jpd0pfm.js"></script>
    <script type="text/javascript">try{Typekit.load();}catch(e){}</script>
    -->
 </head>
+
 <body>
-
-<div class="site">
-  <div class="title">
-    <a href="/">Group for experimental methods <sub>in the humanities</sub></a>
-    <a class="extra" href="/people.html">people</a>
-    <a class="extra" href="/encounters.html">encounters</a>
-    <!--<a class="extra" href="/talks.html">talks</a>-->
-    <a class="extra" href="/projects.html">projects</a>
-    <!--<a class="extra" href="/atom.xml">rss</a>-->
-  </div>
-  
-  {{ content }}
-  
-{% include footer.html %} 
-
+    <div class="site">
+        {% include header.html %}
+        {{ content }}
+        {% include footer.html %}
+    </div>
+</body>
+</html>

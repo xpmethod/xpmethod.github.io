@@ -53,6 +53,10 @@ table {
   margin-bottom: 2em;
 }
 
+.indent {
+  margin-left: 2em;
+}
+
 /*****************************************************************************/
 /* Home */
 
@@ -69,15 +73,15 @@ ul.posts {
   margin-bottom: 2em;
 }
 
-  ul.posts li {
-    line-height: 1em;
-  }
+ul.posts li {
+  line-height: 1em;
+}
 
-  ul.posts span {
-    color: #aaa;
-    font-family: Monaco, "Courier New", monospace;
-    font-size: 80%;
-  }
+ul.posts span {
+  color: #aaa;
+  font-family: Monaco, "Courier New", monospace;
+  font-size: 80%;
+}
 
 /*****************************************************************************/
 /* Site */
@@ -99,27 +103,27 @@ img {
   margin-bottom: 1em;
 }
 
-  .site .title a {
-    color: #a00;
-    text-decoration: none;
-  }
+.site .title a {
+  color: #a00;
+  text-decoration: none;
+}
 
-  .site .title a:hover {
-    color: black;
-  }
+.site .title a:hover {
+  color: black;
+}
 
-  .site #home a.extra,
-  .site #post a.extra,
-  .site .title a.extra {
-    color: #aaa;
-    text-decoration: none;
-    margin-left: 1em;
-  }
+.site #home a.extra,
+.site #post a.extra,
+.site .title a.extra {
+  color: #aaa;
+  text-decoration: none;
+  margin-left: 1em;
+}
 
-  .site .meta a {
-    color: #aaa;
-    text-decoration: none;
-  }
+.site .meta a {
+  color: #aaa;
+  text-decoration: none;
+}
 
   .site .meta a:hover,
   .site #home a.extra:hover,
@@ -163,17 +167,17 @@ img {
     text-decoration: underline;
   }
 
-  .site dl dt a,
-  .site dl dt a:hover,
-  .site dl dt a:visited:hover {
-    text-decoration: inherit;
-    color: inherit;
-  }
+.site dl dt a,
+.site dl dt a:hover,
+.site dl dt a:visited:hover {
+  text-decoration: inherit;
+  color: inherit;
+}
 
-  .site dl dd {
-    margin: 1em 0;
-    padding-left: 1.5em;
-  }
+.site dl dd {
+  margin: 1em 0;
+  padding-left: 1.5em;
+}
 
 /*****************************************************************************/
 /* Posts */
@@ -235,9 +239,9 @@ img {
       border: none;
     }
 
-  #post .highlight {
-    font-size: 95%;
-  }
+    #post .highlight {
+      font-size: 95%;
+    }
 
   /* terminal */
 

@@ -1,0 +1,50 @@
+---
+layout: default
+title: strain
+---
+
+<div id="post">
+    <h1>{{ page.title }}</h1>
+
+    <!--include description --!>
+    {% if page.description %}
+        </br>
+    
+        <h2 class="encounter">Description</h2>
+        {{ page.description }}</br>
+    {% endif %}
+  
+    <!--Show all people--!>
+    {% if page.participants %}
+        </br>
+        <h2 class="encounter">People</h2>
+        {% for participant in page.participants %}
+            {{ participant }}</br>
+        {% endfor %}
+    {% endif %}
+  
+    <!-- Show all projects--!>
+    </br>
+    {% if page.prompt %}
+        <h2 class="encounter">Projects</h2>
+        <p>{{ page.prompt }}</p>
+    {% endif %}
+
+    </br>
+
+    <!-- Show all updates, encounters, etc do this with tags -->
+    <h2 class="encounter">Updates</h2>
+    {{ content }}
+</div>
+
+<!--
+<div id="related">
+    <h2>Related Articles</h2>
+        <ul class="posts">
+        {% for post in site.related_posts limit:3 %}
+            <li><span>{{ post.date | date_to_string }}</span> 
+            &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+    </ul>
+</div>
+-->
