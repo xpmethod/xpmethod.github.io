@@ -10,7 +10,13 @@ layout: default
     {% for post in site.categories[page.title] limit:3 %}
 
     {% if post.title != null %}
-    <h3><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    {% if post.category == 'encounters' %}
+        <h3><span>{{ post.date | date_to_string }}</span> &raquo; 
+        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    {% endif %}
+    {% if post.category == 'projects' %}
+        <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    {% endif %}
     {% endif %}
 
     {{ post.content | truncatewords:75 }}<br>
