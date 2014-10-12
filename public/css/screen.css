@@ -80,6 +80,7 @@ table {
 #taglist li:nth-last-child(3) ~ li:nth-last-child(2):after {
   content: ", & ";
 }
+
 /*****************************************************************************/
 /* Home */
 
@@ -219,7 +220,7 @@ img {
 
   #post ul,
   #post ol {
-    margin-left: 1.25em;
+    margin-left: .5em;
   }
 
   #post code {
