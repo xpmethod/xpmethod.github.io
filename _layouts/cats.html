@@ -19,6 +19,10 @@ layout: default
     {% endif %}
     {% endif %}
 
+    {% for tag in post.tags %}
+    <sup>{{ tag }}</sup>
+    {% endfor %}
+
     {{ post.content | truncatewords:75 }}<br>
     <!-- <a href="{{ post.url }}">Read more &raquo;</a><br><br> -->
     <!-- hack to prevent unclosed lists in the snippet -->
