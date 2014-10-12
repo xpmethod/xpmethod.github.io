@@ -3,34 +3,22 @@ layout: default
 ---
 
 <div id="post">
-  <h1>{{ page.title }}</h1>
+    <h1>&raquo; {{ page.title }}
+    {% if page.type %}
+        <sup><code>{{ page.type }}</code></sup>
+    {% endif %}</h1>
 
-<!--include description --!>
-  {% if page.description %}
-  </br>
-  <h2 class="encounter">Description</h2>
-      {{ page.description }}</br>
-  {% endif %}
-  
-<!--include participants--!>
-  {% if page.participants %}
-  </br>
-  <h2 class="encounter">Participants</h2>
-    {% for participant in page.participants %}
-      {{ participant }}</br>
-    {% endfor %}
-  {% endif %}
-  
-  <!-- include prompt --!>
-  </br>
-  {% if page.prompt %}
-  <h2 class="encounter">Prompt</h2>
-  <p>{{ page.prompt }}</p>
-  {% endif %}
+    <sup class="comma">
+    {% if page.people %}
+        <ul id="taglist">
+        {% for person in page.people %}
+        <li>{{ person }}</li>
+        {% endfor %}
+        </ul>
+    {% endif %}
+    </sup>
 
-</br>
-<h2 class="encounter">Experiments</h2>
-{{ content }}
+    {{ content }}
 </div>
 
 <!--

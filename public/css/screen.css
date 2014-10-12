@@ -57,6 +57,27 @@ table {
   margin-left: 2em;
 }
 
+#taglist {
+  display: inline;
+  list-style: none;
+}
+
+#taglist li {
+  display: inline;
+}
+
+#taglist li:after {
+  content: ", ";
+}
+
+#taglist li:last-child:after {
+  content: "";
+
+}
+#taglist #taglist li:nth-last-child(3) + li:after {
+      content: ", & ";
+}
+
 /*****************************************************************************/
 /* Home */
 

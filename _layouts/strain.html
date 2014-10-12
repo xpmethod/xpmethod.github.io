@@ -6,25 +6,39 @@ layout: default
     {{ content }}
 
     <!--Show all people--!>
-    <h2 class="encounter">People</h2>
-    {% for post in site.categories[page.title] %}
-        {% for person in post.people %}
-           <code>{{ person }}</code>
-        {% endfor %}
-        <!-- <code>{{ post.people }}</code> -->
-    {% endfor %}
+    <!-- this repeats people, find out how to fix, people on per project basis for now -->
+    <!-- <h2 class="encounter">People</h2> -->
+    <!-- {% for post in site.categories[page.title] %} -->
+    <!--         {% for person in post.people %} -->
+    <!--          <code>{{ person }}</code> -->
+    <!--    {% endfor %} -->
+    <!-- {% endfor %} -->
 
     <!-- Show all projects--!>
-    <br><br><h2 class="encounter">Projects</h2>
+    <!-- hide activity if empty -->
+    {% if site.categories[page.title] %}
+        <h2 class="encounter">Activity</h2>
+    {% endif %}
         {% for post in site.categories[page.title] %}
+
             <h3>&raquo; <a href="{{ post.url }}">{{ post.title }}</a></h3>
+
+            <!-- What kind of activity is this? Project, talk, blog post? -->
+            <!-- Make this pretty at some point -->
+            {% if post.type %}
+                <sup><code>{{ post.type }}</code></sup>
+            {% endif %}
+
+            <!-- who? -->
+            {% for person in post.people %}
+               <sup>{{ person }}</sup>
+            {% endfor %}
+ 
             <div class='indent'>
                 <!-- strip html to get rid of images in the list view -->
-                {{ post.content | strip_html | truncatewords:75 }}
+                <p>{{ post.content | strip_html | truncatewords:75 }}</p>
             </div>
         {% endfor %}
-    <!-- Show all updates, encounters, etc do this with tags -->
-    <!-- <h2 class="encounter">Updates</h2> -->
 </div>
 
 <!--
