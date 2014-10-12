@@ -8,10 +8,11 @@ layout: default
         <sup><code>{{ page.type }}</code></sup>
     {% endif %}</h1>
 
+    <!-- remember tags are people -->
     <sup>
-    {% if page.people %}
+    {% if page.tags %}
         <ul id="taglist">
-        {% for person in page.people %}
+        {% for person in page.tags %}
         <li>{{ person }}</li>
         {% endfor %}
         </ul>

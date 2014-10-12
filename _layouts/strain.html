@@ -29,10 +29,10 @@ layout: default
                 <sup><code>{{ post.type }}</code></sup>
             {% endif %}
 
-            <!-- who? -->
+            <!-- remember tags are people -->
             <sup>
             <ul id="taglist">
-            {% for person in post.people %}
+            {% for person in post.tags %}
                <li>{{ person }}</li>
             {% endfor %}
             </ul>
