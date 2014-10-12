@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<h2>Contributors</h2>
+<!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
+
+    <ul id="taglist">
+        {% for tag in site.tags %}
+           <li>{{ tag[0] }}</li>
+        {% endfor %}
+    </ul>
+
+<p>
+<!-- want faculty advisers to happen after contributors -->
+<!-- want fancy footnotes on faculy links -->
+<!-- filters are the only way to get markdown to render -->
+{% capture my-include %}{% include advisers.md %}{% endcapture %}
+{{ my include | markdownify }}
+</p>
