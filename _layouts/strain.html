@@ -30,10 +30,14 @@ layout: default
             {% endif %}
 
             <!-- who? -->
+            <sup>
+            <ul id="taglist">
             {% for person in post.people %}
-               <sup>{{ person }}</sup>
+               <li>{{ person }}</li>
             {% endfor %}
- 
+            </ul>
+            </sup> 
+
             <div class='indent'>
                 <!-- strip html to get rid of images in the list view -->
                 <p>{{ post.content | strip_html | truncatewords:75 }}</p>

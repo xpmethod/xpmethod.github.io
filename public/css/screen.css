@@ -70,14 +70,16 @@ table {
   content: ", ";
 }
 
+/* this gets rid of the trailing comma */
 #taglist li:last-child:after {
   content: "";
 
 }
-#taglist #taglist li:nth-last-child(3) + li:after {
-      content: ", & ";
-}
 
+/* oxford comma for the last element, using for name lists */
+#taglist li:nth-last-child(3) ~ li:nth-last-child(2):after {
+  content: ", & ";
+}
 /*****************************************************************************/
 /* Home */
 
