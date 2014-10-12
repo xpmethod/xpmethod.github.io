@@ -1,6 +1,6 @@
 ---
 layout: strain
-title: lit-trends
+title: minimal-computing
 category: strain
 ---
 
