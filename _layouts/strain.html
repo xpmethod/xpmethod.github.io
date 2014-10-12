@@ -4,37 +4,25 @@ title: strain
 ---
 
 <div id="post">
-    <h1>{{ page.title }}</h1>
+    <!-- <h1>{{ page.title }}</h1> -->
+    {{ content }}
 
-    <!--include description --!>
-    {% if page.description %}
-        </br>
-    
-        <h2 class="encounter">Description</h2>
-        {{ page.description }}</br>
-    {% endif %}
-  
+    </br>
+
     <!--Show all people--!>
-    {% if page.participants %}
-        </br>
-        <h2 class="encounter">People</h2>
-        {% for participant in page.participants %}
-            {{ participant }}</br>
-        {% endfor %}
-    {% endif %}
+    </br>
+    <h2 class="encounter">People</h2>
   
     <!-- Show all projects--!>
     </br>
-    {% if page.prompt %}
-        <h2 class="encounter">Projects</h2>
-        <p>{{ page.prompt }}</p>
-    {% endif %}
-
+    <h2 class="encounter">Updates</h2>
+    {% for post in site.tags['plain-text'] %}
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    {% endfor %}
     </br>
 
     <!-- Show all updates, encounters, etc do this with tags -->
     <h2 class="encounter">Updates</h2>
-    {{ content }}
 </div>
 
 <!--
