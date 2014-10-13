@@ -7,15 +7,15 @@ layout: default
 
     {{ content }}
 
-    {% for post in site.categories[page.title] limit:15 %}
+    {% for post in site.categories[page.name] limit:15 %}
 
-    {% if post.title != null %}
+    {% if post.name != null %}
     {% if post.category == 'encounters' %}
         <h3><span>{{ post.date | date_to_string }}</span> &raquo; 
-        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
     {% endif %}
     {% if post.category == 'projects' %}
-        <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+        <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.name }}</a></h3>
     {% endif %}
     {% endif %}
 

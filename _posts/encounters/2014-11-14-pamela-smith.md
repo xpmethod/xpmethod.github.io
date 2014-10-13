@@ -1,8 +1,12 @@
 ---
 layout: post
-title: "Pamela Smith"
+title: "A digital, critical edition for the Making and Knowing Project"
+name: "Pamela Smith"
 location: "Butler Studio"
-participants: TBA
+tags: 
+    - Pamela Smith
+categories: 
+type: rapid-prototype
 prompt: "Using grad student lab notes, make a richly annotated, open access critical edition of an early modern 'book of secrets' containing technical recipes and working notes."
 category: encounters
 ---
