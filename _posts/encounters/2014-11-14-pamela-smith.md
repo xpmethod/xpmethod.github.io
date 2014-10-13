@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jo Guldi"
+title: "Pamela Smith"
 location: "Butler Studio"
 participants: TBA
 prompt: TBA

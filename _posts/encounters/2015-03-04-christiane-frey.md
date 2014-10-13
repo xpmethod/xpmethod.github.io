@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pamela Smith"
+title: "Christiane Frey"
 location: "Butler Studio"
 participants: TBA
 prompt: TBA
