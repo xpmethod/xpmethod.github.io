@@ -10,10 +10,10 @@ layout: default
 
     <!-- remember tags are people -->
     <sup>
-    {% if page.tags %}
+    Participants: {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
-        <li>Participants: {{ person }}</li>
+        <li>{{ person }}</li>
         {% endfor %}
         </ul>
     {% endif %}
