@@ -2,7 +2,7 @@
 layout: post
 title: "Chad Wellmon"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
-participants: TBA
+tags: TBA
 prompt: TBA
 category: encounters
 ---

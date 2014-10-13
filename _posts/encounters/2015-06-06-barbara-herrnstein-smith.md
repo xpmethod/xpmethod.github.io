@@ -2,7 +2,7 @@
 layout: post
 title: "Barbara Herrnstein Smith"
 location: "Butler Studio"
-participants: TBA
+tags: TBA
 prompt: TBA
 category: encounters
 ---

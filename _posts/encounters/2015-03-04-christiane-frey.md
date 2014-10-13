@@ -2,7 +2,7 @@
 layout: post
 title: "Christiane Frey"
 location: "Butler Studio"
-participants: TBA
+tags: TBA
 prompt: TBA
 category: encounters
 ---
