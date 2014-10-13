@@ -14,6 +14,10 @@ layout: default
         <h3><span>{{ post.date | date_to_string }}</span> &raquo; 
         <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     {% endif %}
+    {% if post.category == 'on-method' %}
+        <h3><span>{{ post.date | date_to_string }}</span> &raquo; 
+        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+    {% endif %}
     {% if post.category == 'projects' %}
         <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     {% endif %}
