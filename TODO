@@ -1,2 +1,3 @@
 - index.md should have to .html
-- roll back the font changes
+- encounters page should recognize `on-method` tag as well as `encounters`
+- date/time field needed
