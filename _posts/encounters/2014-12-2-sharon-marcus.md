@@ -2,7 +2,7 @@
 layout: post
 title: "Sharon Marcus"
 location: "Butler Studio"
-tags: TBA
+tags: 
 prompt: TBA
 category: encounters
 ---
