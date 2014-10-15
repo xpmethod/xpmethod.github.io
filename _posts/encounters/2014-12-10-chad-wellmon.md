@@ -6,7 +6,7 @@ prompt: We need a history and vision of the humanities capacious enough to see t
 category: on-method
 ---
 
-**On Method: The Humanities in Full: Polemics Against the Two-Culture Fallacy**
+## On Method: The Humanities in Full: Polemics Against the Two-Culture Fallacy
 
 If the recent diatribes against the digital humanities have done anything, they have demonstrated how truncated and ahistorical most of our conceptions of the humanities are. We need a history and vision of the humanities capacious enough to see them not as a particular method or set of disciplines but as a disposition, as a way of engaging the world. This talk sketches what such a history might look like and what it might accomplish.
 

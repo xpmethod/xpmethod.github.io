@@ -8,7 +8,7 @@ prompt: "Using grad student lab notes, make a richly annotated, open access crit
 category: encounters
 ---
 
-# A Digital Critical Edition for the Making and Knowing Project
+## A Digital Critical Edition for the Making and Knowing Project
 
 Pamela Smith, Seth Low Professor of History and Director of the [Center for Science and Society](http://scienceandsociety.columbia.edu/) at Columbia will present on her ongoing research with [The Making and Knowing Project: From the Workshop to the Laboratory](http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory/).
 

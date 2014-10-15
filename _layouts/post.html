@@ -9,7 +9,7 @@ layout: default
     {% endif %}</h1>
 
     <!-- remember tags are people -->
-    <sup>
+    <li>
     Participants: {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
@@ -17,8 +17,8 @@ layout: default
         {% endfor %}
         </ul>
     {% endif %}
-    <p>Location: {{ page.location }}</p>
-    </sup>
+    </li>
+    <li>Location: {{ page.location }}</li>
 
     {{ content }}
 </div>
