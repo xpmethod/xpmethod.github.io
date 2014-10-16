@@ -30,18 +30,28 @@ layout: default
             {% endif %}
 
             <!-- remember tags are people -->
+            {% for person in post.tags %}
             <sup>
             <ul id="taglist">
-            {% for person in post.tags %}
                <li>{{ person }}</li>
             {% endfor %}
             </ul>
-            </sup> 
+            </sup>
 
-            <div class='indent'>
-                <!-- strip html to get rid of images in the list view -->
-                <p>{{ post.content | strip_html | truncatewords:75 }}</p>
-            </div>
+            <!-- encounters are different since we are pulling the prompt -->
+            <!-- instead of post.content -->
+            {% unless post.categories contains "encounters" %}
+                <div class='indent'>
+                    <!-- strip html to get rid of images in the list view -->
+                    <p>{{ post.content | strip_html | truncatewords:75 }}</p>
+                </div>
+            {% endunless %}
+            {% if post.categories contains "encounters" %}
+                <div class='indent'>
+                    <!-- strip html to get rid of images in the list view -->
+                    <p>{{ post.prompt | strip_html | truncatewords:75 }}</p>
+                </div>
+            {% endif %}
         {% endfor %}
 </div>
 

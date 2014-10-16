@@ -8,6 +8,7 @@ categories:
 - encounters
 - on-method
 type: encounter
+published: true
 ---
 
 Details coming soon.

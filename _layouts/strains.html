@@ -16,8 +16,10 @@ title: strain
             <sup><code>&raquo; <a href="{{ post.url }}">{{ post.title }}</a></code></sup>
         {% endfor %}
 
-        <div class='indent'>{{ post.content | truncatewords:75 }}</div>
-        <!-- <a href="{{ post.url }}">Read more &raquo;</a><br><br> -->
+        <div class='indent'>
+            {{ post.content | truncatewords:75 }}
+        </div>
+        <!-- <a href="{{ post.url }}">Read more</a> -->
         <!-- hack to prevent unclosed lists in the snippet -->
         </ul></ol>
 

@@ -1,9 +1,12 @@
 ---
-layout: post
+layout: encounter
 title: "Christiane Frey"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 prompt: TBA
-category: on-method
+categories:
+- on-method
+- encounters
+published: false
 ---
 
 Details coming soon.
