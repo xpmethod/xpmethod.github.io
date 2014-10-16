@@ -30,10 +30,10 @@ layout: default
             {% endif %}
 
             <!-- remember tags are people -->
-            {% for person in post.tags %}
             <sup>
+            {% for person in post.tags %}
             <ul id="taglist">
-               <li>{{ person }}</li>
+                <li>{{ person }}</li>
             {% endfor %}
             </ul>
             </sup>
