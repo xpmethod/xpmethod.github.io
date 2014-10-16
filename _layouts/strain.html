@@ -31,8 +31,8 @@ layout: default
 
             <!-- remember tags are people -->
             <sup>
-            {% for person in post.tags %}
             <ul id="taglist">
+            {% for person in post.tags %}
                 <li>{{ person }}</li>
             {% endfor %}
             </ul>
