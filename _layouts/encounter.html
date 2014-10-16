@@ -3,28 +3,24 @@ layout: default
 ---
 
 <div id="post">
-  <h1>{{ page.title }}</h1>
-  <p class="meta">{{ page.date | date_to_string }}{% if page.location%}  |  {{ page.location }} {% endif %}</p>
-  
-<!--include participants--!>
-  {% if page.participants %}
-  </br>
-  <h2 class="encounter">Participants</h2>
-    {% for participant in page.participants %}
-      {{ participant }}</br>
-    {% endfor %}
-  {% endif %}
-  
-  <!-- include prompt --!>
-  </br>
-  {% if page.prompt %}
-  <h2 class="encounter">Prompt</h2>
-  <p>{{ page.prompt }}</p>
-  {% endif %}
+    <h1>{{ page.title }}</h1>
+    <p class="meta">{{ page.date | date_to_string }}{% if page.location%}  |  {{ page.location }} {% endif %}</p>
+    <!--include participants--!>
+    {% if page.participants %}
+        <h2>Participants</h2>
+        {% for participant in page.participants %}
+            {{ participant }}
+        {% endfor %}
+    {% endif %}
 
-</br>
-<h2 class="encounter">Experiment</h2>
-{{ content }}
+    <!-- include prompt --!>
+    {% if page.prompt %}
+        <h2 class="encounter">Prompt</h2>
+        <div class="indent">
+            <p>{{ page.prompt }}</p>
+        </div>
+    {% endif %}
+    {{ content }}
 </div>
 
 <!--

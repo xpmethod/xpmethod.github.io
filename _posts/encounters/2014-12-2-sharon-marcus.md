@@ -1,10 +1,13 @@
 ---
-layout: post
+layout: encounter
 title: "Sharon Marcus"
 location: "Butler Studio"
-tags: 
+tags:
 prompt: TBA
-category: encounters
+categories:
+- encounters
+- on-method
+type: encounter
 ---
 
 Details coming soon.
