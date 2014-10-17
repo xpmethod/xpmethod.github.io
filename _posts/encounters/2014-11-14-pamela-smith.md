@@ -1,13 +1,11 @@
 ---
-layout: encounter
+layout: event
 title: "Pamela Smith"
 location: "Butler Studio"
 tags:
 type: encounter
 prompt: "Using grad student lab notes, make a richly annotated, open access critical edition of an early modern 'book of secrets' containing technical recipes and working notes."
-categories:
-- on-method
-- encounters
+categories: event
 ---
 
 ## A Digital Critical Edition for the Making and Knowing Project
