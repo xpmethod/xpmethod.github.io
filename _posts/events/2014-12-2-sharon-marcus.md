@@ -1,10 +1,12 @@
 ---
-layout: event
+layout: encounter
 title: "Sharon Marcus"
 location: "Butler Studio"
 tags:
 prompt: TBA
-categories: event
+categories:
+- encounters
+- on-method
 type: encounter
 published: true
 ---
