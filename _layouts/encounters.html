@@ -14,8 +14,8 @@ layout: default
     {% endif %}
     {% if post.category == 'projects' %}
         <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-    {% if page.type %}
-        <sup><code>{{ page.type }}</code></sup>
+    {% if post.type %}
+        <sup><code>{{ post.type }}</code></sup>
     {% endif %}
         </h3>
     {% endif %}
