@@ -7,7 +7,6 @@ type: lecture
 categories:
 - on-method
 - categories
-published: true
 ---
 
 ## On Method: The Humanities in Full: Polemics Against the Two-Culture Fallacy
