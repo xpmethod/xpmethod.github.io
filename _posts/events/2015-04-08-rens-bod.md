@@ -6,6 +6,7 @@ prompt: TBA
 categories:
 - on-method
 - encounters
+type: lecture
 published: false
 ---
 
