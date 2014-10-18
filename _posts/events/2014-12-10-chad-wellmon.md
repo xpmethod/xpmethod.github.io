@@ -5,9 +5,7 @@ location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 
 type: lecture
 prompt: We need a history and vision of the humanities capacious enough to see them not as a particular method or set of disciplines but as a disposition, as a way of engaging the world.
-categories:
-- on-method
-- categories
+categories: encounters
 ---
 
 ## On Method: The Humanities in Full: Polemics Against the Two-Culture Fallacy

@@ -4,9 +4,7 @@ title: "Sharon Marcus"
 location: "Butler Studio"
 tags:
 prompt: TBA
-categories:
-- encounters
-- on-method
+categories: encounters
 type: encounter
 published: true
 ---
