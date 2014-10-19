@@ -30,21 +30,32 @@ layout: default
             {% endif %}
             </h3>
 
-            <!-- remember tags are people -->
-            <sup>
-            <ul id="taglist">
-            {% for person in post.tags %}
-                <li>{{ person }}</li>
-            {% endfor %}
-            </ul>
-            </sup>
+
+            <!-- first test if tags is not nill -->
+            <!-- if post.tags is not working -->
+            <!-- this tests for the first member in the list -->
+            {% if post.tags[0] %}
+                <sup>
+                <!-- remember tags are people -->
+                <!-- order of tags matters here -->
+                <!-- test before changing -->
+                <ul id="taglist">
+                {% for person in post.tags %}
+                    <li>{{ person }}</li>
+                {% endfor %}
+                </ul>
+                </sup>
+            {% endif %}
 
             <!-- encounters are different since we are pulling the prompt -->
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
                 <div class='indent'>
                     <!-- strip html to get rid of images in the list view -->
-                    <p>{{ post.content | strip_html | truncatewords:75 }}</p>
+                    <!-- this sometimes breaks when the truncate is awkward -->
+                    <p>
+                        {{ post.content | markdownify | truncatewords:125 }}
+                    </p>
                 </div>
             {% endunless %}
             {% if post.categories contains "event" %}
