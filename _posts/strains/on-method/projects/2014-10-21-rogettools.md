@@ -11,7 +11,7 @@ Following [Klingenstein, Hitchcock, and DeDeo (2014)'s work on the "Old Bailey" 
 
 With this integration in mind, the library provides several primary tools for analysis. First, it enables Python-readable categorization of individual words at different levels of abstraction (i.e., specificity of semantic categorization). It can also return the full hierarchical path of all a given word's categories to the top of Roget's taxonomy, simultaneously measuring the path length. In addition to being applicable to individual words, both of these methods can be automatically applied to large samples of text, replacing words with their semantic categories. Roget Tools can also return the distance (in network edges) between any two words in the *Thesaurus* or any two nodes in the hierarchy. (See Jarmasz and Szpakowicz (2012)[^3] on the relevance of this measure.) Finally, given a text---be it a list of randomly selected words, a portion of a literary text, or part of the output from a topic modeling algorithm---the Roget tools can return the node or nodes that most accurately represent that text's semantic character; this representativeness is measured as the minimum average distance in edges from each word in the list to the selected node.
 
-This is a work in progress, and suggestions for application and development are welcome. Full instructions can be found on the [main project page](prpole.github.io/roget-tools/), which also contains projections for future development.
+This is a work in progress, and suggestions for application and development are welcome. Full instructions can be found on the [main project page](http://prpole.github.io/roget-tools/), which also contains projections for future development.
 
 ##Download
 
