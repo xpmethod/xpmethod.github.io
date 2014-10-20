@@ -30,4 +30,4 @@ Additionally, the posts in the "events" layout have the following fields:
 `prompt:` used to pull out the prompts in the "events" section. Should be in quotations.  
 `location:` used to indicate location in the "events" section  
 
-`event` dates are generated form the post title.  
+Dates in the "events" and "event" view are generated form the post title.  
