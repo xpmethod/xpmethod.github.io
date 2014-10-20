@@ -47,14 +47,22 @@ layout: default
                 </sup>
             {% endif %}
 
-            <!-- encounters are different since we are pulling the prompt -->
+            <!-- events are different since we are pulling the prompt -->
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
                 <div class='indent'>
                     <!-- strip html to get rid of images in the list view -->
                     <!-- this sometimes breaks when the truncate is awkward -->
                     <p>
+                    <!-- if post does not list snippet length in the yaml, use default -->
+                    {% unless post.snippet %}
                         {{ post.content | markdownify | truncatewords:125 }}
+                    {% endunless %}
+
+                    <!-- if post lists snippet length in the yaml, use that -->
+                    {% if post.snippet %}
+                        {{ post.content | markdownify | truncatewords:post.snippet }}
+                    {% endif %}
                     </p>
                 </div>
             {% endunless %}

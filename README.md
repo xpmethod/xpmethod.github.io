@@ -30,4 +30,6 @@ Additionally, the posts in the "events" layout have the following fields:
 `prompt:` used to pull out the prompts in the "events" section. Should be in quotations.  
 `location:` used to indicate location in the "events" section  
 
+`snippet:` should be the numeric number of **words** that you want to be included in your snippet. Note that his counts MarkDown and HTML tags, but we will try to "prettify" the snippet by rendering the markup. However, bad things **can** happen if we pull a snippet that breaks one of your html or MarkDown tags. Try to keep the snippets clean for this reason.
+
 Dates in the "events" and "event" view are generated form the post title.  

@@ -4,7 +4,8 @@ title: Roget Tools
 tags:
 - Phillip R. Polefrone
 category: on-method
-type: toolkit 
+type: toolkit
+snippet: 105
 ---
 
 Following Klingenstein, Hitchcock, and DeDeo (2014)'s work on the "Old Bailey" records,[^1] Roget Tools is a Python class for tracking broad semantic categories through bodies of text using the top-down hierarchical structure of Peter Mark Roget's *Thesaurus*.[^2] This hierarchy is a comprehensive and unbroken network encompassing all of Roget's original thesaurus categories, and importing it into a Python-readable format achieves two goals. First, it enables the body of research on Roget's thesaurus to incorporated into automated text analysis, thus providing a basis for stable interpretation of quantitative results. Second, it facilitates an integration of semantic network analysis into the analysis of textual corpora.
