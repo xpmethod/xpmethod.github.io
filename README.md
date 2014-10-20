@@ -31,4 +31,3 @@ Additionally, the posts in the "events" layout have the following fields:
 `location:` used to indicate location in the "events" section  
 
 `event` dates are generated form the post title.  
--
