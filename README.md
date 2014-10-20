@@ -1,9 +1,11 @@
+This page describes the file structure and the taxonomy of xpmethod.github.io
+
 ### Generally
 Everything is either a post or a page. Pages are in the root folder with a `.md` extension, and connect to `.html` layouts in the `_layouts` folder. Pages have tags and categories and a bunch of other fields described in the YAML block.
 
-- `events.html` drives the **events** page which lists all posts in the category `events`. 
-- `strains.html` drives the **research** page, which lists all categories, *except* for `events`.
-- `strain.html` drives the single strain view, that lists all projects in a given category (except for `events`).
+- `events.html` drives the **events** page which lists all posts in the category `events`
+- `strains.html` drives the **research** page, which lists all categories, *except* for `events`
+- `strain.html` drives the single strain view, that lists all projects in a given category (except for `events`)
 - `project.html` drives the single project view
 - there is no "projects" view yet
 
@@ -30,6 +32,6 @@ Additionally, the posts in the "events" layout have the following fields:
 `prompt:` used to pull out the prompts in the "events" section. Should be in quotations.  
 `location:` used to indicate location in the "events" section  
 
-`snippet:` should be the numeric number of **words** that you want to be included in your snippet. Note that his counts MarkDown and HTML tags, but we will try to "prettify" the snippet by rendering the markup. However, bad things **can** happen if we pull a snippet that breaks one of your html or MarkDown tags. Try to keep the snippets clean for this reason.
+`snippet:` should be the numeric number of **words** that you want to be included in your snippet. Note that his counts .md and HTML tags, but we will try to "prettify" the snippet by rendering the markup. However, bad things *will* happen if we pull a snippet that breaks one of your html or .md tags. Try to keep the snippets clean for this reason.
 
 Dates in the "events" and "event" view are generated form the post title.  
