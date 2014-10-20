@@ -1,5 +1,5 @@
 ---
-layout: strain
+layout: strains
 title: minimal-computing
 category: strain
 ---
