@@ -9,4 +9,4 @@ published: true
 
 *Agency*, *Deliberation*, *Consensus*, *Dissent*.  
 
-A place holder for the Minimally Viably Digital Citizen Toolkit project.
+A place holder for the Minimally Viable Digital Citizen Toolkit project.
