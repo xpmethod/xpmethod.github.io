@@ -4,7 +4,7 @@ title: Visualizing Joyce
 tags:
 - Emily Furhman
 category: theory-method
-type: visualization
+type: graphic
 snippet: 105
 image: "joyce.png"
 ---
