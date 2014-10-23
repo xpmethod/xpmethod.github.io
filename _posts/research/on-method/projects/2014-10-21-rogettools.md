@@ -3,7 +3,7 @@ layout: project
 title: Roget Tools
 tags:
 - Phillip R. Polefrone
-category: on-method
+category: theory-method
 type: toolkit
 snippet: 105
 ---

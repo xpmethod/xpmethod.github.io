@@ -34,4 +34,6 @@ Additionally, the posts in the "events" layout have the following fields:
 
 `snippet:` should be the numeric number of **words** that you want to be included in your snippet. Note that his counts .md and HTML tags, but we will try to "prettify" the snippet by rendering the markup. However, bad things *will* happen if we pull a snippet that breaks one of your html or .md tags. Try to keep the snippets clean for this reason.
 
+`image:` an image can be handled by this tag to gracefully handle image snippets. Avoid embedding images into the post otherwise.
+
 Dates in the "events" and "event" view are generated form the post title.  

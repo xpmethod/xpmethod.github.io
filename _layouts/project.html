@@ -13,12 +13,16 @@ layout: default
     {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
-        <li>{{ person }}</li>
+            <li>{{ person }}</li>
         {% endfor %}
         </ul>
     {% endif %}
     </sup>
-
+    <div>
+        {% if page.image %}
+            <img src="/public/images/{{ page.image }}" style="height:15em; float:right; margin:1.5em">
+        {% endif %}
+    <div>
     {{ content }}
 </div>
 
