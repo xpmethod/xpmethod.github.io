@@ -17,6 +17,6 @@ This visualization is constructed as a line-by-line annotation of each sound tha
 
 See the original post [here](http://y-li.me/projects/201406-joyce-ulysses-sirens-redux.php) and the full interactive graphic [here](http://y-li.me/x/sirens/). Visit [y-li.me](http://y-li.me/) for more work by Emily Fuhrman.
 
-[^1]: Joyce to Georges Borach, 18 June 1919, in Richard Ellmann, James Joyce: New and Revised Edition (Oxford University Press, 1982), p. 459.
+[^1]: Joyce to Georges Borach, 18 June 1919, in Richard Ellmann, *James Joyce: New and Revised Edition* (Oxford University Press, 1982), p. 459.
 
-[^2]: Joyce to Harriet Weaver, 6 August 1919, in Ellmann, James Joyce, p. 462.
+[^2]: Joyce to Harriet Weaver, 6 August 1919, in Ellmann, *James Joyce*, p. 462.
