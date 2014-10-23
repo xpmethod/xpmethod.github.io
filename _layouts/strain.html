@@ -50,10 +50,13 @@ layout: default
             <!-- events are different since we are pulling the prompt -->
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
-                <div class='indent'>
-                    <!-- strip html to get rid of images in the list view -->
-                    <!-- this sometimes breaks when the truncate is awkward -->
+                <div class="indent">
                     <p>
+                    <!-- move this out into css -->
+                    {% if post.image %}
+                        <img src="/public/images/{{ post.image }}" style="height:10em; float:right; margin:1em">
+                    {% endif %}
+
                     <!-- if post does not list snippet length in the yaml, use default -->
                     {% unless post.snippet %}
                         {{ post.content | markdownify | truncatewords:125 }}

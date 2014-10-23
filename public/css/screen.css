@@ -156,6 +156,10 @@ img {
     color: black;
   }
 
+  .site .active a {
+      color: black;
+  }
+
   .site .meta {
     color: #aaa;
   }

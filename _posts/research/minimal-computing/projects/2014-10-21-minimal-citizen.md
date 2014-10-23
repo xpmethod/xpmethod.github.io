@@ -4,7 +4,7 @@ title: "Minimally Viable Digital Citizen (MVDCiT)"
 tags:
 categories: minimal-computing
 type: toolkit
-published: true
+published: false
 ---
 
 *Agency*, *Deliberation*, *Consensus*, *Dissent*.  
