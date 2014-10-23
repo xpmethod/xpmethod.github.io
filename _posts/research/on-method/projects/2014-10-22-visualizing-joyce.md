@@ -2,7 +2,7 @@
 layout: project
 title: Visualizing Joyce
 tags:
-- Emily Furhman
+- Emily Fuhrman
 category: theory-method
 type: graphic
 snippet: 105
@@ -15,4 +15,4 @@ Joyce uses the first 63 lines of the chapter to introduce 99 words and syllables
 
 This visualization is constructed as a line-by-line annotation of each sound that recurs at least four times following its initial introduction. Within each line, each sound is grouped into repetitions, linked to its associated character(s), and sorted into one of three possible tiers based on its distance from the root sound. The pages are represented as columns.
 
-See the original post [here](http://y-li.me/projects/201406-joyce-ulysses-sirens-redux.php) and the full interactive graphic [here](http://y-li.me/x/sirens/). Visit [y-li.me](http://y-li.me/) for more work by Emily Furhman.
+See the original post [here](http://y-li.me/projects/201406-joyce-ulysses-sirens-redux.php) and the full interactive graphic [here](http://y-li.me/x/sirens/). Visit [y-li.me](http://y-li.me/) for more work by Emily Fuhrman.
