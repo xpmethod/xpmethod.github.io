@@ -18,11 +18,20 @@ layout: default
         </ul>
     {% endif %}
     </sup>
+
+    <!-- grab image from yaml if there is one -->
     <div>
         {% if page.image %}
             <img src="/public/images/{{ page.image }}" style="height:15em; float:right; margin:1.5em">
         {% endif %}
+    </div>
+
+    <!-- include sparkle if we have one -->
     <div>
+        {% if page.sparkle %}
+            {% include progress-reports/{{ page.sparkle}} %}
+        {% endif %}
+    </div>
     {{ content }}
 </div>
 

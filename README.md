@@ -36,4 +36,5 @@ Additionally, the posts in the "events" layout have the following fields:
 
 `image:` an image can be handled by this tag to gracefully handle image snippets. Avoid embedding images into the post otherwise.
 
+`sparkle:` is an option to include the little progress report visualization seen in plain-text book project
 Dates in the "events" and "event" view are generated form the post title.  
