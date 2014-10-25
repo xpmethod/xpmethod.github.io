@@ -27,9 +27,9 @@ layout: default
     </div>
 
     <!-- include sparkle if we have one -->
-    <div>
+    <div id="sparkle">
         {% if page.sparkle %}
-            {% include progress-reports/{{ page.sparkle}} %}
+            {% include {{ page.sparkle}} %}
         {% endif %}
     </div>
     {{ content }}
