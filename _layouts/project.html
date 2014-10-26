@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div id="post">
-    <h1>&raquo; {{ page.title }}
+    <h3>&raquo; {{ page.title }}
     {% if page.type %}
         <sup><code>{{ page.type }}</code></sup>
-    {% endif %}</h1>
+    {% endif %}</h3>
 
     <!-- remember tags are people -->
     <sup>
@@ -20,18 +20,14 @@ layout: default
     </sup>
 
     <!-- grab image from yaml if there is one -->
-    <div>
         {% if page.image %}
-            <img src="/public/images/{{ page.image }}" style="height:15em; float:right; margin:1.5em">
+            <div><img src="/public/images/{{ page.image }}" style="height:15em; float:right; margin:1.5em"></div>
         {% endif %}
-    </div>
 
     <!-- include sparkle if we have one -->
-    <div id="sparkle">
         {% if page.sparkle %}
-            {% include {{ page.sparkle }} %}
+            <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
-    </div>
     {{ content }}
 </div>
 

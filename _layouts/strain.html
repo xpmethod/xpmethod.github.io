@@ -57,6 +57,11 @@ layout: default
                         <img src="/public/images/{{ post.image }}" style="height:10em; float:right; margin:1em">
                     {% endif %}
 
+                    <!-- if we have sparks, show that -->
+                    {% if post.sparkle %}
+                        <div id="sparkle">{% include {{ post.sparkle }} %}</div>
+                    {% endif %}
+
                     <!-- if post does not list snippet length in the yaml, use default -->
                     {% unless post.snippet %}
                         {{ post.content | markdownify | truncatewords:125 }}
