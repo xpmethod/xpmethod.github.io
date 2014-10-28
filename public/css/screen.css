@@ -228,6 +228,11 @@ img {
 
   /* standard */
 
+  #post h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+  }
+
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;
@@ -236,7 +241,8 @@ img {
 
   #post ul,
   #post ol {
-    margin-left: .5em;
+    margin-left: 1em;
+    list-style-position: outside;
   }
 
   #post code {
