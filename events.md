@@ -8,4 +8,4 @@ In each **encounter**, we ask our guest to provide a brief (15-30 min) *prompt*,
 
 **Lectures** will examine the range of theoretical and practical methods used by humanities scholars and critics, past and present. Following Thomas Kuhn, can we outline paradigms of humanistic inquiry? What are the national specificities of these methods? How are the technological challenges and opportunities provided by new research methods (computational, quantitative) and new organizational structures (labs, workshops, co-working) tethered to epistemological shifts as well?
 
-This series is sponsored by the [Heyman Center for the Humanities](heymancenter.org).
+This series is sponsored by the [Heyman Center for the Humanities](heymancenter.org), with support from [Columbia's Center for International History](cih.columbia.edu).
