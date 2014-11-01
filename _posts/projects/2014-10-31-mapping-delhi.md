@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Mapping Delhi's Pasts"
+title: "Mapping Medieval Pasts"
 tags:
 - Manan Ahmed
 category: theory-method
