@@ -256,6 +256,9 @@ img {
     margin-bottom: 0.5em;
   }
 
+  /* randomize post images */
+  /* to break up the grid a bit*/
+
   #post img {
     float:right;
     margin:1.5em;
@@ -287,6 +290,8 @@ img {
 
     #post p code {
       font-size: 100%;
+      border: none;
+      background-color: white;
     }
 
     #post .nounderline dl dt {
@@ -325,4 +330,8 @@ img {
     #strain img {
         max-width: 15em;
         margin-top: .5em;
+    }
+    
+    #strain.indent {
+        margin-bottom: 1em;
     }

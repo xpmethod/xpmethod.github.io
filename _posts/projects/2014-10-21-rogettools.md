@@ -5,16 +5,16 @@ tags:
 - Phillip R. Polefrone
 category: theory-method
 type: toolkit
-snippet: 105
+snippet: 125
 ---
 
-##Update: 
+##Update:
 
 Added two new methods to enable export of category-count arrays to [Pandas](http://http://pandas.pydata.org/) and CSV:
 
-* **self.freq_of_all_cats(text)** - given a text, return a dictionary of all Roget categories with counts *including zero counts*. 
+* `self.freq_of_all_cats(text)` - given a text, return a dictionary of all Roget categories with counts *including zero counts*.
 
-* **self.cat_array_by_file(folder,csv=False)** - Enables use of the Pandas library and CSV export. Given 'directory\_name/' in working directory that contains (or path to folder from working directory), return Pandas array of Roget category frequencies for each file. X-axis: filenames; Y-axis: Roget categories. If csv=True, results will be saved as a .csv file in the folder specified.
+* `self.cat_array_by_file(folder,csv=False)` - Enables use of the Pandas library and CSV export. Given 'directory\_name/' in working directory that contains (or path to folder from working directory), return Pandas array of Roget category frequencies for each file. X-axis: filenames; Y-axis: Roget categories. If csv=True, results will be saved as a .csv file in the folder specified.
 
 ##Overview:
 
