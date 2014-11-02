@@ -21,7 +21,7 @@ layout: default
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
-            <div><img src="/public/images/{{ page.image }}"></div>
+        <div><a href="/public/images/{{ page.image }}"><img src="/public/images/{{ page.image }}"></a></div>
         {% endif %}
 
     <!-- include sparkle if we have one -->

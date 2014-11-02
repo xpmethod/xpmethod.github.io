@@ -54,7 +54,7 @@ layout: default
                     <p>
                     <!-- move this out into css -->
                     {% if post.image %}
-                        <img src="/public/images/{{ post.image }}">
+                    <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
                     {% endif %}
 
                     <!-- if we have sparks, show that -->
