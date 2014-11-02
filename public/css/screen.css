@@ -52,6 +52,7 @@ table {
 
 .indent {
   margin-left: 2em;
+  overflow: hidden;
 }
 
 #taglist {
