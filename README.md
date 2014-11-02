@@ -38,3 +38,5 @@ Additionally, the posts in the "events" layout have the following fields:
 
 `sparkle:` is an option to include the little progress report visualization seen in plain-text book project
 Dates in the "events" and "event" view are generated form the post title.  
+
+The site was originally forked from <https://github.com/mojombo/mojombo.github.io>
