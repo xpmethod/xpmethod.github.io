@@ -1,7 +1,4 @@
-/*****************************************************************************/
-/* Common */
-
-/* Global Reset */
+/* Global {{{ */
 
 * {
   margin: 0;
@@ -76,9 +73,44 @@ table {
 
 }
 
+/* }}} */
 /* oxford comma for the last element, using for name lists */
 #taglist li:nth-last-child(3) ~ li:nth-last-child(2):after {
   content: ", & ";
+}
+
+#sparkle {
+
+  font-size: .6em;
+  font-family: "Lucida Console", Monaco, monospace;
+  text-align: left;
+}
+
+#related {
+  margin-top: 2em;
+}
+
+  #related h2 {
+    margin-bottom: 1em;
+  }
+
+#disqus_thread {
+  font: 13.34px helvetica, arial, clean, sans-serif;
+  margin-top: 2em;
+  border-top: 2px solid #eee;
+  padding-top: 2em;
+}
+
+.x {
+  text-decoration: line-through;
+}
+
+span.new {
+  color: #e99;
+}
+
+.last {
+  margin-bottom: 1em;
 }
 
 /*****************************************************************************/
@@ -208,16 +240,6 @@ img {
   padding-left: 1.5em;
 }
 
-/*****************************************************************************/
-/* Custom Types*/
-
-#sparkle {
-
-  font-size: .6em;
-  font-family: "Lucida Console", Monaco, monospace;
-  text-align: left;
-}
-
 
 /*****************************************************************************/
 /* Posts */
@@ -236,9 +258,10 @@ img {
   #post img {
     float:right;
     margin:1.5em;
-    max-width: 25em;
+    max-width: 22em;
     width: 100%;
     height: auto;
+    position: relative;
   }
 
   #post pre {
@@ -298,41 +321,7 @@ img {
       font-size: 95%;
     }
 
-  /* terminal */
-
-  #post pre.terminal {
-    border: 1px solid black;
-    background-color: #333;
-    color: white;
-  }
-
-  #post pre.terminal code {
-    background-color: #333;
-  }
-
-#related {
-  margin-top: 2em;
-}
-
-  #related h2 {
-    margin-bottom: 1em;
-  }
-
-#disqus_thread {
-  font: 13.34px helvetica, arial, clean, sans-serif;
-  margin-top: 2em;
-  border-top: 2px solid #eee;
-  padding-top: 2em;
-}
-
-.x {
-  text-decoration: line-through;
-}
-
-span.new {
-  color: #e99;
-}
-
-.last {
-  margin-bottom: 1em;
-}
+    #strain img {
+        max-width: 15em;
+        margin-top: .5em;
+    }

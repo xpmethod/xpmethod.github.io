@@ -50,11 +50,11 @@ layout: default
             <!-- events are different since we are pulling the prompt -->
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
-                <div class="indent">
+                <div class="indent" id="strain">
                     <p>
                     <!-- move this out into css -->
                     {% if post.image %}
-                        <img src="/public/images/{{ post.image }}" style="height:10em; float:right; margin:1em">
+                        <img src="/public/images/{{ post.image }}">
                     {% endif %}
 
                     <!-- if we have sparks, show that -->
