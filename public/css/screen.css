@@ -233,6 +233,14 @@ img {
     margin-bottom: 0.5em;
   }
 
+  #post img {
+    float:right;
+    margin:1.5em;
+    max-width: 25em;
+    width: 100%;
+    height: auto;
+  }
+
   #post pre {
     border: 1px solid #ddd;
     background-color: #eef;

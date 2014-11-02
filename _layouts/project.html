@@ -21,7 +21,7 @@ layout: default
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
-            <div><img src="/public/images/{{ page.image }}" style="height:15em; float:right; margin:1.5em"></div>
+            <div><img src="/public/images/{{ page.image }}"></div>
         {% endif %}
 
     <!-- include sparkle if we have one -->
@@ -30,17 +30,3 @@ layout: default
         {% endif %}
     {{ content }}
 </div>
-
-<!--
-<div id="related">
-  <h2>Related Articles</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
--->
-
-<!-- <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/golfwebapps/embed.js"></script><noscript><a href="http://disqus.com/forums/golfwebapps/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
--->
