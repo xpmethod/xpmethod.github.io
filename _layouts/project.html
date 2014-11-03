@@ -13,7 +13,7 @@ layout: default
     {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
-            <li>{{ person }}</li>
+            <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}

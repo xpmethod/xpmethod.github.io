@@ -23,6 +23,16 @@ tags:
 ```
 Used to pull out the contributors on the "People" page and for project description in "strain" and "project" views. Should be plural and using the dash list as illustrated above (even for singular tags!)  
 
+Tags can also include URL using the following convention:
+
+```
+tags:
+- name: Author Name
+  url: http://www.authorsite.com
+```
+
+If you use a name/url for one post, please make sure it is consistent with the tag in previous posts to avoid duplicates on the "People" page.
+
 `categories:` indicates research strains in the "research" section. Possible values include "on-method," "public-discourse," and "minimal-computing." In addition the "events" category places the post into the "events" section. "Categories" is always plural.  
 
 `type:` arbitrary types like "web-app," "seminar," "paper," and the like used to generate tags. We needed the built-in `tags` to drive the social aspect of the site.  

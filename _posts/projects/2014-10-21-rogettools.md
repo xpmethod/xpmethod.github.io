@@ -2,7 +2,8 @@
 layout: project
 title: Roget Tools
 tags:
-- Phillip R. Polefrone
+- name: Phillip R. Polefrone
+  url: http://prpole.github.io
 category: theory-method
 type: toolkit
 snippet: 125
