@@ -29,4 +29,16 @@ layout: default
             <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
     {{ content }}
+
+    <!-- image gallery support -->
+        {% if page.images %}
+        {% for image in page.images %}
+            <div class='gallery-box'>
+                <div class='gallery-image'>
+                    <a href="{{ site.url }}/public/images/{{ image }}"><img src="http://localhost:4000/public/images/{{ image }}"></a>
+                </div>
+            </div>
+        {% endfor %}
+        {% endif %}
+
 </div>

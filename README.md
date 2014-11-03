@@ -36,6 +36,15 @@ Additionally, the posts in the "events" layout have the following fields:
 
 `image:` an image can be handled by this tag to gracefully handle image snippets. Avoid embedding images into the post otherwise.
 
+```
+images:
+ - image1.jpg
+ - image2.jpg
+ - image3.jpg
+```
+Used for posts requiring multiple images. Images must be placed in /public/images or path specified if in subfolder.
+
+
 `sparkle:` is an option to include the little progress report visualization seen in plain-text book project
 Dates in the "events" and "event" view are generated form the post title.  
 
