@@ -23,6 +23,16 @@ tags:
 ```
 Used to pull out the contributors on the "People" page and for project description in "strain" and "project" views. Should be plural and using the dash list as illustrated above (even for singular tags!)  
 
+Tags can also include URL using the following convention:
+
+```
+tags:
+- name: Author Name
+  url: http://www.authorsite.com
+```
+
+If you use a name/url for one post, please make sure it is consistent with the tag in previous posts to avoid duplicates on the "People" page.
+
 `categories:` indicates research strains in the "research" section. Possible values include "on-method," "public-discourse," and "minimal-computing." In addition the "events" category places the post into the "events" section. "Categories" is always plural.  
 
 `type:` arbitrary types like "web-app," "seminar," "paper," and the like used to generate tags. We needed the built-in `tags` to drive the social aspect of the site.  
@@ -35,6 +45,15 @@ Additionally, the posts in the "events" layout have the following fields:
 `snippet:` should be the numeric number of **words** that you want to be included in your snippet. Note that his counts .md and HTML tags, but we will try to "prettify" the snippet by rendering the markup. However, bad things *will* happen if we pull a snippet that breaks one of your html or .md tags. Try to keep the snippets clean for this reason.
 
 `image:` an image can be handled by this tag to gracefully handle image snippets. Avoid embedding images into the post otherwise.
+
+```
+images:
+ - image1.jpg
+ - image2.jpg
+ - image3.jpg
+```
+Used for posts requiring multiple images. Images must be placed in /public/images or path specified if in subfolder.
+
 
 `sparkle:` is an option to include the little progress report visualization seen in plain-text book project
 Dates in the "events" and "event" view are generated form the post title.  

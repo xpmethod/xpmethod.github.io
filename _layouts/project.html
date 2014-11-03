@@ -13,7 +13,7 @@ layout: default
     {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
-            <li>{{ person }}</li>
+            <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}
@@ -29,4 +29,16 @@ layout: default
             <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
     {{ content }}
+
+    <!-- image gallery support -->
+        {% if page.images %}
+        {% for image in page.images %}
+            <div class='gallery-box'>
+                <div class='gallery-image'>
+                    <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
+                </div>
+            </div>
+        {% endfor %}
+        {% endif %}
+
 </div>
