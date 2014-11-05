@@ -1,4 +1,4 @@
-/* Global {{{ */
+/* Global */
 
 * {
   margin: 0;
@@ -82,7 +82,6 @@ table {
 
 }
 
-/* }}} */
 /* oxford comma for the last element, using for name lists */
 #taglist li:nth-last-child(3) ~ li:nth-last-child(2):after {
   content: ", & ";
@@ -383,4 +382,14 @@ img {
 #column2 {
     float:right;
     width:52%;
+}
+
+
+/* footnotes */
+.footnotes {
+    font-size: small;
+}
+
+.footnotes li {
+    list-style-type: decimal;
 }
