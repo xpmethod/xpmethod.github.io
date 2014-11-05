@@ -361,3 +361,13 @@ img {
    height: 100%;
    max-height: 15em;
 }
+
+/* Events 2 column setup */
+
+#events p {
+    margin-top: 0em;
+}
+
+#events li {
+    margin-bottom:.5em;
+}
