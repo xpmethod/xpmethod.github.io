@@ -4,11 +4,11 @@ layout: default
 
 <div id="post">
 
-    <div class="column2" id="events" style="float:right; width:50%;">
+    <div class="events" id="column2">
         {{ content }}
     </div>
 
-    <div id="events" style="float:left; width:45%;">
+    <div class="events" id="column1">
     {% for post in site.categories[page.title] limit:15 %}
     {% if post.title != null %}
     <li>{{ post.date | date_to_string }} &raquo; 
@@ -20,10 +20,6 @@ layout: default
     {% if post.category == 'projects' %}
         <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
     {% endif %}
-
-    {% for tag in post.tags %}
-    <sup>{{ tag }}</sup>
-    {% endfor %}
 
     <div>{{ post.prompt }}</div>
 

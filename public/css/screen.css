@@ -364,10 +364,19 @@ img {
 
 /* Events 2 column setup */
 
-#events p {
+.events p {
     margin-top: 0em;
 }
 
-#events li {
+#column1 li {
     margin-bottom:.5em;
+}
+
+#column1 {
+    width:45%;
+}
+
+#column2 {
+    float:right;
+    width:52%;
 }
