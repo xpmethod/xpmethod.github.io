@@ -370,6 +370,7 @@ img {
 
 #column1 li {
     margin-bottom:.5em;
+    list-style-type: square;
 }
 
 #column1 {

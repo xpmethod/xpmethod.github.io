@@ -3,26 +3,22 @@ layout: default
 ---
 
 <div id="post">
-
     <div class="events" id="column2">
         {{ content }}
     </div>
 
     <div class="events" id="column1">
-    {% for post in site.categories[page.title] limit:15 %}
-    {% if post.title != null %}
-    <li>{{ post.date | date_to_string }} &raquo; 
-        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-        {% if post.type %}
-        <sup><code>{{ post.type }}</code></sup>
-        {% endif %}
-    {% endif %}
-    {% if post.category == 'projects' %}
-        <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-    {% endif %}
+        {% for post in site.categories[page.title] limit:15 %}
 
-    <div>{{ post.prompt }}</div>
+        {% if post.title != null %}
+            <li><font face="monospace">{{ post.date | date_to_string }}
+                <b><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></b></font>
+            {% if post.type %}
+                <sup><code>{{ post.type }}</code></sup>
+                {% endif %}
+            {% endif %}
+            <div>{{ post.prompt }}</div>
 
-    {% endfor %}
-
+        {% endfor %}
+    </div>
 </div>
