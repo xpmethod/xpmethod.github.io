@@ -1,7 +1,7 @@
 ---
 layout: strain
 title: public-discourse
-category: strain
+category: research
 ---
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->

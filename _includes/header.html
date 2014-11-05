@@ -3,12 +3,13 @@
     {% assign sorted_pages = site.pages | sort:"name" %}
     {% for node in sorted_pages %}
     {% if node.title != null %}
+    <!-- DEBUG <br>node.title = {{ node.title }}, page.url = {{ page.url }} -->
         <sup>
-            <a class="extra{% if node.url == page.url %}-active{% endif %}" href="{{ node.url }}">
+            <!-- <a class="extra{% if node.title contains page.title %}-active{% endif %}" href="{{ node.url }}"> -->
+            <a class="extra{% if page.url contains node.title %}-active{% endif %}" href="{{ node.url }}">
                 {{ node.title }}
             </a>
         </sup>
     {% endif %}
     {% endfor %}
 </div>
-

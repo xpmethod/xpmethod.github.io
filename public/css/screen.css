@@ -396,6 +396,10 @@ img {
     font-size: small;
 }
 
+.footnote a {
+    font-size: small;
+}
+
 .footnotes p {
     margin:0px;
 }
