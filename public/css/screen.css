@@ -40,6 +40,10 @@ a:visited {
   color: #848;
 }
 
+li {
+  list-style-type: square;
+}
+
 table {
   font-size: inherit;
   font: 100%;
@@ -370,7 +374,6 @@ img {
 
 #column1 li {
     margin-bottom:.5em;
-    list-style-type: square;
 }
 
 #column1 {
