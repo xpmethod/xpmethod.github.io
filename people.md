@@ -1,6 +1,6 @@
 ---
 layout: people
-title: People
+title: people
 ---
 
 The group does not maintain an official membership list. This page is generated automatically by polling activity in the "research" portion of the website. The price of admission is, therefore, collaboration. Join us by filing a [pull request](https://help.github.com/articles/using-pull-requests/) to our [GitHub repository](https://github.com/xpmethod/xpmethod.github.io), or email one of our moderators to find out how you can get involved!

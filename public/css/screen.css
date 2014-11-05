@@ -166,7 +166,6 @@ img {
 
 .title {
   color: #a00;
-  font-weight: bold;
   margin-bottom: 1em;
   text-align: left;
 }
@@ -180,12 +179,10 @@ img {
   color: black;
 }
 
-.site #home a.extra,
-.site #post a.extra,
+.site  li.extra,
 .site .title a.extra {
   color: #aaa;
   text-decoration: none;
-  margin-left: .4em;
 }
 
 .site .meta a {
@@ -200,7 +197,7 @@ img {
     color: black;
   }
 
-  .site .active a {
+  .title a.extra-active {
       color: black;
   }
 

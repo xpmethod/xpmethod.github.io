@@ -1,8 +1,14 @@
 <div class="title">
 <a href="/">Group for experimental methods in the humanities</a>
-    <sup><a class="extra" href="/people.html">people</a></sup>
-    <sup><a class="extra" href="/events.html">events</a></sup>
-    <!--<a class="extra" href="/talks.html">talks</a>-->
-    <sup><a class="extra" href="/research.html">research</a></sup>
-    <!--<a class="extra" href="/atom.xml">rss</a>-->
+    {% assign sorted_pages = site.pages | sort:"name" %}
+    {% for node in sorted_pages %}
+    {% if node.title != null %}
+        <sup>
+            <a class="extra{% if node.url == page.url %}-active{% endif %}" href="{{ node.url }}">
+                {{ node.title }}
+            </a>
+        </sup>
+    {% endif %}
+    {% endfor %}
 </div>
+
