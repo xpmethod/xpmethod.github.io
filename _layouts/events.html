@@ -9,7 +9,7 @@ layout: default
     {{ content }}
     </div>
 
-    <div id="column2" style="float:left; margin:10px;width:45%;">
+    <div id="column2" style="float:left; margin:20px;width:45%;">
     {% for post in site.categories[page.title] limit:15 %}
     {% if post.title != null %}
         <p><h3><span>{{ post.date | date_to_string }}</span> &raquo; 
