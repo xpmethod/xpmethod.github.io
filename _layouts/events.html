@@ -2,14 +2,14 @@
 layout: default
 ---
 
-<div id="post" style="margin:0px auto; width:80%">
+<div id="post" style="margin:0px auto; width:100%">
     <!-- <h1 class="page-title">{{ page.title }}</h1> -->
 
-    <div id="column1" style="float:left; margin:0; width:50%;">
+    <div id="column1" style="float:left; margin:0; width:45%;">
     {{ content }}
     </div>
 
-    <div id="column2" style="float:left; margin:0;width:50%;">
+    <div id="column2" style="float:left; margin:0;width:45%;">
     {% for post in site.categories[page.title] limit:15 %}
     {% if post.title != null %}
         <p><h3><span>{{ post.date | date_to_string }}</span> &raquo; 
