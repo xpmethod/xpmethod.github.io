@@ -2,10 +2,14 @@
 layout: default
 ---
 
-<div id="post">
+<div id="post" style="margin:0px auto; width:80%">
     <!-- <h1 class="page-title">{{ page.title }}</h1> -->
 
+    <div id="column1" style="float:left; margin:0; width:50%;">
     {{ content }}
+    </div>
+
+    <div id="column2" style="float:left; margin:0;width:50%;">
     {% for post in site.categories[page.title] limit:15 %}
     {% if post.title != null %}
         <p><h3><span>{{ post.date | date_to_string }}</span> &raquo; 
@@ -26,6 +30,7 @@ layout: default
     <!-- <a href="{{ post.url }}">Read more &raquo;</a><br><br> -->
     <!-- hack to prevent unclosed lists in the snippet -->
     </ul></ol>
+    </div>
 
     {% endfor %}
 
