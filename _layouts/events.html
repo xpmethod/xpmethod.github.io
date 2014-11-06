@@ -3,30 +3,22 @@ layout: default
 ---
 
 <div id="post">
-    <!-- <h1 class="page-title">{{ page.title }}</h1> -->
+    <div class="events" id="column2">
+        {{ content }}
+    </div>
 
-    {{ content }}
-    {% for post in site.categories[page.title] limit:15 %}
-    {% if post.title != null %}
-        <p><h3><span>{{ post.date | date_to_string }}</span> &raquo; 
-        <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-        {% if post.type %}
-        <sup><code>{{ post.type }}</code></sup>
-        {% endif %}</h3>
-    {% endif %}
-    {% if post.category == 'projects' %}
-        <h3>&raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-    {% endif %}
+    <div class="events" id="column1">
+        {% for post in site.categories[page.title] limit:15 %}
 
-    {% for tag in post.tags %}
-    <sup>{{ tag }}</sup>
-    {% endfor %}
+        {% if post.title != null %}
+            <li><font face="monospace">{{ post.date | date_to_string }}
+                <b><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></b></font>
+            {% if post.type %}
+                <sup><code>{{ post.type }}</code></sup>
+                {% endif %}
+            {% endif %}
+            <div>{{ post.prompt }}</div>
 
-    <div class='indent'>{{ post.prompt }}</div></p>
-    <!-- <a href="{{ post.url }}">Read more &raquo;</a><br><br> -->
-    <!-- hack to prevent unclosed lists in the snippet -->
-    </ul></ol>
-
-    {% endfor %}
-
+        {% endfor %}
+    </div>
 </div>

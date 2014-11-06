@@ -1,8 +1,10 @@
-/* Global {{{ */
+/* Global ------------------------------------------------------------------ */
+/* Global ------------------------------------------------------------------ */
+/* Global ------------------------------------------------------------------ */
 
 * {
   margin: 0;
-  padding: 0;
+  padding: unset;
 }
 
 html, body {
@@ -40,6 +42,10 @@ a:visited {
   color: #848;
 }
 
+li {
+  list-style-type: square;
+}
+
 table {
   font-size: inherit;
   font: 100%;
@@ -52,7 +58,6 @@ table {
 
 .indent {
   margin-left: 2em;
-  overflow: hidden;
 }
 
 .indent p {
@@ -78,7 +83,6 @@ table {
 
 }
 
-/* }}} */
 /* oxford comma for the last element, using for name lists */
 #taglist li:nth-last-child(3) ~ li:nth-last-child(2):after {
   content: ", & ";
@@ -118,8 +122,9 @@ span.new {
   margin-bottom: 1em;
 }
 
-/*****************************************************************************/
-/* Home */
+/* Home ------------------------------------------------------------ */
+/* Home ------------------------------------------------------------ */
+/* Home ------------------------------------------------------------ */
 
 .site #home ol,
 ul.toc {
@@ -144,8 +149,9 @@ ul.posts span {
   font-size: 80%;
 }
 
-/*****************************************************************************/
-/* Site */
+/* Site ----------------------------------------------------------------- */
+/* Site ----------------------------------------------------------------- */
+/* Site ----------------------------------------------------------------- */
 
 img {
   max-width: 75%;
@@ -160,7 +166,6 @@ img {
 
 .title {
   color: #a00;
-  font-weight: bold;
   margin-bottom: 1em;
   text-align: left;
 }
@@ -168,18 +173,17 @@ img {
 .site .title a {
   color: #a00;
   text-decoration: none;
+  font-size: 1.1em;
 }
 
 .site .title a:hover {
   color: black;
 }
 
-.site #home a.extra,
-.site #post a.extra,
+.site  li.extra,
 .site .title a.extra {
   color: #aaa;
   text-decoration: none;
-  margin-left: 1em;
 }
 
 .site .meta a {
@@ -194,7 +198,7 @@ img {
     color: black;
   }
 
-  .site .active a {
+  .title a.extra-active {
       color: black;
   }
 
@@ -247,8 +251,9 @@ img {
 }
 
 
-/*****************************************************************************/
-/* Posts */
+/* Posts ----------------------------------------------------*/
+/* Posts ----------------------------------------------------*/
+/* Posts ----------------------------------------------------*/
 
 #post {
 
@@ -360,4 +365,41 @@ img {
    max-width: 15em;
    height: 100%;
    max-height: 15em;
+}
+
+/* Events 2 column setup */
+
+.events p {
+    margin-top: 0em;
+}
+
+#column1 li {
+    margin-bottom:.5em;
+}
+
+#column1 {
+    width:45%;
+}
+
+#column2 {
+    float:right;
+    width:52%;
+}
+
+
+/* footnotes -------------------------------------------------- */
+/* footnotes -------------------------------------------------- */
+/* footnotes -------------------------------------------------- */
+
+.footnotes li {
+    list-style-type: decimal;
+    font-size: small;
+}
+
+.footnote a {
+    font-size: small;
+}
+
+.footnotes p {
+    margin:0px;
 }
