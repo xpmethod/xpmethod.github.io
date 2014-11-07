@@ -18,6 +18,7 @@ The aim was to create a platform that could support our research, project manage
 - Encouraging collaboration.
 - Visibility of labor.
 - Sustainability.
+- Agility.
 - Transparency.
 - Portability.
 - Style.
