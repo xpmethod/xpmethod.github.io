@@ -8,7 +8,5 @@ The Columbia group for experimental methods in the humanities is dedicated to th
 
 Somewhere between a lab experiment and experimental art, we hope to open a space for process-based scholarship, "to be judged not on its success or failure, but simply as an act the outcome of which is unknown."[^LN2]
 
-[Join our mailing list](http://groups.google.com/group/xpmethod) to stay up to date with events and announcements.
-
 [^LN1]: Bernard, Claude (1865). *Introduction à l'étude de la médecine expérimentale*. Paris.
 [^LN2]: John Cage as quoted in Nyman, Michael (1974). *Experimental Music: Cage and Beyond*. Cambridge, UK.
