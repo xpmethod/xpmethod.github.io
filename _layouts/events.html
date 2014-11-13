@@ -8,7 +8,7 @@ layout: default
     </div>
 
     <div class="events" id="column1">
-        {% for post in site.categories[page.title] limit:15 %}
+        {% for post in site.categories[page.title] reversed %}
 
         {% if post.title != null %}
             <li><font face="monospace">{{ post.date | date_to_string }}

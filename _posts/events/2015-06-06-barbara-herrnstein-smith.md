@@ -4,7 +4,7 @@ title: "Barbara Herrnstein Smith"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 
 type: lecture
-prompt: "Since the 1940s, invocations of "close reading" (however understood) have figured centrally in controversies over new methodological developments in literary studies."
+prompt: "Since the 1940s, invocations of \"close reading\" (however understood) have figured centrally in controversies over new methodological developments in literary studies."
 categories: events
 ---
 
