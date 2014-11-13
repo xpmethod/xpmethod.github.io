@@ -7,3 +7,8 @@ permalink: none
 # not working at the moment for some reason
 include: ['_pages']
 # relative_permalinks: false
+
+# People Data -----------------------------------------
+rollcall:
+    -last-name: Tenen
+    -homepage: http://denen.plaintext.io/
