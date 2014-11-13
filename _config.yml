@@ -1,7 +1,7 @@
 highlighter: true
 markdown: kramdown
-permalink: /:categories/:title/
-url: http://xpmethod.github.io
+url: http://xpmethod.plaintext.in/
+permalink: none
 
 # Required if you want to move pages into a a separate directory
 # not working at the moment for some reason

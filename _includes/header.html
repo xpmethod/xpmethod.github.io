@@ -5,7 +5,7 @@
     {% if node.title != null %}
     <!-- DEBUG <br>node.title = {{ node.title }}, page.url = {{ page.url }} -->
         <sup>
-            <!-- <a class="extra{% if node.title contains page.title %}-active{% endif %}" href="{{ node.url }}"> -->
+            <!-- this matches strings in the url to node title to highlight the active page -->
             <a class="extra{% if page.url contains node.title %}-active{% endif %}" href="{{ node.url }}">
                 {{ node.title }}
             </a>
