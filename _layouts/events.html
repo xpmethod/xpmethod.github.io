@@ -10,7 +10,6 @@ layout: default
 
     <div class="events" id="column1">
         {% for post in site.categories[page.title] reversed %}
-
             <!-- hide past events -->
             {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
             {% if posttime > nowunix %}
@@ -24,7 +23,9 @@ layout: default
                 {% endif %}
             <div>{{ post.prompt }}</div>
             {% endif %}
-
         {% endfor %}
+    </div>
+    <div class="events" id="archive">
+        <a href="{{site.url}}events-archive.html">Events archive</a>
     </div>
 </div>

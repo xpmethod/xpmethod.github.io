@@ -386,6 +386,11 @@ img {
     width:52%;
 }
 
+#archive {
+  text-align: center;
+  text-transform: lowercase;
+}
+
 
 /* footnotes -------------------------------------------------- */
 /* footnotes -------------------------------------------------- */
