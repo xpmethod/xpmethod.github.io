@@ -10,7 +10,16 @@ layout: default
         {% endif %}
     </h1>
 
-    <p class="meta">{{ page.date | date_to_string }}{% if page.location%}  |  {{ page.location }} {% endif %}</p>
+    <p class="meta">
+        {% if page.hour %}
+            {{ page.hour }}, 
+        {% endif %}
+        {{ page.date | date_to_string }}
+        {% if page.location %}
+            at  {{ page.location }} 
+        {% endif %}
+    </p>
+
     <!--include participants--!>
     {% if page.participants %}
         <h2>Participants</h2>

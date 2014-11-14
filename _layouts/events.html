@@ -4,7 +4,7 @@ layout: default
 
 <div id="post">
     <div class="events" id="column2">
-        {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+        {% capture nowunix %}{{site.time | date: '%s'}}{% endcapture %}
         {{ content }}
     </div>
 
