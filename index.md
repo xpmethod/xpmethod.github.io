@@ -2,7 +2,7 @@
 layout: default
 ---
 
-What does not it mean to "experiment" in the study of history, literature, or philosophy? In answering that question we draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective. In both spaces, thought is secreted in practice, "on the fetid and throbbing ground of life."[^LN1]
+What does it mean to "experiment" in the study of history, literature, or philosophy? In answering that question we draw inspiration from two distinct spaces. First, the laboratory, where scientists bracket the world in search for independent variables and reproducible results. Second, the studio, where artists let the world in: to disrupt rigid modes of perception under circumstances that are always indeterminate and subjective. In both spaces, thought is secreted in practice, "on the fetid and throbbing ground of life."[^LN1]
 
 The Columbia group for experimental methods in the humanities is dedicated to the **rapid prototyping of speculative ideas**. To this end, we collect, curate, and publish intermediary artifacts of scholarship: drafts, notes, graphics, twitter bots, web-protocols, "situations," tools, and tutorials that take us some way from unstructured thought to accepted knowledge. Some of these artifacts are presented as is, others will be peer-reviewed (and clearly marked as such).
 
