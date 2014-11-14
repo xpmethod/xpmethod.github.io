@@ -6,6 +6,7 @@ tags:
 type: lecture
 prompt: "The emergence of the discourse of modern science from a language of natural philosophy was not yet subject to the modern divide between 'poetic' and 'scientific' forms of knowledge."
 categories: events
+hour: 6:15pm
 ---
 
 ## The Poet, the Scientist, and the Bee: Before and Beyond the "Two Cultures"

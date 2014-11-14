@@ -6,6 +6,7 @@ tags:
 type: lecture
 prompt: "Since the 1940s, invocations of \"close reading\" (however understood) have figured centrally in controversies over new methodological developments in literary studies."
 categories: events
+hour: 6:15pm
 ---
 
 ## What Was “Close Reading”?
