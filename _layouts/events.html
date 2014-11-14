@@ -4,13 +4,15 @@ layout: default
 
 <div id="post">
     <div class="events" id="column2">
-        {% capture nowunix %}{{site.time | date: '%s'}}{% endcapture %}
+        <!-- unix time in sec, add a unix day to offset the expiration a bit -->
+        {% capture nowunix %}{{site.time | date: '%s' | minus: 86400 }}{% endcapture %}
         {{ content }}
     </div>
 
     <div class="events" id="column1">
         {% for post in site.categories[page.title] reversed %}
             <!-- hide past events -->
+            <!-- convert post time into unix time to compare -->
             {% capture posttime %}{{post.date | date: '%s'}}{% endcapture %}
             {% if posttime > nowunix %}
 
