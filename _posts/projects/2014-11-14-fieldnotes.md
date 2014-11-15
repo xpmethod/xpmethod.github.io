@@ -5,14 +5,12 @@ tags:
 - Dennis Tenen
 - Grant Wythoff
 - Phil Polefrone
-- Aaron Plasek
-- Sierra Eckert
-- Dagmar Riedel
-- Jeremy Stevens
+- Pamela Smith
+- Jenny Boulboullé
 category: public-discourse
 type: prototype
 published: true
-image: 
+image: labnotes.jpg
 ---
 
 Create a prototype Github repository and site to replace the [Making and Knowing Project's](http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory/) wiki.
