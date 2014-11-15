@@ -3,82 +3,64 @@ layout: default
 ---
 
 <div id="post">
-    {{ content }}
+{{ content }}
 
-    <!-- Show all projects--!>
-    <!-- hide activity if empty -->
-    {% if site.categories[page.title] %}
-        <h2 class="encounter">Activity</h2>
+<!-- Show all projects--!>
+<!-- hide activity if empty -->
+{% if site.categories[page.title] %}
+    <h2>Activity</h2>
+{% endif %}
+{% for post in site.categories[page.title] %}
+<div id="strain">
+    <h3>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+
+    <!-- What kind of activity is this? Project, talk, blog post? -->
+    {% if post.type %}
+        <sup><code>{{ post.type }}</code></sup>
     {% endif %}
-        {% for post in site.categories[page.title] %}
+    </h3>
 
-            <h3>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    <!-- first test if tags is not nill -->
+    <!-- if post.tags is not working -->
+    <!-- this tests for the first member in the list -->
+    {% if post.tags[0] %}
+        <sup>
+        <!-- remember tags are people -->
+        <!-- order of tags matters here -->
+        <!-- test before changing -->
+        <ul id="taglist">
+        {% for person in post.tags %}
+            <li>{{ person }}</li>
+        {% endfor %}
+        </ul>
+        </sup>
+    {% endif %}
 
-            <!-- What kind of activity is this? Project, talk, blog post? -->
-            {% if post.type %}
-                <sup><code>{{ post.type }}</code></sup>
+    <!-- events are different since we are pulling the prompt -->
+    <!-- instead of post.content -->
+    {% unless post.categories contains "event" %}
+        <div class="indent">
+            <!-- move this out into css -->
+            {% if post.image %}
+            <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
             {% endif %}
-            </h3>
 
-
-            <!-- first test if tags is not nill -->
-            <!-- if post.tags is not working -->
-            <!-- this tests for the first member in the list -->
-            {% if post.tags[0] %}
-                <sup>
-                <!-- remember tags are people -->
-                <!-- order of tags matters here -->
-                <!-- test before changing -->
-                <ul id="taglist">
-                {% for person in post.tags %}
-                    <li>{{ person }}</li>
-                {% endfor %}
-                </ul>
-                </sup>
+            <!-- if we have sparks, show that -->
+            {% if post.sparkle %}
+                <div id="sparkle">{% include {{ post.sparkle }} %}</div>
             {% endif %}
 
-            <!-- events are different since we are pulling the prompt -->
-            <!-- instead of post.content -->
-            {% unless post.categories contains "event" %}
-                <div class="indent" id="strain">
-                    <!-- move this out into css -->
-                    {% if post.image %}
-                    <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
-                    {% endif %}
-
-                    <!-- if we have sparks, show that -->
-                    {% if post.sparkle %}
-                        <div id="sparkle">{% include {{ post.sparkle }} %}</div>
-                    {% endif %}
-
-                    <!-- if post does not list snippet length in the yaml, use default -->
-                    {% unless post.snippet %}
-                        {{ post.content | markdownify | truncatewords:125 }}
-                    {% endunless %}
-
-                    <!-- if post lists snippet length in the yaml, use that -->
-                    {% if post.snippet %}
-                        {{ post.content | markdownify | truncatewords:post.snippet }}
-                    {% endif %}
-                </div>
+            <!-- if post does not list snippet length in the yaml, use default -->
+            {% unless post.snippet %}
+                {{ post.content | markdownify | truncatewords:125 }}
             {% endunless %}
-            {% if post.categories contains "event" %}
-                <div class='indent'>
-                    <!-- strip html to get rid of images in the list view -->
-                    <p>{{ post.prompt | strip_html | truncatewords:75 }}</p>
-                </div>
-            {% endif %}
-        {% endfor %}
-</div>
 
-<!--
-<div id="related">
-    <h2>Related Articles</h2>
-        <ul class="posts">
-        {% for post in site.related_posts limit:3 %}
-            <li><span>{{ post.date | date_to_string }}</span> 
-            &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-    </ul>
+            <!-- if post lists snippet length in the yaml, use that -->
+            {% if post.snippet %}
+                {{ post.content | markdownify | truncatewords:post.snippet }}
+            {% endif %}
+        </div>
+    {% endunless %}
 </div>
--->
+{% endfor %}
+</div>

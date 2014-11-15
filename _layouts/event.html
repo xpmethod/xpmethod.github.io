@@ -2,65 +2,51 @@
 layout: default
 ---
 
-<div id="post">
-    <h1>
-        {{ page.title }}
+<div id="post" class="event">
+    
+        <h1>{{ page.title }}
         {% if page.type %}
             <sup><code>{{ page.type }}</code></sup>
-        {% endif %}
-    </h1>
+        {% endif %}</h1>
 
-    <p class="meta">
+        <div id="time">
         {% if page.hour %}
-            {{ page.hour }}, 
+            {{ page.hour }},
         {% endif %}
         {{ page.date | date_to_string }}
         {% if page.location %}
-            at  {{ page.location }} 
+            at  {{ page.location }}
         {% endif %}
-    </p>
+        </div>
 
     <!--include participants-->
-    
     {% if page.participants %}
-        <h2>Participants</h2>
-        {% for participant in page.participants %}
-            {{ participant }}
-        {% endfor %}
+        <div id="participants"><sup><ul id="taglist">
+            {% for participant in page.participants %}
+                <li>{{ participant }}</li>
+            {% endfor %}
+        </ul></sup></div>
     {% endif %}
-    
+
     <!-- include prompt --!>
+    <div id="prompt">
     {% if page.prompt %}
-        <h2 class="encounter">Prompt</h2>
-        <div class="indent">
-            <p>{{ page.prompt }}</p>
-        </div>
+        <h2>Prompt</h2>
+            {{ page.prompt }}
     {% endif %}
+    </div>
+
     {{ content }}
-</div>
 
 <!-- image gallery support -->
 {% if page.images %}
     {% for image in page.images %}
         <div class='gallery-box'>
             <div class='gallery-image'>
-                <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
+                <a href="{{ site.url }}/public/images/{{ image }}">
+                <img src="{{ site.url }}/public/images/{{ image }}"></a>
             </div>
         </div>
     {% endfor %}
 {% endif %}
-
-
-<!--
-<div id="related">
-  <h2>Related Articles</h2>
-  <ul class="posts">
-    {% for post in site.related_posts limit:3 %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
 </div>
--->
-
-<!-- <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/golfwebapps/embed.js"></script><noscript><a href="http://disqus.com/forums/golfwebapps/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
--->

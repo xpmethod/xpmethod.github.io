@@ -65,7 +65,6 @@ table {
 }
 
 #taglist {
-  display: inline;
   list-style: none;
 }
 
@@ -337,18 +336,9 @@ img {
       font-size: 95%;
     }
 
-    #strain img {
-        max-width: 15em;
-        margin-top: .5em;
-    }
-
-    #strain.indent {
-        margin-bottom: 1em;
-    }
 
   .gallery-box {
    width: 15em;
-   height: 14em;
    position: relative;
    float: left;
    overflow: hidden;
@@ -364,10 +354,38 @@ img {
    width: 100%;
    max-width: 15em;
    height: 100%;
-   max-height: 15em;
 }
 
 
+/* event -------------------------------------------------- */
+/* event -------------------------------------------------- */
+/* event -------------------------------------------------- */
+
+#prompt {
+    margin-left: -2em;
+    margin-right: -2em;
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-bottom: 1em;
+    padding-top: .1em;
+    background-color: #FFFFCC;
+}
+
+#time {
+    color: gray;
+}
+
+#participants {
+    margin-bottom: .5em;
+}
+
+#post.event ul {
+    margin-left: 0em;
+}
+
+#post.event h1 {
+    margin-bottom: 0em;
+}
 /* events -------------------------------------------------- */
 /* events -------------------------------------------------- */
 /* events -------------------------------------------------- */
@@ -440,4 +458,26 @@ img {
 }
 #strains a {
     text-decoration: none;
+}
+
+/* strain -------------------------------------------------- */
+/* strain -------------------------------------------------- */
+/* strain -------------------------------------------------- */
+
+#strain {
+    overflow: auto;
+}
+
+#strain img {
+    float: right;
+    margin: 1.5em;
+    width: 100%;
+    height: auto;
+    position: relative;
+    max-width: 15em;
+    margin-top: .5em;
+}
+
+#strain.indent {
+    margin-bottom: 1em;
 }

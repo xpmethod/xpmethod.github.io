@@ -2,22 +2,23 @@
 layout: event
 title: "Pamela Smith"
 location: "Butler Studio"
-participants: 
-- Dennis Tenen
+participants:
+- Jenny Boulboullé
 - Grant Wythoff
 - Phil Polefrone
 - Aaron Plasek
 - Sierra Eckert
 - Dagmar Riedel
 - Jeremy Stevens
-- Pamela Smith
-- Jenny Boulboullé
+- Dennis Tenen
 - Manan Ahmed
 type: encounter
 prompt: "Using grad student lab notes, make a richly annotated, open access critical edition of an early modern 'book of secrets' containing technical recipes and working notes."
-categories: events
+categories:
+- events
+- public-discourse
 hour: 3pm
-images: 
+images:
  - p003r_BW.jpg
  - labnotes.jpg
 ---
