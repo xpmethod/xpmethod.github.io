@@ -367,7 +367,10 @@ img {
    max-height: 15em;
 }
 
-/* Events 2 column setup */
+
+/* events -------------------------------------------------- */
+/* events -------------------------------------------------- */
+/* events -------------------------------------------------- */
 
 .events p {
     margin-top: 0em;
@@ -407,4 +410,34 @@ img {
 
 .footnotes p {
     margin:0px;
+}
+
+
+/* strains -------------------------------------------------- */
+/* strains -------------------------------------------------- */
+/* strains -------------------------------------------------- */
+
+#strains {
+    line-height: 1.3em;
+    font-family: monospace;
+    vertical-align: sub;
+    font-size: .9em;
+    margin-bottom: 1em;
+}
+
+#strains li {
+  display: inline;
+}
+
+#strains li:after {
+  content: " » ";
+}
+
+/* this gets rid of the trailing comma*/
+#strains li:last-child:after {
+  content: "";
+
+}
+#strains a {
+    text-decoration: none;
 }
