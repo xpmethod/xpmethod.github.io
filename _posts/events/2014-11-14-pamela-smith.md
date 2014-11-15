@@ -2,7 +2,7 @@
 layout: event
 title: "Pamela Smith"
 location: "Butler Studio"
-tags: 
+participants: 
 - Dennis Tenen
 - Grant Wythoff
 - Phil Polefrone
