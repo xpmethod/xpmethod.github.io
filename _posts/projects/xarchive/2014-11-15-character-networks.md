@@ -4,7 +4,7 @@ title: Character Networks for Narrative Generation
 tags:
 - Graham Alexander Sack
 category: theory-method
-type: article
+type: paper
 snippet: 186
 image: complexity-book.jpg
 ---
