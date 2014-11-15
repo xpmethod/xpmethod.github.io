@@ -20,13 +20,25 @@ layout: default
         {% endif %}
     </p>
 
-    <!--include participants--!>
+    <!--include participants-->
+    
     {% if page.participants %}
         <h2>Participants</h2>
         {% for participant in page.participants %}
             {{ participant }}
         {% endfor %}
     {% endif %}
+    
+     <!-- image gallery support -->
+{% if page.images %}
+    {% for image in page.images %}
+        <div class='gallery-box'>
+            <div class='gallery-image'>
+                <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
+            </div>
+        </div>
+    {% endfor %}
+{% endif %}
 
     <!-- include prompt --!>
     {% if page.prompt %}
