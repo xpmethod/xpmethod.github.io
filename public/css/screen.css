@@ -364,6 +364,7 @@ img {
 #prompt {
     margin-left: -2em;
     margin-right: -2em;
+    margin-top: .5em;
     padding-left: 2em;
     padding-right: 2em;
     padding-bottom: 1em;
@@ -373,11 +374,10 @@ img {
 
 #time {
     color: gray;
-    margin-bottom: 1em;
 }
 
 #participants {
-    margin-bottom: .5em;
+    margin-bottom: 0em;
 }
 
 #post.event ul {
