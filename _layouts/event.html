@@ -29,7 +29,17 @@ layout: default
         {% endfor %}
     {% endif %}
     
-     <!-- image gallery support -->
+    <!-- include prompt --!>
+    {% if page.prompt %}
+        <h2 class="encounter">Prompt</h2>
+        <div class="indent">
+            <p>{{ page.prompt }}</p>
+        </div>
+    {% endif %}
+    {{ content }}
+</div>
+
+<!-- image gallery support -->
 {% if page.images %}
     {% for image in page.images %}
         <div class='gallery-box'>
@@ -40,15 +50,6 @@ layout: default
     {% endfor %}
 {% endif %}
 
-    <!-- include prompt --!>
-    {% if page.prompt %}
-        <h2 class="encounter">Prompt</h2>
-        <div class="indent">
-            <p>{{ page.prompt }}</p>
-        </div>
-    {% endif %}
-    {{ content }}
-</div>
 
 <!--
 <div id="related">
