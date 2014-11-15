@@ -5,7 +5,7 @@ tags:
 - Graham Alexander Sack
 category: theory-method
 type: article
-snippet: 183
+snippet: 184
 image: complexity-book.jpg
 ---
 
