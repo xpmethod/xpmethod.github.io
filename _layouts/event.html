@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div id="post" class="event">
-    
+
         <h1>{{ page.title }}
         {% if page.type %}
             <sup><code>{{ page.type }}</code></sup>
@@ -40,13 +40,11 @@ layout: default
 
 <!-- image gallery support -->
 {% if page.images %}
+    <div id="gallery-box">
     {% for image in page.images %}
-        <div class='gallery-box'>
-            <div class='gallery-image'>
-                <a href="{{ site.url }}/public/images/{{ image }}">
-                <img src="{{ site.url }}/public/images/{{ image }}"></a>
-            </div>
-        </div>
+        <a href="{{ site.url }}/public/images/{{ image }}">
+        <img src="{{ site.url }}/public/images/{{ image }}"></a>
     {% endfor %}
+    </div>
 {% endif %}
 </div>

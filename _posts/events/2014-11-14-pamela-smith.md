@@ -21,6 +21,7 @@ hour: 3pm
 images:
  - p003r_BW.jpg
  - labnotes.jpg
+ - manuscript.png
 ---
 
 ## A Digital Critical Edition for the Making and Knowing Project
