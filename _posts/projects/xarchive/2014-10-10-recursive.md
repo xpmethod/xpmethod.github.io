@@ -22,7 +22,7 @@ Dealing-with-Workplace-Gossip6Originally we thought Scuttlebutt might analogize 
 
 We needed a reliable benchmark and settled on the first chapter of Genesis. We were curious if the voice recognition software would improve, with successive iterations of feeding it it’s own output back to itself using text-to-voice. There was one way to find out.
 
-    In the beginning God created the heaven and the rest anything is left without things we think are funny face of the deep and just give it to Scott moved upon the face of the waters…
+>In the beginning God created the heaven and the rest anything is left without things we think are funny face of the deep and just give it to Scott moved upon the face of the waters…
 
 The results were surreal and absurd. Successive iterations degenerated, and we realized that Dictation was trying to adapt and learn, and would never reach a stable state. In fact, the system wasn’t behaving deterministically—we were seeing different interpretations when reading the exact same text. As you can see from our lab notes, zaniness ensued.
 
