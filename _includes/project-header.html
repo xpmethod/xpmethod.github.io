@@ -1,0 +1,15 @@
+<div class="title">
+<a href="/">Group for experimental methods in the humanities</a>
+    {% assign sorted_pages = site.pages | sort:"name" %}
+    {% for node in sorted_pages %}
+    {% if node.title != null %}
+    <br>node.title = {{ node.title }}, page.url = {{ page.url }}
+        <sup>
+            <!-- this matches strings in the url to node title to highlight the active page -->
+            <a class="extra{% if page.url contains node.title %}-active{% endif %}" href="{{ node.url }}">
+                {{ node.title }}
+            </a>
+        </sup>
+    {% endif %}
+    {% endfor %}
+</div>

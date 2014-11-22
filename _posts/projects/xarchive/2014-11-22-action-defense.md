@@ -8,7 +8,7 @@ tags:
 - Phil?
 - Kaiama Glover?
 type: draft
-published: false
+published: true
 category: minimal-computing
 image: woman-poster.jpg
 ---
