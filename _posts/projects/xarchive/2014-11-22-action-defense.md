@@ -2,6 +2,7 @@
 layout: project
 title: "#feminism action defense"
 tags:
+- Manan Ahmed
 - Jonah Bossewitch
 - Tara Conley
 - Sierra Eckert
