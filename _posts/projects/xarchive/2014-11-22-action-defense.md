@@ -22,7 +22,7 @@ Following the turmoil of [#gameragate](http://en.wikipedia.org/wiki/Gamergate_co
 
 ## Online Security for Activists
 
-During our initial meeting our group identified several potential vectors of attack. We've closed down vulnerabilities and took steps to harden the site's publishing platform. These included: deleting default administrator accounts, restricting database user privileges, and limiting code execution. Most importantly, we found and eliminated a number of unauthorized users with administrator privileges.
+During the initial meeting our group identified several potential vectors of attack. We've closed down vulnerabilities and took steps to harden the site's publishing platform. These included: deleting default administrator accounts, restricting database user privileges, and limiting code execution. Most importantly, we found and eliminated a number of unauthorized users with administrator privileges.
 
 To further minimize security risks we explored the possibility of moving `#feminism` to [may first/people link](https://mayfirst.org/hosting), an internet service provider that specializes in hosting infrastructure for progressive mission-based organizations. Finally, we've [recreated the website using a static site generator](http://xpmethod.plaintext.in/action-defense/) to evaluate a hostless solution, which would radically reduce the number of potential attack vectors.
 
