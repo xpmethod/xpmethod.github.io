@@ -460,8 +460,13 @@ img {
 /* strain -------------------------------------------------- */
 /* strain -------------------------------------------------- */
 
+#peoplelist {
+    margin-bottom: .5em;
+}
+
 #strain {
     overflow: auto;
+    margin-bottom: .5em;
 }
 
 #strain img {
@@ -472,8 +477,4 @@ img {
     position: relative;
     max-width: 15em;
     margin-top: .5em;
-}
-
-#strain.indent {
-    margin-bottom: 1em;
 }

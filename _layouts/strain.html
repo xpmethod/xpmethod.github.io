@@ -24,6 +24,7 @@ layout: default
     <!-- if post.tags is not working -->
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
+    <div id="peoplelist">
         <sup>
         <!-- remember tags are people -->
         <!-- order of tags matters here -->
@@ -34,6 +35,7 @@ layout: default
         {% endfor %}
         </ul>
         </sup>
+    </div>
     {% endif %}
 
     <!-- events are different since we are pulling the prompt -->
