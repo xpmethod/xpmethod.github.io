@@ -6,6 +6,7 @@ tags:
 - Jonah Bossewitch
 - Tara Conley
 - Sierra Eckert
+- Emily Fuhrman
 - Alex Gil
 - Anna Hiatt
 - Phillip R. Polefrone
