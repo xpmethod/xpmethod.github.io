@@ -1,13 +1,17 @@
 ---
 layout: project
-title: "#F SysOps"
+title: "#F Action Defense"
 tags:
+- Jonah Bossewitch
 - Tara Conley
+- Sierra Eckert
+- Alex Gil
+- Anna Hiatt
+- Phillip R. Polefrone
+- Juan Francisco Saldarriaga
 - Dennis Tenen
-- Zoe Wood?
-- Phil?
-- Kaiama Glover?
-type: draft
+- Zoe Wood
+type: OpSec
 published: true
 category: minimal-computing
 image: woman-poster.jpg
