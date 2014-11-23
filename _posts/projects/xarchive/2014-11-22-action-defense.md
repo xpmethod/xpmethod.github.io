@@ -17,6 +17,8 @@ type: OpSec
 published: true
 category: minimal-computing
 image: woman-poster.jpg
+images:
+- hastag-feminism.png
 snippet: 145
 ---
 
