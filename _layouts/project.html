@@ -33,8 +33,8 @@ layout: default
     <!-- image gallery support -->
         {% if page.images %}
         {% for image in page.images %}
-            <div class='gallery-box'>
-                <div class='gallery-image'>
+            <div id='gallery-box'>
+                <div id='gallery-image'>
                     <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
                 </div>
             </div>
