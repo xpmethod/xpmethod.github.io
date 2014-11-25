@@ -32,13 +32,13 @@ layout: default
 
     <!-- image gallery support -->
         {% if page.images %}
-        {% for image in page.images %}
             <div id='gallery-box'>
+        {% for image in page.images %}
                 <div id='gallery-image'>
                     <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
                 </div>
-            </div>
         {% endfor %}
+            </div>
         {% endif %}
 
 </div>
