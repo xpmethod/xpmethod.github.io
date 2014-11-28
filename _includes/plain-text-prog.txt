@@ -1,11 +1,4 @@
-<<<<<<< HEAD
-word count: ▁▂▃▃▃▃▄▅▅▅█
+word count: ▁▂▃▄▅█
 6959
-on 
+on
 2014-11-28
-=======
-word count: ▁▂▄▄▅▇█
-5209
-on 
-2014-11-27
->>>>>>> a4c2895e9c4659d043ad8d55cc8fb85df197f0cf
