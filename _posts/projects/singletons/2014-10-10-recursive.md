@@ -4,10 +4,10 @@ title: Recursive Encounters w/ AI
 category: theory-method
 type: experiment
 tags:
-- Jonah Bossewitch 
-- Rob Garfield 
+- Jonah Bossewitch
+- Rob Garfield
 image: fugiens.jpg
-published: false
+published: true
 ---
 
 While chipping away at my dissertation this summer I found myself faced with the daunting task of transcribing about a dozen hours of video. I desperately wanted to believe that, in 2014, transcription was a machine’s task, so I took a minor detour through the state of the (consumer) art in voice recognition.  One of my computers runs OSX which includes Dictation (since Mavericks), the same voice recognition software that powers Siri. Following these instructions I used the Soundflower kernel extensions to send the audio output from Audacity into Dictation’s input.
@@ -33,3 +33,5 @@ Did Scuttlebutt care about Genesis?  Did it care about cogency, grammar, narrati
 What next for Scuttlebutt? A tweeting preacher-bot?  Transrealist poet?  Mechanical Burroughsian cut-ups?
 
 See more experiments by Jonah Bossewitch on his blog [Alchemical Musings](http://alchemicalmusings.org).
+
+<iframe allowtransparency="true" scrolling="no" frameborder="no" src="https://w.soundcloud.com/icon/?url=http%3A%2F%2Fsoundcloud.com%2Fundefined&color=orange_white&size=32" style="width: 32px; height: 32px;"></iframe>
