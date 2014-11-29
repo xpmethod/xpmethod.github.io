@@ -52,6 +52,13 @@ layout: default
                 <div id="sparkle">{% include {{ post.sparkle }} %}</div>
             {% endif %}
 
+            <!-- if post has sound, assuming soundcloud for now -->
+            {% if post.sound %}
+                <div id="sound">
+                    <iframe width="100%" height="166" scrolling="no" frameborder="no" src="{{ post.sound }}"></iframe>
+                </div>
+            {% endif %}
+
             <!-- if post does not list snippet length in the yaml, use default -->
             {% unless post.snippet %}
                 {{ post.content | markdownify | truncatewords:125 }}
