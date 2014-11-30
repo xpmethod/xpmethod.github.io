@@ -121,6 +121,11 @@ span.new {
   margin-bottom: 1em;
 }
 
+blockquote{background:#f9f9f9;border-left:1em solid #eee;margin:1.5em 1em;padding:.5em 1em;quotes:"\201C""\201D";}
+       blockquote:before{color:#808080;content:open-quote;font-size:4em;line-height:.1em;margin-right:.25em;vertical-align:-.4em;}
+       blockquote :first-child{display:inline;}
+       blockquote :last-child{margin-bottom:0;}
+
 /* Home ------------------------------------------------------------ */
 /* Home ------------------------------------------------------------ */
 /* Home ------------------------------------------------------------ */
