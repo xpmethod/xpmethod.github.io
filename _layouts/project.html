@@ -28,6 +28,14 @@ layout: default
         {% if page.sparkle %}
             <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
+
+    <!-- include prompt --!>
+    <div id="prompt">
+    {% if page.prompt %}
+        {{ page.prompt }}
+    {% endif %}
+    </div>
+
     {{ content }}
 
     <!-- image gallery support -->
