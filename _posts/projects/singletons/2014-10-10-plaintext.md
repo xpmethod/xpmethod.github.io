@@ -9,10 +9,29 @@ sparkle: plain-text-prog.txt
 image: plain-text.png
 ---
 
-Plain text is a file format and a frame of mind. A fundamental concept in the development of computing, plain text stands in opposition to closed platforms, rarefied knowledge, and black-box devices. Instead, it offers a vision of data that is human-readable by design: portable, concise, and universal. This book contains an argument for plain text, seeking to empower a community of students, scholars, authors, publishers, librarians, activists, and, generally, citizens interested in re-evaluating some of the ideas, tools, and practices that shape their daily encounter with computation.
+Plain text is a file format and a frame of mind. A fundamental concept in the
+development of computing, plain text stands in opposition to closed platforms,
+rarefied knowledge, and black-box devices. Instead, it offers a vision of data
+that is human-readable by design: portable, concise, and universal. This book
+contains an argument for plain text. In doing so, it seeks to convene a
+community interested in reflecting critically on the ideas, tools, and
+practices that shape our daily encounter with computation. My argument starts
+with foundational principles at the intersection of media theory and
+information science. I ask: what is at stake in the difference between digital
+and analog media?  What contains more information a novel or a block of wood?
+What separates meaning, form, and formatting? How do pixels form into texts?
+Where does data end and meta-data begin? To what extent media determine the
+message? The formulation of these broadly theoretical concerns about the
+poetics of human-computer interaction opens the way to a discussion about the
+social impact of textual technology, as it relates to applied dynamics of
+online agency, deliberation, consensus-making, and dissent.
 
-The argument starts with foundational principles of media and literary studies and information science. I ask: what is at stake in the difference between digital and analog?  What contains more information a block of wood or a novel? How is text structured? What separates meaning, form, and formatting? Where does data end and meta-data begin? What does it mean to "have read a book" or to "know something"? To what extent is media the message? The formulation of these broadly philosophic concerns influences the more pragmattically-minded and applied discussion in the second half of the book. Thinking together about the nature of human-computer interfaces, knowledge as hardware and software, links, networking, inter-textuality, word processing, text encoding, and cryptography will allow us to approach issues of control and governance, access and cooperation, consensus and dissent, and privacy and surveillance.
-
-A secondary aim of this volume is to convince the reader, especially one without much technical background, to view their computational environment as a literary system. I mean a "literary system" in opposition to what one might conventionally mistake for a "binary" or "digital" one, however imprecise those terms are in everyday use. And should I succeed, I ask the readers to apply the same critical acuity to reading code as they do to close-reading of prose and poetry. Admittedly, to treat computers as a literary system is an unusual proposition, but one that I hope to sustain on a firm basis, grounded in literary theory and in the history of modern computing. Detailed case studies from that history will point to (what I hope is an) unexpected confluence between the shared history of computing and literary thought. 
-
-A parallel audience to the one composed of non-technical readers is one that shares expertise in computer science or electrical engineering, but also one that does not usually view its daily practice in its historical, philosophical, and political contexts. Designers, software engineers, project managers, and executives are often asked to make choices at work that have not only technological, but broader social and cultural implications. Choosing a text editor, a filing system, or a social networking platform cannot be adequately addressed in shallow instrumental terms like efficacy, speed, or performance. Such choices also affect deep structures of knowledge transmission, the formation of collective and institutional memories, the quality of online discussion, and the ways in which we relate to our family, friends, and colleagues. Ultimately, in the concluding chapters, this book is meant to challenge the widely-held (if often hidden) notion that systems can give rise to ethical or political values. Values, as I will argue, must be projected from without, by free-willing agents that can voluntarily deliberate, form consensus, and  articulate shared goals. The only sentient beings answering to these criteria are humans (and not, for example, cyborgs or complex systems). The book then is ultimately an articulation of a new humanism, which runs counter to the recent theoretical turn towards post- and trans- humanisms which elevate systems (natural and artificial) to the privileged position of ethical and political agents. 
+A secondary aim of this volume is to convince computer "users" to view their
+computational environments as a literary system of sorts. I mean a "literary
+system" in opposition to what one might conventionally mistake for a "binary"
+or "digital" one, however imprecise those terms are in everyday use. In
+clarifying usage, I will ask mere "users" to become close readers, thinkers,
+and makers of technology, able to apply the same critical acuity to reading
+code and platform as they do to close reading of prose and poetry. Ultimately,
+the book makes a case for the recovery of textual roots latent in the
+mechanisms of modern computing.
