@@ -15,7 +15,6 @@ micropayments/tips/donations, paywalls and access controls, and more
 sophisticated use-cases on the horizon."
 categories:
 - events
-- minimal-computing
 hour: 3pm
 images:
 ---
