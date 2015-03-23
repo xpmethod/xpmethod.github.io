@@ -3,7 +3,7 @@ layout: event
 title: "Bitcoin Basics w/ Ben Doernberg"
 location: "Butler Studio (208b)"
 participants:
-type: encounter
+type: workshop
 prompt: " Bitcoin and Dogecoin veteran Ben Doernberg will lead this entry-level workshop
 on the basics of bitcoin for writers, journalists, and the general public.
 After an overview of key concepts we'll go step-by-step through the process of
