@@ -18,6 +18,7 @@ categories:
 hour: 3pm
 images:
 - bensqr.png
+- bitcoin.jpg
 ---
 
 
