@@ -23,6 +23,6 @@ images:
 
 
 We have limited space for this workshop. Please RSVP
-[here](https://docs.google.com/forms/d/1b_lQsgoYC70JSnOHbtsHBWqTK7KwzR1QM_Fm7tlQKTc/viewform).
+[here](https://docs.google.com/forms/d/1b_lQsgoYC70JSnOHbtsHBWqTK7KwzR1QM_Fm7tlQKTc/viewform).  
 
-Ben's wallet: 1CR1gg4WWn2aikoVubeEb8t4pb2sAMrgK4
+17WwfBSC8tJhAzhKtsJ6SaiUipfHvmDdjF
