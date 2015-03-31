@@ -16,6 +16,5 @@ categories:
 - events
 hour: 7pm
 images:
-- facebook-broken.png
 ---
 
