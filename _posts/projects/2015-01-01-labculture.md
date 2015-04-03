@@ -2,7 +2,7 @@
 layout: project
 title: Lab Culture
 tags:
-- Dennis Yi Tenen
+- Dennis Tenen
 category: public-discourse
 type: meta
 snippet: 150
