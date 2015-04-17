@@ -17,11 +17,14 @@ The Programming Historian, March 19, 2014.
 
 ## Grants
 
+`Spring 2015` [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
+to recieve $29,914 from the NEH [Digital Humanities Start-Up Grant
+Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015)
+
 ## Hires, Placements, and Admissions
 
-- Spring 2015  
-Aaron Plasek admitted to Columbia History Ph.D. program.  
-Jonathan Reeve admitted to Columbia English and Comparative Literature.  
+`Spring 2015` Aaron Plasek admitted to Columbia History Ph.D. program.  
+`Spring 2015` Jonathan Reeve admitted to Columbia English and Comparative Literature.  
 
 
 
