@@ -1,6 +1,6 @@
 ---
 layout: strain
-title: piracy-lab
+title: piracyLab
 category: minimal-computing
 published: true
 ---
