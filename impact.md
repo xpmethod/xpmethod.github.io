@@ -55,4 +55,4 @@ Sal Robinson;
 in [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/); and in
 French-language
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)
-on [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)
+on [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
