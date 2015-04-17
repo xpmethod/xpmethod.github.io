@@ -7,7 +7,7 @@ This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
 [Publications](#publications) \| [Grants](#grants) \|
-[Placements](#placements) \| [Publicity](#publicity)
+[Placements](#placements) \| [Press](#press)
 
 ## Publications
 
@@ -44,8 +44,18 @@ hate speech and the protection of online activists.
 
 
 
-## Publicity
+## Press
 
 `Fall 2013` Sarah Laskow from [Columbia Journalism
 Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
+
+`Fall 2013` Sal Robinson covers
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) at
+[Melville
+House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/).
+The story is piced up at
+[Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), in the
+French-language
+[ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)
+on [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)
