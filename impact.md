@@ -11,14 +11,13 @@ teams, projects, and participants.
 
 ## Publications
 
-- [Sustainable Authorship
-  Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html)  
-
+`Spring 2014` The [Sustainable Authorship
+Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html) publishes
 Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain
 Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
 The Programming Historian, March 19, 2014.
 
-## Grants 
+## Grants
 
 `Spring 2014` [Science
 Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) to
