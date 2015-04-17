@@ -15,9 +15,11 @@ Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain
 Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
 The Programming Historian, March 19, 2014.
 
-## Grants `Spring 2014` [Science
-Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) to
-recieve **$70,000** from the Brown Institute for Media Innovation Magic Grant.
+## Grants `Spring 2014` 
+
+[Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html)
+to recieve **$70,000** from the Brown Institute for Media Innovation Magic
+Grant.
 
 `Spring 2015` [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
 to recieve **$29,914** from the NEH [Digital Humanities Start-Up Grant
