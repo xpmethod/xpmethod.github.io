@@ -3,7 +3,8 @@ layout: default
 title: impact
 ---
 
-This page features a précis of group's accomplishments.
+This page features a summary of the accomplishments as reported by the group's
+teams, projects, and participants.
 
 ## Publications
 
@@ -16,6 +17,11 @@ The Programming Historian, March 19, 2014.
 
 ## Grants
 
-## Placements
+## Hires, Placements, and Admissions
+
+- Spring 2015  
+Aaron Plasek admitted to Columbia History Ph.D. program.  
+Jonathan Reeve admitted to Columbia English and Comparative Literature.  
+
 
 
