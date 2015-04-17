@@ -7,7 +7,7 @@ This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
 [Publications](#publications) \| [Grants](#grants) \|
-[Placements](#placements)
+[Placements](#placements) \| [Publicity](#publicity)
 
 ## Publications
 
@@ -43,3 +43,9 @@ hate speech and the protection of online activists.
 
 
 
+
+## Publicity
+
+`Fall 2013` Sarah Laskow from [Columbia Journalism
+Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).

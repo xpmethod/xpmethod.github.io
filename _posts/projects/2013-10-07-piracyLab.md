@@ -14,6 +14,10 @@ in Computational Culture, no. 4 (November 9, 2014).
 - Mark Phillipson and Dennis Tenen on "[Hacking the
   Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)" at New Media in
 Education Conference 2013 (February 1st).
+- Sarah Laskow from [Columbia Journalism
+  Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)
+(October 2, 2013).
 
 ## About the Group
 
