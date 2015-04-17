@@ -22,13 +22,12 @@ House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/) by
 Sal Robinson;
 in [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/); and in
 French-language
-[ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)
-on [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
+[ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm).
 
 ## About the Group
 
-[piracyLab](http://piracylab.org/) was convened by the faculty, students, and librarians involved in the
-[*Hacking the
+[piracyLab](http://piracylab.org/) was convened by the faculty, students, and
+librarians involved in the [*Hacking the
 Archive*](https://docs.google.com/document/d/1c_Gts-FzjsdnOLcIMugq4B61uMGjiFOEzJ7ecEENSbo/edit?usp=sharing)
 course taught in the spring of 2013 by Professors Matthew Connelly and Dennis
 Tenen at Columbia University.
@@ -38,7 +37,3 @@ on the spread of knowledge around the world. Our work combines critical,
 historical, and quantitative approaches to the study of illicit knowledge,
 information “leaks,” and underground archives. We are interested in
 understanding the ethics and the social dynamics of piracy in its legal,
-technological, and socioeconomic contexts.
-
-
-
