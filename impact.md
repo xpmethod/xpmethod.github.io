@@ -18,8 +18,12 @@ The Programming Historian, March 19, 2014.
 ## Grants
 
 `Spring 2015` [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
-to recieve $29,914 from the NEH [Digital Humanities Start-Up Grant
+to recieve **$29,914** from the NEH [Digital Humanities Start-Up Grant
 Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015)
+
+`Spring 2015` Phil Plefrone to recieve **$5,000** from Columbia University's School
+of International and Public Affairs (SIPA) and Carnegie to further research on
+hate speech and the protection of online activists.
 
 ## Hires, Placements, and Admissions
 
