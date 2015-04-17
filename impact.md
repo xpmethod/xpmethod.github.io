@@ -6,7 +6,7 @@ title: impact
 This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
-[Publications](#publications) | [Grants](grants) | [Placements](placements)  
+|[Publications](#publications) | [Grants](grants) | [Placements](placements)|
 
 ## Publications
 
