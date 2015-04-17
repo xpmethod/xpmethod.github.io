@@ -27,5 +27,12 @@ Archive*](https://docs.google.com/document/d/1c_Gts-FzjsdnOLcIMugq4B61uMGjiFOEzJ
 course taught in the spring of 2013 by Professors Matthew Connelly and Dennis
 Tenen at Columbia University.
 
+> Piracy.lab is an academic research collective exploring the impact of piracy
+on the spread of knowledge around the world. Our work combines critical,
+historical, and quantitative approaches to the study of illicit knowledge,
+information “leaks,” and underground archives. We are interested in
+understanding the ethics and the social dynamics of piracy in its legal,
+technological, and socioeconomic contexts.
+
 
 
