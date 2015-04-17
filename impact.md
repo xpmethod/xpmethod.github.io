@@ -48,14 +48,13 @@ hate speech and the protection of online activists.
 
 `Fall 2013` Sarah Laskow from [Columbia Journalism
 Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
-[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
-
-`Fall 2013` Sal Robinson covers
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
+story gets picked up at
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) at
 [Melville
-House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/).
-The story is piced up at
-[Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), in the
+House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/) by
+Sal Robinson;
+[Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and in the
 French-language
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)
 on [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html)
