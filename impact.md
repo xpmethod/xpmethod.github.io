@@ -18,12 +18,9 @@ Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-te
 The Programming Historian, March 19, 2014.
 
 `Fall 2014` Piracy-lab publishes a paper in [Computational
-Culture](http://computationalculture.net/article/book-piracy-as-peer-preservation),
-an online open-access peer-reviewed journal of inter-disciplinary enquiry into
-the nature of the culture of computational objects, practices, processes and
-structures. Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation :
+Culture](http://computationalculture.net/article/book-piracy-as-peer-preservation).
+Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation :
 Computational Culture.” Computational Culture, no. 4 (November 9, 2014).
-http://computationalculture.net/article/book-piracy-as-peer-preservation.
 
 ## Grants
 
