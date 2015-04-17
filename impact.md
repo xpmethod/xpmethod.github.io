@@ -1,5 +1,6 @@
 ---
 layout: default
+title: impact
 ---
 
 This page features a précis of group's accomplishments.
