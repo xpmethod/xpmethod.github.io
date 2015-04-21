@@ -13,14 +13,14 @@ teams, projects, and participants.
 
 `Spring 2014` The [Sustainable Authorship
 Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html) publishes
-Tenen, Dennis, and Grant Wythoff. “[Sustainable Authorship in Plain
-Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown).”
-The Programming Historian, March 19, 2014.
+Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
+Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
+*The Programming Historian*, March 19, 2014.
 
-`Fall 2014` piracyLab publishes a paper in [Computational
-Culture](http://computationalculture.net/article/book-piracy-as-peer-preservation).
+`Fall 2014` piracyLab publishes a paper in [*Computational
+Culture*](http://computationalculture.net/article/book-piracy-as-peer-preservation).
 Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
-Computational Culture, no. 4 (November 9, 2014).
+*Computational Culture*, no. 4 (November 9, 2014).
 
 ## Grants
 
