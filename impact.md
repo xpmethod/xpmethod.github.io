@@ -17,7 +17,8 @@ Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
 Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 *The Programming Historian*, March 19, 2014.
 
-`Fall 2014` piracyLab publishes a paper in [*Computational
+`Fall 2014`
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) publishes a paper in [*Computational
 Culture*](http://computationalculture.net/article/book-piracy-as-peer-preservation).
 Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 *Computational Culture*, no. 4 (November 9, 2014).
