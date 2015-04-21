@@ -26,8 +26,7 @@ Computational Culture, no. 4 (November 9, 2014).
 
 `Spring 2015` [Digital
 Justice](http://xpmethod.plaintext.in/minimal-computing/digital-justice.html)
-to recieve $20,000 from the [President's Global Innovation Fund]
-(http://web.archive.org/web/20150421162733/https://provost.columbia.edu/node/109).
+to recieve $20,000 from the [President's Global Innovation Fund](http://web.archive.org/web/20150421162733/https://provost.columbia.edu/node/109).
 
 `Spring 2015` [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
 to recieve $29,914 from the NEH [Digital Humanities Start-Up Grant
