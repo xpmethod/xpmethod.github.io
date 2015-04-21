@@ -30,7 +30,7 @@ to recieve $20,000 from the [President's Global Innovation Fund](http://web.arch
 
 `Spring 2015` [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
 to recieve $29,914 from the NEH [Digital Humanities Start-Up Grant
-Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015)
+Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015).
 
 `Spring 2015` Phil Polefrone to recieve $5,000 from Columbia University's School
 of International and Public Affairs (SIPA) and Carnegie to further research on
