@@ -7,6 +7,10 @@ published: true
 
 ## Updates 
 
+- piracyLab reasearch featured in the French-language *Le Monde* on 4/20/2015.
+  See both print and
+[online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
+versions.
 - piracyLab members Maxwell Foxman and Dennis Tenen publish "[Book Piracy as
   Peer
 Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation.)"
@@ -15,12 +19,12 @@ in Computational Culture, no. 4 (November 9, 2014).
   Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)" at New Media in
 Education Conference 2013 (February 1st).
 - Sarah Laskow from [Columbia Journalism
-Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
+  Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
 story gets picked up at [Melville
 House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/) by
-Sal Robinson;
-in [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/); and in
+Sal Robinson; in
+[Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/); and in
 French-language
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm).
 
