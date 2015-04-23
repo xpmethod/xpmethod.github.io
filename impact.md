@@ -53,7 +53,8 @@ recieve $70,000 from the Brown Institute for Media Innovation Magic Grant.
 
 ## Press
 
-`Spring 2015` Reasearch from piracyLab featured in the French-language *Le Monde* on 4/20/2015.
+`Spring 2015` Reasearch from
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) featured in the French-language *Le Monde* on 4/20/2015.
   See both
 [print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png) and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
