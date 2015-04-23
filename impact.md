@@ -62,9 +62,7 @@ editions.
 Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
 story was picked up by [Melville
-House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/) by
-Sal Robinson;
-in [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/); and in
-French-language
+House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
+[Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and 
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm).
 
