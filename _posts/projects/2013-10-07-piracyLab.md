@@ -7,7 +7,7 @@ published: true
 
 ## Updates 
 
-- Reasearch featured in *Le Monde* on 4/20/2015.
+- Research featured in *Le Monde* on 4/20/2015.
   See both
 [print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png) and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
@@ -20,7 +20,7 @@ in Computational Culture, no. 4 (November 9, 2014).
   Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)" at New Media in
 Education Conference 2013 (February 1st).
 - Sarah Laskow from [Columbia Journalism
-  Reiview](http://www.cjr.org/cloud_control/piracylab.php) covers
+  Review](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
 story was picked up by [Melville
 House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
