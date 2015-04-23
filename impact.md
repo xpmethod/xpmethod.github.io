@@ -6,11 +6,11 @@ title: impact
 This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
-[Publications](#publications) \| [Grants](#grants) \|
-[Placements](#placements) \| [Press](#press)
 
-<hr>
-## Publications
+[Publications](#publications) >> [Grants](#grants) >>
+[Placements](#placements) >> [Press](#press)
+
+## Publications >>
 
 - The [Sustainable Authorship
 Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html) publishes
@@ -23,8 +23,7 @@ Culture*](http://computationalculture.net/article/book-piracy-as-peer-preservati
 Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 *Computational Culture*, no. 4 (November 9, 2014).
 
-<hr>
-## Grants
+## Grants >>
 
 `Spring 2015`  
 -- [Digital
@@ -44,15 +43,13 @@ activists.
 Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) to
 receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 
-<hr>
-## Placements
+## Placements >>
 
 *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).  
 *Jonathan Reeve* admitted to Columbia English and Comparative
 Literature (Spring 2015).
 
-<hr>
-## Press
+## Press >>
 
 - Research from
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) featured in *Le Monde* on 4/20/2015.
