@@ -24,8 +24,8 @@ Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 
 ## Grants
 
-`Spring 2015` | 
-- [Digital
+`Spring 2015`  
+-- [Digital
 Justice](http://xpmethod.plaintext.in/minimal-computing/digital-justice.html)
 to recieve $20,000 from the [President's Global Innovation Fund](http://web.archive.org/web/20150421162733/https://provost.columbia.edu/node/109).
 
