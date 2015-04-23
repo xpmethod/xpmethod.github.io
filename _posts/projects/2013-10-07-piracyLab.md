@@ -9,7 +9,7 @@ published: true
 
 - Reasearch from piracyLab featured in the French-language *Le Monde* on 4/20/2015.
   See both
-[print](https://github.com/xpmethod/xpmethod.github.io/blob/master/public/lemonde1.png) and
+[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png) and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
 versions.
 - piracyLab members Maxwell Foxman and Dennis Tenen publish "[Book Piracy as
