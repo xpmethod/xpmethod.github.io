@@ -6,7 +6,7 @@ tags:
 category: minimal-computing
 type: public language pedagogy
 snippet: 150
-published: false
+published: true
 image: tunisian_dict_cover.jpg
 images:
 ---
