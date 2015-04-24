@@ -2,7 +2,8 @@
 layout: project
 title: "Literary Visualization Lab"
 tags:
-- Sierra Eckert, Allison Chaney
+- Sierra Eckert 
+- Allison Chaney
 category: theory-method
 type: archive
 published: true
