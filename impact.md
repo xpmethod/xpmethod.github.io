@@ -52,6 +52,8 @@ Literature (Spring 2015).
 
 ## Press >>
 
+- [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
+ACM](http://cacm.acm.org/magazines/2015/5/186011-putting-the-data-science-into-journalism/fulltext).
 - Research from
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) featured in *Le Monde* on 4/20/2015.
   See both
