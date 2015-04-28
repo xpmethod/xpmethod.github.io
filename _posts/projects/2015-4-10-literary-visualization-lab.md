@@ -8,7 +8,7 @@ category: theory-method
 type: archive
 published: true
 images:
-- all-docs2.jpg
+- all_docs2.jpg
 - eliot-corpus.jpg
 ---
 
