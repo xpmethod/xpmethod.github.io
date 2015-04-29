@@ -32,8 +32,7 @@ human--computer interaction.  Textual legibility, as I will argue, is crucial
 to a critical understanding of what it means to remain human in a digital
 world.
 
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
 
 The book is structured along a trajectory that begins at the material
 foundations of modern textual technology, moving from the level of circuit and
