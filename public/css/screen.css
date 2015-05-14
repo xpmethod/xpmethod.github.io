@@ -94,6 +94,15 @@ table {
   text-align: left;
 }
 
+#caption {
+
+  font-size: .8em;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-style: italic;
+  text-align: left;
+  float:right;
+}
+
 #related {
   margin-top: 2em;
 }
@@ -273,13 +282,27 @@ img {
   /* randomize post images */
   /* to break up the grid a bit*/
 
-  #post img {
+  #feature {
     float:right;
     margin:1.5em;
     max-width: 15em;
     width: 100%;
     height: auto;
     position: relative;
+  }
+
+  #feature img {
+    float:right;
+    max-width: 15em;
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+
+  #feature figcaption {
+    float:right;
+    position: relative;
+    font-style: italic;
   }
 
   #post pre {
@@ -387,6 +410,7 @@ img {
 #post.event h1 {
     margin-bottom: 0em;
 }
+
 /* events -------------------------------------------------- */
 /* events -------------------------------------------------- */
 /* events -------------------------------------------------- */

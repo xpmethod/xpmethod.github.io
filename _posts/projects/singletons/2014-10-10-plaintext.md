@@ -6,7 +6,8 @@ type: book
 tags:
 - Dennis Tenen
 sparkle: plain-text-prog.txt
-image: plain-text.png
+image: mobi.png
+caption: "Malicious PDF Injection"
 ---
 
 Plain text is a file format containing nothing but a "pure sequence of
