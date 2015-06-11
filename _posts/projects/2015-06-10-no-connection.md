@@ -12,8 +12,9 @@ image:
 images:
 ---
 
-**No Connection** is a template for Jekyll static site generator that works on
-a local machine, without an html server.[^1]<sup>,</sup>[^2]
+**No Connection** is a template for [Jekyll](http://jekyllrb.com/) static site
+generator that works on a local machine, without an html
+server.[^1]<sup>,</sup>[^2]
 
 Download it from our [GitHub repository](https://github.com/xpmethod/no-connection).
 
