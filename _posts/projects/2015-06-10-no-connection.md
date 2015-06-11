@@ -17,5 +17,8 @@ a local machine, without an html server.<sup>1,2</sup>
 
 Download it from our [GitHub repository](https://github.com/xpmethod/no-connection).
 
-1. http://stackoverflow.com/questions/26778329/running-jekyll-generated-files-without-jekyll-local-server
-2. http://stackoverflow.com/questions/16316311/github-pages-and-relative-paths
+1.
+[http://stackoverflow.com/questions/26778329/running-jekyll-generated-files-without-jekyll-local-server]
+
+2.
+[http://stackoverflow.com/questions/16316311/github-pages-and-relative-paths]
