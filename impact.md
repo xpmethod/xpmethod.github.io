@@ -7,61 +7,66 @@ This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
 
-[Publications](#publications) >> [Grants](#grants) >>
-[Placements](#placements) >> [Press](#press)
+[Publications](#publications) >> [Grants](#grants) >> [Placements](#placements) >> [Press](#press)
 
-## Publications >>
+## <a name="publications"></a>Publications >>
 
-- The [Sustainable Authorship
+> The [Sustainable Authorship
 Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html) publishes
 Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
 Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
 *The Programming Historian*, March 19, 2014.  
 
-- [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) publishes a paper in [*Computational
+> [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) publishes a paper in [*Computational
 Culture*](http://computationalculture.net/article/book-piracy-as-peer-preservation).
 Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 *Computational Culture*, no. 4 (November 9, 2014).
 
-## Grants >>
+## <a name="grants"></a>Grants >>
 
 `Spring 2015`  
--- [Digital
+
+> [Digital
 Justice](http://xpmethod.plaintext.in/minimal-computing/digital-justice.html)
 to receive $20,000 from the [President's Global Innovation
 Fund](http://web.archive.org/web/20150421162733/https://provost.columbia.edu/node/109).  
--- [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
+
+> [sx:archipelagos](http://xpmethod.plaintext.in/events/minimal-computing/small-axe.html)
 to receive $29,914 from the NEH [Digital Humanities Start-Up Grant
 Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanities-start-grant-awards-march-2015).  
--- [Hate Speech and Online
+
+> [Hate Speech and Online
 Activism](http://xpmethod.plaintext.in/public-discourse/hate-speech-online-activists.html)
 project to receive $5,000 from Columbia University's School of International
 and Public Affairs (SIPA) and Carnegie to further research on hate speech and
 the protection of online activists.  
 
 `Spring 2014`  
--- [Science
+
+> [Science
 Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) to
 receive $70,000 from the Brown Institute for Media Innovation Magic Grant.  
 
-## Placements >>
+## <a name="placements"></a>Placements >>
 
-*Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).  
-*Jonathan Reeve* admitted to Columbia English and Comparative
+> *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).  
+
+> *Jonathan Reeve* admitted to Columbia English and Comparative
 Literature (Spring 2015).
 
-## Press >>
+## <a name="press"></a>Press >>
 
-- [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
+> [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
 ACM](http://cacm.acm.org/magazines/2015/5/186011-putting-the-data-science-into-journalism/fulltext).
-- Research from
+
+> Research from
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) featured in *Le Monde* on 4/20/2015.
   See both
 [print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png) and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
-editions.  
+editions.
 
-- Sarah Laskow from [Columbia Journalism
+> Sarah Laskow from [Columbia Journalism
 Review](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
 story was picked up by [Melville
