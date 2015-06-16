@@ -9,22 +9,22 @@ teams, projects, and participants.
 
 [Publications](#publications) >> [Grants](#grants) >> [Placements](#placements) >> [Press](#press)
 
-## <a name="publications"></a>Publications >>
+## <a name="publications"></a>Publications
 
 > The [Sustainable Authorship
 Workshop](http://xpmethod.plaintext.in/minimal-computing/pandoc.html) publishes
 Tenen, Dennis, and Grant Wythoff. "[Sustainable Authorship in Plain
 Text](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown)."
-*The Programming Historian*, March 19, 2014.  
+*The Programming Historian*, March 19, 2014.
 
 > [piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html) publishes a paper in [*Computational
 Culture*](http://computationalculture.net/article/book-piracy-as-peer-preservation).
 Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 *Computational Culture*, no. 4 (November 9, 2014).
 
-## <a name="grants"></a>Grants >>
+## <a name="grants"></a>Grants
 
-`Spring 2015`  
+`Spring 2015`
 
 > [Digital
 Justice](http://xpmethod.plaintext.in/minimal-computing/digital-justice.html)
@@ -39,22 +39,22 @@ Award](http://www.neh.gov/divisions/odh/grant-news/announcing-17-digital-humanit
 Activism](http://xpmethod.plaintext.in/public-discourse/hate-speech-online-activists.html)
 project to receive $5,000 from Columbia University's School of International
 and Public Affairs (SIPA) and Carnegie to further research on hate speech and
-the protection of online activists.  
+the protection of online activists.
 
-`Spring 2014`  
+`Spring 2014`
 
 > [Science
 Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) to
-receive $70,000 from the Brown Institute for Media Innovation Magic Grant.  
+receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 
-## <a name="placements"></a>Placements >>
+## <a name="placements"></a>Placements
 
-> *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).  
+> *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).
 
 > *Jonathan Reeve* admitted to Columbia English and Comparative
 Literature (Spring 2015).
 
-## <a name="press"></a>Press >>
+## <a name="press"></a>Press
 
 > [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
 ACM](http://cacm.acm.org/magazines/2015/5/186011-putting-the-data-science-into-journalism/fulltext).
