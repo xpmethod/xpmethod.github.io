@@ -4,7 +4,7 @@ title: Digital Justice
 tags:
 - Manan Ahmed
 - Alex Gil
-- Dennis Yi Tenen
+- Dennis Tenen
 category: minimal-computing
 type: workshop
 published: true
