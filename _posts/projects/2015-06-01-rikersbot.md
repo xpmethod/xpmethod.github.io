@@ -47,7 +47,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
   1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)<sup>†</sup>
 - [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)<sup>†</sup>
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>†</sup>
-- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sub>†</sub>
+- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>†</sup>
 
 # What It Takes
 
