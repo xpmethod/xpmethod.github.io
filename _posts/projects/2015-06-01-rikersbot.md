@@ -51,8 +51,8 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # What It Takes
 
-- [5 X Lenovo N21
-  Chromebooks](http://www.lenovopartnernetwork.com/products/lenovo-n21)
+- 5 X [Lenovo N21
+  Chromebook](http://www.lenovopartnernetwork.com/products/lenovo-n21)
 - [Installing Linux on Lenovo N21
   Chromebook](https://github.com/xpmethod/rikersbot/blob/master/chromebooksetup.md)
 - [Crouton](https://github.com/dnschneid/crouton) +
