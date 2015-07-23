@@ -43,12 +43,11 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Schedule
 
-The links are closed pening 
-
-- [Day 1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)
-- [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)
-- [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)
-- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)
+- [Day
+  1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)<sup>\*</sup>
+- [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)<sup>\*</sup>
+- [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>\*</sup>
+- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>\*</sup>
 
 # What It Takes
 
@@ -61,7 +60,9 @@ The links are closed pening
 - [Python](https://www.python.org/) + [iPython
   Notebook](http://ipython.org/notebook.html) +
 [LeafPad](http://tarot.freeshell.org/leafpad/) 
-- [RikersBot Source Code](https://github.com/xpmethod/rikersbot)
+- [RikersBot Source Code](https://github.com/xpmethod/rikersbot)<sup>\*</sup>
+
+<sup>\*<\sup>Links marked with an asterisk are closed pending review.
 
 # Credits
 
