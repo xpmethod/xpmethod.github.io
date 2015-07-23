@@ -80,7 +80,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 ## Outreach
 
-- Cameron Rasmussen (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
+- [Cameron Rasmussen](https://twitter.com/cameron_916) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
 - [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
   xpMethod)
 
