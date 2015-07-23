@@ -19,26 +19,25 @@ image:
 images:
 ---
 
-## Description
-
 *Rikers Bot* is a coding workshop and an algorithmic storytelling event set in
 and about Rikers Island correctional facility, New York city's main jail
-complex. Follow us [@rikersbot](https://twitter.com/rikersbot)!
+complex. Follow us [@rikersbot](https://twitter.com/rikersbot).
 
 In the spring of 2015, the [Center for Justice
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
-Methods Group] with an idea of running a coding workshop for the young people
-incarcerated at Rikers and for CU students interested in digital literacy. It
-was important for us to set up the encounter in a way that moves past a one way
-conversation with effects that persist beyond the one time event.
+Methods Group](http://xpmethod.plaintext.in/) with an idea of running a coding
+workshop for the young people incarcerated at Rikers and for Columbia
+University students interested in digital literacy. It was important for us to
+set up the encounter in a way that moves past a one way conversation with
+effects that persist beyond the one time event.
 
-In teaching programming through digital storytelling, it is our hope to set up
-a dialog between the youth at Rikers, Columbia faculty and students, and the
-community at large.
+In teaching programming through digital storytelling, it is our hope to
+encourage a dialog between the youth at Rikers, Columbia faculty and students,
+and the community at large.
 
 The RikersBot project gives all participants a chance to have their voices
 heard, to learn to code, and to gain real-world experience in writing, editing,
-and producing a story. We are just getting star
+and producing a story.
 
 ## Schedule
 
@@ -47,9 +46,15 @@ and producing a story. We are just getting star
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)
 
-## Participants
+## Credits
 
-Full list TBA
+Storytelling: TBA
+
+Editorial Team: TBA
+
+Design: R, MC, D
+
+Producers: TBA
 
 ### Outreach
 
