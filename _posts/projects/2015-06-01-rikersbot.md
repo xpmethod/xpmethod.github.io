@@ -15,7 +15,7 @@ tags:
 category: public-discourse
 type: digital storytelling
 published: true
-image:
+image: rikersbot-flyer.jpg
 images:
 ---
 
