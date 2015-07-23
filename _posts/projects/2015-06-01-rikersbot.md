@@ -45,9 +45,10 @@ them with proper accredition for participating.
 
 ### Outreach
 
-Cameron Rasmussen (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/)
+Cameron Rasmussen (Community Coordinator, [Center for
+Justice](http://centerforjustice.columbia.edu/))
 
-[Andi Dixon](https://twitter.com/thesignalis)(Community Coordinator, xpMethod)
+[Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator, xpMethod)
 
 ### Moderators
 
