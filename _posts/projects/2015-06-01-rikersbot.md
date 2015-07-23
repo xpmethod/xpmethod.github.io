@@ -86,5 +86,8 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 ## CU Faculty Moderators
 
-- [Manan Ahmed](https://twitter.com/sepoy), Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
-- [Dennis Tenen](https://twitter.com/dennistenen), Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
+- [Manan Ahmed](https://twitter.com/sepoy), Instructor ([Assistant Professor,
+  Department of History](http://history.columbia.edu/faculty/Ahmed.html))
+- [Dennis Tenen](https://twitter.com/dennistenen), Instructor ([Assistant
+  Professor, Department of
+English](http://english.columbia.edu/people/profile/453))
