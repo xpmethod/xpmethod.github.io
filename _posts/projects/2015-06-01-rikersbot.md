@@ -47,6 +47,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)
 
+
 # Credits
 
 Storytelling: TBA
