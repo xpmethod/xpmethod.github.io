@@ -23,7 +23,7 @@ images:
 in and about Rikers Island correctional facility, New York city's main jail
 complex. Follow us [@rikersbot](https://twitter.com/rikersbot).
 
-In the spring of 2015, the [Center for Justice
+In the spring of 2015, the [Center for
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
 Methods Group](http://xpmethod.plaintext.in/) with an idea of running an intro
 to [Python](https://www.python.org/) workshop for the young people incarcerated
