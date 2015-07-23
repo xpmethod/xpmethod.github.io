@@ -43,16 +43,33 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Schedule
 
+The links are closed pening 
+
 - [Day 1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)
 - [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)
+
+# What It Takes
+
+- [5 X Lenovo N21
+  Chromebooks](http://www.lenovopartnernetwork.com/products/lenovo-n21)
+- [Installing Linux on Lenovo N21
+  Chromebook](https://github.com/xpmethod/rikersbot/blob/master/chromebooksetup.md)
+- [Crouton](https://github.com/dnschneid/crouton) +
+  [Debian](https://www.debian.org/)
+- [Python](https://www.python.org/) + [iPython
+  Notebook](http://ipython.org/notebook.html) +
+[LeafPad](http://tarot.freeshell.org/leafpad/) 
+- [RikersBot Source Code](https://github.com/xpmethod/rikersbot)
 
 # Credits
 
 Storytelling: TBA
 
 Editorial Team: TBA
+
+Code: TBA
 
 Design: R, MC, D
 
@@ -66,5 +83,5 @@ Producers: TBA
 
 ## CU Faculty Moderators
 
-- Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
-- Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
+- [Manan Ahmed](https://twitter.com/sepoy), Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+- [Dennis Tenen](https://twitter.com/dennistenen), Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
