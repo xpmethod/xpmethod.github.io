@@ -62,7 +62,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 [LeafPad](http://tarot.freeshell.org/leafpad/)
 - [RikersBot Source Code](https://github.com/xpmethod/rikersbot)<sup>†</sup>
 
-<sup>†<\sup>Links marked with a dagger are closed pending review.
+<sup>†</sup>Links marked with a dagger are closed pending review.
 
 # Credits
 
