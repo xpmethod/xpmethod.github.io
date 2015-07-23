@@ -19,9 +19,9 @@ image: rikersbot-flyer.jpg
 images:
 ---
 
-*RikersBot* is a coding workshop and an algorithmic storytelling project set
-in and about Rikers Island correctional facility, New York city's main jail
-complex.
+[RikersBot](https://twitter.com/rikersbot) is a coding workshop and an
+algorithmic storytelling project set in and about Rikers Island correctional
+facility, New York city's main jail complex.
 
 <a class="twitter-timeline" href="https://twitter.com/rikersbot" data-widget-id="624286882378215424">Tweets by @rikersbot</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
