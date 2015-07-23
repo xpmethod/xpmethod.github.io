@@ -21,7 +21,10 @@ images:
 
 *RikersBot* is a coding workshop and an algorithmic storytelling project set
 in and about Rikers Island correctional facility, New York city's main jail
-complex. Follow us [@rikersbot](https://twitter.com/rikersbot).
+complex.
+
+<a class="twitter-timeline" href="https://twitter.com/rikersbot" data-widget-id="624286882378215424">Tweets by @rikersbot</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 In the spring of 2015, the [Center for
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
@@ -40,6 +43,9 @@ The RikersBot project gives all participants a chance to have their voices
 heard, to learn to code, and to gain real-world experience in writing, editing,
 and producing a project. Together, we are building a [Twitter
 bot](https://twitter.com/rikersbot) that will tell our story.
+
+<a href="https://twitter.com/rikersbot" class="twitter-follow-button" data-show-count="false">Follow @rikersbot</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
 # Schedule
 
