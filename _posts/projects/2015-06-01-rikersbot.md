@@ -19,8 +19,8 @@ image: rikersbot-flyer.jpg
 images:
 ---
 
-*Rikers Bot* is a coding workshop and an algorithmic storytelling event set in
-and about Rikers Island correctional facility, New York city's main jail
+*Rikers Bot* is a coding workshop and an algorithmic storytelling project set
+in and about Rikers Island correctional facility, New York city's main jail
 complex. Follow us [@rikersbot](https://twitter.com/rikersbot).
 
 In the spring of 2015, the [Center for Justice
