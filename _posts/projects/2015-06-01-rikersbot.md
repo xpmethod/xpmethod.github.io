@@ -37,7 +37,8 @@ and the community at large.
 
 The RikersBot project gives all participants a chance to have their voices
 heard, to learn to code, and to gain real-world experience in writing, editing,
-and producing a story.
+and producing a project. Together, we are bulding a [Twitter
+bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Schedule
 
