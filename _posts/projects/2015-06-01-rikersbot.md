@@ -11,6 +11,7 @@ tags:
 - Katarzyna Kaczowka
 - Cameron Rasmussen
 - Dennis Tenen
+- Rikers team TBA
 category: public-discourse
 type: digital storytelling
 published: true
@@ -20,19 +21,24 @@ images:
 
 ## Description
 
-*Rikers Bot* is a joint project between [Columbia's Group for Experimental
-Methods in the Humanties](http://xpmethod.plaintext.in/) and the [Center for
-Justice](http://centerforjustice.columbia.edu/). It aims to provide the young
-people at Rikers training and experience in digital storytelling, and minimal
-programming. The workshop will run for five Saturdays and includes
-undergraduate students from Columbia. On the storytelling front, we focus on
-#RikersIsnthome---a hashtag that emerged from our conversation at the first
-gathering. On the programming front, we will design and implement a bot that
-will tweet the storyline (@rikersbot). As we set up the story-writing and
-programming apparatus, we work in teams divided into Editors, Producers and
-Programmers. We will credit the young people in the program here, and provide
-them with proper accredition for participating.
+*Rikers Bot* is a coding workshop and an algorithmic storytelling event set in
+and about Rikers Island correctional facility, New York city's main jail
+complex. Follow us [@rikersbot](https://twitter.com/rikersbot)!
 
+In the spring of 2015, the [Center for Justice
+Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
+Methods Group] with an idea of running a coding workshop for the young people
+incarcerated at Rikers and for CU students interested in digital literacy. It
+was important for us to set up the encounter in a way that moves past a one way
+conversation with effects that persist beyond the one time event.
+
+In teaching programming through digital storytelling, it is our hope to set up
+a dialog between the youth at Rikers, Columbia faculty and students, and the
+community at large.
+
+The RikersBot project gives all participants a chance to have their voices
+heard, to learn to code, and to gain real-world experience in writing, editing,
+and producing a story. We are just getting star
 
 ## Schedule
 
@@ -43,14 +49,16 @@ them with proper accredition for participating.
 
 ## Participants
 
+Full list TBA
+
 ### Outreach
 
-Cameron Rasmussen (Community Coordinator, [Center for
-Justice](http://centerforjustice.columbia.edu/))
+- Cameron Rasmussen (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
 
-[Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator, xpMethod)
+- [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
+  xpMethod)
 
-### Moderators
+### Faculty Moderators
 
 * Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
 * Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
