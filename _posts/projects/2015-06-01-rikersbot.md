@@ -25,11 +25,11 @@ complex. Follow us [@rikersbot](https://twitter.com/rikersbot).
 
 In the spring of 2015, the [Center for Justice
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
-Methods Group](http://xpmethod.plaintext.in/) with an idea of running a coding
-workshop for the young people incarcerated at Rikers and for Columbia
-University students interested in digital literacy. It was important for us to
-set up the encounter in a way that moves past a one way conversation with
-effects that persist beyond the one time event.
+Methods Group](http://xpmethod.plaintext.in/) with an idea of running an intro
+to [Python](https://www.python.org/) workshop for the young people incarcerated
+at Rikers and for Columbia University students interested in digital literacy.
+It was important for us to set up the encounter in a way that moves past a one
+way conversation with effects that persist beyond the one time event.
 
 In teaching programming through digital storytelling, it is our hope to
 encourage a dialog between the youth at Rikers, Columbia faculty and students,
