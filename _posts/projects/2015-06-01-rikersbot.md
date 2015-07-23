@@ -66,15 +66,11 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Credits
 
-Storytelling: TBA
-
-Editorial Team: TBA
-
-Code: TBA
-
-Design: R, MC, D
-
-Producers: TBA
+- Storytelling: TBA
+- Editorial Team: TBA
+- Code: TBA
+- Design: R, MC, D
+- Producers: TBA
 
 ## Outreach
 
