@@ -3,7 +3,7 @@ layout: default
 title: impact
 ---
 
-TESTING This page features a summary of the accomplishments as reported by the group's
+This page features a summary of the accomplishments as reported by the group's
 teams, projects, and participants.
 
 
