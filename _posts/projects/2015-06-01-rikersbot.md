@@ -43,13 +43,9 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 # Schedule
 
 - [Day 1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)
-
 - [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)
-
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)
-
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)
-
 
 # Credits
 
@@ -64,11 +60,10 @@ Producers: TBA
 ## Outreach
 
 - Cameron Rasmussen (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
-
 - [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
   xpMethod)
 
-## Faculty Moderators
+## CU Faculty Moderators
 
-* Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
-* Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
+- Manan Ahmed, Instructor, [Assistant Professor, Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+- Dennis Tenen, Instructor, [Assistant Professor, Department of English](http://english.columbia.edu/people/profile/453)
