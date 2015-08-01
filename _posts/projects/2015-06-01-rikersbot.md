@@ -23,9 +23,6 @@ images:
 algorithmic storytelling project set in and about Rikers Island correctional
 facility, New York city's main jail complex.
 
-<a class="twitter-timeline" href="https://twitter.com/rikersbot" data-widget-id="624286882378215424">Tweets by @rikersbot</a>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
-
 In the spring of 2015, the [Center for
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
 Methods Group](http://xpmethod.plaintext.in/) with an idea of running an "Intro
@@ -54,6 +51,11 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 - [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)<sup>†</sup>
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>†</sup>
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>†</sup>
+
+# Twitter
+
+<a class="twitter-timeline" href="https://twitter.com/rikersbot" data-widget-id="624286882378215424">Tweets by @rikersbot</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
 # What It Takes
 
