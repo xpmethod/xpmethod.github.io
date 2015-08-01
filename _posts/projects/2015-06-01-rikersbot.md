@@ -72,11 +72,16 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Credits
 
-- Storytelling: TBA
-- Editorial Team: TBA
-- Code: TBA
-- Design: R, MC, D
-- Producers: TBA
+Ron
+Romeo 
+Myles
+Michael 
+Tyrieque
+Lonzell 
+Rashad
+Malik
+Ivan 
+Joshua
 
 ## Outreach
 
