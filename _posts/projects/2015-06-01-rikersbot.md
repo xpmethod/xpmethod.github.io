@@ -74,16 +74,17 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 # Credits
 
-Ron  
-Romeo  
-Myles  
-Michael   
-Tyrieque  
-Lonzell   
-Rashad  
-Malik  
 Ivan   
 Joshua  
+Lonzell   
+Malik  
+Michael   
+Myles  
+Rashad  
+Romeo  
+Ron  
+Sutki
+Tyrieque  
 
 ## Outreach
 
