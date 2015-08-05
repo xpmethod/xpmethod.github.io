@@ -49,8 +49,6 @@ those being displaced unwillingly, to those exiled within and without, to those
 who understand the need for displacement, to those who transgress purposefully,
 and to those willing to trespass.
 
-## Thesis
-
 My own trespassing converged on plain text as a primitive field of activity,
 where literary scholarship and software engineering intersect. Much of the book
 will consist of the drawing out of what that intersection entails. On some
