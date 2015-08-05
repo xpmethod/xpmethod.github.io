@@ -86,12 +86,11 @@ To trace the flows of governance and control that lurk beneath the text, of the
 sort that Friedrich Kittler warns us, must mean more than passive apprehension
 of footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
 Kittler, who once wrote that "under conditions of high technology, literature
-has nothing more to say,"[@kittler_gramophone_1999, 263] I believe that
-literature thrives. But the advent of computational textuality also means that
-the reading of texts may also involve the proactive deployment of tools like
-*tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools "hop" across,
-"sniff" packets in, burrow through, survey, traverse, and flood network
-topographies. Plain text channels itinerant streams of data back into mangroves
-of comprehension *for* readers and writers (as the very subjects whose loss
-Kittler laments). Only in such encrypted tunnels and secure shells can anything
-like the digital humanities take root.
+has nothing more to say," I believe that literature thrives. But the advent of
+computational textuality also means that the reading of texts may also involve
+the proactive deployment of tools like *tracert*, *xxd*, *pcap*, *ssh*, or
+*traceroute*. These tools "hop" across, "sniff" packets in, burrow through,
+survey, traverse, and flood network topographies. Plain text channels itinerant
+streams of data back into mangroves of comprehension *for* readers and writers
+(as the very subjects whose loss Kittler laments). Only in such encrypted
+tunnels and secure shells can anything like the digital humanities take root.
