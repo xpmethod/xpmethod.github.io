@@ -24,8 +24,8 @@ media. And, despite my professional experience as a programmer, I could not
 readily explain the mechanisms by which keystrokes turned into pixels, pixels
 into letters, and letters into words. I could recount much technical detail on
 some level, but my knowledge also had huge gaps and did not amount to a
-coherent story. I was, despite my best efforts, surrounded by magical machines
-that played code and poetry, but I did not yet exactly know how.
+coherent story. I was, despite my best efforts, surrounded by magical lanterns
+that cast shadows of code and poetry.
 
 Initially, at the point of contact, the two selves spoke different languages.
 It was and continues to be a disconcerting process, by which things dear and
