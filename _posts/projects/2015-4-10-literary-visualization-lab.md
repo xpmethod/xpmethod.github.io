@@ -7,7 +7,7 @@ tags:
 category: theory-method
 type: archive
 published: true
-snippet: 103
+snippet: 102
 images:
 - all_docs2.jpg
 - eliot-corpus.jpg
