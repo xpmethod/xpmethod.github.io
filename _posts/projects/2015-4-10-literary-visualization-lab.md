@@ -5,7 +5,7 @@ tags:
 - Sierra Eckert
 - Allison Chaney
 category: theory-method
-type: archive
+type: radiant textuality
 published: true
 snippet: 102
 images:
