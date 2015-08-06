@@ -7,15 +7,7 @@ tags:
 category: theory-method
 type: archive
 published: true
-snippet: "The Literary Visualization Lab is a project whose goal is to re-think
-our approach to displaying and designing tools for exploring literary data.
-Rather than simply making standalone, one-off maps, graph, or chart of a novel,
-the literary visualization lab is interested in reading laterally across
-multiple ways of visualizing and making navigable a text. Through these
-iterative graphics, we draw on the rhetorical power of visualization in order
-to illuminate the multiplicity of reading methods, practices, and ways of
-navigating a text. In the gallery below are a series of projects that layer
-different views on a text or set of texts."
+snippet: 103
 images:
 - all_docs2.jpg
 - eliot-corpus.jpg
