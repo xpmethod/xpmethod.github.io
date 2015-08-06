@@ -4,7 +4,7 @@ title: "Mapping Medieval Pasts"
 tags:
 - Manan Ahmed
 category: theory-method
-type: archive
+type: map
 published: true
 image: delhi.png
 images:
