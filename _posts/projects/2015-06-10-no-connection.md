@@ -7,7 +7,7 @@ tags:
 category: minimal-computing
 type: jekyll template
 snippet: 150
-published: true
+published: false
 image:
 images:
 ---

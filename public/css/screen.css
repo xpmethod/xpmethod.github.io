@@ -314,6 +314,7 @@ img {
   #post ul,
   #post ol {
     margin-left: 1em;
+    margin-bottom: 1em;
     list-style-position: outside;
   }
 
@@ -369,7 +370,6 @@ img {
    margin-left: auto;
    margin-right: auto;
    position: relative;
-   float: left;
    overflow: hidden;
 }
 

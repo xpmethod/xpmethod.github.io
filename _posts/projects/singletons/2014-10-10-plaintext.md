@@ -9,45 +9,87 @@ sparkle: plain-text-prog.txt
 image: control-2.png
 ---
 
+*Plain Text* enacts a reconciliation of vocabularies. As such, it is a response
+to a particular situation of a software engineer encountering a literary
+scholar. For a long stretch of my professional life, these two roles remained
+separate from each other. I worked at one and I studied another. At the time, I
+simply did not think that code had anything to do with poetry. The idea for the
+book came to me in a moment of realization, after I was asked one of those
+naive but fundamental questions, of the kind that can plunge research into a
+long and winding hole. A childhood friend who loves books asked about the
+difference between text in print and text on the screen. It was in that
+struggle to articulate difference that I realized that some of my deepest
+assumptions about literature relied on the centuries-long stability of print
+media. And, despite my professional experience as a programmer, I could not
+readily explain the mechanisms by which keystrokes turned into pixels, pixels
+into letters, and letters into words. I could recount much technical detail on
+some level, but my knowledge also had huge gaps and did not amount to a
+coherent story. I was, despite my best efforts, surrounded by magical lanterns
+that cast shadows of code and poetry.
+
+Initially, at the point of contact, the two selves spoke different languages.
+It was and continues to be a disconcerting process, by which things dear and
+familiar to me, in both worlds, grew strange and unfamiliar, revealing
+themselves to be sometimes less than and sometimes more than I comfortably
+expected. Nothing could be assumed from the start. Field specific jargon, down
+to the naive foundations, had to be unpacked and examined for hidden
+assumptions that prevented congruence. With time, I understood that code and
+poetry have everything to do with each other.
+
+Lev Manovich once described his massive image panoramas as an artifact of an
+alien life in the process of observing the human condition. My other compatriot
+and sometimes mentor, Svetlana Boym, also considered her estrangement a
+methodology, applicable to life and scholarship. Defamiliarization plays an
+instrumental part of an immigrant's survival mechanism. The digitally displaced
+similarly hold on to the discomfort of the encounter with the machine.
+Estrangement---always at the heart of immigrant or queer poetics---reconciles
+without seeking wholeness or integration. I dedicate this book then to queers
+and immigrants, literal and figurative---spatial, literary, technological---to
+those being displaced unwillingly, to those exiled within and without, to those
+who understand the need for displacement, to those who transgress purposefully,
+and to those willing to trespass.
+
+My own trespassing converged on plain text as a primitive field of activity, at
+the crossroads of software engineering and the study of literature.
+
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
 in opposition to *fancy text*: "text representation consisting of plain text
-plus added information."[^ln-uni] As a frame of mind, it indicates a preference
-for human-readable input and output, for computational tools that are simple
-and elegant, and for open systems that are transparent to the user. The book
-unfolds a history of and an argument for plain text. In making my case, I argue
-that "other information" routinely embedded in all forms of contemporary
-textuality includes much more than instructions for "font size" and "paragraph
-justification." Increasingly, devices that mediate literary activity encode
-specific models of governance and control.
+plus added information."[^ln-uni] Yet, plain text is not without its own forms
+of mediation. All matter-bound inscription must take on some added properties
+of its preferred medium, however contingent these may be. The simplicity of
+plain text signifies systematic minimalism with the view towards human
+legibility, and not towards that of a system or a machine. In this encoded
+preference for legibility of a specific kind, plain text contains a model of
+humanity. A part of the book's job will be to recover and to describe that
+model.
 
-The central concern of the book is to dispel the illusion of verisimilitude
-between text on paper and text on the screen. The words may look the same, but
-the underlying material affordances of the medium differ in significant
-details. As an obvious example, consider a news report that changes slightly
-based on the reader's location, or an e-book reader device that highlights
-popular passages. For a literary scholar, such instability of medium means
-analysis cannot be confined to reading for meaning alone. How will close
-reading persist, when the reading device reconfigures a text dynamically, to
-fit individual taste, mood, or politics? The formulation of this narrowly
-literary-theoretical concern leads to the broader question of empowered
-human--computer interaction. Building on the work of scholars like Jerome
-McGann, Wendy Hui Kyong Chun, Katherine Hayles, Matthew Kirschenbaum, Lori
-Emerson, Lisa Gitelman, and Johanna Drucker, I contend that textual legibility
-is becoming increasingly crucial to a critical understanding of what it means
-to remain human in a digital world.
+As a frame of mind, the use of plain text signals an ethics of reading and
+writing. The book unfolds a history of and an argument for plain text, in a
+mode of preferred engagement---an interface---with the word. That engagement,
+as I will argue, must be made available for inspection, because "added
+information" routinely embedded in all forms of contemporary textuality can
+include more than innocuous codification of document attributes like "font
+size" or "line spacing." Increasingly, devices that mediate literary activity
+encode specific forms of governance and control.
+
+To trace the flows of governance and control that lurk beneath the text, of the
+sort that Friedrich Kittler warns us about, must mean more than passive
+apprehension of footprints indicating the "evanescent absence" of
+life.[^ln-lacan] Unlike Kittler, who once wrote that "under conditions of high
+technology, literature has nothing more to say," I believe that literature
+thrives.[^ln-kt] But the advent of computational
+textuality also means that the reading of texts may also involve the proactive
+deployment of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*.
+These tools "hop" across, "sniff" packets in, "burrow" through, "survey,"
+"traverse," and "flood" network topographies. Plain text channels itinerant
+streams of data back into the mangroves of human comprehension. There, code
+becomes intelligible for the very subjects whose loss Kittler laments. Only in
+such encrypted tunnels and secure shells can anything like the digital
+humanities take root.
 
 [^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
 
-The book is structured along a trajectory that begins at the material
-foundations of modern textual technology, moving from the level of circuit and
-silicon, and reaching up, through levels of abstraction (files, folders, and
-operating systems), towards the reader. In following that path, I reconstruct
-the passage of an electron from the mechanical action of the keyboard, to
-magnetic storage medium, and to liquid crystal, that together give rise to
-pixels, letters, and words. In using this approach, my book introduces a method
-of literary microanalysis. Where distant reading perceives patterns across
-large-scale literary copora, microanalysis breaks textuality down to its minute
-constituent components. It is at this level, that I find that readers and
-writers are in danger of becoming fundamentally alienated from the immediate
-material contexts of knowledge production.
+[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign about which Robinson Crusoe would make no mistake." See Lacan, Jacques. The Seminar of Jacques Lacan: The Psychoses, 1955-1956. W. W. Norton & Company, 1997.
+
+[^ln-kt]: Kittler, Friedrich A., Geoffrey Winthrop-Young, and Michael. Wutz. Gramophone, film, typewriter. Stanford, Calif.: Stanford University Press, 1999.
