@@ -88,12 +88,8 @@ becomes intelligible for the very subjects whose loss Kittler laments. Only in
 such encrypted tunnels and secure shells can anything like the digital
 humanities take root.
 
-[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
-Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
 
-[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
-about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
+[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
 
-[^ln-kt]: Kittler, Friedrich A., Geoffrey Winthrop-Young, and Michael. Wutz.
-Gramophone, film, typewriter. Stanford, Calif.: Stanford University Press,
-1999.
+[^ln-kt]: Kittler, Friedrich A., Geoffrey Winthrop-Young, and Michael. Wutz. Gramophone, film, typewriter. Stanford, Calif.: Stanford University Press, 1999.
