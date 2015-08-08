@@ -77,13 +77,23 @@ To trace the flows of governance and control that lurk beneath the text, of the
 sort that Friedrich Kittler warns us about, must mean more than passive
 apprehension of footprints indicating the "evanescent absence" of
 life.[^ln-lacan] Unlike Kittler, who once wrote that "under conditions of high
-technology, literature has nothing more to say,"[@kittler_gramophone_1999, 263]
-I believe that literature thrives. But the advent of computational textuality
-also means that the reading of texts may also involve the proactive deployment
-of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools
-"hop" across, "sniff" packets in, "burrow" through, "survey," "traverse," and
-"flood" network topographies. Plain text channels itinerant streams of data
-back into the mangroves of human comprehension. There, code becomes
-intelligible for the very subjects whose loss Kittler laments. Only in such
-encrypted tunnels and secure shells can anything like the digital humanities
-take root.
+technology, literature has nothing more to say," I believe that literature
+thrives.[^ln-kt] But the advent of computational
+textuality also means that the reading of texts may also involve the proactive
+deployment of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*.
+These tools "hop" across, "sniff" packets in, "burrow" through, "survey,"
+"traverse," and "flood" network topographies. Plain text channels itinerant
+streams of data back into the mangroves of human comprehension. There, code
+becomes intelligible for the very subjects whose loss Kittler laments. Only in
+such encrypted tunnels and secure shells can anything like the digital
+humanities take root.
+
+[^ln-uni]: The Unicode Consortium. *The Unicode Standard: Worldwide Character
+Encoding*, Version 1.0, Volume 1. Reading, Mass.: Addison-Wesley, 1990.
+
+[^ln-lacan]: The evanescent absence of life that Lacan mentions as "the sign
+about which Robinson Crusoe would make no mistake" [@lacan_seminar_1997, 167].
+
+[^ln-kt]: Kittler, Friedrich A., Geoffrey Winthrop-Young, and Michael. Wutz.
+Gramophone, film, typewriter. Stanford, Calif.: Stanford University Press,
+1999.
