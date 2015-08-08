@@ -13,7 +13,7 @@ image: control-2.png
 to a particular situation of a software engineer encountering a literary
 scholar. For a long stretch of my professional life, these two roles remained
 separate from each other. I worked at one and I studied another. At the time, I
-simply did not think that code has anything to do with poetry. The idea for the
+simply did not think that code had anything to do with poetry. The idea for the
 book came to me in a moment of realization, after I was asked one of those
 naive but fundamental questions, of the kind that can plunge research into a
 long and winding hole. A childhood friend who loves books asked about the
@@ -38,28 +38,19 @@ poetry have everything to do with each other.
 
 Lev Manovich once described his massive image panoramas as an artifact of an
 alien life in the process of observing the human condition. My other compatriot
-and sometimes mentor, Svetlana Boym, also considers her estrangement as a
+and sometimes mentor, Svetlana Boym, also considered her estrangement a
 methodology, applicable to life and scholarship. Defamiliarization plays an
 instrumental part of an immigrant's survival mechanism. The digitally displaced
 similarly hold on to the discomfort of the encounter with the machine.
 Estrangement---always at the heart of immigrant or queer poetics---reconciles
-without seeking wholeness and integration. I dedicate this book then to queers
+without seeking wholeness or integration. I dedicate this book then to queers
 and immigrants, literal and figurative---spatial, literary, technological---to
 those being displaced unwillingly, to those exiled within and without, to those
 who understand the need for displacement, to those who transgress purposefully,
 and to those willing to trespass.
 
-My own trespassing converged on plain text as a primitive field of activity,
-where literary scholarship and software engineering intersect. Much of the book
-will consist of the drawing out of what that intersection entails. On some
-level, *Plain Text* is a book about the link between textual encoding and
-literary interpretation. The reader should not however expect a totalizing
-history of modern computing or a survey of textual theory. Rather, the argument
-progresses from the action of the alphanumerical keyboard switch, through
-copper and silicon to the floating gate and the liquid crystal, and on towards
-the human. It is but a single possible pass through a cavernous black box: a
-recollection of a passage which left behind traces of illumination, reflecting
-the vagrancies of the journey.
+My own trespassing converged on plain text as a primitive field of activity, at
+the crossroands of software engineering and the study of literature.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
@@ -69,28 +60,30 @@ of mediation. All matter-bound inscription must take on some added properties
 of its preferred medium, however contingent these may be. The simplicity of
 plain text signifies systematic minimalism with the view towards human
 legibility, and not towards that of a system or a machine. In this encoded
-preference for legibility of a specific kind, plain text, I argue, contains a
-model of humanity. A part of the book's job will be to recover and to describe
-that model.
+preference for legibility of a specific kind, plain text contains a model of
+humanity. A part of the book's job will be to recover and to describe that
+model.
 
 As a frame of mind, the use of plain text signals an ethics of reading and
-writing. The book unfolds a history of and an argument for plain text, as a
+writing. The book unfolds a history of and an argument for plain text, in a
 mode of preferred engagement---an interface---with the word. That engagement,
-as I will argue, must be made visible, because "added information" routinely
-embedded in all forms of contemporary textuality can include more than
-innocuous instructions for document attributes like "font size" or "paragraph
-justification." Increasingly, devices that mediate literary activity encode
-specific forms of governance and control.
+as I will argue, must be made available for inspection, because "added
+information" routinely embedded in all forms of contemporary textuality can
+include more than innocuous codification of document attributes like "font
+size" or "line spacing." Increasingly, devices that mediate literary activity
+encode specific forms of governance and control.
 
 To trace the flows of governance and control that lurk beneath the text, of the
-sort that Friedrich Kittler warns us, must mean more than passive apprehension
-of footprints indicating the "evanescent absence" of life.[^ln-lacan] Unlike
-Kittler, who once wrote that "under conditions of high technology, literature
-has nothing more to say," I believe that literature thrives. But the advent of
-computational textuality also means that the reading of texts may also involve
-the proactive deployment of tools like *tracert*, *xxd*, *pcap*, *ssh*, or
-*traceroute*. These tools "hop" across, "sniff" packets in, burrow through,
-survey, traverse, and flood network topographies. Plain text channels itinerant
-streams of data back into mangroves of comprehension *for* readers and writers
-(as the very subjects whose loss Kittler laments). Only in such encrypted
-tunnels and secure shells can anything like the digital humanities take root.
+sort that Friedrich Kittler warns us about, must mean more than passive
+apprehension of footprints indicating the "evanescent absence" of
+life.[^ln-lacan] Unlike Kittler, who once wrote that "under conditions of high
+technology, literature has nothing more to say,"[@kittler_gramophone_1999, 263]
+I believe that literature thrives. But the advent of computational textuality
+also means that the reading of texts may also involve the proactive deployment
+of tools like *tracert*, *xxd*, *pcap*, *ssh*, or *traceroute*. These tools
+"hop" across, "sniff" packets in, "burrow" through, "survey," "traverse," and
+"flood" network topographies. Plain text channels itinerant streams of data
+back into the mangroves of human comprehension. There, code becomes
+intelligible for the very subjects whose loss Kittler laments. Only in such
+encrypted tunnels and secure shells can anything like the digital humanities
+take root.
