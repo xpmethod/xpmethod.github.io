@@ -50,7 +50,7 @@ who understand the need for displacement, to those who transgress purposefully,
 and to those willing to trespass.
 
 My own trespassing converged on plain text as a primitive field of activity, at
-the crossroands of software engineering and the study of literature.
+the crossroads of software engineering and the study of literature.
 
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
