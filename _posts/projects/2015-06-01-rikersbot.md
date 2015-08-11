@@ -10,7 +10,7 @@ tags:
 - Janine Ko
 - Katarzyna Kaczowka
 - Cameron Rasmussen
-- Dennis Tenen
+- Dennis Yi Tenen
 - Rikers team TBA
 category: public-discourse
 type: digital storytelling
