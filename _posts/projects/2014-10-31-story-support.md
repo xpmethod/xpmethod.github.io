@@ -4,7 +4,7 @@ title: "Story Support"
 tags:
 - Michael Shapiro
 - Anna Hiatt
-- Dennis Tenen
+- Dennis Yi Tenen
 category: public-discourse
 type: payments
 published: false

@@ -3,7 +3,7 @@ layout: project
 title: "NYC Folktech"
 tags:
 - Marguerite Halloway
-- Dennis Tenen
+- Dennis Yi Tenen
 - Grant Wythoff
 category: public-discourse
 type: archive

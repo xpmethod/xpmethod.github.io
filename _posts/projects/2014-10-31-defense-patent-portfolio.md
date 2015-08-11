@@ -3,7 +3,7 @@ layout: project
 title: "Humanities Defense Patent Portfolio"
 tags:
 - Zoe Wood
-- Dennis Tenen
+- Dennis Yi Tenen
 - Phil
 category: public-discourse
 type: patent

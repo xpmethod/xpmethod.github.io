@@ -11,7 +11,7 @@ tags:
 - Anna Hiatt
 - Phillip R. Polefrone
 - Juan Francisco Saldarriaga
-- Dennis Tenen
+- Dennis Yi Tenen
 - Zoe Wood
 type: OpSec
 published: true

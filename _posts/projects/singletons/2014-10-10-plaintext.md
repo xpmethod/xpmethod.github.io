@@ -4,7 +4,7 @@ title: Plain Text
 category: minimal-computing
 type: book
 tags:
-- Dennis Tenen
+- Dennis Yi Tenen
 sparkle: plain-text-prog.txt
 image: control-2.png
 ---

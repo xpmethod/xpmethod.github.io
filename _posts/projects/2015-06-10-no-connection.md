@@ -3,7 +3,7 @@ layout: project
 title: "No Connection"
 tags:
 - Alex Gil
-- Dennis Tenen
+- Dennis Yi Tenen
 category: minimal-computing
 type: jekyll template
 snippet: 150

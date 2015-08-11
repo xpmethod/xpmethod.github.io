@@ -3,7 +3,7 @@ layout: project
 title: Intermediary Artifacts of Scholarship
 tags:
  - Phillip R. Polefrone
- - Dennis Tenen
+ - Dennis Yi Tenen
  - Grant Wythoff
 categories: public-discourse
 type: website
