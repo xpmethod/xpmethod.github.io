@@ -36,7 +36,7 @@ In teaching programming through digital storytelling, it is our hope to
 encourage a dialog between the youth at Rikers, Columbia faculty and students,
 and the community at large.
 
-The RikersStoryBot project gives all participants a chance to have their
+The Rikers StoryBot project gives all participants a chance to have their
 voices heard, to learn to code, and to gain real-world experience in writing,
 editing, and producing a project. Together, we are building a [Twitter
 bot](https://twitter.com/rikersbot) that will tell our story.
