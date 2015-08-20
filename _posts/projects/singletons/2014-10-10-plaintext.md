@@ -9,6 +9,8 @@ sparkle: plain-text-prog.txt
 image: control-2.png
 ---
 
+I live stream my writing sessions. Follow me at [livecoding.tv/denten](https://www.livecoding.tv/denten) if you are intrested in the mechanics of manuscript preparation, Bash, Vim, Git, Markdown, Pandoc, or Zotero.
+
 Plain text is a file format and a frame of mind. As a file format, it contains
 nothing but a "pure sequence of character codes." In technical terms, it stands
 in opposition to *fancy text*: "text representation consisting of plain text
