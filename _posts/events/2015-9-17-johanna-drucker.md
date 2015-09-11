@@ -4,13 +4,12 @@ title: "Johanna Drucker"
 location: "Butler Studio"
 participants:
 type: encounter
-prompt: "Using grad student lab notes, make a richly annotated, open access critical edition of an early modern 'book of secrets' containing technical recipes and working notes."
+prompt: "How can we model temporal relations and chronologies without a standard Cartesian grid as the ground?"
 categories:
 - events
 - public-discourse
 hour: 1pm
 images:
- - p003r_BW.jpg
 ---
 
 ## Representation and Non-linear Chronologies
