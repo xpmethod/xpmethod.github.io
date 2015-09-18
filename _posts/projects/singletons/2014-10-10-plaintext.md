@@ -79,19 +79,18 @@ naive foundations, had to be examined for hidden assumptions that prevented
 congruence. With time, I understood that code and poetry have everything to do
 with one another.
 
-Lev Manovich once described his massive image panoramas [@manovich_data_2015]
-as an artifact of an alien life in the process of observing the human
-condition. My other compatriot and mentor Svetlana Boym also considered her
-estrangement a methodology, applicable to life and scholarship
-[@boym_estrangement_1996]. Defamiliarization plays an instrumental part of an
-immigrant's survival mechanism. The digitally displaced similarly hold on to
-the discomfort of the encounter with the machine.  Estrangement---always at the
-heart of immigrant or queer poetics---reconciles without seeking wholeness or
-integration. I dedicate this book then to queers and immigrants, literal and
-figurative---spatial, literary, technological---to those being displaced
-unwillingly, to those exiled within and without, to those who understand the
-need for self-displacement, to those who transgress purposefully, and to those
-willing to trespass.
+Lev Manovich once described his massive image panoramas as an artifact of an
+alien life in the process of observing the human condition.[^ln-mano] My other
+compatriot and mentor Svetlana Boym also considered her estrangement a
+methodology, applicable to life and scholarship.[^ln-boym] Defamiliarization
+plays an instrumental part of an immigrant's survival mechanism. The digitally
+displaced similarly hold on to the discomfort of the encounter with the
+machine.  Estrangement---always at the heart of immigrant or queer
+poetics---reconciles without seeking wholeness or integration. I dedicate this
+book then to queers and immigrants, literal and figurative---spatial, literary,
+technological---to those being displaced unwillingly, to those exiled within
+and without, to those who understand the need for self-displacement, to those
+who transgress purposefully, and to those willing to trespass.
 
 [^ln-mano]:  Manovich, Lev. “Data Science and Digital Art History.” *International Journal for Digital Art History* 0, no. 1 (June 26, 2015).
 
