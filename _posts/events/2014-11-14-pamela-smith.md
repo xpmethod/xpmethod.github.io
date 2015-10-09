@@ -12,6 +12,7 @@ participants:
 - Jeremy Stevens
 - Dennis Yi Tenen
 - Manan Ahmed
+- Susanna Alles Torrent
 type: encounter
 prompt: "Using grad student lab notes, make a richly annotated, open access critical edition of an early modern 'book of secrets' containing technical recipes and working notes."
 categories:
