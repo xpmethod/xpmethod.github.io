@@ -1,7 +1,6 @@
 ---
 layout: strains
-title: strains
-issue: 15 
+title : strains
 ---
 
 These research and project "strains" build on the traditional strengths of our
