@@ -17,6 +17,7 @@ type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg
 images:
+issue: 15
 ---
 
 [Rikers StoryBot](https://twitter.com/rikersbot) is a coding workshop and an

@@ -3,6 +3,7 @@ layout: strain
 title: piracyLab
 category: minimal-computing
 published: true
+issue: 13
 ---
 
 ## Updates 

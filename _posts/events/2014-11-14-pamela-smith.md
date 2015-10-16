@@ -23,6 +23,7 @@ images:
  - p003r_BW.jpg
  - labnotes.jpg
  - manuscript.png
+issue: 14
 ---
 
 ## A Digital Critical Edition for the Making and Knowing Project

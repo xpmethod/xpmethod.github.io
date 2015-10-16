@@ -9,6 +9,7 @@ type: web development
 prompt: "No Connect is a template for Jekyll static site generator that works on a local machine or a USB key, without an html server."
 snippet: 150
 published: true
+issue: 15
 ---
 
 [No Connect](https://github.com/xpmethod/no-connect) is a template for Jekyll

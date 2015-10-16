@@ -9,6 +9,7 @@ published: true
 image: delhi.png
 images:
 - delhi2.jpg
+issue: 14
 ---
 
 One of my central concerns has been to think about medieval and early modern

@@ -11,7 +11,7 @@ snippet: 102
 images:
 - all_docs2.jpg
 - eliot-corpus.jpg
-
+issue: 15
 ---
 
 The Literary Visualization Lab is a project whose goal is to re-think our

@@ -8,6 +8,7 @@ categories: theory-method
 type: draft
 published: false
 snippet: 90
+issue: 14
 ---
 
 In many cases, our contribution comes not so much in the form of the final product or project, but in the way we were able to intervene for the better in current academic social contracts. For several years, the digital humanities community has been slowly, but surely, introducing a digital lab or studio component to curricular training. These labs or studios have been traditionally attached to digital humanities courses, most typically, the ubiquitous Intro-to-DH course. In 2011, Jerome McGann, working with Alex Gil and Chris Forster, at the University of Virginia, thought of attaching a digital humanities lab to his existing course on Victorian poetry in order to create a reasonable workflow for digitizing and creating minimal editions of scholarly works in copyright limbo. At Columbia, Alex Gil has led several of these labs at the Studio@Butler with the help of other librarians. Starting in the Spring of 2015, the digital humanities lab reaches a new level of maturity at Columbia. 
