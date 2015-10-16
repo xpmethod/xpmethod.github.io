@@ -4,7 +4,11 @@ layout: default
 
 <div class="issue-nav">
 Issue: {{ page.issue }}
-
+{% for page in site.pages %}
+{% if page.title contains 'issue' %}
+{{ page.title }} 
+{% endif %}
+{% endfor %}
 </div>
 
 <div class="cats">
