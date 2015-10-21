@@ -4,6 +4,9 @@ title: Digital Justice
 tags:
 - Manan Ahmed
 - Alex Gil
+- Miguel Paz
+- Daniel Rojas
+- Ashley Sayed
 - Dennis Yi Tenen
 category: minimal-computing
 type: workshop
@@ -12,8 +15,10 @@ published: true
 
 ## Updates
 
-The pilot project has been funded with generous support from the President's Global
+- May, 2015: The pilot project has been funded with generous support from the President's Global
 Innovation Fund, in the amount of $20,000.
+- October 2015: Digital Justice partnered with [poderopedia.org](http://www.poderopedia.org/)
+- Added [planning document](https://hackpad.com/Digital-Justice-Santiago-Chile-3odlGGxjZ4Y)
 
 ## Digital Justice: Public Discourse, Censorship, and the Technologies of Dissent
 
