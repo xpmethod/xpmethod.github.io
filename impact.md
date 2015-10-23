@@ -56,6 +56,9 @@ Literature (Spring 2015).
 
 ## <a name="press"></a>Press
 
+> Science Surveyor featured at [Nieman
+Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/)
+
 > [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
 ACM](http://cacm.acm.org/magazines/2015/5/186011-putting-the-data-science-into-journalism/fulltext).
 
