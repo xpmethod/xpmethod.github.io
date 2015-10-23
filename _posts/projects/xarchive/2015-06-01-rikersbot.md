@@ -19,14 +19,24 @@ image: rikersbot-flyer.jpg
 images:
 ---
 
+## Updates
+
+- Bot launched on 10/22/15
+- A family event for workshops participants at Rikers on Aug 10
+- Complete 4 workshops at Rikers in July--August, 2015
+- Andi Dixon joins the team as community coordinator (Summer 2015)
+- Brainstorming session with Columbia's Center for Justice in Spring, 2015
+
+## About
+
 [Rikers StoryBot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional
 facility, New York city's main jail complex.
 
 In the spring of 2015, the [Center for
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
-Methods Group](http://xpmethod.plaintext.in/) with an idea of running an "Intro
-to [Python](https://www.python.org/)" workshop for the young people
+Methods Group](http://xpmethod.plaintext.in/) with an idea of running an
+"Intro to [Python](https://www.python.org/)" workshop for the young people
 incarcerated at Rikers and for Columbia University students interested in
 digital literacy.  It was important for us to set up the encounter in a way
 that moves past one way conversation with effects that persist beyond the one
@@ -83,7 +93,7 @@ Myles
 Rashad  
 Romeo  
 Ron  
-Sutki
+Sutki  
 Tyrieque  
 
 ## Outreach
