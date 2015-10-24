@@ -49,10 +49,10 @@ receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 
 ## <a name="placements"></a>Placements
 
-> *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).
+> *Aaron Plasek* admitted to the Columbia History Ph.D. program (Spring 2015).
 
-> *Jonathan Reeve* admitted to Columbia English and Comparative
-Literature (Spring 2015).
+> *Jonathan Reeve* admitted to the Columbia English and Comparative
+Literature Ph.D. program (Spring 2015).
 
 ## <a name="press"></a>Press
 
