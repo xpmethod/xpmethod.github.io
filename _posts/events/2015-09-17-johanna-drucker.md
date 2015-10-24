@@ -7,7 +7,6 @@ type: encounter
 prompt: "How can we model temporal relations and chronologies without a standard Cartesian grid as the ground?"
 categories:
 - events
-- public-discourse
 hour: 1pm
 images:
 ---
