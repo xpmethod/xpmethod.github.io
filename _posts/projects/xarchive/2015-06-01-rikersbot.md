@@ -11,7 +11,7 @@ tags:
 - Katarzyna Kaczowka
 - Cameron Rasmussen
 - Dennis Yi Tenen
-- Rikers team TBA
+- Young People at Rikers
 category: public-discourse
 type: digital storytelling
 published: true
