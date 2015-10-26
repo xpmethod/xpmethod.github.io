@@ -1,6 +1,6 @@
 ---
 layout: project
-title: @rikersbot
+title: Rikers Bot
 tags:
 - Manan Ahmed
 - Zeinab Aina
