@@ -21,6 +21,7 @@ images:
 
 ## Updates
 
+- Kim Martineau [writes about the project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less) for the Data Science Institute.
 - Bot launched on 10/22/15
 - A family event for workshops participants at Rikers on Aug 10
 - Complete 4 workshops at Rikers in July--August, 2015
