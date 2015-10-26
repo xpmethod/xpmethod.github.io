@@ -56,6 +56,8 @@ Literature Ph.D. program (Spring 2015).
 
 ## <a name="press"></a>Press
 
+> Kim Martineau features [@rikersbot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) at the [Data Science Institute](http://datascience.columbia.edu/stories-rikers-140-characters-or-less).
+
 > Science Surveyor featured at [Nieman
 Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/).
 
