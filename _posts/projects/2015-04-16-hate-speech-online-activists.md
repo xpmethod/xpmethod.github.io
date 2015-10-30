@@ -8,6 +8,7 @@ type: semantic analysis
 prompt: #GamerGate and movements like it have revitalized a longstanding debate on the limits of the "free-speech" argument when discussing hate speech. Combining theoretical, historical, and legal research with a quantitative semantic analysis of tweets using the #GamerGate hashtag will put recent events in context. It will also begin to answer the question: How does hate speech operate online? Where do tweets like those of #GamerGate fit in the current legal definitions of hate speech? And, crucially, how can an understanding of this evolving language be used to protect online activists?
 snippet: 150
 published: true
+issue: 15
 ---
 
 Since the beginning of #GamerGate in 2014, threats to online feminist activists

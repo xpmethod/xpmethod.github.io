@@ -9,6 +9,7 @@ categories:
 - events
 hour: 4:30pm
 images:
+issue: 15
 ---
 
 [John MacFarlane,](http://johnmacfarlane.net/) chair of the philosophy department at the University of California, Berkeley and author of [numerous pieces of software](http://johnmacfarlane.net/tools) for humanities research, is visiting the [Group for Experimental Methods in the Humanities](http://xpmeth.plaintext.io/).  He will give a presentation on [pandoc](http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown), a tool for authoring academic documents using plain text, and lead a workshop on writing [filters for pandoc.](http://johnmacfarlane.net/pandoc/scripting.html)

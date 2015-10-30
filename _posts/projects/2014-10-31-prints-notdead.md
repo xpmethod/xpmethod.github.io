@@ -8,6 +8,7 @@ tags:
 category: public-discourse
 type: hackathon
 published: false
+issue: 14
 ---
 
 From Medium to the New York Times app, publishing brands are embracing clean and easy-to-read design. Web designers can optimize the online reading experience to the point of perfection, but some people will always prefer paper.

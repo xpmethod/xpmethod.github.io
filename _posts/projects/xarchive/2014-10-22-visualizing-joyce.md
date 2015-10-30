@@ -7,6 +7,7 @@ category: theory-method
 type: graphic
 snippet: 105
 image: "joyce.png"
+issue: 14
 ---
 
 

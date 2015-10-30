@@ -7,6 +7,7 @@ type: mapathon
 prompt: "Come help with relief efforts on the ground in Nepal by contributing your time to open-source mapping."
 categories: events
 hour: 10:00am
+issue: 15
 ---
 
 [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/) & The [Center for International History](http://cih.columbia.edu/) are proud to host:

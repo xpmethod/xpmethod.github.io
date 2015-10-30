@@ -10,6 +10,7 @@ snippet: 150
 published: false
 image:
 images:
+issue: 15
 ---
 
 **No Connection** is a template for [Jekyll](http://jekyllrb.com/) static site

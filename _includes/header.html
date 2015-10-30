@@ -3,6 +3,7 @@
     {% assign sorted_pages = site.pages | sort:"name" %}
     {% for node in sorted_pages %}
     {% if node.title != null %}
+    {% unless node.url contains 'archive' %} <!-- Don't show archived issue pages -->  
     <!-- DEBUG <br>node.title = {{ node.title }}, page.url = {{ page.url }} -->
         <sup>
             <!-- this matches strings in the url to node title to highlight the active page -->
@@ -10,6 +11,7 @@
                 {{ node.title }}
             </a>
         </sup>
+    {% endunless %}
     {% endif %}
     {% endfor %}
 </div>

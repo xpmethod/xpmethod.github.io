@@ -8,6 +8,7 @@ tags:
 category: public-discourse
 type: payments
 published: false
+issue: 14
 ---
 
 The Big Roundtable model its pay-what-you-can after Radiohead's 2007 experimental release of their album "In Rainbows," which the band allowed people to download for free with the option to pay what they like. We didn't want to inhibit sharing to online readers who would pay for our stories, nor did we want to give readers the impression that we were giving away stories for free.

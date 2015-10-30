@@ -7,6 +7,7 @@ tags:
 - Dennis Yi Tenen
 sparkle: plain-text-prog.txt
 image: control-2.png
+issue: 14
 ---
 
 <sup>I live stream my writing sessions. Follow me at [livecoding.tv/denten](https://www.livecoding.tv/denten) if you are intrested in the mechanics of manuscript preparation, Bash, Vim, Git, Markdown, Pandoc, or Zotero.</sup>

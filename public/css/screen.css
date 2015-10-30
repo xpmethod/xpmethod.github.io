@@ -189,7 +189,17 @@ img {
   font-size: 1.1em;
 }
 
-.site .title a:hover {
+.site .issue-nav { 
+  text-align: right; 
+  color: #A00; 
+} 
+
+.site .issue-nav a { 
+  text-decoration: none; 
+} 
+
+.site .title a:hover, 
+.site .issue-nav a:hover {
   color: black;
 }
 
@@ -211,7 +221,8 @@ img {
     color: black;
   }
 
-  .title a.extra-active {
+  .title a.extra-active,
+  .site .issue-nav a.active {
       color: black;
   }
 

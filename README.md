@@ -37,6 +37,8 @@ If you use a name/url for one post, please make sure it is consistent with the t
 
 `type:` arbitrary types like "web-app," "seminar," "paper," and the like used to generate tags. We needed the built-in `tags` to drive the social aspect of the site.  
 
+`issue:` indicates the issue to which the project belongs. Issues are typically two-digit years, such as `15` or `14` for 2015 and 2014, respectively.
+
 Additionally, the posts in the "events" layout have the following fields:  
 
 `prompt:` used to pull out the prompts in the "events" section. Should be in quotations.  
