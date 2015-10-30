@@ -11,7 +11,7 @@ tags:
 category: minimal-computing
 type: workshop
 published: true
-issue: 14
+issue: 15
 ---
 
 ## Updates
