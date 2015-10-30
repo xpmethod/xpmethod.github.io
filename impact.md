@@ -49,12 +49,17 @@ receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 
 ## <a name="placements"></a>Placements
 
-> *Aaron Plasek* admitted Columbia History Ph.D. program (Spring 2015).
+> *Aaron Plasek* admitted to the Columbia History Ph.D. program (Spring 2015).
 
-> *Jonathan Reeve* admitted to Columbia English and Comparative
-Literature (Spring 2015).
+> *Jonathan Reeve* admitted to the Columbia English and Comparative
+Literature Ph.D. program (Spring 2015).
 
 ## <a name="press"></a>Press
+
+> Kim Martineau features [@rikersbot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) at the [Data Science Institute](http://datascience.columbia.edu/stories-rikers-140-characters-or-less).
+
+> Science Surveyor featured at [Nieman
+Lab](http://www.niemanlab.org/2015/10/a-group-of-researchers-is-trying-to-help-science-journalists-parse-academic-articles-on-deadline/).
 
 > [Science Surveyor](http://xpmethod.plaintext.in/public-discourse/surveyor.html) featured in the [Communications of the
 ACM](http://cacm.acm.org/magazines/2015/5/186011-putting-the-data-science-into-journalism/fulltext).

@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Rikers StoryBot
+title: Rikers Bot
 tags:
 - Manan Ahmed
 - Zeinab Aina
@@ -11,7 +11,7 @@ tags:
 - Katarzyna Kaczowka
 - Cameron Rasmussen
 - Dennis Yi Tenen
-- Rikers team TBA
+- Young People at Rikers
 category: public-discourse
 type: digital storytelling
 published: true
@@ -20,14 +20,25 @@ images:
 issue: 15
 ---
 
-[Rikers StoryBot](https://twitter.com/rikersbot) is a coding workshop and an
+## Updates
+
+- Kim Martineau [writes about the project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less) for the Data Science Institute.
+- Bot launched on 10/22/15
+- A family event for workshops participants at Rikers on Aug 10
+- Complete 4 workshops at Rikers in July--August, 2015
+- Andi Dixon joins the team as community coordinator (Summer 2015)
+- Brainstorming session with Columbia's Center for Justice in Spring, 2015
+
+## About
+
+[@rikersbot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional
 facility, New York city's main jail complex.
 
 In the spring of 2015, the [Center for
 Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
-Methods Group](http://xpmethod.plaintext.in/) with an idea of running an "Intro
-to [Python](https://www.python.org/)" workshop for the young people
+Methods Group](http://xpmethod.plaintext.in/) with an idea of running an
+"Intro to [Python](https://www.python.org/)" workshop for the young people
 incarcerated at Rikers and for Columbia University students interested in
 digital literacy.  It was important for us to set up the encounter in a way
 that moves past one way conversation with effects that persist beyond the one
@@ -37,7 +48,7 @@ In teaching programming through digital storytelling, it is our hope to
 encourage a dialog between the youth at Rikers, Columbia faculty and students,
 and the community at large.
 
-The Rikers StoryBot project gives all participants a chance to have their
+The Rikers Bot project gives all participants a chance to have their
 voices heard, to learn to code, and to gain real-world experience in writing,
 editing, and producing a project. Together, we are building a [Twitter
 bot](https://twitter.com/rikersbot) that will tell our story.
@@ -84,7 +95,7 @@ Myles
 Rashad  
 Romeo  
 Ron  
-Sutki
+Sutki  
 Tyrieque  
 
 ## Outreach
