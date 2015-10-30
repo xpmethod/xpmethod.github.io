@@ -3,9 +3,17 @@ layout: default
 ---
 
 <div class="issue-nav">
-Issue: {{ page.issue }}
 
-This year: {{ site.time | date: '%y' }}
+Issues: 
+
+{% assign sorted_pages = site.pages | sort:"name" %}
+{% for node in sorted_pages %}
+{% if node.issue %}
+
+<a class="" href="{{ node.url }}">{{ node.issue }}</a>&nbsp; 
+
+{% endif %}
+{% endfor %}
 
 </div>
 
