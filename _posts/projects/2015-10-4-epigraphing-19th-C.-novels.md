@@ -34,4 +34,4 @@ There is little standardization of how names were spelled in 19th-century texts.
 
 * [1] Aaron Plasek and Rob Koehler. "Mediating Genres of Prestige, Credit, and Authority: The Epigraph and the Citation." Conference paper. Digital Crucible: Arts, Humanities, & Computation. Leslie Center for the Humanities & Neukom Institute for Computational Science. Dartmouth College, Hanover, NH. 7 October 2014.
 
-* [2] Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as Critical Procedure”. Media Res # 1: DH Lightning Talks. CUNY Graduate School, New York, NY. 8 May 2015. 
+* [2] Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as Critical Procedure”. Media Res # 1: DH Lightning Talks. CUNY Graduate School, New York, NY. 8 May 2015.
