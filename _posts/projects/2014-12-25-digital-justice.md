@@ -11,7 +11,7 @@ tags:
 category: minimal-computing
 type: workshop
 published: true
-issue: 14
+issue: 15
 ---
 
 ## Updates
@@ -19,8 +19,8 @@ issue: 14
 - Digital Justice partnered with [poderopedia.org](http://www.poderopedia.org/) (Oct, 2015).
 - Welcome [Miguel Paz](http://www.icfj.org/about/profiles/miguel-paz) and [Daniel Rojas](http://www.elespectador.com/opinion/daniel-emilio-rojas-castro) (Oct, 2015).
 - Added [planning document](https://hackpad.com/Digital-Justice-Santiago-Chile-3odlGGxjZ4Y) (Oct, 2015).
-- Welcome to Ashley Sayed, Community Coordinator (Oct, 2015). 
-- The pilot project has been funded with generous support from the President's Global
+- Welcome to [Ashley Sayed](http://www.ashleyrahimisyed.com/), Community Coordinator (Oct, 2015). 
+- The pilot project in Santiago, Chile has been funded with generous support from the President's Global
 Innovation Fund, in the amount of $20,000 (March, 2015).
 
 ## Digital Justice: Public Discourse, Censorship, and the Technologies of Dissent

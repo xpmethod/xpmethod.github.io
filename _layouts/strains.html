@@ -4,17 +4,18 @@ layout: default
 
 <div class="issue-nav">
 
-Issues: 
+    <code>Volume:
 
 {% assign sorted_pages = site.pages | sort:"name" | reverse %}
 {% for node in sorted_pages %}
 {% if node.issue %}
 
-<a class="{% if page.issue == node.issue %}active{% endif %}" href="{{ node.url }}">{{ node.issue }}</a>&nbsp; 
+<a class="{% if page.issue == node.issue %}active{% endif %}" href="{{ node.url }}">{{ node.issue }}</a>
 
 {% endif %}
 {% endfor %}
 
+    </code>
 </div>
 
 <div class="cats">

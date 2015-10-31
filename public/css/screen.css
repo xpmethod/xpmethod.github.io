@@ -191,7 +191,8 @@ img {
 
 .site .issue-nav { 
   text-align: right; 
-  color: #A00; 
+  color: red; 
+  margin-right: 0em;
 } 
 
 .site .issue-nav a { 
