@@ -7,7 +7,8 @@ category: theory-method
 type: experiment
 published: true
 snippet: 123
-issue: 15
+images:
+
 ---
 
 ##Updates
