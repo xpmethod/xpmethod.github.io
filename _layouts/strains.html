@@ -6,7 +6,7 @@ layout: default
 
     <code>Volume:
 
-{% assign sorted_pages = site.pages | sort:"name" | reverse %}
+{% assign sorted_pages = site.pages | sort:"name" %}
 {% for node in sorted_pages %}
 {% if node.issue %}
 
