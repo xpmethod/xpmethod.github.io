@@ -1,6 +1,6 @@
 ---
 layout: strains
-title: strains
+title: research
 issue: 15
 ---
 
