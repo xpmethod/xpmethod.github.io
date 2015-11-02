@@ -1,5 +1,5 @@
 ---
-layout: strains
+layout: research
 title: research
 issue: 14
 ---
