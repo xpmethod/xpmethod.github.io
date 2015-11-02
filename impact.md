@@ -25,10 +25,6 @@ Tenen, Dennis, and Foxman Max. “Book Piracy as Peer Preservation.”
 
 ## <a name="grants"></a>Grants
 
-`Fall 2015`
-
-> [Git-Lit](public-discourse/git-lit.html) receives an honorable mention from the [NYCDH Graduate Student Digital Project Awards 2015](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2015/)
-
 `Spring 2015`
 
 > [Digital
@@ -60,6 +56,8 @@ receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 Literature Ph.D. program (Spring 2015).
 
 ## <a name="press"></a>Press & Awards
+
+> [Git-Lit](public-discourse/git-lit.html) receives an honorable mention from the [NYCDH Graduate Student Digital Project Awards 2015](http://nycdh.org/nycdh-graduate-student-digital-project-awards-2015/)
 
 > Kim Martineau features [@rikersbot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) at the [Data Science Institute](http://datascience.columbia.edu/stories-rikers-140-characters-or-less).
 
