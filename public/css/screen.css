@@ -179,7 +179,7 @@ img {
 
 .title {
   color: #a00;
-  margin-bottom: 1em;
+  margin-bottom: 0em;
   text-align: left;
 }
 
@@ -194,6 +194,8 @@ img {
   color: red; 
   margin-right: 0em;
   font-size: 85%;
+  margin-bottom: -1em;
+  margin-top: -1em;
 } 
 
 .site .issue-nav a { 

@@ -5,10 +5,15 @@ title: impact
 
 <div class="issue-nav">
 
+<code>
 <a href="#publications">Publications</a> >> <a href="#grants">Grants</a> >> <a
 href="#placements">Placements</a> >> <a href="#press">Press & Awards</a>
+</code>
 
 </div>
+
+This page features a summary of the accomplishments as reported by the group's
+teams, projects, and participants.
 
 ## <a name="publications"></a>Publications
 
