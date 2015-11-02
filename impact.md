@@ -3,11 +3,12 @@ layout: default
 title: impact
 ---
 
-This page features a summary of the accomplishments as reported by the group's
-teams, projects, and participants.
+<div class="issue-nav">
 
+<a href="#publications">Publications</a> >> <a href="#grants">Grants</a> >> <a
+href="#placements">Placements</a> >> <a href="#press">Press & Awards</a>
 
-[Publications](#publications) >> [Grants](#grants) >> [Placements](#placements) >> [Press](#press)
+</div>
 
 ## <a name="publications"></a>Publications
 
@@ -58,7 +59,7 @@ receive $70,000 from the Brown Institute for Media Innovation Magic Grant.
 > *Jonathan Reeve* admitted to the Columbia English and Comparative
 Literature Ph.D. program (Spring 2015).
 
-## <a name="press"></a>Press
+## <a name="press"></a>Press & Awards
 
 > Kim Martineau features [@rikersbot](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) at the [Data Science Institute](http://datascience.columbia.edu/stories-rikers-140-characters-or-less).
 
