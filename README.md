@@ -4,7 +4,7 @@ This page describes the file structure and the taxonomy of xpmethod.github.io
 Everything is either a post or a page. Pages are in the root folder with a `.md` extension, and connect to `.html` layouts in the `_layouts` folder. Pages have tags and categories and a bunch of other fields described in the YAML block.
 
 - `events.html` drives the **events** page which lists all posts in the category `events`
-- `strains.html` drives the **research** page, which lists all categories, *except* for `events`
+- `research.html` drives the **research** page, which lists all categories, *except* for `events`
 - `strain.html` drives the single strain view, that lists all projects in a given category (except for `events`)
 - `project.html` drives the single project view
 - there is no "projects" view yet
