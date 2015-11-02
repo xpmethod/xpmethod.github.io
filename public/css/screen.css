@@ -196,12 +196,12 @@ img {
   font-size: 85%;
   margin-bottom: -1em;
   margin-top: -1em;
-} 
+}
 
 .site .issue-nav a {
   text-decoration: none;
   color: #AAA;
-} 
+}
 
 .site .title a:hover,
 .site .issue-nav a:hover {
@@ -244,12 +244,17 @@ img {
     clear: both;
   }
 
-    .site .footer .contact {
+    .site .footer .footer-left {
       float: left;
-      margin-right: 3em;
+      margin-left: 0em;
     }
 
-      .site .footer .contact a {
+    .site .footer .footer-right {
+      float: right;
+      margin-right: 0em;
+    }
+
+    .site .footer .contact a {
         color: #8085C1;
       }
 
