@@ -189,20 +189,21 @@ img {
   font-size: 1.1em;
 }
 
-.site .issue-nav { 
-  text-align: right; 
-  color: red; 
+.site .issue-nav {
+  text-align: right;
+  color: #A00;
   margin-right: 0em;
   font-size: 85%;
   margin-bottom: -1em;
   margin-top: -1em;
 } 
 
-.site .issue-nav a { 
-  text-decoration: none; 
+.site .issue-nav a {
+  text-decoration: none;
+  color: #AAA;
 } 
 
-.site .title a:hover, 
+.site .title a:hover,
 .site .issue-nav a:hover {
   color: black;
 }

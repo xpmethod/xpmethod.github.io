@@ -6,8 +6,8 @@ title: impact
 <div class="issue-nav">
 
 <code>
-<a href="#publications">Publications</a> >> <a href="#grants">Grants</a> >> <a
-href="#placements">Placements</a> >> <a href="#press">Press & Awards</a>
+<a href="#publications">Publications</a>  |  <a href="#grants">Grants</a> | <a
+href="#placements">Placements</a> | <a href="#press">Press & Awards</a>
 </code>
 
 </div>
