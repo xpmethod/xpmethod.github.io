@@ -3,11 +3,12 @@ layout: default
 title: impact
 ---
 
-This page features a summary of the accomplishments as reported by the group's
-teams, projects, and participants.
+<div class="issue-nav">
 
+<a href="#publications">Publications</a> >> <a href="#grants">Grants</a> >> <a
+href="#placements">Placements</a> >> <a href="#press">Press & Awards</a>
 
-[Publications](#publications) >> [Grants](#grants) >> [Placements](#placements) >> [Press & Awards](#press)
+</div>
 
 ## <a name="publications"></a>Publications
 
