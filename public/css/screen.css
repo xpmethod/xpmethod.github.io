@@ -13,9 +13,8 @@ html, body {
 
 body {
   background-color: white;
-  font: 1.2em helvetica, arial, clean, sans-serif;
+  font: 1em helvetica, arial, clean, sans-serif;
   *font-size: small;
-  text-align: center;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -184,7 +183,6 @@ img {
   text-align: justify;
   width: 75%;
   margin: 1em auto 2em auto;
-  line-height: 1.5em;
 }
 
 .title {
