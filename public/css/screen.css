@@ -181,7 +181,7 @@ img {
 
 .site {
   text-align: justify;
-  width: 75%;
+  width: 65%;
   margin: 1em auto 2em auto;
 }
 
@@ -202,8 +202,8 @@ img {
   color: #A00;
   margin-right: 0em;
   font-size: 85%;
-  margin-bottom: -1em;
-  margin-top: -1em;
+  margin-bottom: -.5em;
+  margin-top: -.5em;
 }
 
 .site .issue-nav a {
