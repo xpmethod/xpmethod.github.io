@@ -181,7 +181,8 @@ img {
 
 .site {
   text-align: justify;
-  width: 65%;
+  width: 70%;
+  max-width: 39em;
   margin: 1em auto 2em auto;
 }
 
