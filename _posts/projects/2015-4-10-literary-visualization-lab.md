@@ -15,8 +15,8 @@ issue: 15
 ---
 
 ## Updates
-Cleaned corpus and developed preliminary stopwords list for initial LDA model (October 2015)
-Compiled a test corpus for the time-signature project (August 2015)
+- Cleaned corpus and developed preliminary stopwords list for initial LDA model (October 2015)
+- Compiled a test corpus for the time-signature project (August 2015)
 
 ## Literary Visualization Lab
 
