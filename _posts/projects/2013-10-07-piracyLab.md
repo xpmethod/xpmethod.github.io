@@ -4,15 +4,19 @@ title: piracyLab
 category: minimal-computing
 published: true
 issue: 14
+updates:
+  - date: "04/20/15"
+    text: "Research featured in *Le Monde* on 4/20/2015.  See both
+[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png)
+and
+[online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
+editions."
+
 ---
 
 ### Updates
 
-- Research featured in *Le Monde* on 4/20/2015.
-  See both
-[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png) and
-[online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
-editions.
+- 
 - piracyLab members Maxwell Foxman and Dennis Tenen publish "[Book Piracy as
   Peer
 Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation.)"
