@@ -7,17 +7,15 @@ category: theory-method
 type: toolkit
 snippet: 125
 issue: 14
+updates:
+- date: 09/15
+  text: "Added two new methods to enable export of category-count arrays to
+[Pandas](http://http://pandas.pydata.org/) and CSV."
+
 ---
 
-##Update:
 
-Added two new methods to enable export of category-count arrays to [Pandas](http://http://pandas.pydata.org/) and CSV:
-
-* `self.freq_of_all_cats(text)` - given a text, return a dictionary of all Roget categories with counts *including zero counts*.
-
-* `self.cat_array_by_file(folder,csv=False)` - Enables use of the Pandas library and CSV export. Given 'directory\_name/' in working directory that contains (or path to folder from working directory), return Pandas array of Roget category frequencies for each file. X-axis: filenames; Y-axis: Roget categories. If csv=True, results will be saved as a .csv file in the folder specified.
-
-##Overview:
+### Overview:
 
 Following Klingenstein, Hitchcock, and DeDeo (2014)'s work on the "Old Bailey" records,[^1] Roget Tools is a Python class for tracking broad semantic categories through bodies of text using the top-down hierarchical structure of Peter Mark Roget's *Thesaurus*.[^2] This hierarchy is a comprehensive and unbroken network encompassing all of Roget's original thesaurus categories, and importing it into a Python-readable format achieves two goals. First, it enables the body of research on Roget's thesaurus to incorporated into automated text analysis, thus providing a basis for stable interpretation of quantitative results. Second, it facilitates an integration of semantic network analysis into the analysis of textual corpora.
 
@@ -30,7 +28,7 @@ With this integration in mind, the library provides several primary tools for an
 
 This is a work in progress, and suggestions for application and development are welcome. Full instructions can be found on the [main project page](http://prpole.github.io/roget-tools/), which also contains projections for future development.
 
-## Download
+### Download
 
 Roget Tools can be downloaded [here](https://github.com/prpole/roget-tools/archive/master.zip).
 

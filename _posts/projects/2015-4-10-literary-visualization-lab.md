@@ -24,7 +24,7 @@ illuminate the multiplicity of reading methods, practices, and ways of
 navigating a text. In the gallery below are a series of projects that layer
 different views on a text or set of texts.
 
-## The Shape of Time
+### The Shape of Time
 
 In a novel, time does not often move evenly or linearly–––a single paragraph in
 García Márquez's *One Hundred Years of Solitude* jumps several decades while in

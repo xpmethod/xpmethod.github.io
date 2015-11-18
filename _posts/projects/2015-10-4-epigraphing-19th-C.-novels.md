@@ -8,13 +8,19 @@ type: experiment
 published: true
 snippet: 123
 issue: 15
+updates:
+- date: 09/15
+  text: "Collected 7,689 epigraphs from 3,000 XML-encoded 19th-century US
+novels from the Early American Fiction and [Wright American
+Fiction](https://github.com/iulibdcs/tei_text) archives."
+- date: 09/15
+  text: "Newest version of [XML
+scraper](https://github.com/aaronplasek/19th_C._novel_scraper) collects a
+range of bibliographic and epigraphic information, and identifies novels that
+are potentially mistagged."
+
 ---
 
-### Updates
-
-1. Collected 7,689 epigraphs from 3,000 XML-encoded 19th-century US novels from the Early American Fiction and [Wright American Fiction](https://github.com/iulibdcs/tei_text) archives. (11 Oct 2015)
-
-2. Newest version of [XML scraper](https://github.com/aaronplasek/19th_C._novel_scraper) collects a range of bibliographic and epigraphic information, and identifies novels that are potentially mistagged. (8 Oct 2015)
 
 ### Overview
 

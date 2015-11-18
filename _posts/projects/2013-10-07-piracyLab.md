@@ -5,32 +5,30 @@ category: minimal-computing
 published: true
 issue: 14
 updates:
-  - date: "04/20/15"
-    text: "Research featured in *Le Monde* on 4/20/2015.  See both
-[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png)
+
+- date: 04/15
+  text: "Research featured in *Le Monde*
+[here](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png)
 and
-[online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
+[here](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
 editions."
+- date: 11/14
+  text: "piracyLab members Maxwell Foxman and Dennis Tenen publish “Book
+Piracy as Peer Preservation” in Computational Culture, no. 4"
 
----
-
-### Updates
-
-- 
-- piracyLab members Maxwell Foxman and Dennis Tenen publish "[Book Piracy as
-  Peer
-Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation.)"
-in Computational Culture, no. 4 (November 9, 2014).
-- Mark Phillipson and Dennis Tenen on "[Hacking the
-  Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)" at New Media in
-Education Conference 2013 (February 1st).
-- Sarah Laskow from [Columbia Journalism
-  Review](http://www.cjr.org/cloud_control/piracylab.php) covers
-[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html). The
-story was picked up by [Melville
+- date: 10/13
+  text: "Sarah Laskow from [Columbia Journalism
+Review](http://www.cjr.org/cloud_control/piracylab.php) covers
+[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
+The story was picked up by [Melville
 House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and
-[ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm).
+[ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)."
+
+- date: 02/13
+  text: "Mark Phillipson and Dennis Tenen on \"[Hacking the Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)\" at New
+Media in Education Conference 2013"
+---
 
 ### About the Group
 
