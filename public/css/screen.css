@@ -32,7 +32,6 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
-  font-family: "Inconsolata";
 }
 
 h1 {
@@ -535,6 +534,7 @@ img {
     vertical-align: sub;
     font-size: .9em;
     margin-bottom: 1em;
+    text-align: left;
 }
 
 #strains li {

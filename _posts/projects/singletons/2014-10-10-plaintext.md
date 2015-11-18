@@ -10,7 +10,10 @@ image: control-2.png
 issue: 15
 ---
 
-<sup>I live stream my writing sessions. Follow me at [livecoding.tv/denten](https://www.livecoding.tv/denten) if you are intrested in the mechanics of manuscript preparation, Bash, Vim, Git, Markdown, Pandoc, or Zotero.</sup>
+<sub>I live stream my writing sessions. Follow me at
+[livecoding.tv/denten](https://www.livecoding.tv/denten) if you are intrested
+in the mechanics of manuscript preparation, Bash, Vim, Git, Markdown, Pandoc,
+or Zotero.</sub>
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant
@@ -51,7 +54,7 @@ ephemeral, the second enduring but opaque. The "illusion of the simulated text"
 identifies an incongruity between the two sites of reading. The later chapters
 of the book will deal with the cultural consequences of that illusion.
 
-## Digtital Displacement
+### Digital Displacement
 
 *Plain Text* ultimately enacts a reconciliation of vocabularies. It is a
 response to a particular situation of a literary scholar encountering the field
