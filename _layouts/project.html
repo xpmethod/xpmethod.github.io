@@ -3,10 +3,10 @@ layout: default
 ---
 
 <div id="post">
-    <h3>&raquo; {{ page.title }}
+    <h2>&raquo; {{ page.title }}
     {% if page.type %}
         <sup><code>{{ page.type }}</code></sup>
-    {% endif %}</h3>
+    {% endif %}</h2>
 
     <!-- remember tags are people -->
     <sup>
@@ -42,6 +42,20 @@ layout: default
     {% if page.prompt %}
     <div id="prompt">
         {{ page.prompt }}
+    </div>
+    {% endif %}
+
+    <!-- include updates if we have them--!>
+
+    {% if page.updates%}
+    <div id="update">
+        <h3>Updates</h3>
+        {% for update in page.updates %}
+            <li>
+            <div id="update-date">{{ update.date }}</div>
+            <div id="update-text">{{ update.text | markdownify }}</div>
+            </li>
+        {% endfor %}
     </div>
     {% endif %}
 

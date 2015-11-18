@@ -6,7 +6,7 @@ published: true
 issue: 14
 ---
 
-## Updates 
+### Updates
 
 - Research featured in *Le Monde* on 4/20/2015.
   See both
@@ -28,7 +28,7 @@ House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm).
 
-## About the Group
+### About the Group
 
 [piracyLab](http://piracylab.org/) was convened by the faculty, students, and
 librarians involved in the [*Hacking the

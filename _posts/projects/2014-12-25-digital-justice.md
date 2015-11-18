@@ -14,7 +14,7 @@ published: true
 issue: 15
 ---
 
-## Updates
+### Updates
 
 - [Federico Kirschbaum](https://twitter.com/fede_k) of the [Ekoparty](https://www.ekoparty.org/) joins as partner.
 - Digital Justice partnered with [poderopedia.org](http://www.poderopedia.org/) (Oct, 2015).
@@ -24,7 +24,7 @@ issue: 15
 - The pilot project in Santiago, Chile has been funded with generous support from the President's Global
 Innovation Fund, in the amount of $20,000 (March, 2015).
 
-## Digital Justice: Public Discourse, Censorship, and the Technologies of Dissent
+### Digital Justice: Public Discourse, Censorship, and the Technologies of Dissent
 
 Responding to President Bollinger's call to expand the campus conversation
 about Equal Justice, this proposal, *Digital Justice*, harnesses the emerging

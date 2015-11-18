@@ -26,7 +26,7 @@ h1 {
 }
 
 p {
-  margin: 1em 0;
+  margin-bottom: 1em;
   text-rendering: optimizeLegibility;
   font-feature-settings: "kern";
   -webkit-font-feature-settings: "kern";
@@ -203,7 +203,6 @@ img {
   color: #A00;
   margin-right: 0em;
   font-size: 85%;
-  margin-bottom: -.5em;
   margin-top: -.5em;
 }
 
@@ -306,7 +305,7 @@ img {
 
   #post h2 {
     margin-top: 0.5em;
-    margin-bottom: 0.5em;
+    margin-left: -.75em;
   }
 
   /* randomize post images */
@@ -333,6 +332,29 @@ img {
     float:right;
     position: relative;
     font-style: italic;
+  }
+
+  #update-date {
+    vertical-align: middle;
+    color: gray;
+    float: left;
+    margin-left: -3em;
+    font-size: smaller;
+  }
+
+  #update {
+    margin-bottom: 1em;
+  }
+
+  #update p {
+    margin: 0em;
+  }
+
+  #update li {
+    list-style-type: none;
+  }
+
+  #update-text {
   }
 
   #post pre {
