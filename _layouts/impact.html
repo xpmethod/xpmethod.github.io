@@ -4,16 +4,22 @@ layout: default
 
 <div class="issue-nav">
     <code>
-        <a href="#publications">Publications</a>  |  <a href="#grants">Grants</a> | <a
-        href="#placements">Placements</a> | <a href="#press">Press & Awards</a>
+        <a href="#publications">Publications</a> | 
+        <a href="#grants">Grants & Awards</a> | 
+        <a href="#press">Public Engagement</a> | 
+        <a href="#placements">Placements</a>
     </code>
 </div>
 
+
+<h3><a name="publications"></a>Publications</h3>
+
 <div id="update-div">
+
 {% for post in site.posts %}
     {% for update in post.updates %}
+    {% if update.type contains 'publication' or update.type contains 'paper' %}
     <li id="update-list">
-    
         <div id="update-date">{{ update.date }}</div>
         <sup><a id="update-link" href="{{ post.url }}">
                 {{ post.title | downcase }}</a></sup>
@@ -21,15 +27,64 @@ layout: default
             {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
         </div>
     </li>
+    {% endif %}
     {% endfor %}
 {% endfor %}
+</div>
+<h3><a name="grants"></a>Grants & Awards</h3>
 
+<div id="update-div">
+
+{% for post in site.posts %}
+    {% for update in post.updates %}
+    {% if update.type contains 'grant' or update.type contains 'award' %}
+    <li id="update-list">
+        <div id="update-date">{{ update.date }}</div>
+        <sup><a id="update-link" href="{{ post.url }}">
+                {{ post.title | downcase }}</a></sup>
+        <div id="update-text">
+            {{ update.text | markdownify }}
+        </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+{% endfor %}
+</div>
+<h3><a name="press"></a>Public Engagement</h3>
+
+<div id="update-div">
+
+{% for post in site.posts %}
+    {% for update in post.updates %}
+    {% if update.type contains 'press' or update.type contains 'talk' %}
+    <li id="update-list">
+        <div id="update-date">{{ update.date }}</div>
+        <sup><a id="update-link" href="{{ post.url }}">
+                {{ post.title | downcase }}</a></sup>
+        <div id="update-text">
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+{% endfor %}
 </div>
 
-<h3><a name="publications"></a>Publications</h3>
-
-<h3><a name="grants"></a>Grants</h3>
-
-<h3><a name="press"></a>Press & Awards</h3>
-
 <h3><a name="placements"></a>Placements</h3>
+<div id="update-div">
+
+{% for post in site.posts %}
+    {% for update in post.updates %}
+    {% if update.type contains 'placement' or update.type contains 'job' %}
+    <li id="update-list">
+        <div id="update-date">{{ update.date }}</div>
+        <sup><a id="update-link" href="{{ post.url }}">
+                {{ post.title | downcase }}</a></sup>
+        <div id="update-text">
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+    </li>
+    {% endif %}
+    {% endfor %}
+{% endfor %}
+</div>

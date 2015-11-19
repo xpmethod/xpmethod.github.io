@@ -15,27 +15,33 @@ issue: 15
 updates:
 
 - date: 11/15
+  type: update
   text: "[Federico Kirschbaum](https://twitter.com/fede_k) of the
 [Ekoparty](https://www.ekoparty.org/) joins as partner."
 
 - date: 10/15
+  type: update
   text: "Digital Justice partnered with
   [poderopedia.org](http://www.poderopedia.org/)."
 
 - date: 10/15
+  type: update
   text: "Welcome [Miguel Paz](http://www.icfj.org/about/profiles/miguel-paz)
 and [Daniel
 Rojas](http://www.elespectador.com/opinion/daniel-emilio-rojas-castro)"
 
 - date: 10/15
+  type: update
   text: "Added [planning
 document](https://hackpad.com/Digital-Justice-Santiago-Chile-3odlGGxjZ4Y)."
 
 - date: 10/15
+  type: update
   text: "Welcome to [Ashley Sayed](http://www.ashleyrahimisyed.com/),
 Community Coordinator (Oct, 2015)."
 
 - date: 05/15
+  type: grant
   text: "The pilot project in Santiago, Chile has been funded with generous
 support from the President's Global Innovation Fund, in the amount of
 $20,000."

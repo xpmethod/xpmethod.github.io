@@ -20,22 +20,33 @@ image: rikersbot-flyer.jpg
 images:
 issue: 15
 updates:
-  - date: 11/15
-    text: "Welcome [Desmond
+- date: 11/15
+  type: update
+  text: "Welcome [Desmond
 Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant
 Professor of Social Work at Columbia."
-  - date: 10/15
-    text: "Kim Martineau [wrote about the
+
+- date: 10/15
+  type: press
+  text: "Kim Martineau [wrote about the
 project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less)
 for the Data Science Institute."
-  - date: 10/15
-    text: Bot launched.
-  - date: 08/15
-    text: Family event for Rikers workshop participants at Rikers on Aug 10.
-  - date: 07/15
-    text: Andi Dixon joins the team as community coordinator.
-  - date: 05/15
-    text: Brainstorming session with Columbia's Center for Justice.
+
+- date: 10/15
+  type: update
+  text: Bot launched.
+
+- date: 08/15
+  type: update
+  text: Family event for Rikers workshop participants at Rikers on Aug 10.
+
+- date: 07/15
+  type: update
+  text: Andi Dixon joins the team as community coordinator.
+
+- date: 05/15
+  type: update
+  text: Brainstorming session with Columbia's Center for Justice.
 
 ---
 

@@ -9,6 +9,14 @@ prompt: #GamerGate and movements like it have revitalized a longstanding debate 
 snippet: 150
 published: true
 issue: 15
+updates:
+
+- date: 05/15
+  type: grant
+  text: "Project receives $5,000 from Columbia University's School of
+International and Public Affairs (SIPA) and Carnegie to further research on
+hate speech and the protection of online activists."
+
 ---
 
 Since the beginning of #GamerGate in 2014, threats to online feminist activists
