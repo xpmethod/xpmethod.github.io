@@ -261,23 +261,15 @@ img {
   }
 
   .site .footer {
-    font-size: 80%;
     color: #666;
     border-top: 4px solid #eee;
     margin-top: 2em;
     overflow: hidden;
     clear: both;
+    font-family: 'Inconsolata';
+    font-size: smaller;
+    padding-top: .5em;
   }
-
-    .site .footer .footer-left {
-      float: left;
-      margin-left: 0em;
-    }
-
-    .site .footer .footer-right {
-      float: right;
-      margin-right: 0em;
-    }
 
     .site .footer .contact a {
         color: #8085C1;
