@@ -30,8 +30,9 @@ House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
   type: press
 
 - date: 02/13
-  text: "Mark Phillipson and Dennis Tenen on \"[Hacking the Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)\" at New
-Media in Education Conference 2013"
+  text: "Mark Phillipson and Dennis Tenen on \"[Hacking the
+Archive](https://web.archive.org/web/20151119161942/http://ccnmtl.columbia.edu/nme2013/sessions.html)\" at New
+Media in Education Conference 2013."
   type: talk
 
 ---
