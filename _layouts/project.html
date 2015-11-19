@@ -49,15 +49,15 @@ url: research/
     <!-- include updates if we have them--!>
 
     {% if page.updates%}
-    <div id="update">
-        <h3>Updates</h3>
-        {% for update in page.updates %}
-            <li>
-            <div id="update-date">{{ update.date }}</div>
-            <div id="update-text">{{ update.text | markdownify }}</div>
-            </li>
-        {% endfor %}
-    </div>
+        <div id="update-div">
+            <h3>Updates</h3>
+            {% for update in page.updates %}
+                <div id="update-list">
+                    <div id="update-date-project">{{ update.date }}</div>
+                    <div id="update-text-project">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                </div>
+            {% endfor %}
+        </div>
     {% endif %}
 
     {{ content }}

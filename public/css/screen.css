@@ -366,16 +366,24 @@ img {
     font-size: smaller;
   }
 
-  #update-date-short {
+  #update-date-project {
     color: lightgray;
     margin-left: -3em;
     font-family: "Inconsolata";
-    font-size: smaller;
-    float: left;
+    display: inline;
   }
+
+  #update-text-project {
+    margin-bottom: .5em;
+    display: inline;
+    text-align: left;
+    padding: 0em;
+  }
+
   #update-div {
     margin-top: .5em;
     margin-bottom: 1.5em;
+    text-align: left;
   }
 
   #update-list {

@@ -75,10 +75,13 @@ layout: default
 <div id="update-div">
     {% for job in site.data.jobs %}
         <div id="update-list">
-            <div id="update-date-short">
+            <div id="update-date">
                 {{ job.date }}
+                <a id="update-link" href="{{ post.url }}">
+                    Experimental Methods Group
+                </a>
             </div>
-            <div id="update-text">
+            <div id="update-text"> 
                 {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
         </div>
