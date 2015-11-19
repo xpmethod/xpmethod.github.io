@@ -217,13 +217,15 @@ img {
   text-align: right;
   color: #A00;
   margin-right: 0em;
-  font-size: 85%;
-  margin-top: -.5em;
+  font-size: smaller;
+  font-family: 'Inconsolata';
 }
 
 .site .issue-nav a {
   text-decoration: none;
   color: #AAA;
+  font-size: smaller;
+  font-family: 'Inconsolata';
 }
 
 .site .title a:hover,

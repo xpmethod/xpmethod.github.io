@@ -5,10 +5,12 @@ title: impact
 
 <div class="issue-nav">
 
+<sup>
 <code>
 <a href="#publications">Publications</a>  |  <a href="#grants">Grants</a> | <a
 href="#placements">Placements</a> | <a href="#press">Press & Awards</a>
 </code>
+</sup>
 
 </div>
 
