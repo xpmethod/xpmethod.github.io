@@ -7,7 +7,7 @@ layout: default
         <a href="#publications">Publications</a> | 
         <a href="#grants">Grants & Awards</a> | 
         <a href="#press">Public Engagement</a> | 
-        <a href="#placements">Placements</a>
+        <a href="#placements">Jobs</a>
     </code>
 </div>
 
@@ -70,21 +70,15 @@ layout: default
 {% endfor %}
 </div>
 
-<h3><a name="placements"></a>Placements</h3>
+<h3><a name="jobs"></a>Jobs</h3>
 <div id="update-div">
 
-{% for post in site.posts %}
-    {% for update in post.updates %}
-    {% if update.type contains 'placement' or update.type contains 'job' %}
+{% for job in site.data.jobs %}
     <li id="update-list">
-        <div id="update-date">{{ update.date }}</div>
-        <sup><a id="update-link" href="{{ post.url }}">
-                {{ post.title | downcase }}</a></sup>
+        <div id="update-date">{{ job.date }}</div>
         <div id="update-text">
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            {{ job.text | markdownify | }}
         </div>
     </li>
-    {% endif %}
-    {% endfor %}
 {% endfor %}
 </div>
