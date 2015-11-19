@@ -34,6 +34,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%;
 }
 
+.cats h3 a:hover {
+    color: DarkSlateGray;
+}
+
+#strain h3 a {
+    color: DarkSlateGray;
+}
+
+#strain h3 a:hover {
+    color: black;
+}
+
 h1 {
   margin-bottom: 1em;
 }
@@ -514,7 +526,7 @@ img {
 
 a.footnote {
     font-size: smaller;
-    color: red;
+    color: DarkSlateGray;
 }
 
 .footnotes p {

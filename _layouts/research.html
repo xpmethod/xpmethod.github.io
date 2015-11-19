@@ -24,7 +24,7 @@ layout: default
     {% for post in site.categories[page.title] %}
      
         {% if post.title != null %}
-            <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+            <h3 class="cats"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
         {% endif %}
 
         <!-- list all projects as a strain in subscript -->
