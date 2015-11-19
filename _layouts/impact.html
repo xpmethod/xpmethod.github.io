@@ -15,70 +15,72 @@ layout: default
 <h3><a name="publications"></a>Publications</h3>
 
 <div id="update-div">
-
-{% for post in site.posts %}
-    {% for update in post.updates %}
-    {% if update.type contains 'publication' or update.type contains 'paper' %}
-    <li id="update-list">
-        <div id="update-date">{{ update.date }}</div>
-        <sup><a id="update-link" href="{{ post.url }}">
-                {{ post.title | downcase }}</a></sup>
-        <div id="update-text">
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
-    </li>
-    {% endif %}
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'publication' or update.type contains 'paper' %}
+            <div id="update-list">
+                <div id="update-date">{{ update.date }}
+                <a id="update-link" href="{{ post.url }}">
+                    {{ post.title | downcase }}</a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-{% endfor %}
 </div>
+
 <h3><a name="grants"></a>Grants & Awards</h3>
 
 <div id="update-div">
-
-{% for post in site.posts %}
-    {% for update in post.updates %}
-    {% if update.type contains 'grant' or update.type contains 'award' %}
-    <li id="update-list">
-        <div id="update-date">{{ update.date }}</div>
-        <sup><a id="update-link" href="{{ post.url }}">
-                {{ post.title | downcase }}</a></sup>
-        <div id="update-text">
-            {{ update.text | markdownify }}
-        </div>
-    </li>
-    {% endif %}
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'grant' or update.type contains 'award' %}
+            <div id="update-list">
+                <div id="update-date">
+                    {{ update.date }}
+                    <a id="update-link" href="{{ post.url }}">
+                        {{ post.title | downcase }}
+                    </a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-{% endfor %}
 </div>
+
 <h3><a name="press"></a>Public Engagement</h3>
 
 <div id="update-div">
-
-{% for post in site.posts %}
-    {% for update in post.updates %}
-    {% if update.type contains 'press' or update.type contains 'talk' %}
-    <li id="update-list">
-        <div id="update-date">{{ update.date }}</div>
-        <sup><a id="update-link" href="{{ post.url }}">
-                {{ post.title | downcase }}</a></sup>
-        <div id="update-text">
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
-    </li>
-    {% endif %}
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'talk' or update.type contains 'press' %}
+            <div id="update-list">
+                <div id="update-date">
+                    {{ update.date }}
+                    <a id="update-link" href="{{ post.url }}">
+                        {{ post.title | downcase }}
+                    </a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
     {% endfor %}
-{% endfor %}
 </div>
 
 <h3><a name="jobs"></a>Jobs</h3>
-<div id="update-div">
 
-{% for job in site.data.jobs %}
-    <li id="update-list">
-        <div id="update-date">{{ job.date }}</div>
-        <div id="update-text">
-            {{ job.text | markdownify | }}
+<div id="update-div">
+    {% for job in site.data.jobs %}
+        <div id="update-list">
+            <div id="update-date-short">
+                {{ job.date }}
+            </div>
+            <div id="update-text">
+                {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
         </div>
-    </li>
-{% endfor %}
+    {% endfor %}
 </div>

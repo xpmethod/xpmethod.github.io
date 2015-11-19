@@ -361,29 +361,35 @@ img {
 
   #update-date {
     color: lightgray;
-    float: left;
     margin-left: -3em;
     font-family: "Inconsolata";
     font-size: smaller;
   }
 
+  #update-date-short {
+    color: lightgray;
+    margin-left: -3em;
+    font-family: "Inconsolata";
+    font-size: smaller;
+    float: left;
+  }
   #update-div {
-    margin-top: 1em;
+    margin-top: .5em;
+    margin-bottom: 1.5em;
   }
 
   #update-list {
     list-style-type: none;
+    margin-bottom: .5em;
+    font-size: smaller;
   }
 
   #update-link {
     color: black;
-    font-size: smaller;
     font-family: "Inconsolata";
-    color: black;
-    border: 1px solid #DDD;
-    background-color: #EEF;
-    font-size: 95%;
-    font-weight: normal
+    color: gray;
+    font-weight: normal;
+    margin-right: 1em;
   }
 
   #update-link a:hover {
@@ -404,8 +410,7 @@ img {
   }
 
   #update-text {
-    text-align: left;
-    margin-bottom: 1em;
+    margin-bottom: .5em;
   }
 
   #post pre {
