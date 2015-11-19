@@ -13,7 +13,8 @@ html, body {
 
 body {
   background-color: white;
-  font-family: "Cardo"
+  font-family: "Cardo";
+  font-size: 19px;
 }
 
 @font-face {
@@ -227,20 +228,19 @@ img {
 .site .title a {
   color: black;
   text-decoration: none;
-  font-size: 1.1em;
+  font-size: 1.25em;
 }
 
 .site .issue-nav {
   text-align: right;
   margin-right: 0em;
-  font-size: smaller;
   font-family: 'Inconsolata';
+  font-size: .95em;
 }
 
 .site .issue-nav a {
   text-decoration: none;
   color: DarkSlateGray;
-  font-size: smaller;
   font-family: 'Inconsolata';
 }
 
@@ -283,7 +283,6 @@ img {
     overflow: hidden;
     clear: both;
     font-family: 'Inconsolata';
-    font-size: smaller;
     padding-top: .5em;
   }
 
@@ -363,7 +362,6 @@ img {
     color: lightgray;
     margin-left: -3em;
     font-family: "Inconsolata";
-    font-size: smaller;
   }
 
   #update-date-project {
@@ -389,7 +387,6 @@ img {
   #update-list {
     list-style-type: none;
     margin-bottom: .5em;
-    font-size: smaller;
   }
 
   #update-link {
@@ -560,11 +557,9 @@ img {
 
 .footnotes li {
     list-style-type: decimal;
-    font-size: smaller;
 }
 
 a.footnote {
-    font-size: smaller;
     color: DarkSlateGray;
 }
 
@@ -582,7 +577,6 @@ a.footnote {
     line-height: 1.3em;
     font-family: 'Inconsolata';
     vertical-align: sub;
-    font-size: smaller;
     margin-bottom: 1em;
     text-align: left;
 }
