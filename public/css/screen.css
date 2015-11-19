@@ -131,14 +131,14 @@ table {
 #sparkle {
 
   font-size: .6em;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: 'Inconsolata', monospace;
   text-align: left;
 }
 
 #caption {
 
   font-size: .8em;
-  font-family: "Lucida Console", Monaco, monospace;
+  font-family: 'Inconsolata', monospace;
   font-style: italic;
   text-align: left;
   float:right;
@@ -199,7 +199,7 @@ ul.posts li {
 
 ul.posts span {
   color: #aaa;
-  font-family: Monaco, "Courier New", monospace;
+  font-family: 'Inconsolata', monospace;
   font-size: 80%;
 }
 
