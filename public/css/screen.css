@@ -561,8 +561,14 @@ a.footnote {
   content: "";
 
 }
+
 #strains a {
     text-decoration: none;
+    color: black;
+}
+
+#strains a:hover {
+    color: DarkSlateGray;
 }
 
 /* strain -------------------------------------------------- */
