@@ -257,7 +257,7 @@ img {
 
   .title a.extra-active,
   .site .issue-nav a.active {
-      color: darkred;
+      color: red;
   }
 
   .site .meta {
@@ -509,11 +509,12 @@ img {
 
 .footnotes li {
     list-style-type: decimal;
-    font-size: small;
+    font-size: smaller;
 }
 
-.footnote a {
-    font-size: small;
+a.footnote {
+    font-size: smaller;
+    color: red;
 }
 
 .footnotes p {
