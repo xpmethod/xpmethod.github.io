@@ -12,6 +12,7 @@ updates:
 and
 [here](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)
 editions."
+
 - date: 11/14
   text: "piracyLab members Maxwell Foxman and Dennis Tenen publish “Book
 Piracy as Peer Preservation” in Computational Culture, no. 4"
@@ -28,6 +29,7 @@ House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 - date: 02/13
   text: "Mark Phillipson and Dennis Tenen on \"[Hacking the Archive](http://ccnmtl.columbia.edu/nme2013/sessions.html)\" at New
 Media in Education Conference 2013"
+
 ---
 
 ### About the Group

@@ -9,17 +9,22 @@ layout: default
     </code>
 </div>
 
-{{ content }}
-
-<h3>All Updates</h3>
-
+<div id="update-div">
 {% for post in site.posts %}
     {% for update in post.updates %}
-            <div id="update-date">{{ update.date }}</div>
-            <div id="update-text">{{ update.text | markdownify }}</div></ul>
+    <li id="update-list">
+    
+        <div id="update-date">{{ update.date }}</div>
+        <sup><a id="update-link" href="{{ post.url }}">
+                {{ post.title | downcase }}</a></sup>
+        <div id="update-text">
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+    </li>
     {% endfor %}
 {% endfor %}
 
+</div>
 
 <h3><a name="publications"></a>Publications</h3>
 

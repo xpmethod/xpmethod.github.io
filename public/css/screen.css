@@ -360,10 +360,34 @@ img {
   }
 
   #update-date {
-    vertical-align: middle;
     color: lightgray;
     float: left;
     margin-left: -3em;
+    font-family: "Inconsolata";
+    font-size: smaller;
+  }
+
+  #update-div {
+    margin-top: 1em;
+  }
+
+  #update-list {
+    list-style-type: none;
+  }
+
+  #update-link {
+    color: black;
+    font-size: smaller;
+    font-family: "Inconsolata";
+    color: black;
+    border: 1px solid #DDD;
+    background-color: #EEF;
+    font-size: 95%;
+    font-weight: normal
+  }
+
+  #update-link a:hover {
+      color: DarkSlateGray;
   }
 
   #update {
@@ -380,6 +404,8 @@ img {
   }
 
   #update-text {
+    text-align: left;
+    margin-bottom: 1em;
   }
 
   #post pre {
