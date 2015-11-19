@@ -54,7 +54,8 @@ p {
 }
 
 a {
-  color: #22a;
+  color: Cadetblue;
+  text-decoration: none;
 }
 
 a:hover, a:visited:hover, a:hover span.new, a:visited:hover span.new {
