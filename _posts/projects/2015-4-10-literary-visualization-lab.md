@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Literary Visualization Lab"
+title: "Literary Modeling & Visualiation Lab"
 tags:
 - Sierra Eckert
 - Allison Chaney
