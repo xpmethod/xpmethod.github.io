@@ -14,7 +14,7 @@ images:
 issue: 15
 ---
 
-The Literary Visualization Lab is a project whose goal is to re-think our
+The Literary Modeling & Visualization Lab is a project whose goal is to re-think our
 approach to displaying and designing tools for exploring literary data. Rather
 than simply making standalone, one-off maps, graph, or chart of a novel, the
 literary visualization lab is interested in reading laterally across multiple
