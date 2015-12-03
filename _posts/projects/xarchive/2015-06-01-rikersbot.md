@@ -22,7 +22,7 @@ issue: 15
 updates:
 - date: 11/30
   type: press
-  text: "[How Rikers Inmates and Columbia Students Built A Twitter Bot—With No Internet: ](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter). Fast Company, Innovation Agents.
+  text: "[How Rikers Inmates and Columbia Students Built A Twitter Bot—With No Internet](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter). Fast Company, Innovation Agents.
 
 - date: 11/15
   type: update
