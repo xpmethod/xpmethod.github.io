@@ -131,10 +131,10 @@ Tyrieque
 
 ### CU Faculty Moderators
 
-- [Manan Ahmed](https://twitter.com/sepoy), Instructor ([Assistant Professor,
-  Department of History](http://history.columbia.edu/faculty/Ahmed.html))
-- [Desmond Patton](http://socialwork.columbia.edu/faculty/desmond-patton)
-- [Dennis Tenen](https://twitter.com/dennistenen), Instructor ([Assistant
+- [Manan Ahmed](https://twitter.com/sepoy), [Assistant Professor,
+  Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+- [Desmond Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant Professor of Social Work
+- [Dennis Tenen](https://twitter.com/dennistenen), [Assistant
   Professor, Department of
-English](http://english.columbia.edu/people/profile/453))
+English](http://english.columbia.edu/people/profile/453)
 
