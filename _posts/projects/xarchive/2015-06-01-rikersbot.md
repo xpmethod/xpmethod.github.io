@@ -22,7 +22,7 @@ issue: 15
 updates:
 - date: 12/03
   type: press
-  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets), Innovation Agents."
+  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
 - date: 11/30
   type: press
