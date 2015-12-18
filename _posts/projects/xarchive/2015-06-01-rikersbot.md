@@ -3,6 +3,7 @@ layout: project
 title: Rikers Bot
 tags:
 - Manan Ahmed
+- Adam Ares
 - Zeinab Aina
 - Thomas Brown III
 - Marjana Chowdhury
@@ -11,6 +12,9 @@ tags:
 - Katarzyna Kaczowka
 - Desmond Patton
 - Cameron Rasmussen
+- Christopher Riederer
+- Morgan Sparkman
+- Elijah Strauss
 - Dennis Yi Tenen
 - Young People at Rikers
 category: public-discourse
