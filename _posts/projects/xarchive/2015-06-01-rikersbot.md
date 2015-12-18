@@ -24,6 +24,10 @@ image: rikersbot-flyer.jpg
 images:
 issue: 15
 updates:
+- date: 12/03
+  type: press
+  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
+
 - date: 11/30
   type: press
   text: "How Rikers Inmates and Columbia Students Built A Twitter Bot--With No Internet. [Fast Company](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter), Innovation Agents."
