@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Literary Visualization Lab"
+title: "Literary Modeling & Visualiation Lab"
 tags:
 - Sierra Eckert
 - Allison Chaney
@@ -14,6 +14,7 @@ images:
 issue: 15
 ---
 
+<<<<<<< HEAD
 ## Updates
 - Cleaned corpus and developed preliminary stopwords list for initial LDA model (October 2015)
 - Compiled a test corpus for the time-signature project (August 2015)
@@ -21,6 +22,9 @@ issue: 15
 ## Literary Visualization Lab
 
 The Literary Visualization Lab is a project whose goal is to re-think our
+=======
+The Literary Modeling & Visualization Lab is a project whose goal is to re-think our
+>>>>>>> upstream/master
 approach to displaying and designing tools for exploring literary data. Rather
 than simply making standalone, one-off maps, graph, or chart of a novel, the
 literary visualization lab is interested in reading laterally across multiple
@@ -30,7 +34,7 @@ illuminate the multiplicity of reading methods, practices, and ways of
 navigating a text. In the gallery below are a series of projects that layer
 different views on a text or set of texts.
 
-## The Shape of Time
+### The Shape of Time
 
 In a novel, time does not often move evenly or linearly–––a single paragraph in
 García Márquez's *One Hundred Years of Solitude* jumps several decades while in

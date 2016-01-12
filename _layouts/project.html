@@ -1,12 +1,13 @@
 ---
 layout: default
+url: research/
 ---
 
 <div id="post">
-    <h3>&raquo; {{ page.title }}
+    <h2>&raquo; {{ page.title }}
     {% if page.type %}
         <sup><code>{{ page.type }}</code></sup>
-    {% endif %}</h3>
+    {% endif %}</h2>
 
     <!-- remember tags are people -->
     <sup>
@@ -43,6 +44,20 @@ layout: default
     <div id="prompt">
         {{ page.prompt }}
     </div>
+    {% endif %}
+
+    <!-- include updates if we have them--!>
+
+    {% if page.updates%}
+        <div id="update-div">
+            <h3>Updates</h3>
+            {% for update in page.updates %}
+                <div id="update-list">
+                    <div id="update-date-project">{{ update.date }}</div>
+                    <div id="update-text-project">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                </div>
+            {% endfor %}
+        </div>
     {% endif %}
 
     {{ content }}

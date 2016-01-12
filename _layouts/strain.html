@@ -3,6 +3,12 @@ layout: default
 ---
 
 <div id="post">
+
+<div class="issue-nav">
+&nbsp;
+&nbsp;
+</div>
+
 {{ content }}
 
 <!-- Show all projects--!>
@@ -12,7 +18,7 @@ layout: default
 {% endif %}
 {% for post in site.categories[page.title] %}
 <div id="strain">
-    <h3>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    <h3 id="strain">&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
 
     <!-- What kind of activity is this? Project, talk, blog post? -->
     {% if post.type %}

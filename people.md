@@ -3,6 +3,11 @@ layout: people
 title: people
 ---
 
+<div class="issue-nav">
+&nbsp;
+&nbsp;
+</div>
+
 The group does not maintain an official membership list. This page is generated
 automatically by polling activity in the "research strains" portion of the
 website. We prefer to collaborate via GitHub as it makes the labor of all

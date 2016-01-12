@@ -1,14 +1,22 @@
 ---
 layout: project
-title: Hate Speech and Online Activism 
+title: Hate Speech and Online Activism
 tags:
 - Phillip R. Polefrone
 category: public-discourse
-type: semantic analysis 
+type: semantic analysis
 prompt: #GamerGate and movements like it have revitalized a longstanding debate on the limits of the "free-speech" argument when discussing hate speech. Combining theoretical, historical, and legal research with a quantitative semantic analysis of tweets using the #GamerGate hashtag will put recent events in context. It will also begin to answer the question: How does hate speech operate online? Where do tweets like those of #GamerGate fit in the current legal definitions of hate speech? And, crucially, how can an understanding of this evolving language be used to protect online activists?
 snippet: 150
 published: true
 issue: 15
+updates:
+
+- date: 05/15
+  type: grant
+  text: "Project receives $5,000 from Columbia University's School of
+International and Public Affairs (SIPA) and Carnegie to further research on
+hate speech and the protection of online activists."
+
 ---
 
 Since the beginning of #GamerGate in 2014, threats to online feminist activists
@@ -30,7 +38,7 @@ of the existing work on #GamerGate has been network analysis, and while such
 work is unquestionably useful for any social media topic, its exclusion of
 semantic content limits its applications. Most notably for my purposes, network
 analysis does not allow us to ask whether and how these tweets operate as hate
-speech. 
+speech.
 
 To address this question will require several distinct modes of comparison. To
 establish a reliable working definition of hate speech will require
@@ -42,9 +50,9 @@ recognized records of hate speech and criminal harassment will put these
 utterances in a clear context. Simply put, the goal of the project will be to
 provide quantitative support to existing scholarship on online hate crimes,
 both to make it more useful to policy makers and to demonstrate the extent and
-nature of an increasingly pernicious problem. 
+nature of an increasingly pernicious problem.
 
-#Policy Application 
+### Policy Application
 
 This research could have a considerable impact on policy decisions because of
 the amount of available data and the renewed focus on protecting online civil

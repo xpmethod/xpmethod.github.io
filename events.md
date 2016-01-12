@@ -3,6 +3,11 @@ layout: events
 title: events
 ---
 
+<div class="issue-nav">
+&nbsp;
+&nbsp;
+</div>
+
 While much time has been spent theorizing the "digital" in Digital Humanities,
 the **On Method in the Humanities** series seeks to gain a greater
 understanding of the heritage and future of humanistic inquiry. In addition to

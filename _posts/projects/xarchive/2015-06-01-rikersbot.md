@@ -3,13 +3,18 @@ layout: project
 title: Rikers Bot
 tags:
 - Manan Ahmed
+- Adam Ares
 - Zeinab Aina
 - Thomas Brown III
 - Marjana Chowdhury
 - Andi Dixon
 - Janine Ko
 - Katarzyna Kaczowka
+- Desmond Patton
 - Cameron Rasmussen
+- Christopher Riederer
+- Morgan Sparkman
+- Elijah Strauss
 - Dennis Yi Tenen
 - Young People at Rikers
 category: public-discourse
@@ -18,18 +23,46 @@ published: true
 image: rikersbot-flyer.jpg
 images:
 issue: 15
+updates:
+- date: 12/03
+  type: press
+  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
+
+- date: 11/30
+  type: press
+  text: "How Rikers Inmates and Columbia Students Built A Twitter Bot--With No Internet. [Fast Company](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter), Innovation Agents."
+
+- date: 11/15
+  type: update
+  text: "Welcome [Desmond
+Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant
+Professor of Social Work at Columbia."
+
+- date: 10/15
+  type: press
+  text: "Kim Martineau [wrote about the
+project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less)
+for the Data Science Institute."
+
+- date: 10/15
+  type: update
+  text: Bot launched.
+
+- date: 08/15
+  type: update
+  text: Family event for Rikers workshop participants at Rikers on Aug 10.
+
+- date: 07/15
+  type: update
+  text: Andi Dixon joins the team as community coordinator.
+
+- date: 05/15
+  type: update
+  text: Brainstorming session with Columbia's Center for Justice.
+
 ---
 
-## Updates
-
-- Kim Martineau [writes about the project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less) for the Data Science Institute.
-- Bot launched on 10/22/15
-- A family event for workshops participants at Rikers on Aug 10
-- Complete 4 workshops at Rikers in July--August, 2015
-- Andi Dixon joins the team as community coordinator (Summer 2015)
-- Brainstorming session with Columbia's Center for Justice in Spring, 2015
-
-## About
+### About
 
 [@rikersbot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional
@@ -56,7 +89,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 <a href="https://twitter.com/rikersbot" class="twitter-follow-button" data-show-count="false">Follow @rikersbot</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-# Schedule
+### Schedule
 
 - [Day
   1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)<sup>†</sup>
@@ -64,12 +97,12 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 - [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>†</sup>
 - [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>†</sup>
 
-# Twitter
+### Twitter
 
 <a class="twitter-timeline" href="https://twitter.com/rikersbot" data-widget-id="624286882378215424">Tweets by @rikersbot</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 
-# What It Takes
+### What It Takes
 
 - 5 X [Lenovo N21
   Chromebook](http://www.lenovopartnernetwork.com/products/lenovo-n21)
@@ -84,7 +117,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
-# Credits
+### Credits
 
 Ivan   
 Joshua  
@@ -98,16 +131,18 @@ Ron
 Sutki  
 Tyrieque  
 
-## Outreach
+### Outreach
 
 - [Cameron Rasmussen](https://twitter.com/cameron_916) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
 - [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
   xpMethod)
 
-## CU Faculty Moderators
+### CU Faculty Moderators
 
-- [Manan Ahmed](https://twitter.com/sepoy), Instructor ([Assistant Professor,
-  Department of History](http://history.columbia.edu/faculty/Ahmed.html))
-- [Dennis Tenen](https://twitter.com/dennistenen), Instructor ([Assistant
+- [Manan Ahmed](https://twitter.com/sepoy), [Assistant Professor,
+  Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+- [Desmond Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant Professor of Social Work
+- [Dennis Tenen](https://twitter.com/dennistenen), [Assistant
   Professor, Department of
-English](http://english.columbia.edu/people/profile/453))
+English](http://english.columbia.edu/people/profile/453)
+
