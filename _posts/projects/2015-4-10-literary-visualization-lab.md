@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Literary Modeling & Visualiation Lab"
+title: "Literary Modeling & Visualization Lab"
 tags:
 - Sierra Eckert
 - Allison Chaney
@@ -13,6 +13,13 @@ images:
 - eliot-corpus.jpg
 issue: 15
 ---
+
+
+## Updates
+- Cleaned corpus and developed preliminary stopwords list for initial LDA model (October 2015)
+- Compiled a test corpus for the time-signature project (August 2015)
+
+## Literary Visualization Lab
 
 The Literary Modeling & Visualization Lab is a project whose goal is to re-think our
 approach to displaying and designing tools for exploring literary data. Rather
