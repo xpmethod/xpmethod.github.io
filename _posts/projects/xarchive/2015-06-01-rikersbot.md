@@ -10,6 +10,7 @@ tags:
 - Andi Dixon
 - Janine Ko
 - Katarzyna Kaczowka
+- Durba Mitra
 - Desmond Patton
 - Cameron Rasmussen
 - Christopher Riederer
