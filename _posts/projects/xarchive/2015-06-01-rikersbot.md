@@ -118,8 +118,9 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
-### Credits
+### Young People of Rikers
 
+#### Summer 2015
 Ivan   
 Joshua  
 Lonzell   
@@ -131,6 +132,15 @@ Romeo
 Ron  
 Sutki  
 Tyrieque  
+
+#### Fall 2015
+
+Ahziem  
+Christian  
+Christopher  
+Trayvon  
+John  
+Jared  
 
 ### Outreach
 
