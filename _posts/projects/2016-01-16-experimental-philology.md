@@ -3,7 +3,7 @@ layout: project
 title: "Experimental Philology and Minimal Editions"
 tags:
 - Susanna Allés Torrent 
-category: public-discourse
+category: experimental-textualities
 images:
  - Alles_1478.jpg 
  - Alles_1491.jpg
