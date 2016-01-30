@@ -15,7 +15,7 @@ issue: 15
 
 ### About
 
-For more than two centuries Textual Scholarship have been based in print technologies: theories, methods, and practices aim as a final goal a final product fixed by ink. Digital Scholarly Editing and ePhilology has opened new paths of research and the field is increasingly broadening its digital theoretical implications. However, scholars are still constructing digital theories, and exploring digital practices. Each project proceeds in a different way, having in common sometimes just the encoding language. From the XPMethods we aim to experiment with digital practice for digital scholarly editing proposing new workflows. We believe that digital practice should work towards sustainability, scalability, minimal technology and infrastructure, reusability, and, especially as we consider it a research fundamental, reproducibility. 
+For centuries, the theories and methods of textual scholarship have presupposed the analog media of ink and paper, but the ever-growing digitality of today's texts requires us to challenge our assumptions about scholarly editing, textual scholarship, and publication. This research cluster aims to reimagine the tools and workflows of digital scholarly editing, with a focus on sustainability, scalability, and reproducibility. 
 
 ### A Digital Critical Edition for the *Vitae Illustrium Virorum* Project 
 Susanna Allés-Torrent, Lecturer in Digital Humanities at the [Department of Latin American and Iberian Cultures](http://laic.columbia.edu/)
