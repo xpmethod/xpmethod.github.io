@@ -5,10 +5,10 @@ tags:
 - Susanna Allés Torrent 
 category: experimental-textualities
 images:
- - Alles_1478.jpg 
+ - Alles_1478.jpg
  - Alles_1491.jpg
  - Alles_screenshot.png
- issue: 15
+issue: 15
  
 ---
 ## About
