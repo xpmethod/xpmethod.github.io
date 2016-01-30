@@ -1,6 +1,6 @@
 ---
 layout: strain
-title: experimental-philology
+title: experimental-textualities
 category: research
 ---
 
