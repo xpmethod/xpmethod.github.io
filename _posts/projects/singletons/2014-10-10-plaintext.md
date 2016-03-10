@@ -10,7 +10,7 @@ image: control-2.png
 issue: 15
 ---
 
-The book is about the strange entanglement between humans, texts, and
+This book is about the strange entanglement between humans, texts, and
 machines. It examines key literary theoretical ideas alongside the
 intellectual history of software engineering which frames modern reading,
 writing, and interpretation practices. It is a deeply materialist work,
