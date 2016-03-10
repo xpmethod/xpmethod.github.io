@@ -10,10 +10,14 @@ image: control-2.png
 issue: 15
 ---
 
-<sub>I live stream my writing sessions. Follow me at
-[livecoding.tv/denten](https://www.livecoding.tv/denten) if you are intrested
-in the mechanics of manuscript preparation, Bash, Vim, Git, Markdown, Pandoc,
-or Zotero.</sub>
+The book is about the strange entanglement between humans, texts, and
+machines. It examines key literary theoretical ideas alongside the
+intellectual history of software engineering which frames modern reading,
+writing, and interpretation practices. It is a deeply materialist work,
+arguing that even our most ingrained intuitions about texts are profoundly
+alienated from the contexts of their production. A new kind of poetics is
+therefore necessary to preserve the free play of ideas implicit in the method
+of humanistic inquiry.
 
 As I write these words, a ceiling-mounted smoke detector in my kitchen emits a
 loud noise every three minutes or so. And at every 15 minutes, a pleasant

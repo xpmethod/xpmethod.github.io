@@ -6,7 +6,7 @@ tags:
 - Allison Chaney
 - name: Emily Fuhrman
   url: http://emilyfuhrman.co
-category: theory-method
+category: literary-modeling-and-visualization-lab
 type: radiant textuality
 published: true
 snippet: 102
@@ -25,13 +25,13 @@ issue: 15
 
 ## Literary Visualization Lab
 
-The Literary Modeling & Visualization Lab is a project whose goal is to re-think our
-approach to displaying and designing tools for exploring literary data. Rather
-than simply making standalone, one-off maps, graph, or chart of a novel, the
-literary visualization lab is interested in reading laterally across multiple
-ways of visualizing and making navigable a text. Through these iterative
-graphics, we draw on the rhetorical power of visualization in order to
-illuminate the multiplicity of reading methods, practices, and ways of
+The Literary Modeling & Visualization Lab is a project whose goal is to
+re-think our approach to displaying and designing tools for exploring literary
+data. Rather than simply making standalone, one-off maps, graph, or chart of a
+novel, the literary visualization lab is interested in reading laterally
+across multiple ways of visualizing and making navigable a text. Through these
+iterative graphics, we draw on the rhetorical power of visualization in order
+to illuminate the multiplicity of reading methods, practices, and ways of
 navigating a text. In the gallery below are a series of projects that layer
 different views on a text or set of texts.
 
@@ -59,8 +59,26 @@ words denoting time passing to chunk the text in four different ways, and run
 our model on these four different "chunkings" of the text.
 
 ### Mapping Indexicality
-This project interprets the text of _The Arcades Project_ as a collection of indexical gestures, reading instances of linguistic deixis as concretized moments of textual interiority. According to Charles Sanders Peirce, the word "this" is a certain type of index, which "calls upon the hearer to use his powers of observation, and so establish a real connection between his mind and the object." Within a textual setting, the word "this" takes on a different kind of identity. Couched in a grammatical context, it becomes a marker of intratextual reference and a signifier of its own position. It embodies something close to a textual consciousness capable of remembering, anticipating, and referring to itself. 
 
-Given the context-dependent meaning of deixis and the subjecthood implicit to its operation, this project endeavors to track every instance of the word "this" in _The Arcades Project_, classify the context of each instance along distinct spatial and temporal axes, and visually represent each convolute as a meandering path through time and space in a manner resonant with Benjamin's description of the flâneur. The spatial movement evoked by the deictic instance, along with the temporal movement represented in linguistic modality and tense, forms the basis of each trajectory.
+This project interprets the text of _The Arcades Project_ as a collection of
+indexical gestures, reading instances of linguistic deixis as concretized
+moments of textual interiority. According to Charles Sanders Peirce, the word
+"this" is a certain type of index, which "calls upon the hearer to use his
+powers of observation, and so establish a real connection between his mind and
+the object." Within a textual setting, the word "this" takes on a different
+kind of identity. Couched in a grammatical context, it becomes a marker of
+intratextual reference and a signifier of its own position. It embodies
+something close to a textual consciousness capable of remembering,
+anticipating, and referring to itself.
 
-For further documentation, see the [original post](http://emilyfuhrman.co/projects/mapping-indexicality-in-the-arcades-project.html).
+Given the context-dependent meaning of deixis and the subjecthood implicit to
+its operation, this project endeavors to track every instance of the word
+"this" in _The Arcades Project_, classify the context of each instance along
+distinct spatial and temporal axes, and visually represent each convolute as a
+meandering path through time and space in a manner resonant with Benjamin's
+description of the flâneur. The spatial movement evoked by the deictic
+instance, along with the temporal movement represented in linguistic modality
+and tense, forms the basis of each trajectory.
+
+For further documentation, see the [original
+post](http://emilyfuhrman.co/projects/mapping-indexicality-in-the-arcades-project.html).
