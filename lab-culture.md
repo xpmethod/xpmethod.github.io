@@ -16,7 +16,6 @@ With these concerns in mind, we actively promote the following best practices:
 4. Economy of attention--do not demand attention. Voices should be kept at a "cafe" setting, and conversations should move to various islands.
 
 
-
 Inspired by similar documents at:
 http://bangbangcon.com/conduct.html  
 
