@@ -1,15 +1,18 @@
+## Lab Culture
+
+Our lab aims for a conscious and engaged environment that is cognizant of dynamics of gender, race, and power
+are vertices of encounter in academia. We are also aware of how insider/outsider and positionality inform behavior. 
+
 ## Best Practices
 
-Our lab strives to create an inclusive environment. Gender, race, and power
-remain vertices of encounter in academia. Aware of this, we ask that you be
-mindful of:
+With these concerns in mind, we actively promote the following best practices:
 
-1. Architectures of power. Be mindful of the room’s physical arrangement. At
+1. Architectures of power-- being mindful of the room’s physical arrangement. At
 the beginning of lab, long tables should be broken down into smaller islands
-of activity. Locations of power, like the lectern and should be systematically
+of activity. Locations of power, such as the lectern, should be systematically
 ceeded and inverted.
 
-2. Polyglossia. Moderate your voice. For every word spoken make sure a
+2. Polyglossia-- moderate your voice. For every word spoken make sure a
 mutliplicity of words are spoken by someone else.
 
 3. Avoid over-explaining. There are plenty of structured learning. We want to
