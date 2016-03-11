@@ -11,11 +11,10 @@ With these concerns in mind, we actively promote the following best practices:
 
 2. Polyglossia-- moderate your voice. For speaker should make sure that mutliplicity of voices are promoted.
 
-3. Peer Learning- avoid explaining and pontificating. We want to facilitate peer learning. It is best to demonstrate via tools and allowing the learner to ask leading question rather than pre-explaining.
+3. Peer Learning-- avoid explaining and pontificating. We want to facilitate peer learning. It is best to demonstrate via tools and allowing the learner to ask leading question rather than pre-explaining. Aim to provide support. Reach out to new users of the space, introduce yourself, and help them acclimatize. Ask if they need support for their project-- connect them to peer users.
 
-4. Economy of attention: Do not demand attention. Voices should be kept at a "cafe" setting, and conversations should move to various islands.
+4. Economy of attention--do not demand attention. Voices should be kept at a "cafe" setting, and conversations should move to various islands.
 
-5. Provide Support. Reach out to new users of the space, introduce yourself, and help them acclimatize. Ask if they need support for their project-- connect them to peer users.
 
 
 Inspired by similar documents at:
