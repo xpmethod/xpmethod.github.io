@@ -3,7 +3,7 @@
 Our lab aims for a conscious and engaged environment that is cognizant of dynamics of gender, race, and power
 are vertices of encounter in academia. We are also aware of how insider/outsider and positionality inform behavior. 
 
-## Best Practices
+### Best Practices
 
 With these concerns in mind, we actively promote the following best practices:
 
