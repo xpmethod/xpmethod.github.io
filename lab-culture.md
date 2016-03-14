@@ -5,13 +5,13 @@ title: lab-culture
 
 We would like to maintain a conscious and engaged environment in the lab,
 sensitive to the dynamics power, particularly as they manifest in spatial and
-temporal arrangements.
+temporal imbalances of participation.
 
-### Best Practices
+### Modalities of Engagement
 
 With this goal in mind, we actively promote the following practices:
 
-1. Architectures of power---be mindful of the room’s physical arrangement. At
+1. Architectures of power---be mindful of the room's physical arrangement. At
 the beginning of lab, long tables should be broken down into smaller islands
 of activity. Locations of power, such as the lectern or the center of the
 room, should be systematically ceded and inverted.
