@@ -3,37 +3,38 @@ layout: lab-culture
 title: lab-culture
 ---
 
-Our lab aims for a conscious and engaged environment that is cognizant of
-dynamics of gender, race, and power. We strive for spatiotemporal awareness
-that structures the relations between center an periphery, access and
-exclusion, paucity and abundance.
+We would like to maintain a conscious and engaged environment in the lab,
+sensitive to the dynamics power, particularly as they manifest in spatial and
+temporal arrangements.
 
 ### Best Practices
 
-With these concerns in mind, we actively promote the following best practices:
+With this goal in mind, we actively promote the following practices:
 
 1. Architectures of power---be mindful of the room’s physical arrangement. At
-the beginning of lab, long tables should be broken down into smaller islands of
-activity. Locations of power, such as the lectern, should be systematically
-ceded and inverted.
+the beginning of lab, long tables should be broken down into smaller islands
+of activity. Locations of power, such as the lectern or the center of the
+room, should be systematically ceded and inverted.
 
-2. Polyglossia---help bring a multiplicity of voices into the space. We must
-reach beyond networks of discipline, profession, race, gender, and class that
-tend towards homogeneity. What we do in the room to redress inequality cannot
-succeed if our makeup reflects power imbalances.
-
-3. Peer Learning---avoid long explanations and pontificating. We want to
-facilitate peer learning.
-
-4. Economy of attention--do not demand attention. Voices should be kept at a
-"cafe" setting. Yield the floor and delegate authority. Come to definite
-conclusions that let people know that you are done. Conversations should move
-to various islands. Structure and preparation is a sign of respect for your
-audience. All soliloquies should be punctured by moments of quietude and
-reflection, giving space to those hesitant to join in the discussion. Ask
+2. Economy of attention--think carefully of other people's time. Yield the
+floor and delegate authority. Come to definite conclusions that let people
+know that you are done. Conversations should move to various islands.
+Structure and preparation is a sign of respect for your audience. Ask
 questions. Listen more than you speak.
 
+3. Polyglossia---help bring a multiplicity of voices into the space. Allowing
+other voices to be heard means also moderating one's own. Be aware of the
+strength and the reach of your voice. Soliloquies should be punctured by
+moments of quietude and reflection, giving time and space to those hesitant to
+join in the discussion. Watch for queues of others trying to speak but being
+interrupted or denied the opportunity.
 
+4. Peer Learning---avoid long explanations and pontificating. We want to
+facilitate peer learning. Allow others the opportunity to figure it out on
+their own.
+
+*Last edited on 3/14/2016. Change log
+[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.
 
 Inspired by similar documents at:
 
