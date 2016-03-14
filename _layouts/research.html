@@ -4,17 +4,17 @@ url: research/
 ---
 
 <div class="issue-nav">
-
     <code>Volume:
 
-{% assign sorted_pages = site.pages | sort:"name" %}
-{% for node in sorted_pages %}
-{% if node.issue %}
+        {% assign sorted_pages = site.pages | sort:"name" %}
+        {% for node in sorted_pages %}
+        {% if node.issue %}
 
-<a class="{% if page.issue == node.issue %}active{% endif %}" href="{{ node.url }}">{{ node.issue }}</a>
+        <a class="{% if page.issue == node.issue %}active{% endif %}" href="{{
+            node.url }}">{{ node.issue }}</a>
 
-{% endif %}
-{% endfor %}
+        {% endif %}
+        {% endfor %}
 
     </code>
 </div>
@@ -23,45 +23,34 @@ url: research/
     {{ content }}
 
     {% for post in site.categories[page.title] %}
-     
+
         {% if post.title != null %}
-            <h3 class="cats"><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+
+            <h3 class="cats">
+                <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+            </h3>
+
         {% endif %}
 
         <!-- list all projects as a strain in subscript -->
         <div id="strains">
-        {% for post in site.categories[post.title] %}
-	{% capture issue %}{{ post.issue }}{% endcapture %}
-	{% if post.issue == page.issue %}
-	
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+            {% for post in site.categories[post.title] %}
+                {% capture issue %}{{ post.issue }}{% endcapture %}
+                {% if post.issue == page.issue %}
 
-	{% endif %}
-        {% endfor %}
+                    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+
+                {% endif %}
+            {% endfor %}
         </div>
 
         <div class='indent'>
             {{ post.content | truncatewords:275 }}
         </div>
+
         <!-- <a href="{{ post.url }}">Read more</a> -->
         <!-- hack to prevent unclosed lists in the snippet -->
         </ul></ol>
 
     {% endfor %}
-<!-- 
-{% for post in site.posts %}
-    {% capture currentyear %}{{post.date | date: "%Y"}}{% endcapture %}
-
-    {% if currentyear != year %}
-        {% unless forloop.first %}</ul>{% endunless %}
-        <h1>{{ currentyear }}</h1>
-        <ul>
-        {% capture year %}{{currentyear}}{% endcapture %} 
-    {% endif %}
-
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% if forloop.last %}</ul>{% endif %}
-{% endfor %}
--->
-
 </div>
