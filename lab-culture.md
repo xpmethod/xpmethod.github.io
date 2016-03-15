@@ -4,8 +4,8 @@ title: lab-culture
 ---
 
 We would like to maintain a conscious and engaged environment in the lab,
-sensitive to the dynamics of power, gender and race-- particularly as they manifest in spatial and
-temporal imbalances of participation.
+sensitive to the dynamics of power---gender, class, race---particularly as
+they manifest in spatial and temporal imbalances of participation.
 
 ### Modalities of Engagement
 
