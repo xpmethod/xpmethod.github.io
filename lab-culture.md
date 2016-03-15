@@ -4,7 +4,7 @@ title: lab-culture
 ---
 
 We would like to maintain a conscious and engaged environment in the lab,
-sensitive to the dynamics power, particularly as they manifest in spatial and
+sensitive to the dynamics of power, particularly as they manifest in spatial and
 temporal imbalances of participation.
 
 ### Modalities of Engagement
