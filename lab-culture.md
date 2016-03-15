@@ -16,7 +16,7 @@ the beginning of lab, long tables should be broken down into smaller islands
 of activity. Locations of power, such as the lectern or the center of the
 room, should be systematically ceded and inverted.
 
-2. Economy of attention--think carefully of other people's time. Yield the
+2. Economy of attention---think carefully of other people's time. Yield the
 floor and delegate authority. Come to definite conclusions that let people
 know that you are done. Conversations should move to various islands.
 Structure and preparation is a sign of respect for your audience. Ask
