@@ -26,7 +26,7 @@ questions. Listen more than you speak.
 other voices to be heard means also moderating one's own. Be aware of the
 strength and the reach of your voice. Soliloquies should be punctured by
 moments of quietude and reflection, giving time and space to those hesitant to
-join in the discussion. Watch for queues of others trying to speak but being
+join in the discussion. Watch for cues of others trying to speak but being
 interrupted or denied the opportunity.
 
 4. Peer Learning---avoid long explanations and pontificating. We want to
