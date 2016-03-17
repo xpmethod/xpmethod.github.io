@@ -33,7 +33,9 @@ interrupted or denied the opportunity.
 facilitate peer learning. Allow others the opportunity to figure it out on
 their own.
 
-*Last edited on 3/14/2016. Change log
+5. Ethics of shared labor--- we make all labor visible. Keep a manifest of project work done, to the extent possible.  Be aware of credit hierarchies. Prioratize the exposure of junior collegues. Credit the lab collective in public and encourage others to read through the records carefully for granular attribution.
+
+*Last edited on 3/16/2016. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.
 
 Inspired by similar documents at:
