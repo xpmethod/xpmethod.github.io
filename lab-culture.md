@@ -1,5 +1,5 @@
 ---
-layout: lab-culture
+layout: vanilla
 title: lab-culture
 ---
 
