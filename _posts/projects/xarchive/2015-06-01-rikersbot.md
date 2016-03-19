@@ -26,13 +26,14 @@ image: rikersbot-flyer.jpg
 images:
 issue: 15
 updates:
-- date: 12/03
-  type: press
-  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
 - date: 03/19
   type: update
   text: "Last class takes place."
+
+- date: 12/03
+  type: press
+  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
 - date: 11/30
   type: press
@@ -125,14 +126,6 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 ### Young People of Rikers
 
-#### Spring 2016
-Jonathan Jones
-John Gomez
-Hint Joseph
-Chris Dargan
-Rashawn Kingsberry
-Rahim Ali
-Brandon Lomex
 
 #### Summer 2015
 Ivan   
