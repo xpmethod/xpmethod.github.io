@@ -8,6 +8,7 @@ tags:
 - Thomas Brown III
 - Marjana Chowdhury
 - Andi Dixon
+- Alex Gil
 - Janine Ko
 - Katarzyna Kaczowka
 - Durba Mitra
@@ -28,6 +29,10 @@ updates:
 - date: 12/03
   type: press
   text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
+
+- date: 03/19
+  type: update
+  text: "Last class takes place."
 
 - date: 11/30
   type: press
@@ -119,6 +124,15 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
 ### Young People of Rikers
+
+#### Spring 2016
+Jonathan Jones
+John Gomez
+Hint Joseph
+Chris Dargan
+Rashawn Kingsberry
+Rahim Ali
+Brandon Lomex
 
 #### Summer 2015
 Ivan   
