@@ -1,0 +1,4 @@
+---
+layout: vanilla
+title: partners
+---
