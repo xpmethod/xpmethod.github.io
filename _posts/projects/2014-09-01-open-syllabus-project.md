@@ -89,7 +89,6 @@ donation or---more rapidly and with deeper historical reach---through access
 to syllabus archives maintained by many institutions. In either case we need
 your support. Let's build a Syllabus Commons.
 
-*By the OSP Team. Last revision 2/12/16. A [longer
-version](http://web.archive.org/web/20160320183010/http://chronicle.com/article/How-a-Syllabus-Commons-/235330)
-of this article appeared at *The Chronicle of Higher Education* on Feb 18,
-2016.
+*By the OSP Team. Last revision 2/12/16. A [longer version of this
+article](http://web.archive.org/web/20160320183010/http://chronicle.com/article/How-a-Syllabus-Commons-/235330)
+appeared at The Chronicle of Higher Education on Feb 18, 2016.*
