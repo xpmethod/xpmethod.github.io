@@ -14,11 +14,6 @@ published: true
 issue: 15
 updates:
 
-- date: 11/15
-  type: update
-  text: "[Federico Kirschbaum](https://twitter.com/fede_k) of the
-[Ekoparty](https://www.ekoparty.org/) joins as partner."
-
 - date: 10/15
   type: update
   text: "Digital Justice partnered with
@@ -42,7 +37,7 @@ Community Coordinator (Oct, 2015)."
 
 - date: 05/15
   type: grant
-  text: "The pilot project in Santiago, Chile has been funded with generous
+  text: "The pilot project in Mumbai, India has been funded with generous
 support from the President's Global Innovation Fund, in the amount of
 $20,000."
 
