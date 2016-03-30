@@ -16,11 +16,6 @@ updates:
 
 - date: 10/15
   type: update
-  text: "Digital Justice partnered with
-  [poderopedia.org](http://www.poderopedia.org/)."
-
-- date: 10/15
-  type: update
   text: "Welcome [Miguel Paz](http://www.icfj.org/about/profiles/miguel-paz)
 and [Daniel
 Rojas](http://www.elespectador.com/opinion/daniel-emilio-rojas-castro)"
