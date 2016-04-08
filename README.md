@@ -95,5 +95,7 @@ The site was originally forked from
 - set your editor to hard-wrap at 78 characters
 - if you are using vim, use the sample .vimrc file provided here for lab
 defaults
+- for links to static pages use internet archive snapshots as much as possible to minimize link rot
+- instead of issues use the TODO file
 
 
