@@ -1,9 +1,1 @@
-- create a gallery template
-
-- start the NYC-folk-tech album
-
-- we are opening up a new vocabulary here--it would be nice to come up with a
-  glossary of terms that would include things like encoutners, situtation,
-process-based scholarship, experiment end so on
-
-- contact EFF
+- migrate issues into here
