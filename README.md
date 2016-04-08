@@ -96,6 +96,6 @@ The site was originally forked from
 - if you are using vim, use the sample .vimrc file provided here for lab
 defaults
 - for links to static pages use internet archive snapshots as much as possible to minimize link rot
-- instead of issues use the TODO file
+- for simple issues use the [TODO.md](https://github.com/xpmethod/xpmethod.github.io/blob/master/TODO.md) file
 
 
