@@ -7,6 +7,7 @@
 - remove volumes
 - landing page should be research
 - research should be projects
+- add CWCL to projects
 
 ## Yellow
 
