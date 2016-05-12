@@ -72,10 +72,9 @@ Provisional Schedule
 
 July 2-3, pre-event workshop (R&R)
 
-        2 day workshop on book digitization and shadow libraries, with the 
-        local community, Open Media Library and Memory of the World crews.
-        
-        
+- 2 day workshop on book digitization and shadow libraries, with the local
+  community, Open Media Library and Memory of the World crews.
+
 Day 1, June 4 (TISS)
 
 - 2hr Closed Meeting: Shadow libraries and archives in India
