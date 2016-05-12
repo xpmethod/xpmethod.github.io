@@ -48,7 +48,7 @@ possibilities for further concerted action.
 
 
 Organizational detail:
---------------------------------------------------------
+========================================================
 
 - Travel. Participants not able to pay for travel will be provided a travel
   stipend. We are not able to reimburse travel: please arrange to purchase
@@ -68,7 +68,7 @@ not advised. State the purpose of your visit as "tourism."
 
 
 Provisional Schedule
---------------------------------------------------------
+========================================================
 
 July 2-3, pre-event workshop (R&R)
 
@@ -94,7 +94,7 @@ Day 3, July 6
 
 
 Participating Partners (please add)
---------------------------------------------------------
+========================================================
 
 www.mi2.hr/en  
 xpmethod.plaintext.in  
