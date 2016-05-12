@@ -22,7 +22,6 @@ $20,000."
 
 ---
 
-```
 Epistemic Disobedience: Free Archives & Shadow Libraries
 ========================================================
 
@@ -104,4 +103,3 @@ Participating Partners (please add)
     School of Environment and Architecture
     sea.edu.in
     Centre for Labour Studies, TISS
-```
