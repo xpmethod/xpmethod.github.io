@@ -70,24 +70,24 @@ not advised. State the purpose of your visit as "tourism."
 Provisional Schedule
 --------------------------------------------------------
 
-\\ July 2-3, pre-event workshop (R&R)
+July 2-3, pre-event workshop (R&R)
 
         2 day workshop on book digitization and shadow libraries, with the
         local community, Open Media Library and Memory of the World crews.
 
-\\ Day 1, June 4 (TISS)
+Day 1, June 4 (TISS)
 
         2hr Closed Meeting: Shadow libraries and archives in India
         2hr Tactical Media Workshop I: Production
         2hr Public Panel TISS: Tactical media
 
-\\ Day 2, July 5 (TISS and R&R)
+Day 2, July 5 (TISS and R&R)
 
         2hr Closed Meeting: Epistemic disobedience
         2hr Tactical Media Workshop II: Distribution
         2hr Public Panel R&R: Decolonizing knowledge infrastructures
 
-\\ Day 3, July 6
+Day 3, July 6
 
         4hr Visiting CAMP + Center for Education & Documentation
         2hr Reception TBA
