@@ -78,20 +78,22 @@ Provisional Schedule
 
 - Day 1, June 4 (TISS)
 
-        2hr Closed Meeting: Shadow libraries and archives in India
-        2hr Tactical Media Workshop I: Production
-        2hr Public Panel TISS: Tactical media
+    2hr Closed Meeting: Shadow libraries and archives in India
+    2hr Tactical Media Workshop I: Production
+    2hr Public Panel TISS: Tactical media
+
 
 - Day 2, July 5 (TISS and R&R)
 
-        2hr Closed Meeting: Epistemic disobedience
-        2hr Tactical Media Workshop II: Distribution
-        2hr Public Panel R&R: Decolonizing knowledge infrastructures
+    2hr Closed Meeting: Epistemic disobedience
+    2hr Tactical Media Workshop II: Distribution
+    2hr Public Panel R&R: Decolonizing knowledge infrastructures
+
 
 - Day 3, July 6
 
-        4hr Visiting the Initiatives: CAMP + Center for Education & Documentation
-        2hr Reception TBA
+    4hr Visiting the Initiatives: CAMP + Center for Education & Documentation
+    2hr Reception TBA
 
 
 Participating Partners (please add)
