@@ -96,13 +96,13 @@ Day 3, July 6
 Participating Partners (please add)
 --------------------------------------------------------
 
-    www.mi2.hr/en
-    xpmethod.plaintext.in
-    studio.camp
-    sarai.net
-    leuphana.de/en/research-centers/cdc.html
-    maydayrooms.org
-    pukar.org.in
-    School of Environment and Architecture
-    sea.edu.in
-    Centre for Labour Studies, TISS
+www.mi2.hr/en  
+xpmethod.plaintext.in  
+studio.camp  
+sarai.net  
+leuphana.de/en/research-centers/cdc.html  
+maydayrooms.org  
+pukar.org.in  
+School of Environment and Architecture  
+sea.edu.in  
+Centre for Labour Studies, TISS  
