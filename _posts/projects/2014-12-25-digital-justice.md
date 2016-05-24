@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Knowledge Architectures: Mumbai"
+title: "Architectures of Knowledge: Mumbai"
 tags:
 - Alex Gil
 - Miguel Paz
@@ -21,18 +21,19 @@ $20,000."
 
 ---
 
-Epistemic Regimes: Free Archives & Shadow Libraries
+Architectures of Knowledge: Free Archives & Shadow Libraries
 ========================================================
 
 Responding to President Bollinger's call to expand the campus conversation
-about Equal Justice, this proposal, *Epistemic Regimes*, harnesses the emerging
-field of Digital Humanities towards critically engaging with questions of
-digital publics, epistemic regimes, and knowledge architectures. To these
-ends, we have organized an international meeting of researchers, librarians,
-and activists that addresses equitable distribution of information globally.
-Events held in Mumbai, India July 4th-6th. Organized by Columbia University in
-cooperation with Columbia Global Centers | Mumbai, Center for International
-History, TISS, Leuphana University, CAMP, Multimedia Institute, and others.
+about Equal Justice, this proposal, *Architectures of Knowledge*, harnesses the
+emerging field of Digital Humanities towards critically engaging with
+questions of digital publics, epistemic regimes, and knowledge architectures.
+To these ends, we have organized an international meeting of researchers,
+librarians, and activists that addresses equitable distribution of information
+globally.  Events held in Mumbai, India July 4th-6th. Organized by Columbia
+University in cooperation with Columbia Global Centers | Mumbai, Center for
+International History, TISS, Leuphana University, CAMP, Multimedia Institute,
+and others.
 
 We are inviting you to participate in a two day workshop at TISS Mumbai to be
 held July 4-6th, 2016. The workshop will bring together activists, scholars,
@@ -83,7 +84,7 @@ Day 2, July 5
 
 - 2hr Closed Meeting: Epistemic Practice
 - 2hr Workshop II: Access & Distribution
-- 2hr Public Panel: Decolonizing Knowledge Infrastructures
+- 2hr Public Panel: Decolonizing Knowledge Architectures
 
 Day 3, July 6
 
