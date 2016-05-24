@@ -76,7 +76,7 @@ July 2-3, pre-event workshop
 - 2 day workshop on book digitization and shadow libraries, with the local
   community, Open Media Library and Memory of the World crews.
 
-Day 1, June 4
+Day 1, July 4
 
 - 2hr Core Meeting: Epistemic Practice
 - 2hr Workshop I: Knowledge Labor & Production
@@ -96,7 +96,7 @@ Day 3, July 6
 Participating Partners (please add)
 ========================================================
 
-Columbia Global Centers | Mumbai
+Columbia Global Centers | Mumbai  
 www.mi2.hr/en  
 xpmethod.plaintext.in  
 studio.camp  
