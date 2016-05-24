@@ -3,7 +3,7 @@ layout: project
 title: "Architectures of Knowledge: Mumbai"
 tags:
 - Alex Gil
-- Miguel Paz
+- Varsha Ayyar
 - Daniel Rojas
 - Ashley Sayed
 - Dennis Yi Tenen
