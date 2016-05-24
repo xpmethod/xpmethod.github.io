@@ -46,7 +46,6 @@ will investigate technological and artistic practices of epistemic action,
 build alliances across borders and economies, share notes, and outline
 possibilities for further concerted action.
 
-
 Organizational detail:
 ========================================================
 
@@ -55,7 +54,7 @@ Organizational detail:
 your tickets with us directly. We will need a copy of your passport and your
 exact travel dates.
 
-- Accommodation. We have booked a number of rooms in a dormitory. We will send
+- Accommodation. We have booked a number of rooms in a hotel. We will send
   directions soon along with a more detailed itinerary.
 
 - Visas. We are not able to provide visa support. We strongly recommended that
@@ -65,24 +64,27 @@ you do so through a local agency familiar with the process.
 - Inoculation. Please remember to get appropriate shots for travel in the
   region. Consult with your physician before travel.
 
+Do not hesitate to email one of the organizers with any questions. We will
+email detailed instructions about the venue, directions, and food closer to
+the date. Check this page for updates.
 
 Provisional Schedule
 ========================================================
 
-July 2-3, pre-event workshop (R&R)
+July 2-3, pre-event workshop
 
 - 2 day workshop on book digitization and shadow libraries, with the local
   community, Open Media Library and Memory of the World crews.
 
 Day 1, June 4
 
-- 2hr Closed Meeting: Epistemic Practice
+- 2hr Core Meeting: Epistemic Practice
 - 2hr Workshop I: Knowledge Labor & Production
 - 2hr Public Panel: Tactical Media
 
 Day 2, July 5
 
-- 2hr Closed Meeting: Epistemic Practice
+- 2hr Core Meeting: Epistemic Practice
 - 2hr Workshop II: Access & Distribution
 - 2hr Public Panel: Decolonizing Knowledge Architectures
 
