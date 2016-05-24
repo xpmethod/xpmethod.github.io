@@ -2,7 +2,6 @@
 layout: project
 title: "Knowledge Architectures: Mumbai"
 tags:
-- Manan Ahmed
 - Alex Gil
 - Miguel Paz
 - Daniel Rojas
@@ -22,18 +21,18 @@ $20,000."
 
 ---
 
-Knowledge Architectures: Free Archives & Shadow Libraries
+Epistemic Regimes: Free Archives & Shadow Libraries
 ========================================================
 
 Responding to President Bollinger's call to expand the campus conversation
-about Equal Justice, this proposal, *Epistemic Disobedience*, harnesses the
-emerging field of Digital Humanities towards critically engaging with
-questions of digital publics, free speech, epistemic regimes, and knowledge
-architectures. To these ends, we have organized an international meeting of
-researchers, librarians, and activists that addresses equitable distribution
-of information globally. Events held in Mumbai, India July 4th-6th. Organized
-by Columbia University in cooperation with TISS, Leuphana University, CAMP,
-Multimedia Institute, Memory of the World and others.
+about Equal Justice, this proposal, *Epistemic Regimes*, harnesses the emerging
+field of Digital Humanities towards critically engaging with questions of
+digital publics, epistemic regimes, and knowledge architectures. To these
+ends, we have organized an international meeting of researchers, librarians,
+and activists that addresses equitable distribution of information globally.
+Events held in Mumbai, India July 4th-6th. Organized by Columbia University in
+cooperation with Columbia Global Centers | Mumbai, Center for International
+History, TISS, Leuphana University, CAMP, Multimedia Institute, and others.
 
 We are inviting you to participate in a two day workshop at TISS Mumbai to be
 held July 4-6th, 2016. The workshop will bring together activists, scholars,
@@ -94,6 +93,7 @@ Day 3, July 6
 Participating Partners (please add)
 ========================================================
 
+Columbia Global Centers | Mumbai
 www.mi2.hr/en  
 xpmethod.plaintext.in  
 studio.camp  
