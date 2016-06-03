@@ -4,9 +4,11 @@ title: "Architectures of Knowledge: Mumbai"
 tags:
 - Alex Gil
 - Varsha Ayyar
+- Rochelle Pinto
 - Daniel Rojas
 - Ashley Sayed
 - Dennis Yi Tenen
+- Sarover Zaidi
 category: minimal-computing
 type: workshop
 published: true
