@@ -76,22 +76,31 @@ July 2-3, pre-event workshop
 - 2 day workshop on book digitization and shadow libraries, with the local
   community, Open Media Library and Memory of the World crews.
 
-Day 1, July 4
+Day 1, July 4 (TISS)  
+Transportation details TBA  
 
-- 2hr Core Meeting: Epistemic Practice
-- 2hr Workshop I: Knowledge Labor & Production
-- 2hr Public Panel: Tactical Media
+- 09:00 - 10:00  Breakfast
+- 10:00 - 12:00  Core Meeting: Epistemic Practice
+- 12:00 - 13:00  Lunch
+- 13:00 - 15:00  Workshop I: Knowledge Labor & Production
+- 15:30 - 17:00  Public Panel: Tactical Media
+- 19:00 -        Dinner TBA
 
-Day 2, July 5
+Day 2, July 5 (R&R)  
+Transpiration TBA  
 
-- 2hr Core Meeting: Epistemic Practice
-- 2hr Workshop II: Access & Distribution
-- 2hr Public Panel: Decolonizing Knowledge Architectures
+- 09:00 - 10:00  Breakfast TBA
+- 10:00 - 12:00  Core Meeting: Epistemic Practice
+- 12:00 - 13:00  Lunch
+- 13:00 - 15:00  Workshop II: Access & Distribution
+- 15:30 - 17:00  Decolonizing Knowledge Architectures
+- 19:00 -        Dinner TBA
 
-Day 3, July 6
+Day 3, July 6  
+Transportation TBA
 
-- 4hr Visiting CAMP + Center for Education & Documentation
-- 2hr Reception TBA
+- 09:00 - 17:00  Visiting CAMP + Center for Education & Documentation
+- 19:00 -        Dinner TBA
 
 Participating Partners (please add)
 ========================================================
