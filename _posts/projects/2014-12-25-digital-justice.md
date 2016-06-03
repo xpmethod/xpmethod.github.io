@@ -9,6 +9,7 @@ tags:
 - Ashley Sayed
 - Dennis Yi Tenen
 - Sarover Zaidi
+- Durba Mitra
 category: minimal-computing
 type: workshop
 published: true
