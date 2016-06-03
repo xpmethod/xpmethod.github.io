@@ -7,6 +7,7 @@ tags:
 - Daniel Rojas
 - Ashley Sayed
 - Dennis Yi Tenen
+- Durba Mitra
 category: minimal-computing
 type: workshop
 published: true
@@ -109,6 +110,7 @@ Columbia Global Centers | Mumbai
 www.mi2.hr/en  
 xpmethod.plaintext.in  
 studio.camp  
+khanabadosh
 sarai.net  
 leuphana.de/en/research-centers/cdc.html  
 maydayrooms.org  
