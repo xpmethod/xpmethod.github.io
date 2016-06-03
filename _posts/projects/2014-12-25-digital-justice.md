@@ -71,12 +71,12 @@ the date. Check this page for updates.
 Provisional Schedule
 ========================================================
 
-July 2-3, pre-event workshop
+`July 2-3, pre-event workshop`
 
 - 2 day workshop on book digitization and shadow libraries, with the local
   community, Open Media Library and Memory of the World crews.
 
-Day 1, July 4 (TISS)  
+`Day 1, July 4 (TISS)`  
 Transportation details TBA  
 
 - 09:00 - 10:00  Breakfast
@@ -86,7 +86,7 @@ Transportation details TBA
 - 15:30 - 17:00  Public Panel: Tactical Media
 - 19:00 -        Dinner TBA
 
-Day 2, July 5 (R&R)  
+`Day 2, July 5 (R&R)`  
 Transpiration TBA  
 
 - 09:00 - 10:00  Breakfast TBA
@@ -96,7 +96,7 @@ Transpiration TBA
 - 15:30 - 17:00  Decolonizing Knowledge Architectures
 - 19:00 -        Dinner TBA
 
-Day 3, July 6  
+`Day 3, July 6`  
 Transportation TBA
 
 - 09:00 - 17:00  Visiting CAMP + Center for Education & Documentation
