@@ -80,9 +80,9 @@ Provisional Schedule
 Transportation details TBA  
 
 - 09:00 - 10:00  Breakfast
-- 10:00 - 12:00  Core Meeting: Epistemic Practice
+- 10:00 - 12:00  Core Meeting: Strategies and Introductions
 - 12:00 - 13:00  Lunch
-- 13:00 - 15:00  Workshop I: Knowledge Labor & Production
+- 13:00 - 15:00  Public Workshop I: Knowledge Labor & Production
 - 15:30 - 17:00  Public Panel: Tactical Media
 - 19:00 -        Dinner TBA
 
@@ -92,8 +92,8 @@ Transpiration TBA
 - 09:00 - 10:00  Breakfast TBA
 - 10:00 - 12:00  Core Meeting: Epistemic Practice
 - 12:00 - 13:00  Lunch
-- 13:00 - 15:00  Workshop II: Access & Distribution
-- 15:30 - 17:00  Decolonizing Knowledge Architectures
+- 13:00 - 15:00  Public Workshop II: Access & Distribution of Information
+- 15:30 - 17:00  Public Panel: Decolonizing Knowledge Architectures
 - 19:00 -        Dinner TBA
 
 `Day 3, July 6`  
