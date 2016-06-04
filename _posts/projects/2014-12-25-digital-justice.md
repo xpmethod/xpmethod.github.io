@@ -82,7 +82,6 @@ Provisional Schedule
 `Day 1, July 4 (TISS)`  
 Transportation details TBA  
 
-- 09:00 - 10:00  Breakfast
 - 10:00 - 12:00  Core Meeting: Strategies and Introductions
 - 12:00 - 13:00  Lunch
 - 13:00 - 15:00  Public Workshop I: Knowledge Labor & Production
@@ -92,7 +91,6 @@ Transportation details TBA
 `Day 2, July 5 (R&R)`  
 Transpiration TBA  
 
-- 09:00 - 10:00  Breakfast TBA
 - 10:00 - 12:00  Core Meeting: Epistemic Practice
 - 12:00 - 13:00  Lunch
 - 13:00 - 15:00  Public Workshop II: Access & Distribution of Information
