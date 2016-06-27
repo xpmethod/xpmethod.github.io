@@ -2,25 +2,22 @@
 layout: project
 title: "Architectures of Knowledge: Mumbai"
 tags:
-- Alex Gil
-- Varsha Ayyar
-- Rochelle Pinto
-- Daniel Rojas
+- Varsha Ayaar
+- Shaina Anand
 - Ashley Sayed
+- Daniel Rojas
+- Alex Gil
 - Dennis Yi Tenen
-- Sarover Zaidi
 - Durba Mitra
+- Manan Ahmed
 category: minimal-computing
 type: workshop
 published: true
 issue: 15
 updates:
-
 - date: 05/15
   type: grant
-  text: "The pilot project in Mumbai, India has been funded with generous
-support from the President's Global Innovation Fund, in the amount of
-$20,000."
+  text: "The pilot project in Mumbai, India has been funded with generous support from the President's Global Innovation Fund."
 
 ---
 
