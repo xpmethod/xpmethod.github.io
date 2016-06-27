@@ -88,8 +88,25 @@ ul {
 }
 
 table {
-  font-size: inherit;
-  font: 100%;
+  padding-bottom: 1em;
+  border-spacing: 0;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+table tr th {
+  font-weight: bold;
+  text-align: left;
+  border-bottom: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr td {
+  border: 0px solid gray;
+  text-align: left;
+  padding: 6px 13px;
 }
 
 .video {
