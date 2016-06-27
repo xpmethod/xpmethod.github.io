@@ -1,6 +1,7 @@
 highlighter: 'rouge'
 markdown: kramdown
 url: http://xpmethod.plaintext.in/
+future: true
 permalink: none
 
 # Required if you want to move pages into a a separate directory

@@ -3,6 +3,12 @@ layout: default
 ---
 
 <div id="post">
+
+    <div class="issue-nav">
+    &nbsp;
+    &nbsp;
+    </div>
+
     <div class="events">
         <!-- unix time in sec, add a unix day to offset the expiration a bit -->
         {% capture nowunix %}{{site.time | date: '%s' | minus: 86400 }}{% endcapture %}
@@ -20,6 +26,7 @@ layout: default
                     {% if post.type %}
                         <sup><code>{{ post.type }}</code></sup>
                     {% endif %}
+
                 {% endif %}
             <div>{{ post.prompt }}</div>
             {% endif %}
@@ -27,7 +34,6 @@ layout: default
     </div>
         {{ content }}
     <div class="events" id="archive">
-        <a href="{{site.url}}events-archive.html"><code>EVENTS
-                    ARCHIVE</code></a>
+        <a href="{{site.url}}events-archive.html"><code>EVENTS ARCHIVE</code></a>
     </div>
 </div>

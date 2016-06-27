@@ -21,8 +21,8 @@ updates:
 
 ---
 
-Architectures of Knowledge: Free Archives & Shadow Libraries
-========================================================
+Free Archives & Shadow Libraries
+=================================
 
 Responding to President Bollinger's call to expand the campus conversation
 about Equal Justice, this proposal, *Architectures of Knowledge*, harnesses the
