@@ -21,6 +21,9 @@ updates:
 
 ---
 
+Check the [events page](http://xpmethod.plaintext.in/events/dissent.html) for
+an updated schedule and the full list of participants.
+
 Free Archives & Shadow Libraries
 =================================
 
