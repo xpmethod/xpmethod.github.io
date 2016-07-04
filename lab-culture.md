@@ -41,5 +41,6 @@ their own.
 Inspired by similar documents at:
 
 - <http://bangbangcon.com/conduct.html>
+- <http://philosophy.fas.nyu.edu/object/climate.guidelines>
 
 
