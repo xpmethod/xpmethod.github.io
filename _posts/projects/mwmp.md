@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Muslim Worlds Manuscript Project"
+title: "Muslim World Manuscript Project"
 tags:
 - Manan Ahmed
 category: public-discourse
@@ -11,4 +11,74 @@ snippet: 117
 issue: 16
 ---
 
-Coming Soon. 
+## Muslim World Manuscript Project (MWMP)
+
+We aim to create a data-rich digital repository of rare manuscripts from the Muslim world in the holdings at Columbia University. The archive will engage critically with questions of access, marginality, scholarly and enthusiast collecting, and related issues. It will build on some of the work undertaken by xpMethod at their Mumbai meeting on [free archives & shadow libraries](http://xpmethod.plaintext.in/minimal-computing/digital-justice.html). 
+### Project Team: 
+* Sadegh Ansari (PhD Candidate, MESAAS), Science in medieval Islamicate world
+* Zeinab Azarbadegan (PhD Candidate, History), Iran- Ottoman socio-economic relations
+* Olivia Clemens (PhD Candidate, Art History), Islamic manuscript collecting practices in the U.S.
+* Mahmood Gharavi (PhD Candidate, Religion), Shi’i intellectual thought in early Islamic period
+* Matthew Gillman (PhD Candidate, Art History), Safavid illustrated manuscripts
+* Sean Quimby (Director), Rare Book & Manuscript Library
+* Maria Oldal (Head of Collections Managament), Rare Book & Manuscript Library
+* Jane Siegel (Librarian for Rare Books & Bibliographic Services), Rare Book & Manuscript Library
+* Peter Magierski (Middle East & Islamic Studies Librarian), Columbia University Libraries
+* Manan Ahmed (Assistant Professor, History), Medieval South Asia
+
+
+## Collection Details
+
+There is a substantial collection of "Islamic" manuscripts housed at the university's Rare Book and Manuscripts Library (RBML), as well as in some other affiliated institutions (i.e. Burke Library), that are either not catalogued or poorly done so. Currently, an excel spreadsheet is available that's transposed the existing card catalog that was procured some 30 years ago, which is both inaccurate and incomplete. These are "Muslim" in the wide sense of the word as they include all types of manuscripts written in Arabic script.
+
+The collection can be subdivided into six groups: 
+
+1. **Smith & Plimpton Collection**-- some 600 boxes containing manuscripts. Around 1200 manuscripts deal with "mathematics". David Eugene Smith was a professor of Mathematics at Teachers College, Columbia University (1901-1923). He collected mathematics manuscripts and his whole collection is held in the RBML. Plimpton was a manuscript collector mainly interested in educational manuscripts.
+2. **Jeffery Collection**-- a collection of Qur'anic manuscripts, roughly 50 or so. Arthur Jeffery was a professor of Semitic Languages in Columbia University and Union Theological Seminary. 
+3. **X Manuscript Collection**-- Purchased or gifted to RBML since the 1930s, most of which are bound books. There are roughly 179 manuscripts, most of which have been poorly catalogued with widely diverging systems of transliteration.
+4.	**Persian Lithograph Collection**-- this includes (but is not limited to) Saeed Nafisi's library purchased in 1960s. The collection is dispersed throughout Butler's shelves, offsite storage, or at the RBML itself. Saeed Nafisi was a renown poet, translator and professor of Persian literature in early twentieth century Iran.
+5. **The Arabic Papyri Collection**-- RBML is in possession of an undisclosed papyri collection which requires investigation and cataloguing.
+6. **The Burke Collection**-- A set of 26 manuscripts in Arabic script. They were probably collected by the missionaries connected to the Union Theological Seminary.
+
+## Aims of the MWMP
+
+* To create a unified catalog for all of these collections available via the library and RBML finding aids
+* To digitize the approximately 150,000 manuscript pages and make it available for wider scholarly consumption.
+
+## Plan of Action
+
+* Summer 2016: Begin collating current data and considering meta-data issues
+* Fall 2016: Acquire funding streams. Begin data input. Hold a public conference "Forgotten Collections: Cataloguing Islamic Manuscript Collections of Columbia University" with leading archivists, scholars and material culture experts.
+* Winter 2016: Create a front-end for the collection.
+
+
+### Faculty in support of the project (alphabetically)
+
+* Manan Ahmed, Assistant Professor of History and Director of the Center for International History
+* Courtney Bender, Chair of Department of Religion
+* Richard Bulliet, Emeritus Professor of Pre-Modern Islamic History
+* Elizabeth Blackmar, Professor of American Urban and Social History
+* Katherine Ewing, Professor of Religion
+* Najam Haider, Associate Professor of Religion
+* Wael Hallaq, Avalon Foundation Professor in the Humanities, MESAAS
+* Katharina Ivanyi, Professor of Religion
+* Rashid Khalidi, Edward Said Chair, Chair of Department of History
+* Mana Kia, Assistant Professor of Indo-Persian Studies, MESAAS
+* Sheldon Pollock, Arvind Raghunathan Prof. of Sanskrit and South Asian Studies, Chair of MESAAS
+* Alexandre Roberts, Assistant Professor of Byzantine History
+* George Saliba, Professor of Islamic and Arabic Science, MESAAS
+* Avinoam Shalem, Riggio Professor of the History of the Arts of Islam
+* Pamela Smith, Seth Low Professor of History, Director of the Center for Science and Society
+
+### Department and Institutional Partners* (on-going list)
+
+* Department of History, Columbia University
+* Department of Religion, Columbia University
+* Department of Art History, Columbia University
+* Department of Anthropolgy, Columbia University
+* Center for International History, Columbia University
+* History in Action
+* Office of the University Librarian, Columbia University
+* Office of the Provost, Columbia University
+* Center for Teaching and Learning, Columbia University
+
