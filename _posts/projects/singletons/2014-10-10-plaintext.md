@@ -117,19 +117,10 @@ remain legible, in public view, and under continual counter-scrutiny. A
 vibrant discursive practice of textual exegesis is crucial for the
 preservation of whatever ideals that demand a literate populace.
 
-[^ln-dna]: See Bök, “The Xenotext Works.” and Bök, The Xenotext: “I have been
-striving to write a short verse about language and genetics, whereupon I use a
-‘chemical alphabet’ to translate this poem into a sequence of DNA for
-subsequent implantation into the genome of a bacterium (in this case, a
-microbe called Deinococcus radiodurans—an extremophile, capable of surviving,
-without mutation, in even the most hostile milieus, including the vacuum of
-outer space).”
+[^ln-dna]: See Bök, “The Xenotext Works.” and Bök, The Xenotext: “I have been striving to write a short verse about language and genetics, whereupon I use a ‘chemical alphabet’ to translate this poem into a sequence of DNA for subsequent implantation into the genome of a bacterium (in this case, a microbe called Deinococcus radiodurans—an extremophile, capable of surviving, without mutation, in even the most hostile milieus, including the vacuum of outer space).”
 
-[^ln-dmca]: See Ku, “Critique of the Digital Millennium Copyright Act’s
-Exception on Encryption Research.”; Ginsburg, “Legal Protection of
-Technological Measures Protecting Works of Authorship.”; and Fry,
-“Circumventing Access Controls Under the Digital Millennium Copyright Act.”.
+[^ln-dmca]: See Ku, “Critique of the Digital Millennium Copyright Act’s Exception on Encryption Research.”; Ginsburg, “Legal Protection of Technological Measures Protecting Works of Authorship.”; and Fry, “Circumventing Access Controls Under the Digital Millennium Copyright Act.”
 
-[^1]: Unicode Consortium, “The Unicode Standard,” 9–10
+[^1]: Unicode Consortium, “The Unicode Standard,” 9–10.
 
 [^2]: Cook, “Some Considerations in the Concept of Pre-Copy-Text.”
