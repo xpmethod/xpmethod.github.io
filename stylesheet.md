@@ -14,6 +14,7 @@ communal revision, counterargument, alternatives, and argumentation:
 #### Grammar and Syntax
 
 - YES oxford comma
+- spell out numbers except when too long or when performing exact count (as in inventories of archives or reporting data)
 
 #### Markdown Conventions
 
