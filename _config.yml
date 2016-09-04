@@ -9,6 +9,11 @@ permalink: none
 include: ['_pages']
 # relative_permalinks: false
 
+
+# Since Travis installs gems to /vendor, we have to remove
+# this to keep Travis from checking everything in /vendor.
+exclude: ['vendor'] 
+
 # People Data -----------------------------------------
 rollcall:
     -last-name: Tenen
