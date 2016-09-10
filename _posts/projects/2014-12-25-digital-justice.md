@@ -2,14 +2,13 @@
 layout: project
 title: "Architectures of Knowledge: Mumbai"
 tags:
+- Manan Ahmed
 - Varsha Ayaar
-- Shaina Anand
-- Ashley Sayed
+- Christie Davis
+- Durba Mitra
 - Daniel Rojas
 - Alex Gil
 - Dennis Yi Tenen
-- Durba Mitra
-- Manan Ahmed
 category: minimal-computing
 type: workshop
 published: true
