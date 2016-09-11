@@ -5,9 +5,10 @@ tags:
 - Manan Ahmed
 - Varsha Ayaar
 - Christie Davis
+- Alex Gil
 - Durba Mitra
 - Daniel Rojas
-- Alex Gil
+- Ashley Sayed
 - Dennis Yi Tenen
 category: minimal-computing
 type: workshop
