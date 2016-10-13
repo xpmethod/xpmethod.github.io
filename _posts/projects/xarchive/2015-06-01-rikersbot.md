@@ -120,7 +120,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 - [Python](https://www.python.org/) + [iPython
   Notebook](http://ipython.org/notebook.html) +
 [LeafPad](http://tarot.freeshell.org/leafpad/)
-- [RikersBot Source Code](https://github.com/xpmethod/rikersbot)<sup>†</sup>
+- [RikersBot Source Code](https://github.com/xpmethod/rikersbot)
 
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
