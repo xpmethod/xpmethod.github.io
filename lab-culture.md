@@ -4,7 +4,7 @@ title: lab-culture
 ---
 
 During the academic year, XPMethod team meets every Friday afternoon-- from 3pm to 5pm-- at StudioButler (208-B Butler Library). This is an openLab and everyone is welcome to attend, regardless of their participation in our research project. To facilitate our gathering, we would like to maintain a conscious and engaged environment in the lab,
-sensitive to the dynamics of power---gender, class, race---particularly as
+sensitive to the dynamics of power---gender, sexuality, class, race---particularly as
 they manifest in spatial and temporal imbalances of participation.
 
 ### Modalities of Engagement
