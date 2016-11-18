@@ -1,3 +1,6 @@
+#xpmethod.github.io
+[![Build Status](https://travis-ci.org/JonathanReeve/xpmethod.github.io.svg?branch=master)](https://travis-ci.org/JonathanReeve/xpmethod.github.io)
+
 This page describes the file structure and the taxonomy of xpmethod.github.io
 
 ## Logic
