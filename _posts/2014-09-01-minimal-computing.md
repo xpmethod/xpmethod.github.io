@@ -1,7 +1,7 @@
 ---
 layout: strain
 title: minimal-computing
-category: research
+category: projects
 ---
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->

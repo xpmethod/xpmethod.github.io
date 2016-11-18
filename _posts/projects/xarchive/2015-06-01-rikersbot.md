@@ -66,31 +66,32 @@ for the Data Science Institute."
 - date: 05/15
   type: update
   text: Brainstorming session with Columbia's Center for Justice.
-
+edited:
+- by: Phillip R. Polefrone
+  date: 2016-08-26
 ---
 
 ### About
 
 [@rikersbot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional
-facility, New York city's main jail complex.
+facility, New York City's main prison complex.
 
 In the spring of 2015, the [Center for
-Justice](http://centerforjustice.columbia.edu/) approached the [Experimental
-Methods Group](http://xpmethod.plaintext.in/) with an idea of running an
+Justice](http://centerforjustice.columbia.edu/) approached the [Group for
+Experimental Methods](http://xpmethod.plaintext.in/) with an idea of running an
 "Intro to [Python](https://www.python.org/)" workshop for the young people
 incarcerated at Rikers and for Columbia University students interested in
-digital literacy.  It was important for us to set up the encounter in a way
-that moves past one way conversation with effects that persist beyond the one
-time event.
+digital literacy. Our goal was to set up the encounter in a way that moved past
+one-way conversation and had effects that would persist beyond event itself.
 
-In teaching programming through digital storytelling, it is our hope to
-encourage a dialog between the youth at Rikers, Columbia faculty and students,
-and the community at large.
+In teaching programming through digital storytelling, we hoped to encourage
+a dialog between the youth at Rikers, Columbia faculty and students, and the
+larger community of the city.
 
-The Rikers Bot project gives all participants a chance to have their
-voices heard, to learn to code, and to gain real-world experience in writing,
-editing, and producing a project. Together, we are building a [Twitter
+The Rikers Bot project gives all participants a chance to have their voices
+heard, to learn to code, and to gain real-world experience in writing, editing,
+and producing a project. Together, we are building a [Twitter
 bot](https://twitter.com/rikersbot) that will tell our story.
 
 <a href="https://twitter.com/rikersbot" class="twitter-follow-button" data-show-count="false">Follow @rikersbot</a>
