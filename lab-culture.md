@@ -3,9 +3,13 @@ layout: vanilla
 title: lab-culture
 ---
 
-During the academic year, XPMethod team meets every Friday afternoon-- from 3pm to 5pm-- at StudioButler (208-B Butler Library). This is an openLab and everyone is welcome to attend, regardless of their participation in our research project. To facilitate our gathering, we would like to maintain a conscious and engaged environment in the lab,
-sensitive to the dynamics of power---gender, sexuality, class, race---particularly as
-they manifest in spatial and temporal imbalances of participation.
+During the academic year, XPMethod team meets every Friday afternoon-- from
+3pm to 5pm-- at StudioButler (208-B Butler Library). This is an openLab and
+everyone is welcome to attend, regardless of their participation in our
+research project. To facilitate our gathering, we would like to maintain a
+conscious and engaged environment in the lab, sensitive to the dynamics of
+power---gender, sexuality, class, race---particularly as they manifest in
+spatial and temporal imbalances of participation.
 
 ### Modalities of Engagement
 
@@ -33,10 +37,13 @@ interrupted or denied the opportunity.
 facilitate peer learning. Allow others the opportunity to figure it out on
 their own.
 
-5. Ethics of shared labor---make labor visible. Keep a manifest of project work done, to the extent possible.  Be aware of credit hierarchies. Prioratize the exposure of junior collegues. In public, credit the involved collectives and encourage others to read through the records carefully for granular attribution.
+5. Ethics of shared labor---make labor visible. Keep a manifest of project
+work done, to the extent possible.  Be aware of credit hierarchies. Prioritize
+the exposure of junior colleagues. In public, credit the involved collectives
+and encourage others to read through the records carefully for granular
+attribution.
 
-*Last edited on 3/16/2016. Change log
-[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.
+### Electronic Frontier Alliance
 
 In addition to these principles, we are a member of [Electronic Frontier
 Alliance][1], a grassroots network of community and campus organizations that
@@ -45,9 +52,8 @@ to knowledge.
 
 [1]: https://www.eff.org/electronic-frontier-alliance
 
-Inspired by similar documents at:
+<sub>*Last edited on 3/16/2016. Change log
+[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
 
-- <http://bangbangcon.com/conduct.html>
-- <http://philosophy.fas.nyu.edu/object/climate.guidelines>
 
 
