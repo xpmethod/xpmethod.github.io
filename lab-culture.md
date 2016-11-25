@@ -38,6 +38,13 @@ their own.
 *Last edited on 3/16/2016. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.
 
+In addition to these principles, we are a member of [Electronic Frontier
+Alliance][1], a grassroots network of community and campus organizations that
+advocate for free expression online: security, privacy, creativity, and access
+to knowledge.
+
+[1]: https://www.eff.org/electronic-frontier-alliance
+
 Inspired by similar documents at:
 
 - <http://bangbangcon.com/conduct.html>
