@@ -52,7 +52,7 @@ to knowledge.
 
 [1]: https://www.eff.org/electronic-frontier-alliance
 
-<sub>*Last edited on 3/16/2016. Change log
+<sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
 
 
