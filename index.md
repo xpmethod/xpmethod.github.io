@@ -2,7 +2,10 @@
 layout: projects
 title: projects
 issue: 15
-redirect_from: "/research"
+redirect_from:
+    - /research
+    - /projects
+
 ---
 
 These research "strains" build on the traditional strengths of our
