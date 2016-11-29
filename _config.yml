@@ -18,3 +18,7 @@ exclude: ['vendor']
 rollcall:
     -last-name: Tenen
     -homepage: http://denen.plaintext.io/
+
+# enable redirects
+gems:
+    - jekyll-redirect-from

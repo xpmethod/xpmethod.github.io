@@ -2,6 +2,7 @@
 layout: projects
 title: projects
 issue: 15
+redirect_from: "/research"
 ---
 
 These research "strains" build on the traditional strengths of our
