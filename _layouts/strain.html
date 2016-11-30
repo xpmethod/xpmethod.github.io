@@ -33,12 +33,10 @@ layout: default
     {% if post.tags[0] %}
         <div id="peoplelist">
             <sup>
-            <!-- remember tags are people -->
-            <!-- order of tags matters here -->
-            <!-- test before changing -->
+            <!-- mechanism for those who chose to specify url -->
             <ul id="taglist">
                 {% for person in post.tags %}
-                    {% if person.url person.name %}
+                    {% if person.url and person.name %}
                         <li><a href="{{ person.url }}">{{ person.name }}</a></li>
                     {% else %}
                         <li>{{ person }}</li>
