@@ -37,8 +37,6 @@ Media in Education Conference 2013."
 
 ---
 
-### About the Group
-
 [piracyLab](http://piracylab.org/) was convened by the faculty, students, and
 librarians involved in the [*Hacking the
 Archive*](https://docs.google.com/document/d/1c_Gts-FzjsdnOLcIMugq4B61uMGjiFOEzJ7ecEENSbo/edit?usp=sharing)

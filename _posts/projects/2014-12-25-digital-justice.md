@@ -21,19 +21,33 @@ updates:
 
 ---
 
+Over the past two years, a number of key conversations, workshops and events
+at Columbia have delved into expanding and embedding digital humanities among
+faculty and students. In the History, English, Computer Science departments
+and the Library, workshops have introduced or trained participants and
+embarked on direct collaboration with faculty research projects. A key
+intellectual concern arising out of these meetings is to interrogate the
+territorial and conceptual space of the digital humanities vis-à-vis justice.
+How do fundamental concerns of humanistic scholarship—gender, race,
+inequality, law, ethics—intersect and inhabit the techniques, tools and
+methods of digital humanities? What means are present to integrate the global
+perspective—the inclusion of distinct and diverse voices and realities—with
+the universalism that often pervades the field of digital humanities.
+
 Check the [events page](http://xpmethod.plaintext.in/events/dissent.html) for
 an updated schedule and the full list of participants.
 
-Digital Justice
-=================================
- 
-Over the past two years, a number of key conversations, workshops and events at Columbia have delved into expanding and embedding digital humanities among faculty and students. In the History, English, Computer Science departments and the Library, workshops have introduced or trained participants and embarked on direct collaboration with faculty research projects. A key intellectual concern arising out of these meetings is to interrogate the territorial and conceptual space of the digital humanities vis-à-vis justice. How do fundamental concerns of humanistic scholarship—gender, race, inequality, law, ethics—intersect and inhabit the techniques, tools and methods of digital humanities? What means are present to integrate the global perspective—the inclusion of distinct and diverse voices and realities—with the universalism that often pervades the field of digital humanities.
+More than half of the world’s population accesses the internet through a
+mobile phone. And yet, much of the academic practice in digital humanities and
+computational social sciences is aimed at bandwidth-heavy, visually
+complicated, high-performance vision of knowledge production. Embraced by
+eco-modders and by members of the GO::DH community alike, minimal computing is
+not just a model for the “developing world.” It offers all the possibility of
+human technology, less shiny and more chaotic perhaps than big data or 3-D
+graphics, but also, in contrast, universally accessible, hackable, lasting,
+portable, and empowered.
 
-
-More than half of the world’s population accesses the internet through a mobile phone. And yet, much of the academic practice in digital humanities and computational social sciences is aimed at bandwidth-heavy, visually complicated, high-performance vision of knowledge production. Embraced by eco-modders and by members of the GO::DH community alike, minimal computing is not just a model for the “developing world.” It offers all the possibility of human technology, less shiny and more chaotic perhaps than big data or 3-D graphics, but also, in contrast, universally accessible, hackable, lasting, portable, and empowered.
-
-Free Archives & Shadow Libraries
-=================================
+### Free Archives & Shadow Libraries
 
 Responding to President Bollinger's call to expand the campus conversation
 about Equal Justice, this proposal, *Architectures of Knowledge*, harnesses the
@@ -57,8 +71,7 @@ will investigate technological and artistic practices of epistemic action,
 build alliances across borders and economies, share notes, and outline
 possibilities for further concerted action.
 
-Organizational detail:
-========================================================
+### Organizational detail:
 
 - Travel. Participants not able to pay for travel will be provided a travel
   stipend. We are not able to reimburse travel: please arrange to purchase
@@ -79,8 +92,7 @@ Do not hesitate to email one of the organizers with any questions. We will
 email detailed instructions about the venue, directions, and food closer to
 the date. Check this page for updates.
 
-Provisional Schedule
-========================================================
+### Provisional Schedule
 
 `July 2-3, pre-event workshop`
 
@@ -111,8 +123,7 @@ Transportation TBA
 - 09:00 - 17:00  Visiting CAMP + Center for Education & Documentation
 - 19:00 -        Dinner TBA
 
-Participating Partners (please add)
-========================================================
+### Participating Partners
 
 Columbia Global Centers | Mumbai  
 www.mi2.hr/en  

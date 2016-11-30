@@ -24,7 +24,7 @@ type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg
 images:
-snippet: 122
+snippet: 121
 updates:
 
 - date: 03/19
@@ -70,8 +70,6 @@ edited:
 - by: Phillip R. Polefrone
   date: 2016-08-26
 ---
-
-### About
 
 [@rikersbot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional

@@ -23,12 +23,15 @@ images:
  - p003r_BW.jpg
  - labnotes.jpg
  - manuscript.png
-issue: 14
 ---
 
-## A Digital Critical Edition for the Making and Knowing Project
+### A Digital Critical Edition for the Making and Knowing Project
 
-Pamela Smith, Seth Low Professor of History and Director of the [Center for Science and Society](http://scienceandsociety.columbia.edu/) at Columbia will present on her ongoing research with [The Making and Knowing Project: From the Workshop to the Laboratory](http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory/).
+Pamela Smith, Seth Low Professor of History and Director of the [Center for
+Science and Society](http://scienceandsociety.columbia.edu/) at Columbia will
+present on her ongoing research with [The Making and Knowing Project: From the
+Workshop to the
+Laboratory](http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory/).
 
 Historians have long acknowledged the foundational importance of craft knowledge to the development of modern science. In recent years, historians of science have investigated the relationship of craft practice to various learned communities in early modern Europe, such as humanities scholars, medical practitioners, (al)chemists, and advocates of the “new experimental philosophy.” Simultaneously, historians of science, technology, material culture, and book history have become increasingly interested in the genre of early modern recipes, books of secrets, and how-to manuals that shed light on a remarkable transition in European society, when craftspeople began writing down their working procedures. 
 

@@ -51,12 +51,10 @@ updates:
   text: "The project is grateful to receive generous support from the Alfred P. Sloan Foundation."
 ---
 
-### Links
-
 - [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
 - [Collocation Graph](http://explorer.opensyllabusproject.org/graph)
 
-### Opening the curricular black box
+### Opening the Curricular Black Box
 
 In late January of 2016, we were a part of a group of scholars at Columbia and
 Stanford Universities who unveiled the [Open Syllabus
