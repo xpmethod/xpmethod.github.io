@@ -163,3 +163,6 @@ Jared
   Professor, Department of
 English](http://english.columbia.edu/people/profile/453)
 
+### Instructor Fall 2016
+
+- [Evan Misshula](https://twitter.com/EMisshula) (PhD Student, CUNY Graduate Center, [https://misshula.org])
