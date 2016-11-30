@@ -7,19 +7,25 @@ $large: 1.3em
 $medium: 1.2em
 $small: 1em
 
-$link: #1E4E9B
-$darklink: darken($blue, 20%)
+$blue: #1E4E9B
+$darkblue: darken($blue, 10%)
+$gray: #EEE
 
 body 
   font-family: $font-stack
   max-width: 50em
+  font-size: $medium
 
 .title
   font-size: $huge
 
 a, a:visited
-  color: $link
+  color: $blue
   text-decoration: none
+  &:hover
+    color: $darkblue
 
-a:hover
-  color: $darklink
+.tag
+  font-size: $small
+  background-color: $gray
+

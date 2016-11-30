@@ -18,7 +18,7 @@ layout: default
                 <font face="monospace">{{ post.date | date_to_string }}
                 <b><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></b></font>
                 {% if post.type %}
-                    <sup><code>{{ post.type }}</code></sup>
+		<span class="tag">{{ post.type }}</span>
                 {% endif %}
             {% endif %}
             <div>{{ post.prompt }}</div>
