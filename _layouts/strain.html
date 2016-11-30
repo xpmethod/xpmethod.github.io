@@ -2,12 +2,7 @@
 layout: default
 ---
 
-<div id="post">
-
-<div class="issue-nav">
-&nbsp;
-&nbsp;
-</div>
+<section id="strain">
 
 {{ content }}
 
@@ -47,7 +42,7 @@ layout: default
     <!-- events are different since we are pulling the prompt -->
     <!-- instead of post.content -->
     {% unless post.categories contains "event" %}
-        <div class="indent">
+        <div class="strain-text">
             <!-- move this out into css -->
             {% if post.image %}
             <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
@@ -71,4 +66,4 @@ layout: default
     {% endunless %}
 </div>
 {% endfor %}
-</div>
+</section>
