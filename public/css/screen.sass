@@ -7,25 +7,36 @@ $large: 1.3em
 $medium: 1.2em
 $small: 1em
 
-$blue: #1E4E9B
-$darkblue: darken($blue, 10%)
-$gray: #EEE
+$link: #1E4E9B
+$hoverlink: darken($link, 10%)
+$activelink: #F00
+$tag: #EFEFEF
 
 body 
   font-family: $font-stack
   max-width: 50em
   font-size: $medium
+  margin: 0 auto 
 
 .title
   font-size: $huge
 
 a, a:visited
-  color: $blue
+  color: $link
   text-decoration: none
   &:hover
-    color: $darkblue
+    color: $hoverlink
+  &.nav.active
+    color: $activelink
 
 .tag
   font-size: $small
-  background-color: $gray
+  background-color: $tag
 
+.secondary-nav
+  text-transform: lowercase
+
+#strains li
+  display: inline-block
+  &:after
+    content: " • " 
