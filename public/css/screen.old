@@ -1,6 +1,6 @@
 /* Global ------------------------------------------------------------------ */
-/* Global ------------------------------------------------------------------ */
-/* Global ------------------------------------------------------------------ */
+
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
 
 * {
   margin: 0;
@@ -13,7 +13,7 @@ html, body {
 
 body {
   background-color: white;
-  font-family: "Cardo";
+  font-family: "Source Sans Pro", sans-serif;
   font-size: 19px;
 }
 
