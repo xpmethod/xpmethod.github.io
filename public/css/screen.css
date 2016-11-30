@@ -7,14 +7,17 @@
   padding: unset;
 }
 
-html, body {
-  height: 100%;
+
+/* set root font size to allow ems to be a multiple of 10, ie 1.2em = 12 pix */
+html {
+  font-size: 62.5%;
 }
 
 body {
+  height: 100%;
   background-color: white;
   font-family: "Cardo";
-  font-size: 19px;
+  font-size: 1.8rem;
 }
 
 @font-face {
