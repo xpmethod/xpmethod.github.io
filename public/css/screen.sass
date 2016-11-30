@@ -1,23 +1,25 @@
 ---
 ---
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro')
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro')
 
-$font-stack: "Source Sans Pro", sans-serif
-$huge: 1.5em
-$large: 1.3em
-$medium: 1.2em
-$small: 1em
+$sans: "Source Sans Pro", sans-serif
+$mono: "Source Code Pro", monospace
+$huge: 1.5rem
+$large: 1.4rem
+$medium: 1.3rem
+$small: 1rem
+$base-fontsize: 22px
 
 $blue: #1E4E9B
 $darkblue: darken($blue, 10%)
 $gray: #EEE
 
 body 
-  font-family: $font-stack
-  max-width: 50em
-  font-size: $medium
-
-.title
-  font-size: $huge
+  font-family: $sans
+  max-width: 45em
+  font-size: $base-fontsize
+  margin: 0 auto 
 
 a, a:visited
   color: $blue
@@ -25,7 +27,24 @@ a, a:visited
   &:hover
     color: $darkblue
 
+.title
+  //font-family: $mono
+  font-size: $huge
+  a 
+    color: black
+  a.nav
+    font-size: $medium
+
+.secondary-nav
+  text-transform: lowercase
+  //font-family: $mono
+  font-size: $medium
+
 .tag
   font-size: $small
   background-color: $gray
 
+#strains li
+  display: inline-block
+  &:after
+    content: " • " 
