@@ -4,13 +4,12 @@ url: research/
 ---
 
 <div id="post">
-    <h2>&raquo; {{ page.title }}
+    <h2>{{ page.title }}
     {% if page.type %}
     <span class="tag">{{ page.type }}</span>
     {% endif %}</h2>
 
     <!-- remember tags are people -->
-    <sup>
     {% if page.tags %}
         <ul id="taglist">
         {% for person in page.tags %}
@@ -18,7 +17,6 @@ url: research/
         {% endfor %}
         </ul>
     {% endif %}
-    </sup>
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
