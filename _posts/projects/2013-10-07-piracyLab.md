@@ -9,7 +9,7 @@ updates:
 
 - date: 04/15
   text: "Research featured in *Le Monde*
-[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png)
+[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/images/lemonde1.png)
 and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)."
   type: press
