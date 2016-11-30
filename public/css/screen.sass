@@ -11,9 +11,10 @@ $medium: 1.3rem
 $small: 1rem
 $base-fontsize: 22px
 
-$blue: #1E4E9B
-$darkblue: darken($blue, 10%)
-$gray: #EEE
+$link: #1E4E9B
+$hoverlink: darken($link, 10%)
+$activelink: #F00
+$tag: #EFEFEF
 
 body 
   font-family: $sans
@@ -21,11 +22,14 @@ body
   font-size: $base-fontsize
   margin: 0 auto 
 
+
 a, a:visited
-  color: $blue
+  color: $link
   text-decoration: none
   &:hover
-    color: $darkblue
+    color: $hoverlink
+  &.nav.active
+    color: $activelink
 
 .title
   //font-family: $mono
@@ -42,7 +46,10 @@ a, a:visited
 
 .tag
   font-size: $small
-  background-color: $gray
+  background-color: $tag
+
+.secondary-nav
+  text-transform: lowercase
 
 #strains li
   display: inline-block
