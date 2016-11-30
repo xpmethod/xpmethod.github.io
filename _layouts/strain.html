@@ -67,6 +67,11 @@ layout: default
             {% if post.snippet %}
                 {{ post.content | markdownify | truncatewords:post.snippet }}
             {% endif %}
+
+        <!-- hacky, but lets close all interrupted tags from previous post in the
+        loop -->
+        </strong>
+        <hr class="style-dashed">
         </div>
     {% endunless %}
 </div>

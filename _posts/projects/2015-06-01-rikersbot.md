@@ -24,7 +24,7 @@ type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg
 images:
-issue: 15
+snippet: 122
 updates:
 
 - date: 03/19
