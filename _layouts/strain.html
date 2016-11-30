@@ -26,7 +26,6 @@ layout: default
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
     <div id="peoplelist">
-        <sup>
         <!-- remember tags are people -->
         <!-- order of tags matters here -->
         <!-- test before changing -->
@@ -35,7 +34,6 @@ layout: default
             <li>{{ person }}</li>
         {% endfor %}
         </ul>
-        </sup>
     </div>
     {% endif %}
 
