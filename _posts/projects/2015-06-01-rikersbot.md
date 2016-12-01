@@ -123,6 +123,14 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
+### NYC Resources for released detainees
+
+
+- [Fortune Society](http://fortunesociety.org/) Founded in 1967, The Fortune Society’s vision is to foster a world where all who are incarcerated or formerly incarcerated will thrive as positive, contributing members of society. We do this through a holistic, one-stop model of service provision.
+- [Exodus Transitional Community](http://www.etcny.org/#programs-home) To provide supportive services to formerly incarcerated men and women in order to help them reintegrate into their communities, thereby achieving social and economic well-being and breaking the cycle of recidivism.
+- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/ourprograms/) Free training for high tech jobs in NYC. No college degree necessary.
+
+
 ### Young People of Rikers
 
 
@@ -165,4 +173,4 @@ English](http://english.columbia.edu/people/profile/453)
 
 ### Instructor Fall 2016
 
-- [Evan Misshula](https://twitter.com/EMisshula) (PhD Student, CUNY Graduate Center, [https://misshula.org])
+- [Evan Misshula](https://twitter.com/EMisshula), [PhD Student, CUNY Graduate Center](https://misshula.org)
