@@ -10,7 +10,7 @@ tags:
 - Daniel Rojas
 - Ashley Sayed
 - Dennis Yi Tenen
-category: minimal-computing
+category: technologies-of-dissent
 type: workshop
 published: true
 issue: 15

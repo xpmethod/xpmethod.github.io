@@ -1,7 +1,7 @@
 ---
 layout: project
 title: piracyLab
-category: minimal-computing
+category: knowledge-design-studio
 published: true
 image: piracy.png
 issue: 14
@@ -22,7 +22,7 @@ Piracy as Peer Preservation](http://computationalculture.net/article/book-piracy
 - date: 10/13
   text: "Sarah Laskow from [Columbia Journalism
 Review](http://www.cjr.org/cloud_control/piracylab.php) covers
-[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
+[piracyLab](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html).
 The story was picked up by [Melville
 House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and

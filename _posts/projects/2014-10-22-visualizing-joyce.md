@@ -4,7 +4,7 @@ title: "Visualizing Joyce"
 tags:
 - name: Emily Fuhrman
   url: http://emilyfuhrman.co
-category: theory-method
+category: literary-modeling-and-visualization-lab
 type: graphic
 snippet: 105
 image: "joyce.png"

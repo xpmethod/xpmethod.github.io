@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Plain Text
-category: minimal-computing
+category: media-archaeology
 type: book
 tags:
 - Dennis Yi Tenen

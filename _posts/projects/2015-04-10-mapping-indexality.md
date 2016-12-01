@@ -4,8 +4,8 @@ title: "Mapping Indexicality"
 tags:
 - name: Emily Fuhrman
   url: http://emilyfuhrman.co
-category: theory-method
-type: visualization
+category: literary-modeling-and-visualization-lab
+type: graphic
 published: true
 snippet: 102
 image: benjamin_paths.png
