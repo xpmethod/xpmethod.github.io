@@ -8,7 +8,7 @@ rvm:
 # linking to internal hash #fn:1 that does not exist
 
 install: gem install jekyll html-proofer jekyll-redirect-from
-script: jekyll build && htmlproofer ./_site --url-ignore "/#.*/" --alt-ignore '/.*/'
+script: jekyll build && htmlproofer ./_site --url-ignore "/#.*/" --alt-ignore '/.*/' --only-4xx
 
 env:
   global:
