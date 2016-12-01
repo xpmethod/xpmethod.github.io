@@ -1,7 +1,9 @@
 ---
 layout: event
-title: "Pamela Smith"
+title: "A Digital Critical Edition for the Making and Knowing Project"
 location: "Butler Studio"
+tags:
+- Pamela Smith
 participants:
 - Jenny Boulboullé
 - Grant Wythoff
@@ -24,8 +26,6 @@ images:
  - labnotes.jpg
  - manuscript.png
 ---
-
-### A Digital Critical Edition for the Making and Knowing Project
 
 Pamela Smith, Seth Low Professor of History and Director of the [Center for
 Science and Society](http://scienceandsociety.columbia.edu/) at Columbia will
