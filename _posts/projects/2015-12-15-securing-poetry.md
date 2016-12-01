@@ -9,9 +9,10 @@ tags:
 published: true
 category: technologies-of-dissent
 type: OpSec
-image: umang.jpg
 snippet: 145
 ---
+
+<!-- image: umang.jpg -->
 
 ### UmangPoetry
 
