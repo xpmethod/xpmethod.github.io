@@ -10,7 +10,7 @@ image: control-2.png
 issue: 15
 updates:
 
-- date: 06/01/2016
+- date: 06/16
   text: "Manuscript accepted at Stanford University Press"
   type: publication
 ---

@@ -2,12 +2,7 @@
 layout: default
 ---
 
-<div id="post">
-
-<div class="issue-nav">
-&nbsp;
-&nbsp;
-</div>
+<section id="strain">
 
 {{ content }}
 
@@ -23,7 +18,7 @@ layout: default
 
     <!-- What kind of activity is this? Project, talk, blog post? -->
     {% if post.type %}
-        <sup><code>{{ post.type }}</code></sup>
+        <span class="tag">{{ post.type }}</span>
     {% endif %}
     </h3>
 
@@ -32,7 +27,6 @@ layout: default
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
         <div id="peoplelist">
-            <sup>
             <!-- mechanism for those who chose to specify url -->
             <ul id="taglist">
                 {% for person in post.tags %}
@@ -43,17 +37,16 @@ layout: default
                     {% endif %}
                 {% endfor %}
             </ul>
-            </sup>
         </div>
     {% endif %}
 
     <!-- events are different since we are pulling the prompt -->
     <!-- instead of post.content -->
     {% unless post.categories contains "event" %}
-        <div class="indent">
+        <div class="strain-text">
             <!-- move this out into css -->
             {% if post.image %}
-            <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
+            <a href="{{ post.url }}"><img alt="" src="/public/images/{{ post.image }}"></a>
             {% endif %}
 
             <!-- if we have sparks, show that -->
@@ -79,4 +72,4 @@ layout: default
     {% endunless %}
 </div>
 {% endfor %}
-</div>
+</section>

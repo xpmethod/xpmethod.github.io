@@ -101,5 +101,3 @@ defaults
 - for links to static pages use internet archive snapshots as much as possible to minimize link rot
 - for simple issues use the [TODO.md](https://github.com/xpmethod/xpmethod.github.io/blob/master/TODO.md) file
 - travis
-
-

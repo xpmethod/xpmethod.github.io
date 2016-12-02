@@ -12,7 +12,7 @@ include: ['_pages']
 
 # Since Travis installs gems to /vendor, we have to remove
 # this to keep Travis from checking everything in /vendor.
-exclude: ['vendor']
+exclude: ['vendor', 'doc', 'README.md'] 
 
 # People Data -----------------------------------------
 rollcall:
