@@ -3,33 +3,15 @@ layout: vanilla
 url: research/
 ---
 
-<div class="issue-nav">
-    <code>Volume:
-
-        {% assign sorted_pages = site.pages | sort:"name" %}
-        {% for node in sorted_pages %}
-        {% if node.issue %}
-
-        <a class="{% if page.issue == node.issue %}active{% endif %}" href="{{
-            node.url }}">{{ node.issue }}</a>
-
-        {% endif %}
-        {% endfor %}
-
-    </code>
-</div>
-
 <div class="cats">
     {{ content }}
 
     {% for post in site.categories[page.title] %}
 
         {% if post.title != null %}
-
             <h3 class="cats">
                 <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }} </a>
             </h3>
-
         {% endif %}
 
         <!-- list all projects as a strain in subscript -->
