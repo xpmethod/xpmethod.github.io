@@ -13,9 +13,6 @@ images:
 - babur3.png
 ---
 
-> This project is funded by the Columbia Libraries through their [Digital
-Centers Internship Program](https://blogs.cul.columbia.edu/dcip/).
-
 Literary mapping presents exciting possibilities for criticism and the digital
 humanities, but it is hampered by a seemingly intractable technical problem.
 A critic interested in mapping must rely on either full hand-coding, which
@@ -78,3 +75,7 @@ having the potential for significant impact in the field of literary mapping:
 if everyone else doing this kind of work is facing the same problems, an
 interface that helps them circumvent those problems could be a first step for
 many humanists working in this field.
+
+<sub>This project is funded by the Columbia Libraries through their [Digital
+Centers Internship Program](https://blogs.cul.columbia.edu/dcip/).</sub>
+
