@@ -4,7 +4,7 @@ title: "Mapping Indexicality"
 tags:
 - name: Emily Fuhrman
   url: http://emilyfuhrman.co
-category: literary-modeling-and-visualization-lab
+category: embodied-space-lab
 type: graphic
 published: true
 snippet: 102

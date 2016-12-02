@@ -3,7 +3,7 @@ layout: project
 title: Mobile Media and the Paleolithic
 tags:
 - Grant Wythoff
-category: media-archaeology
+category: trans-media-collective
 type: article
 snippet: 105
 image: "mousterian_tools.jpg"
