@@ -3,7 +3,7 @@ layout: project
 title: minimal génétique
 tags:
  - Alex Gil
-categories: minimal-computing
+categories: knowledge-design-studio
 type: draft
 published: false
 snippet: 90

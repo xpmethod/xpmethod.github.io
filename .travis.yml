@@ -1,11 +1,14 @@
 language: ruby
 rvm:
-- 2.1
+- 2.3.3
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
-install: gem install jekyll html-proofer
-script: jekyll build && htmlproofer ./_site --empty-alt-ignore
+# url-ignore ignores #left to avoid common errors like:
+# linking to internal hash #fn:1 that does not exist
+
+install: gem install jekyll html-proofer jekyll-redirect-from
+script: jekyll build && htmlproofer ./_site --url-ignore "/#.*/" --alt-ignore '/.*/' --only-4xx
 
 env:
   global:

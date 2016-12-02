@@ -3,14 +3,14 @@ layout: project
 title: "Mapping Medieval Pasts"
 tags:
 - Manan Ahmed
-category: theory-method
+category: embodied-space-lab
 type: map
 published: true
 image: delhi.png
 images:
 - delhi2.jpg
 issue: 15
-edited: 
+edited:
 - by: Phillip R. Polefrone
   date: 2016-08-24
 ---
@@ -65,7 +65,7 @@ journey into Sind's cities from Iran. For constructing the map, we took our cue
 from James C. Scott's *The Art of Not Being Governed* where he produces a map
 of walking-time through mountainous territories. The resulting map is: [Delivering
 Posts by Foot in Medieval North
-India](http://y-li.me/x/F2015002_CU_BORDERLANDS_MEDIEVAL-MAPPING/). The GIS
+India](http://emilyfuhrman.co/interactive/F2015002/). The GIS
 data was collected from various primary sources and the visualization was done
 using Leaflet.js. 
 

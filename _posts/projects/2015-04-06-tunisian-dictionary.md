@@ -1,15 +1,13 @@
 ---
 layout: project
-title: English-Tunisian Dictionary 2.0
+title: "English-Tunisian Dictionary"
 tags:
 - William J. Roberts
-category: minimal-computing
+category: knowledge-design-studio
 type: public language pedagogy
 snippet: 150
 published: false
 image: tunisian_dict_cover.jpg
-images:
-issue: 15
 ---
 
 Diglossia is hard. A dearth of resources for learning lived forms of Arabic
@@ -21,4 +19,4 @@ language acquisition and maintenance. The first step we're taking is to create
 an updated dictionary from one compiled by Rached Ben Abdelkader, published by
 the Peace Corps in 1977. Our task is to extract and store each entry in a
 simple but ductile data structure that will prove generative for future tools
-and reference works. 
+and reference works.

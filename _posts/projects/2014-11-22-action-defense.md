@@ -15,7 +15,7 @@ tags:
 - Zoe Wood
 type: OpSec
 published: true
-category: minimal-computing
+category: technologies-of-dissent
 image: woman-poster.jpg
 images:
 - hashtag-feminism.png
@@ -36,7 +36,7 @@ importantly, we found and eliminated a number of unauthorized users with
 administrator privileges.
 
 To further minimize security risks we explored the possibility of moving
-`#feminism` to [may first/people link](https://mayfirst.org/hosting), an
+`#feminism` to [may first/people link](https://mayfirst.org), an
 internet service provider that specializes in hosting infrastructure for
 progressive mission-based organizations. Finally, we've [recreated the website
 using a static site generator](http://xpmethod.plaintext.in/action-defense/)

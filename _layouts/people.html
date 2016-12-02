@@ -8,7 +8,14 @@ layout: default
 <!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
 
 <ul class="people-list">
-	{% for tag in site.tags %}
+        {% for tag in site.tags %}
+            {% if tag[0].name %}
+                <li><a href="{{ tag[0].url }}">{{ tag[0].name }}</a></li>
+            {% else %}
+                <li>{{ tag[0] }}</li>
+        {% endif %}
+        {% endfor %}
+</ul>
 
 	{% if tag[0].name %}
 	<li>

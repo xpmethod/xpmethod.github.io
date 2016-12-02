@@ -1,7 +1,7 @@
 ---
 layout: project
 title: piracyLab
-category: minimal-computing
+category: knowledge-design-studio
 published: true
 image: piracy.png
 issue: 14
@@ -9,7 +9,7 @@ updates:
 
 - date: 04/15
   text: "Research featured in *Le Monde*
-[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/lemonde1.png)
+[print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/images/lemonde1.png)
 and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)."
   type: press
@@ -22,7 +22,7 @@ Piracy as Peer Preservation](http://computationalculture.net/article/book-piracy
 - date: 10/13
   text: "Sarah Laskow from [Columbia Journalism
 Review](http://www.cjr.org/cloud_control/piracylab.php) covers
-[piracyLab](http://xpmethod.plaintext.in/minimal-computing/piracyLab.html).
+[piracyLab](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html).
 The story was picked up by [Melville
 House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 [Bookforum](http://blogs.bookforum.com/paper/2013/10/08/oct-8-2013/), and
@@ -36,8 +36,6 @@ Media in Education Conference 2013."
   type: talk
 
 ---
-
-### About the Group
 
 [piracyLab](http://piracylab.org/) was convened by the faculty, students, and
 librarians involved in the [*Hacking the

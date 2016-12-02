@@ -1,6 +1,6 @@
 ---
 layout: strain
-title: public-discourse
+title: technologies-of-dissent
 category: projects
 ---
 
