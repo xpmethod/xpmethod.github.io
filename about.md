@@ -2,10 +2,6 @@
 layout: vanilla
 title: about
 ---
-<div class="issue-nav">
-&nbsp;
-&nbsp;
-</div>
 
 What does it mean to "experiment" in the study of history, literature, or
 philosophy? In answering that question we draw inspiration from two distinct

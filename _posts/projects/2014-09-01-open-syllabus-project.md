@@ -6,13 +6,29 @@ tags:
 - Joe Karaganis (American Assembly)
 - David McClure (Stanford)
 - Dennis Yi Tenen
-category: public-discourse
+category: knowledge-design-studio
 type: database
 snippet: 150
 published: true
 image: osp.png
 issue: 15
 updates:
+
+- date: 10/16
+  type: press
+  text: "\"[This Meta-Search Shows What Universities Everywhere Are Teaching](https://web.archive.org/save/http://www.nature.com/news/mining-the-secrets-of-college-syllabuses-1.20905),\" *Nature*."
+
+- date: 02/16
+  type: press
+  text: "\"These Are the 100 Most-Read Female Writers in College Classes,\" [*Time Magazine*](http://web.archive.org/web/20160320180619/http://time.com/4234719/college-textbooks-female-writers/)."
+
+- date: 02/16
+  type: press
+  text: "\"[How a ‘Syllabus Commons’ Could Change Higher Education](http://web.archive.org/web/20160320183010/http://chronicle.com/article/How-a-Syllabus-Commons-/235330)\", *The Chronicle of Higher Education*."
+
+- date: 02/16
+  type: press
+  text: "\"[Everyone Still Reads 'To Kill A Mockingbird'](http://web.archive.org/web/20160320182627/http://fivethirtyeight.com/features/to-kill-a-mockingbird-author-harper-lee-dies/),\" *FiveThirtyEight*."
 
 - date: 01/16
   type: press
@@ -30,29 +46,15 @@ updates:
   type: press
   text: "\"[What a Million Syllabuses Can Teach Us](http://web.archive.org/web/20160320182509/https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F24%2Fopinion%2Fsunday%2Fwhat-a-million-syllabuses-can-teach-us.html%3F_r%3D1),\" *The New York Times*."
 
-- date: 02/16
-  type: press
-  text: "\"These Are the 100 Most-Read Female Writers in College Classes,\" [*Time Magazine*](http://web.archive.org/web/20160320180619/http://time.com/4234719/college-textbooks-female-writers/)."
-
-- date: 02/16
-  type: press
-  text: "\"[How a ‘Syllabus Commons’ Could Change Higher Education](http://web.archive.org/web/20160320183010/http://chronicle.com/article/How-a-Syllabus-Commons-/235330)\", *The Chronicle of Higher Education*."
-
-- date: 02/16
-  type: press
-  text: "\"[Everyone Still Reads 'To Kill A Mockingbird'](http://web.archive.org/web/20160320182627/http://fivethirtyeight.com/features/to-kill-a-mockingbird-author-harper-lee-dies/),\" *FiveThirtyEight*."
-
 - date: 09/14
   type: grant
   text: "The project is grateful to receive generous support from the Alfred P. Sloan Foundation."
 ---
 
-## Links
-
 - [Open Syllabus Explorer](http://explorer.opensyllabusproject.org/)
 - [Collocation Graph](http://explorer.opensyllabusproject.org/graph)
 
-## Opening the curricular black box
+### Opening the Curricular Black Box
 
 In late January of 2016, we were a part of a group of scholars at Columbia and
 Stanford Universities who unveiled the [Open Syllabus

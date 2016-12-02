@@ -3,7 +3,7 @@ layout: project
 title: "Epigraphing the 19th Century"
 tags:
 - Aaron Plasek
-category: theory-method
+category: literary-modeling-and-visualization-lab
 type: experiment
 published: true
 snippet: 123

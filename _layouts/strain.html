@@ -16,6 +16,7 @@ layout: default
 {% if site.categories[page.title] %}
     <h2>Activity</h2>
 {% endif %}
+
 {% for post in site.categories[page.title] %}
 <div id="strain">
     <h3 id="strain">&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
@@ -30,18 +31,20 @@ layout: default
     <!-- if post.tags is not working -->
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
-    <div id="peoplelist">
-        <sup>
-        <!-- remember tags are people -->
-        <!-- order of tags matters here -->
-        <!-- test before changing -->
-        <ul id="taglist">
-        {% for person in post.tags %}
-            <li>{{ person }}</li>
-        {% endfor %}
-        </ul>
-        </sup>
-    </div>
+        <div id="peoplelist">
+            <sup>
+            <!-- mechanism for those who chose to specify url -->
+            <ul id="taglist">
+                {% for person in post.tags %}
+                    {% if person.url and person.name %}
+                        <li><a href="{{ person.url }}">{{ person.name }}</a></li>
+                    {% else %}
+                        <li>{{ person }}</li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
+            </sup>
+        </div>
     {% endif %}
 
     <!-- events are different since we are pulling the prompt -->
@@ -67,6 +70,11 @@ layout: default
             {% if post.snippet %}
                 {{ post.content | markdownify | truncatewords:post.snippet }}
             {% endif %}
+
+        <!-- hacky, but lets close all interrupted tags from previous post in the
+        loop -->
+        </strong>
+        <hr class="style-dashed">
         </div>
     {% endunless %}
 </div>

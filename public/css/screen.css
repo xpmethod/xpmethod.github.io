@@ -7,14 +7,17 @@
   padding: unset;
 }
 
-html, body {
-  height: 100%;
+
+/* set root font size to allow ems to be a multiple of 10, ie 1.2em = 12 pix */
+html {
+  font-size: 62.5%;
 }
 
 body {
+  height: 100%;
   background-color: white;
   font-family: "Cardo";
-  font-size: 19px;
+  font-size: 1.8rem;
 }
 
 @font-face {
@@ -192,6 +195,16 @@ blockquote{background:#f9f9f9;border-left:1em solid #eee;margin:1.5em 1em;paddin
        blockquote:before{color:#808080;content:open-quote;font-size:4em;line-height:.1em;margin-right:.25em;vertical-align:-.4em;}
        blockquote :first-child{display:inline;}
        blockquote :last-child{margin-bottom:0;}
+
+/* Double-color dashed line */ 
+hr.style-dashed { 
+   border: 0; 
+   border-bottom: 1px dashed #ccc; 
+   background: #999; 
+   text-align:center; 
+   margin: 1em auto;
+   width: 45%
+} 
 
 /* Home ------------------------------------------------------------ */
 /* Home ------------------------------------------------------------ */

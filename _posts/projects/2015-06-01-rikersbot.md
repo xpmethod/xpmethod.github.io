@@ -19,20 +19,21 @@ tags:
 - Elijah Strauss
 - Dennis Yi Tenen
 - Young People at Rikers
-category: public-discourse
+category: technologies-of-dissent
 type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg
 images:
-issue: 15
+snippet: 121
 updates:
-- date: 12/03
-  type: press
-  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
 - date: 03/19
   type: update
   text: "Last class takes place."
+
+- date: 12/03
+  type: press
+  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
 - date: 11/30
   type: press
@@ -69,8 +70,6 @@ edited:
 - by: Phillip R. Polefrone
   date: 2016-08-26
 ---
-
-### About
 
 [@rikersbot](https://twitter.com/rikersbot) is a coding workshop and an
 algorithmic storytelling project set in and about Rikers Island correctional
@@ -124,16 +123,16 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 <sup>†</sup>Links marked with a dagger are closed pending review.
 
+### NYC Resources for released detainees
+
+
+- [Fortune Society](http://fortunesociety.org/) Founded in 1967, The Fortune Society’s vision is to foster a world where all who are incarcerated or formerly incarcerated will thrive as positive, contributing members of society. We do this through a holistic, one-stop model of service provision.
+- [Exodus Transitional Community](http://www.etcny.org/#programs-home) To provide supportive services to formerly incarcerated men and women in order to help them reintegrate into their communities, thereby achieving social and economic well-being and breaking the cycle of recidivism.
+- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/ourprograms/) Free training for high tech jobs in NYC. No college degree necessary.
+
+
 ### Young People of Rikers
 
-#### Spring 2016
-Jonathan Jones
-John Gomez
-Hint Joseph
-Chris Dargan
-Rashawn Kingsberry
-Rahim Ali
-Brandon Lomex
 
 #### Summer 2015
 Ivan   
@@ -172,3 +171,6 @@ Jared
   Professor, Department of
 English](http://english.columbia.edu/people/profile/453)
 
+### Instructor Fall 2016
+
+- [Evan Misshula](https://twitter.com/EMisshula), [PhD Student, CUNY Graduate Center](https://misshula.org)

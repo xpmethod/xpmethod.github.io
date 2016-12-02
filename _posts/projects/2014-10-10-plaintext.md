@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Plain Text
-category: minimal-computing
+category: trans-media-collective
 type: book
 tags:
 - Dennis Yi Tenen

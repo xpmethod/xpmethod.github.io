@@ -1,3 +1,6 @@
+#xpmethod.github.io
+[![Build Status](https://travis-ci.org/xpmethod/xpmethod.github.io.svg?branch=master)](https://travis-ci.org/xpmethod/xpmethod.github.io)
+
 This page describes the file structure and the taxonomy of xpmethod.github.io
 
 ## Logic
@@ -97,5 +100,6 @@ The site was originally forked from
 defaults
 - for links to static pages use internet archive snapshots as much as possible to minimize link rot
 - for simple issues use the [TODO.md](https://github.com/xpmethod/xpmethod.github.io/blob/master/TODO.md) file
+- travis
 
 
