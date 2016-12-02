@@ -7,7 +7,10 @@ category: embodied-space-lab
 type: interface
 snippet: 150
 published: true
-issue: 16
+image: babur2.png
+images:
+- babur1.png
+- babur3.png
 ---
 
 > This project is funded by the Columbia Libraries through their [Digital
@@ -49,13 +52,7 @@ location extraction and geolocation, ArcGIS, and some minor hand-cleaning of
 geodata by myself and my partners, my team detected clusters in point data from
 the text, deriving from these clusters a rough sense of the regions implicit in
 Babur's spatial imagination (which contrast suggestively with the national
-borders in maps by colonial maps of the period). 
-
-![babur-1](https://xpmethod.plaintext.in/public/images/babur1.png) 
-
-![babur-2](https://xpmethod.plaintext.in/public/images/babur2.png) 
-
-![babur-3](https://xpmethod.plaintext.in/public/images/babur3.png)
+borders in maps by colonial maps of the period).
 
 This project demonstrates the viability of the method while also underscoring
 the importance of preprocessing the data and expediting the hand-cleaning with
@@ -81,5 +78,3 @@ having the potential for significant impact in the field of literary mapping:
 if everyone else doing this kind of work is facing the same problems, an
 interface that helps them circumvent those problems could be a first step for
 many humanists working in this field.
-
-
