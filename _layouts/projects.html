@@ -19,9 +19,21 @@ url: research/
     </code>
 </div>
 
+
 <div class="cats">
     {{ content }}
 
+    {% for cat in site.categories %}
+        cat {{ cat.category }}
+        {% for post in site.posts %}
+            post {{ post.category }}
+            {% if cat.category == post.category %}
+                wahoo {{ post.category }}
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+
+    
     {% for post in site.categories[page.title] %}
 
         {% if post.title != null %}
