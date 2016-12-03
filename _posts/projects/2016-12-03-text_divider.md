@@ -7,6 +7,7 @@ tags:
 category: literary-modeling-and-visualization-lab
 type: markup
 image: url-alice.png
+snippet: 89
 ---
 
 Read the [README](https://github.com/muziejus/text_divider) at GitHub.
