@@ -4,17 +4,18 @@ title: "Text Divider: Quick Markup for Chapter and Dialogue Splitting"
 tags:
 - name: Moacir P. de Sá Pereira
   url: http://moacir.com
-category: knowledge-design-studio
+category: literary-modeling-and-visualization-lab
 type: markup
-image: text_divider.png
+image: url-alice.png
+---
 
 Read the [README](https://github.com/muziejus/text_divider) at GitHub.
 
-This python script breaks up a text into its internal sections. It uses a light
-markup scheme to signal where chapters and sections begin, and it also can keep
-track of dialogue by speaker. Given an electronic version of *The Great
-Gatsby*, for example, after the markup, it is possible to extract only Tom
-Buchanan’s lines.
+This python script breaks up a text into its internal sections. It uses a
+light markup scheme to signal where chapters and sections begin, and it also
+can keep track of dialogue by speaker. Given an electronic version of *The
+Great Gatsby*, for example, after the markup, it is possible to extract only
+Tom Buchanan’s lines.
 
 The markup that breaks out the sections and dialogue was [created by David
 Hoover](https://wp.nyu.edu/exceltextanalysis/analyzetextualdivisions/), though
@@ -28,10 +29,11 @@ The current state of the markup is:
 /      new speaker (character)
 \      reporting clause (“speech marker”)
 ```
-
+<br>
 As a result, the opening of *The Great Gatsby* can be marked up as:
 
 ```
+
 <1>The Great Gatsby
 
 Then wear the gold hat, if that will move her;
@@ -57,12 +59,12 @@ advantages that you've had."
 
 <2>Chapter 2
 ```
-
+<br>
 Here, I have arbitrarily designated the novel itself as `level 1` of the text
 division, thereby making each chapter `level 2`. When Mr. Carraway speaks, his
 speech is introduced with `/Mr. Carraway`, the reporting clause is marked with
-a backslash. Every aspect of the markup, of course, is optional, so if you want
-to keep the reporting clause as part of the narration, just don’t use the
+a backslash. Every aspect of the markup, of course, is optional, so if you
+want to keep the reporting clause as part of the narration, just don’t use the
 backslash. If you want to skip dialogue by certain characters or in certain
 parts, just don’t mark them up. There is a
 [`sample.txt`](https://github.com/muziejus/text_divider/blob/master/sample.txt)
