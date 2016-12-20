@@ -1,21 +1,20 @@
----
+----
+layout: vanilla
+title: lab-culture
 ---
 
 This is a proposed style guide for documents on xpmethod, open (of course) to
 communal revision, counterargument, alternatives, and argumentation:
 
-### Phil's Proposals
-
-#### Neologism Spellings
+### Neologism Spellings
 
 - geotagging
--  
 
-#### Grammar and Syntax
+### Grammar and Syntax
 
 - YES oxford comma
 - spell out numbers except when too long or when performing exact count (as in inventories of archives or reporting data)
 
-#### Markdown Conventions
+### Markdown Conventions
 
 - start headers at \#\#\# level
