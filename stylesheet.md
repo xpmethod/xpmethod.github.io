@@ -1,8 +1,3 @@
-----
-layout: vanilla
-title: lab-culture
----
-
 This is a proposed style guide for documents on xpmethod, open (of course) to
 communal revision, counterargument, alternatives, and argumentation:
 
