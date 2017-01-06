@@ -10,7 +10,8 @@ image: fabulaandsjuzet.png
 ---
 
 Read the [README](https://github.com/muziejus/wandering-rocks) at GitHub.
-[NYWalker](http://muziejus.github.io/wandering-rocks) as hosted by GitHub.
+[Mapping Fabula and Sjužet in “Wandering
+Rocks”](http://muziejus.github.io/wandering-rocks) as hosted by GitHub.
 
 “Fabula and Sjužet in ‘Wandering Rocks’” is a data visualization of the events
 in the tenth episode of James Joyce’s _Ulysses_. It maps the events both by the
