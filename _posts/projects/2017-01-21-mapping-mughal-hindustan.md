@@ -11,7 +11,7 @@ image:
 The aim is to publish a co-authored paper where the various sites of early Mughal Hindustan are re-framed as affective geography.
 The secondary aim is release the data-sets for Mughal India on git. Parameters are below. 
 
-*1. Aim: To produce a data-set, visualization, and position paper for a DH journal.
+* 1. Aim: To produce a data-set, visualization, and position paper for a DH journal.
 
 * 2. Data: To extract place-names from three sixteenth century texts. 
 The texts are in English and Persian and exist in both print-form and manuscript form. 
