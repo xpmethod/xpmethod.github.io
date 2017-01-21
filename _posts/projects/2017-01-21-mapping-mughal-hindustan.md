@@ -5,6 +5,7 @@ tags:
 - name: Manan Ahmed,Juan Francisco Saldarriaga Chaux, Sriharsha Devulapalli, Nadine Fattaleh 
 category: embodied-space-lab
 type: geocoding
+published: true
 image: 
 ---
 **Project Goals:**
