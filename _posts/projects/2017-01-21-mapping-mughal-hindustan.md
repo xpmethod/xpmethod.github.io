@@ -2,12 +2,16 @@
 layout: project
 title: "Mapping Mughal Hindustan, 1500-1600 CE"
 tags:
-- name: Manan Ahmed,Juan Francisco Saldarriaga Chaux, Sriharsha Devulapalli, Nadine Fattaleh 
+- Manan Ahmed
+- Juan Francisco Saldarriaga
+- Sriharsha Devulapalli
+- Nadine Fattaleh
 category: embodied-space-lab
 type: geocoding
 published: true
-image: 
+image:
 ---
+
 **Project Goals:**
 The aim is to publish a co-authored paper where the various sites of early Mughal Hindustan are re-framed as affective geography.
 The secondary aim is release the data-sets for Mughal India on git. Parameters are below. 

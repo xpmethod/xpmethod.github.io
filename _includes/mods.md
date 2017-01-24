@@ -7,4 +7,4 @@ Manan Ahmed,[^1] Alex Gil,[^2], Kaiama L. Glover,[^6] Durba Mitra,[^7] Frances N
 [^4]: <http://denten.plaintext.in>
 [^5]: <https://twitter.com/gwijthoff>
 [^6]: <https://barnard.edu/profiles/kaiama-l-glover>
-[^7]: <https://twitter.com/fargodurba>
+[^7]: <http://wgs.fas.harvard.edu/news/durba-mitra-join-wgs-assistant-professor>
