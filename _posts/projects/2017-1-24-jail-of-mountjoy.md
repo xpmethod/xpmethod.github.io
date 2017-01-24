@@ -19,4 +19,4 @@ integral aural component. Anyone appreciating Joyce’s penchant for bawdy limer
 
 Roland McHugh’s <i>Annotations to Finnegans Wake</i> suggests a structural relationship between Joyce's musicality and referentiality through its spatial arrangement, such that each page resembles sheet music. My project, <i>Jail of Mountjoy</i>, takes this sonic understanding one step further by "playing" indicative sections of these annotations <i>as</i> music. This is accomplished by aligning different categories of reference to respective octaves--e.g. "Professional Jargon," "Linguistic [Taxonomic],” "Linguistic [Categorical]," and so on. Then, sections are processed through a synthesizer to allow users to hear both the level of linguistic depth and type of reference indicated, while synchronized visual animations keep one situated in the text.
 
-See the entire project <a href="http://jailofmountjoy.newmedialab.cuny.edu/">here</a> here.
+See the entire project <a href="http://jailofmountjoy.newmedialab.cuny.edu/">here</a>.
