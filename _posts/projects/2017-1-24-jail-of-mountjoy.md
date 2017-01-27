@@ -7,7 +7,7 @@ tags:
 category: literary-modeling-and-visualization-lab
 type: graphic
 snippet: 350
-image: "JailofMountjoy.jpg"
+image: "Jailof.png"
 issue: 14
 ---
 
