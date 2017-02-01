@@ -4,7 +4,7 @@ title: "Device Security at the Border"
 location: "Butler Studio (208b)"
 type: teach-in
 prompt: "As part of our ongoing, \"Technologies of Dissent\" series (in
-partnerships with the Electronic Frontiers Alliance), this teach-in will
+partnership with the Electronic Frontiers Alliance), this teach-in will
 introduce you to best practices for securing your devices and protecting your
 online and offline privacy while crossing international borders. No prior
 experience is necessary."
