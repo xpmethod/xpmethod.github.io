@@ -7,7 +7,7 @@ prompt: "Over the course of this day of multiform panel presentations, we will e
 categories: events
 image:
  - carib-digital-iii.jpg
-hour: 4:00pm
+hour: 9:00am
 
 ---
 
