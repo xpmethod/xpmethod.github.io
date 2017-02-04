@@ -14,7 +14,6 @@ hour: 5-6pm
 images:
 - dissent.jpg
 - dissent2.jpg
-- dissent3.jpg
 ---
 
 Recent Executive Orders by President Trump have focused on surveillance and
