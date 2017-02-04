@@ -3,7 +3,7 @@ layout: project
 title: "Reading BroPages"
 tags:
 - Manan Ahmed
-category: public-discourse
+category: embodied-space-lab
 type: draft
 published: true
 image: bro.png

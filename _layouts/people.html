@@ -10,11 +10,10 @@ layout: default
 <p>
     <ul id="taglist">
         {% for tag in site.tags %}
-        	
             {% if tag[0].name %}
-            <li><a href="{{ tag[0].url }}">{{ tag[0].name }}</a></li>
+                <li><a href="{{ tag[0].url }}">{{ tag[0].name }}</a></li>
             {% else %}
-            <li>{{ tag[0] }}</li>
+                <li>{{ tag[0] }}</li>
         {% endif %}
         {% endfor %}
     </ul>

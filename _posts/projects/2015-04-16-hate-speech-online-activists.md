@@ -1,9 +1,9 @@
 ---
 layout: project
-title: Semantic Analysis of One Million &#35;GamerGate Tweets Using Semantic Category Correlation
+title: "Semantic Analysis of One Million &#35;GamerGate Tweets"
 tags:
 - Phillip R. Polefrone
-category: public-discourse
+category: literary-modeling-and-visualization-lab
 type: semantic analysis
 snippet: 150
 published: true
@@ -15,7 +15,7 @@ updates:
   text: "Project receives $5,000 from Columbia University's School of
 International and Public Affairs (SIPA) and Carnegie to further research on
 semantic analysis of conflict in microblogging platforms and hate speech."
---- 
+---
 
 This paper develops a methodology for describing the contents of a controversy
 on a microblogging platform (Twitter) by measuring correlations in broad
@@ -32,5 +32,6 @@ known qualities. This result suggests that a more developed version of this
 methodology could be used to detect conversational trends on social media
 platforms more easily and with less human labor than other similar methods.
 
-The full working paper can be found [on my website](https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/).
+The full working paper can be found [on my
+website](https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/).
 
