@@ -7,7 +7,7 @@ prompt: "As part of our ongoing, \"Technologies of Dissent\" series (in
 partnership with the Electronic Frontiers Alliance), this teach-in will
 introduce you to best practices for securing your devices and protecting your
 online and offline privacy while crossing international borders. No prior
-experience is necessary."
+experience is necessary. Event open to the public."
 categories:
 - events
 hour: 5-6pm
