@@ -11,7 +11,7 @@ $mono: "Inconsolata", monospace
 $huge: 1.4rem
 $large: 1.3rem
 $medium: 1.2rem
-$small: 1rem
+$small: 0.9rem
 $normal: 18px
 
 $link: DarkSlateGray
@@ -22,7 +22,7 @@ $box: #FFFFCC
 
 body 
   font-family: $serif
-  max-width: 45em
+  max-width: 40em
   font-size: $normal
   margin: 1em auto 
 
@@ -33,8 +33,6 @@ a, a:visited
   text-decoration: none
   &:hover
     color: $hoverlink
-  &.nav.active
-    color: $activelink
 
 ol
   padding: unset
@@ -66,17 +64,13 @@ header
     &#site-title
       color: black
       font-size: $huge
-    &.nav
-      font-size: $medium
 
-.secondary-nav
-  text-transform: lowercase
+.nav
   font-family: $mono
+  text-transform: lowercase
   font-size: $medium
-  a:after
-    content: " |"
-  a:last-child:after
-    content: ""
+  &.active
+    color: $activelink
 
 #strains li /* Projects */ 
   display: inline
@@ -95,7 +89,7 @@ header
     max-width: 40%
     border: 2px solid #ddd
 
-#update-list
+div.update-list
   margin-bottom: 0.5em
   .update-link
     color: gray
@@ -135,7 +129,6 @@ header
 #gallery-box
   display: flex
   flex-direction: row
-  align-items: center
   a
     padding: 1em
 
