@@ -18,8 +18,8 @@ images:
 
 Recent Executive Orders by President Trump have focused on surveillance and
 examination of travelers' personal devices as well as their social media
-history, contacts, and other information. As academics and researchers engaged
+history, contacts, and other information. In fact, United States is joining similar efforts already
+instituted in Turkey, Pakistan, United Kingdom and more. As academics and researchers engaged
 in active research and publication around the world, we are especially
 vulnerable to these new legal regimes--irrespective of our citizenship and
-legal status. In fact, United States is joining similar efforts already
-instituted in Turkey, Pakistan, United Kingdom and more.
+legal status. Let us take some measures to limit our vulnerabilities.
