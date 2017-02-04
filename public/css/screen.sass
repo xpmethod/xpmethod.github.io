@@ -25,7 +25,6 @@ body
   max-width: 45em
   font-size: $normal
   margin: 1em auto 
-  max-width: 70%
 
 /* Generic Elements */ 
 
@@ -47,8 +46,9 @@ h2
   font-size: $medium
 
 h3
-  margin-bottom: 0
   font-size: $normal
+
+h1, h2, h3
   a
     color: black
 
@@ -131,6 +131,13 @@ header
 .box
   background-color: $box
   padding: 2em
+
+#gallery-box
+  display: flex
+  flex-direction: row
+  align-items: center
+  a
+    padding: 1em
 
 footer
   font-family: $mono
