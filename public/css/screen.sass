@@ -2,26 +2,31 @@
 ---
 @import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro')
 @import url('https://fonts.googleapis.com/css?family=Source+Code+Pro')
+@import url('https://fonts.googleapis.com/css?family=Inconsolata')
+@import url('https://fonts.googleapis.com/css?family=Cardo')
 
 $sans: "Source Sans Pro", sans-serif
-$mono: "Source Code Pro", monospace
-$huge: 1.5rem
-$large: 1.4rem
-$medium: 1.3rem
+$serif: "Cardo", serif
+$mono: "Inconsolata", monospace
+$huge: 1.4rem
+$large: 1.3rem
+$medium: 1.2rem
 $small: 1rem
-$base-fontsize: 22px
+$normal: 18px
 
-$link: #1E4E9B
+$link: DarkSlateGray
 $hoverlink: darken($link, 10%)
 $activelink: #F00
 $tag: #EFEFEF
 
 body 
-  font-family: $sans
+  font-family: $serif
   max-width: 45em
-  font-size: $base-fontsize
-  margin: 0 auto 
+  font-size: $normal
+  margin: 1em auto 
+  max-width: 70%
 
+/* Generic Elements */ 
 
 a, a:visited
   color: $link
@@ -31,30 +36,49 @@ a, a:visited
   &.nav.active
     color: $activelink
 
-.title
-  //font-family: $mono
-  font-size: $huge
-  a 
+ol
+  padding: unset
+
+h3
+  margin-bottom: 0
+  font-size: $normal
+  a
     color: black
-  a.nav
-    font-size: $medium
+
+header
+  margin-bottom: 1em
+  a, a:visited
+    font-size: $huge
+    font-family: $mono
+    &#site-title
+      color: black
+      font-size: $huge
+    &.nav
+      font-size: $medium
+
+#strains li /* Projects */ 
+  display: inline
+  &:after
+    content: " » " 
+  &:last-child:after 
+    content: ""
+  a 
+    font-family: $mono
+    color: black
 
 .secondary-nav
   text-transform: lowercase
-  //font-family: $mono
+  font-family: $mono
   font-size: $medium
 
 .tag
   font-size: $small
   background-color: $tag
+  padding: 0.1em 0.2em
 
 .secondary-nav
   text-transform: lowercase
 
-#strains li
-  display: inline-block
-  &:after
-    content: " • " 
 
 #strain
   img
@@ -63,5 +87,7 @@ a, a:visited
     border: 2px solid #ddd
 
 footer
+  font-family: $mono
   margin-top: 1em
-  background-color: #efefef
+  border-top: 5px solid #eee
+  padding-top: 1em
