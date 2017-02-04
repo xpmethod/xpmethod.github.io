@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Device Security at the Border"
+title: "Electronic Device Security at the Border"
 location: "Butler Studio (208b)"
 type: teach-in
 prompt: "As part of our ongoing, \"Technologies of Dissent\" series (in
