@@ -11,7 +11,7 @@ url: research/
 
     <!-- remember tags are people -->
     {% if page.tags %}
-        <ul id="taglist">
+        <ul class="people-list">
         {% for person in page.tags %}
             <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
@@ -51,8 +51,8 @@ url: research/
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div id="update-list">
-                    <div id="update-date-project">{{ update.date }}</div>
-                    <div id="update-text-project">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                    <span class="update-date">{{ update.date }}</span>
+                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
         </div>

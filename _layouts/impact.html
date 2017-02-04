@@ -17,8 +17,8 @@ layout: default
         {% for update in post.updates %}
             {% if update.type contains 'publication' or update.type contains 'paper' %}
             <div id="update-list">
-                <div id="update-date">{{ update.date }}
-                <a id="update-link" href="{{ post.url }}">
+                <div class="update-date">{{ update.date }}
+                <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}</a>
                 </div>
                 {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -73,9 +73,9 @@ layout: default
 <div id="update-div">
     {% for job in site.data.jobs %}
         <div id="update-list">
-            <div id="update-date">
+            <div class="update-date">
                 {{ job.date }}
-                <a id="update-link" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     Experimental Methods Group
                 </a>
             </div>

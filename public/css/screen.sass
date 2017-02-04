@@ -17,7 +17,8 @@ $normal: 18px
 $link: DarkSlateGray
 $hoverlink: darken($link, 10%)
 $activelink: #F00
-$tag: #EFEFEF
+$tag: #EEF
+$box: #FFFFCC
 
 body 
   font-family: $serif
@@ -39,11 +40,23 @@ a, a:visited
 ol
   padding: unset
 
+h1
+  font-size: $large
+
+h2
+  font-size: $medium
+
 h3
   margin-bottom: 0
   font-size: $normal
   a
     color: black
+
+img 
+  /* Don't allow images to overflow. */
+  max-width: 100%
+
+/* Specific Elements */ 
 
 header
   margin-bottom: 1em
@@ -56,6 +69,15 @@ header
     &.nav
       font-size: $medium
 
+.secondary-nav
+  text-transform: lowercase
+  font-family: $mono
+  font-size: $medium
+  a:after
+    content: " |"
+  a:last-child:after
+    content: ""
+
 #strains li /* Projects */ 
   display: inline
   &:after
@@ -66,25 +88,49 @@ header
     font-family: $mono
     color: black
 
-.secondary-nav
-  text-transform: lowercase
-  font-family: $mono
-  font-size: $medium
+#strain, #feature
+  img
+    float: right
+    margin: 0 0 1.5em 1.5em
+    max-width: 40%
+    border: 2px solid #ddd
+
+#update-list
+  margin-bottom: 0.5em
+  .update-link
+    color: gray
+  .update-date
+    font-family: $mono
+    margin-left: -3em
+    color: lightgray
+
+.people-list
+  li
+    display: inline
+    &:after
+      content: ", "
+    &:last-child:after
+      content: ""
+
+.event
+  .date
+    font-family: $mono
+
+#time
+  color: gray
+  margin-bottom: 1em
 
 .tag
+  font-family: $mono
   font-size: $small
   background-color: $tag
   padding: 0.1em 0.2em
+  border: 1px solid lightgray
+  vertical-align: top
 
-.secondary-nav
-  text-transform: lowercase
-
-
-#strain
-  img
-    float: right
-    max-width: 20%
-    border: 2px solid #ddd
+.box
+  background-color: $box
+  padding: 2em
 
 footer
   font-family: $mono

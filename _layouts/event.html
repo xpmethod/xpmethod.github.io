@@ -21,15 +21,15 @@ layout: default
 
     <!--include participants-->
     {% if page.participants %}
-        <div id="participants"><ul id="taglist">
+        <div id="participants"><ul class="people-list">
             {% for participant in page.participants %}
                 <li>{{ participant }}</li>
             {% endfor %}
-        </ul>></div>
+        </ul></div>
     {% endif %}
 
     <!-- include prompt --!>
-    <div id="prompt">
+    <div class="box">
     {% if page.prompt %}
         {{ page.prompt }}
     {% endif %}

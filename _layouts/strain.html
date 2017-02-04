@@ -26,18 +26,15 @@ layout: default
     <!-- if post.tags is not working -->
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
-        <div id="peoplelist">
-            <!-- mechanism for those who chose to specify url -->
-            <ul id="taglist">
-                {% for person in post.tags %}
-                    {% if person.url and person.name %}
-                        <li><a href="{{ person.url }}">{{ person.name }}</a></li>
-                    {% else %}
-                        <li>{{ person }}</li>
-                    {% endif %}
-                {% endfor %}
-            </ul>
-        </div>
+    <ul class="people-list">
+	{% for person in post.tags %}
+	    {% if person.url and person.name %}
+		<li><a href="{{ person.url }}">{{ person.name }}</a></li>
+	    {% else %}
+		<li>{{ person }}</li>
+	    {% endif %}
+	{% endfor %}
+    </ul>
     {% endif %}
 
     <!-- events are different since we are pulling the prompt -->
@@ -67,7 +64,6 @@ layout: default
         <!-- hacky, but lets close all interrupted tags from previous post in the
         loop -->
         </strong>
-        <hr class="style-dashed">
         </div>
     {% endunless %}
 </div>

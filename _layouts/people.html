@@ -9,7 +9,7 @@ layout: default
 
 <ul class="people-list">
         {% for tag in site.tags %}
-            {% if tag[0].name %}
+            {% if tag[0].url %}
                 <li><a href="{{ tag[0].url }}">{{ tag[0].name }}</a></li>
             {% else %}
                 <li>{{ tag[0] }}</li>
@@ -17,21 +17,10 @@ layout: default
         {% endfor %}
 </ul>
 
-	{% if tag[0].name %}
-	<li>
-		<a href="{{ tag[0].url }}">{{ tag[0].name }}</a>
-	</li>
-	{% else %}
-	<li>{{ tag[0] }}</li>
-	{% endif %}
-</ul>
-
 <h2>Moderators</h2>
 
 <ul class="people-list">
 	{% for mod in site.data.mods %}
-	<li>
-		<a href="{{ mod.url }}">{{ mod.name }}</a>
-	</li>
+	<li><a href="{{ mod.url }}">{{ mod.name }}</a></li>
 	{% endfor %}
 </ul>
