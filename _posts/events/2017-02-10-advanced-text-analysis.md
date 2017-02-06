@@ -7,6 +7,9 @@ prompt: "This workshop is an introduction to the Python module SpaCy, a new libr
 categories:
 - events
 hour: 10am-12pm
+tags:
+ - name: Jonathan Reeve
+   url: http://jonreeve.com
 ---
 
-For more information about this and other NYCDH Week workshops see: <http://dhweek.nycdh.org/event/advanced-text-analysis-with-spacy-and-scikit-learn/>
+Led by [Jonathan Reeve](http://jonreeve.com). For more information about this and other NYCDH Week workshops see: <http://dhweek.nycdh.org/event/advanced-text-analysis-with-spacy-and-scikit-learn/>
