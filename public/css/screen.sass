@@ -124,25 +124,30 @@ div.update-list
 
 .box
   background-color: $box
-  padding: 2em
+  margin: 2em 0
+  margin: .5em -2em
+  padding: 1em 2em
 
 // This Flexbox model apparently doesn't work 
 // on all browsers. Older Firefox doesn't seem to work. 
+// Let's put this on hold temporarily, until we can 
+// figure this out. 
+
 //#gallery-box
-  //display: flex
-  //flex-direction: row
-  //a
-    //padding: 1em
+//  display: flex
+//  flex-direction: row
+//  a
+//    padding: 1em
 
 #gallery-box 
-   margin-left: auto
-   margin-right: auto
-   position: relative
-   overflow: hidden
+  margin-left: auto
+  margin-right: auto
+  position: relative
+  overflow: hidden
   img
-   max-width: 30%
-   margin: .5em
-   float: left
+    max-width: 30%
+    margin: .5em
+    float: left
 
 footer
   font-family: $mono
