@@ -24,3 +24,5 @@ more. As academics and researchers engaged in active research and publication
 around the world, we are especially vulnerable to these new legal
 regimes--irrespective of our citizenship and legal status. Let us take some
 measures to limit our vulnerabilities.
+
+The workshop will be led by Prof. [Dennis Tenen](http://english.columbia.edu/people/profile/453) (English & Comp. Lit) and Prof. [Manan Ahmed](http://history.columbia.edu/faculty/Ahmed.html) (History) at the Butler Studio (208b).
