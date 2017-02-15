@@ -16,6 +16,9 @@ images:
 - dissent2.jpg
 ---
 
+Notes from and key terms from the workshop can be found
+[here](https://github.com/dh-notes/dhnotes/blob/master/pages/border-security.md).
+
 Recent Executive Orders by President Trump have focused on surveillance and
 examination of travelers' personal devices as well as their social media
 history, contacts, and other information. In fact, United States is joining
@@ -25,4 +28,7 @@ around the world, we are especially vulnerable to these new legal
 regimes--irrespective of our citizenship and legal status. Let us take some
 measures to limit our vulnerabilities.
 
-The workshop will be led by Prof. [Dennis Tenen](http://english.columbia.edu/people/profile/453) (English & Comp. Lit) and Prof. [Manan Ahmed](http://history.columbia.edu/faculty/Ahmed.html) (History) at the Butler Studio (208b).
+The workshop will be led by Prof. [Dennis
+Tenen](http://english.columbia.edu/people/profile/453) (English & Comp. Lit)
+and Prof. [Manan Ahmed](http://history.columbia.edu/faculty/Ahmed.html)
+(History) at the Butler Studio (208b).
