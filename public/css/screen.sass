@@ -1,0 +1,156 @@
+---
+---
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro')
+@import url('https://fonts.googleapis.com/css?family=Source+Code+Pro')
+@import url('https://fonts.googleapis.com/css?family=Inconsolata')
+@import url('https://fonts.googleapis.com/css?family=Cardo')
+
+$sans: "Source Sans Pro", sans-serif
+$serif: "Cardo", serif
+$mono: "Inconsolata", monospace
+$huge: 1.4rem
+$large: 1.3rem
+$medium: 1.2rem
+$small: 0.9rem
+$normal: 18px
+
+$link: DarkSlateGray
+$hoverlink: darken($link, 10%)
+$activelink: #F00
+$tag: #EEF
+$box: #FFFFCC
+
+body 
+  font-family: $serif
+  max-width: 40em
+  font-size: $normal
+  margin: 1em auto 
+
+/* Generic Elements */ 
+
+a, a:visited
+  color: $link
+  text-decoration: none
+  &:hover
+    color: $hoverlink
+
+ol
+  padding: unset
+
+h1
+  font-size: $large
+
+h2
+  font-size: $medium
+
+h3
+  font-size: $normal
+
+h1, h2, h3
+  a
+    color: black
+
+img 
+  /* Don't allow images to overflow. */
+  max-width: 100%
+
+/* Specific Elements */ 
+
+header
+  margin-bottom: 1em
+  a, a:visited
+    font-size: $huge
+    font-family: $mono
+    &#site-title
+      color: black
+      font-size: $huge
+
+.nav
+  font-family: $mono
+  text-transform: lowercase
+  font-size: $medium
+  &.active
+    color: $activelink
+
+#strains li /* Projects */ 
+  display: inline
+  &:after
+    content: " » " 
+  &:last-child:after 
+    content: ""
+  a 
+    font-family: $mono
+    color: black
+
+#strain, #feature
+  img
+    float: right
+    margin: 0 0 1.5em 1.5em
+    max-width: 40%
+    border: 2px solid #ddd
+
+div.update-list
+  margin-bottom: 0.5em
+  .update-link
+    color: gray
+  .update-date
+    font-family: $mono
+    margin-left: -3em
+    color: lightgray
+
+.people-list
+  li
+    display: inline
+    &:after
+      content: ", "
+    &:last-child:after
+      content: ""
+
+.event
+  .date
+    font-family: $mono
+
+#time
+  color: gray
+  margin-bottom: 1em
+
+.tag
+  font-family: $mono
+  font-size: $small
+  background-color: $tag
+  padding: 0.1em 0.2em
+  border: 1px solid lightgray
+  vertical-align: top
+
+.box
+  background-color: $box
+  margin: 2em 0
+  margin: .5em -2em
+  padding: 1em 2em
+
+// This Flexbox model apparently doesn't work 
+// on all browsers. Older Firefox doesn't seem to work. 
+// Let's put this on hold temporarily, until we can 
+// figure this out. 
+
+//#gallery-box
+//  display: flex
+//  flex-direction: row
+//  a
+//    padding: 1em
+
+#gallery-box 
+  margin-left: auto
+  margin-right: auto
+  position: relative
+  overflow: hidden
+  img
+    max-width: 30%
+    margin: .5em
+    float: left
+
+footer
+  font-family: $mono
+  margin-top: 1em
+  border-top: 5px solid #eee
+  padding-top: 1em

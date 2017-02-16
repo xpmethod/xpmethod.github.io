@@ -7,22 +7,20 @@ layout: default
 <h2>Contributors</h2>
 <!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
 
-<p>
-    <ul id="taglist">
+<ul class="people-list">
         {% for tag in site.tags %}
-            {% if tag[0].name %}
+            {% if tag[0].url %}
                 <li><a href="{{ tag[0].url }}">{{ tag[0].name }}</a></li>
             {% else %}
                 <li>{{ tag[0] }}</li>
         {% endif %}
         {% endfor %}
-    </ul>
-<p>
+</ul>
 
-<!-- want faculty advisers to happen after contributors -->
-<!-- want fancy footnotes on faculy links -->
-<!-- filters are the only way to get markdown to render -->
-<p>
-{% capture myinclude %}{% include mods.md %}{% endcapture %}
-{{ myinclude | markdownify }}
-</p>
+<h2>Moderators</h2>
+
+<ul class="people-list">
+	{% for mod in site.data.mods %}
+	<li><a href="{{ mod.url }}">{{ mod.name }}</a></li>
+	{% endfor %}
+</ul>

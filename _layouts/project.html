@@ -4,28 +4,26 @@ url: research/
 ---
 
 <div id="post">
-    <h2>&raquo; {{ page.title }}
+    <h2>{{ page.title }}
     {% if page.type %}
-        <sup><code>{{ page.type }}</code></sup>
+    <span class="tag">{{ page.type }}</span>
     {% endif %}</h2>
 
     <!-- remember tags are people -->
-    <sup>
     {% if page.tags %}
-        <ul id="taglist">
+        <ul class="people-list">
         {% for person in page.tags %}
             <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}
-    </sup>
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
             <div id="feature">
                 <figure>
                     <a href="/public/images/{{ page.image }}">
-                    <img src="/public/images/{{ page.image }}">
+                    <img alt="" src="/public/images/{{ page.image }}">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
@@ -49,12 +47,12 @@ url: research/
     <!-- include updates if we have them--!>
 
     {% if page.updates%}
-        <div id="update-div">
+        <div class="update-div">
             <h3>Updates</h3>
             {% for update in page.updates %}
-                <div id="update-list">
-                    <div id="update-date-project">{{ update.date }}</div>
-                    <div id="update-text-project">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</div>
+                <div class="update-list">
+                    <span class="update-date">{{ update.date }}</span>
+                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
         </div>
@@ -64,13 +62,11 @@ url: research/
 
     <!-- image gallery support -->
         {% if page.images %}
-            <div id='gallery-box'>
-        {% for image in page.images %}
-                <div id='gallery-image'>
-                    <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
-                </div>
-        {% endfor %}
-            </div>
+	<div id='gallery-box'>
+		{% for image in page.images %}
+		<a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
+		{% endfor %}
+	</div>
         {% endif %}
 
 </div>
