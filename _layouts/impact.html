@@ -2,14 +2,13 @@
 layout: default
 ---
 
-<div class="nav secondary">
-	<a href="#publications" class="nav active">Publications</a>
-	<a href="#grants">Grants-and-Awards</a>
-	<a href="#press">Public-Engagement</a>
-	<a href="#jobs">Jobs</a>
+<div class="nav secondary" id="publications">
+    <a href="#publications" class="nav active">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
 </div>
-
-<h3><a name="publications"></a>Publications</h3>
 
 <div class="update-div">
     {% for post in site.posts %}
@@ -27,7 +26,13 @@ layout: default
     {% endfor %}
 </div>
 
-<h3><a name="grants"></a>Grants & Awards</h3>
+<div class="nav secondary" id="grants">
+    <a href="#publications">publications</a> |
+    <a href="#grants" class="nav active">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
 
 <div class="update-div">
     {% for post in site.posts %}
@@ -47,7 +52,13 @@ layout: default
     {% endfor %}
 </div>
 
-<h3><a name="press"></a>Public Engagement</h3>
+<div class="nav secondary" id="press">
+    <a href="#publications">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press" class="nav active">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
 
 <div class="update-div">
     {% for post in site.posts %}
@@ -67,7 +78,13 @@ layout: default
     {% endfor %}
 </div>
 
-<h3><a name="jobs"></a>Jobs</h3>
+<div class="nav secondary" id="jobs">
+    <a href="#publications">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs" class="nav active">placements</a>
+    <hr>
+</div>
 
 <div class="update-div">
     {% for job in site.data.jobs %}
