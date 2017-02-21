@@ -52,6 +52,16 @@ to knowledge.
 
 [1]: https://www.eff.org/electronic-frontier-alliance
 
+### Recommended Reading
+
+- Peter Kropotkin, "[Mutual Aid Amongst Ourselves][3]" (1902).
+- Jo (Joreen) Freeman, "[The Tyranny of Structurelessness][2]" (1972).
+
+[2]:
+https://web.archive.org/web/20170221193127/http://www.jofreeman.com/joreen/tyranny.htm
+
+[3]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
+
 <sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
 
