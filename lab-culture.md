@@ -5,9 +5,9 @@ title: lab-culture
 
 We believe in presence. Regular "open lab" sessions (on Friday afternoons from
 3-5pm, at Butler Studio 208b) are a key way to get involved and to stay in
-touch. We use the time to work on our projects, to learn new skills, or just
-to catch up on our own work. There are no requirements to attend. Just show up
-with your laptop.
+touch. Use the time to work on your projects, learn new skills, share
+expertise, or just catch up on our own work. There are no requirements to
+attend.
 
 ### Modalities of Engagement
 
