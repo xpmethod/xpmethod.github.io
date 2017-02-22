@@ -10,7 +10,7 @@ newspaper ‘The Examiner'."
 categories:
 - events
 hour: 2-4pm
-images: hunt.jpeg
+images: hunt.jpg
 ---
 
 This periodical was Hunt’s most famous publication as editor in the first two
