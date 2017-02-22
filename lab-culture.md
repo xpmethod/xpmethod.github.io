@@ -58,10 +58,18 @@ to knowledge.
 
 - Peter Kropotkin, "[Mutual Aid Amongst Ourselves][3]" (1902).
 - Jo (Joreen) Freeman, "[The Tyranny of Structurelessness][2]" (1972).
+- Yochai Benkler and Helen Nissenbaum, "[Commons based Peer Production and
+  Virtue][4]" (2006).
+- Yochai Benkler, Aaron Shaw, and Mako Hill, "[Peer Production: A Modality of
+Collective Intelligence][5]" (2014).
 
 [2]: https://web.archive.org/web/20170221193127/http://www.jofreeman.com/joreen/tyranny.htm
 
 [3]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
+
+[4]: https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf
+
+[5]: http://mako.cc/academic/benkler_shaw_hill-peer_production_ci.pdf
 
 <sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
