@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Text Divider: Quick Markup for Chapter and Dialogue Splitting"
-tags:
-- name: Moacir P. de Sá Pereira
-  url: http://moacir.com
+tags: 
+ - Moacir P. de Sá Pereira
 category: literary-modeling-and-visualization-lab
 type: markup
 image: url-alice.png
