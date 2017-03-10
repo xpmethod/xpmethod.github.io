@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Mapping Indexicality"
-tags:
-- name: Emily Fuhrman
-  url: http://emilyfuhrman.co
+tags: 
+ - Emily Fuhrman
 category: embodied-space-lab
 type: graphic
 published: true

@@ -1,13 +1,10 @@
 ---
 layout: project
 title: "Middlemarch Critical Histories"
-tags:
-- name: Jonathan Reeve
-  url: http://jonreeve.com
-- name: Milan Terlunen 
-  url: http://xpmethod.github.io
-- name: Sierra Eckert 
-  url: http://xpmethod.github.io
+tags: 
+ - Jonathan Reeve
+ - Milan Terlunen
+ - Sierra Eckert
 category: literary-modeling-and-visualization-lab
 published: true
 snippet: 82
