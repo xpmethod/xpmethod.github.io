@@ -9,4 +9,4 @@ categories:
 hour: 2-3pm
 ---
 
-Dr. Levanger (PhD, Rutgers U) is a mathematician at the University of Pennsylvania, specializing in topological data analysis. 
+Dr. Levanger (PhD, Rutgers U) is a is a postdoctoral researcher in the Department of Electrical and Systems Engineering at the University of Pennsylvania, specializing in topological data analysis. 
