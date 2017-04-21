@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Mapping Fabula and Sjužet in “Wandering Rocks”"
-tags:
-- name: Moacir P. de Sá Pereira
-  url: http://moacir.com
+tags:  
+ - Moacir P. de Sá Pereira
 category: literary-modeling-and-visualization-lab
 type: geocoding
 image: fabulaandsjuzet.png
