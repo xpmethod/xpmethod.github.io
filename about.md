@@ -26,13 +26,9 @@ failure, but simply as an act the outcome of which is unknown."[^2] Theory and
 method---the how and the why---attain their full expressive potential in
 dialogue.[^3]
 
-[^1]: Bernard, Claude (1865). *Introduction à l'étude de la médecine
-expérimentale*. Paris.
+[^1]: Bernard, Claude (1865). *Introduction à l'étude de la médecine expérimentale*. Paris.
 
-[^2]: John Cage as quoted in Nyman, Michael (1974). *Experimental Music: Cage
-and Beyond*. Cambridge, UK.
+[^2]: John Cage as quoted in Nyman, Michael (1974). *Experimental Music: Cage and Beyond*. Cambridge, UK.
 
-[^3]: In consideration of Felski, Rita. “From Literary Theory to Critical
-Method.” *Profession*, 2008, 108–16 and Feyerabend, Paul K, and Ian Hacking.
-*Against Method*. London: Verso, 2010.
+[^3]: In consideration of Felski, Rita. “From Literary Theory to Critical Method.” *Profession*, 2008, 108–16 and Feyerabend, Paul K, and Ian Hacking. *Against Method*. London: Verso, 2010.
 
