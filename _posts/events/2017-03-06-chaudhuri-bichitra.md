@@ -10,7 +10,7 @@ publication: there might be a dozen or more versions of a work to take into
 account."
 categories:
 - events
-hour: 2-4pm
+hour: 3-5pm
 images: bichitra.jpeg
 ---
 
