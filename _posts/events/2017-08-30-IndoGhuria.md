@@ -1,7 +1,7 @@
 ---
 layout: event
 title: "Indo-Ghuria: Continuities and Ruptures in 12th-13th-Century South and Central Asia"
-location: "Columbia University, NY" "The MET, NY"
+location: Butler 208B
 participants:
 - Manan Ahmed
 - Viola Allegranzi
@@ -16,7 +16,8 @@ participants:
 - Jawan Shir Rasikh
 type: workshop
 prompt: "This collective endeavor seeks to explore, from multiple disciplinary perspectives, the shifting connections between South and Central Asia during the twelfth-thirteenth centuries. Although this timeframe has been historiographically emphasized primarily due to the Mongol campaigns of the 1220s in Central Asia, almost simultaneously South Asia (particularly northern India) also underwent momentous changes: the successful Ghurid campaigns of the 1190s not only introduced and consolidated Islam as a political system in the region, they effectively sutured the Indic and Persianate worlds in a new and enduring nexus of cultural, linguistic, socio-religious, and political relationships that were to reverberate for centuries into the modern day. This workshop will explore a meaningful cross-section of the twelfth-thirteenth-century historical moment/process. ."
-categories: events
+categories:
+- events
 ---
 
 ## Schedule
