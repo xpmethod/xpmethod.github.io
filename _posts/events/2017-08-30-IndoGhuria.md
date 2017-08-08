@@ -5,6 +5,7 @@ location: Butler 208B
 participants:
 - Manan Ahmed
 - Viola Allegranzi
+- Shahid Amin
 - Blain Auer
 - Kurt Behrendt
 - Whitney Cox
