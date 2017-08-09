@@ -3,7 +3,7 @@ layout: vanilla
 title: about
 ---
 
-What does it mean to "experiment" in the study of history, literature, or
+Test. What does it mean to "experiment" in the study of history, literature, or
 philosophy? In answering that question we draw inspiration from two distinct
 spaces. First, the laboratory, where scientists bracket the world in search
 for independent variables and reproducible results. Second, the studio, where
