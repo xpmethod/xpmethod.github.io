@@ -27,15 +27,15 @@ categories:
 * September 1: Concluding thoughts, and planning for the edited volume
 
 ## Venues
- * August 30: Butler 208B, Butler Library, Columbia University
+ * August 30: [Butler 208B, Butler Library](http://library.columbia.edu/locations/butler/directions.html), Columbia University
  * August 31: The Metropolitan Museum
- * September 1: Butler 208B, Butler Library, Columbia University
+ * September 1: [Heyman Center Common Room](http://heymancenter.org/visit/), Columbia University
 
 ## Lodgings
-* Hudson, 358 West 58 Street, New York, NY 10019
+* [Hudson](https://www.morganshotelgroup.com/hudson/hudson-new-york), 358 West 58 Street, New York, NY 10019
 
 ## Dinner
-* August 30: Marlow, 1018 Amsterdam Avenue
+* August 30: [Marlow](http://marlowbistro.com), 1018 Amsterdam Avenue
 * August 31: TBD
 
 ## Contacts:
