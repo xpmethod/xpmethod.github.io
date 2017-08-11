@@ -20,6 +20,10 @@ prompt: "A collaboration between The MET, UC Irvine, and Columbia, this collecti
 categories:
 - events
 ---
+## Funding & Support
+* Lenfest Junior Faculty Grant
+* South Asia Institute and Dean of Social Sciences
+* Heyman Center for the Humanities
 
 ## Schedule
 * August 30: Presentation of papers 
