@@ -27,7 +27,7 @@ categories:
 * Department of History
 
 ## Schedule
-* August 30: Presentation of papers
+* August 30: Presentation of papers. Each **speaker** will present for 15 minutes. The (disscusants) will formally open remarks with some brief comments and guiding questions. They will also moderate the sessions. Each conversation will last 45 minutes.
   * 9:30 Breakfast & Coffee- Introductions
   * 10:00 **Manan Ahmed** (Martina Rugiadi)
   * 10:45-11:00 Break
