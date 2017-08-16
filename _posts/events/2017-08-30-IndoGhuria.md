@@ -42,7 +42,7 @@ categories:
   * 4:45 Break- drinks.
   
 * August 31: Viewing and discussion of objects at the MET-- meeting at 10:00 am.
-* September 1: Concluding thoughts, and planning for the edited volume-- meeting at 9:30 am.
+* September 1: Concluding thoughts, and planning for the published volume-- meeting at 9:30 am.
 
 ## Venues
  * August 30: 9:30 am at [Butler 208B, Butler Library](http://library.columbia.edu/locations/butler/directions.html), Columbia University
@@ -56,6 +56,15 @@ categories:
 * August 30: [Marlow](http://marlowbistro.com), 1018 Amsterdam Avenue at 6:30 pm.
 * August 31: No official plans.
 
+## Reimbursements
+* [Guidelines for Travel Reimbursements](http://history.columbia.edu/resources/reimbursement-and-payment-for-non-cu-employees/)
+ * All payees must submit a tax form and an expense form in addition to receipts and proof of payment in order to receive reimbursement. Please ensure all of the information on the expense form is legible. If there are questions or problems with the payment, the payee will be contacted via email. Payee should request reimbursement within 10 days of the expense/trip. Please Note: The University observes all INS and IRS regulations regarding payment to nonresident aliens. Certain visa types preclude payment of expenses, professional services, per diem, or salary.
+ * Payable foreign nationals must submit a W-8BEN form, copy of passport (visa page and ID page), a Non-Employee Expense form, and receipts.
+ * United States Citizens and Permanent Residents: Citizens and Permanent Residents seeking expense reimbursement must submit a W-9 form, a Non-Employee Expense form, and receipts.
+* Required forms
+  * [W-9](https://www.irs.gov/pub/irs-pdf/fw9.pdf)
+  * [W-8BEN](https://www.irs.gov/pub/irs-pdf/fw8ben.pdf)
+
 ## Contacts:
-* Manan Ahmed
-* Patricia Morel
+* [Manan Ahmed](mailto:ma3179@columbia.edu) for all matters.
+* [Patricia Morel](mailto:pr2297@columbia.edu) for travel reimbursements.
