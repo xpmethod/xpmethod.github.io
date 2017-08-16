@@ -29,17 +29,17 @@ categories:
 ## Schedule
 * August 30: Presentation of papers. Each **speaker** will present for 15 minutes. The (disscusants) will formally open remarks with some brief comments and guiding questions. They will also moderate the sessions. Each conversation will last 45 minutes.
   * 9:30 Breakfast & Coffee- Introductions
-  * 10:00 **Manan Ahmed** (Martina Rugiadi)
+  * 10:00 **[Manan Ahmed](http://history.columbia.edu/faculty/manan-ahmed/)** ([Martina Rugiadi](http://metmuseum.academia.edu/MartinaRugiadi))
   * 10:45-11:00 Break
-  * 11:00 **Viola Allegranzi** (Jawan Shir Rasikh)
+  * 11:00 **[Viola Allegranzi](http://univ-paris3.academia.edu/ViolaAllegranzi)** ([Jawan Shir Rasikh](https://www.southasia.upenn.edu/people/jawan-shir-rasikh))
   * 11:45-12:00 Break into Lunch
-  * 1:00 **Michael O'Neil** (Khodadad Rezakhani)
+  * 1:00 **Michael O'Neil** ([Khodadad Rezakhani](http://fu-berlin.academia.edu/KhodadadRezakhani))
   * 1:45-2:00 Break
-  * 2:00 **Alka Patel**
+  * 2:00 **[Alka Patel](http://www.humanities.uci.edu/users/alkapatel/index.html)**
   * 2:45-3:00 Break
-  * 3:00 **Blain Auer** (Kurt Behrendt)
+  * 3:00 **[Blain Auer](http://unil.academia.edu/BlainAuer)** ([Kurt Behrendt](http://metmuseum.academia.edu/KurtBehrendt))
   * 3:45-4:00 Break
-  * 4:00 **Tamara Sears** (Whitney Cox)
+  * 4:00 **[Tamara Sears](http://rutgers.academia.edu/TamaraSears)** ([Whitney Cox](http://salc.uchicago.edu/faculty/cox))
   * 4:45 End of Day
   * 6:30 Dinner
   
