@@ -26,9 +26,23 @@ categories:
 * Heyman Center for the Humanities
 
 ## Schedule
-* August 30: Presentation of papers 
-* August 31: Viewing and discussion of objects at the MET
-* September 1: Concluding thoughts, and planning for the edited volume
+* August 30: Presentation of papers
+  * 9:30 Breakfast & Coffee- Introductions
+  * 10:00 **Manan Ahmed** (Martina Rugiadi)
+  * 10:45-11:00 Break
+  * 11:00 **Viola Allegranzi** (Jawan Shir Rasikh)
+  * 11:45-12:00 Break into Lunch
+  * 1:00 **Michael O'Neil** (Khodadad Rezakhani)
+  * 1:45-2:00 Break
+  * 2:00 **Alka Patel**
+  * 2:45-3:00 Break
+  * 3:00 **Blain Auer** (Kurt Behrendt)
+  * 3:45-4:00 Break
+  * 4:00 **Tamara Sears** (Whitney Cox)
+  * 4:45 Break- drinks.
+  
+* August 31: Viewing and discussion of objects at the MET-- meeting at 10:00 am.
+* September 1: Concluding thoughts, and planning for the edited volume-- meeting at 9:30 am.
 
 ## Venues
  * August 30: 9:30 am at [Butler 208B, Butler Library](http://library.columbia.edu/locations/butler/directions.html), Columbia University
@@ -39,8 +53,8 @@ categories:
 * [Hudson](https://www.morganshotelgroup.com/hudson/hudson-new-york), 358 West 58 Street, New York, NY 10019
 
 ## Dinner
-* August 30: [Marlow](http://marlowbistro.com), 1018 Amsterdam Avenue
-* August 31: TBD
+* August 30: [Marlow](http://marlowbistro.com), 1018 Amsterdam Avenue at 6:30 pm.
+* August 31: No official plans.
 
 ## Contacts:
 * Manan Ahmed
