@@ -21,9 +21,10 @@ categories:
 - events
 ---
 ## Funding & Support
-* Lenfest Junior Faculty Grant
-* South Asia Institute and Dean of Social Sciences
+* Lenfest Junior Faculty Development Grant, Faculty of Arts & Sciences
+* South Asia Institute and the Dean of Social Sciences
 * Heyman Center for the Humanities
+* Department of History
 
 ## Schedule
 * August 30: Presentation of papers
