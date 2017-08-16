@@ -40,7 +40,8 @@ categories:
   * 3:00 **Blain Auer** (Kurt Behrendt)
   * 3:45-4:00 Break
   * 4:00 **Tamara Sears** (Whitney Cox)
-  * 4:45 Break- drinks.
+  * 4:45 End of Day
+  * 6:30 Dinner
   
 * August 31: Viewing and discussion of objects at the MET-- meeting at 10:00 am.
 * September 1: Concluding thoughts, and planning for the published volume-- meeting at 9:30 am.
