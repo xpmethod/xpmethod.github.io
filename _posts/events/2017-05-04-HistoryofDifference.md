@@ -36,10 +36,10 @@ categories:
 #### Keynote conversation, 4:00 p.m.
 
 **Fatma Müge Göçek**, Professor of Sociology and Women’s Studies, University of Michigan)
-* *Negotiating Difference from the Ottoman Empire to the Contemporary Era*
+ * Negotiating Difference from the Ottoman Empire to the Contemporary Era
 
 **Carl Ernst (William R. Kenan, Jr.**, Distinguished Professor of Religious Studies, University of North Carolina at Chapel Hill)
-* *Erasing Difference? Questions about Universalism and Toleration, from the Mughals to Today*
+ * Erasing Difference? Questions about Universalism and Toleration, from the Mughals to Today
 
 ### Friday, May 5th, 2017 | Sulzberger Parlor, Barnard Hall
 
@@ -62,8 +62,6 @@ categories:
   * Looking at Early Modern Istanbul from its Outskirts: Gardens, Sufi Lodges, and the Imperial City
 * **Anubhuti Maurya**, Delhi University
   * As the King goes Marching: Royal Journeys as Spatial Practice in Kashmir
-
-#### 12: 50 - 2:00 p.m. 
 
 #### 2:00 - 3:10 p.m. : Panel IV
 * **Rozaliya Garipova**, Kennan Institute, Woodrow Wilson Center
