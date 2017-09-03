@@ -71,3 +71,8 @@ We are happy to reimburse your air or train transportation to the workshop. Your
 ## Contacts:
 * [Manan Ahmed](mailto:ma3179@columbia.edu) for all matters.
 * [Patricia Morel](mailto:pr2297@columbia.edu) for travel reimbursements.
+
+## Event Photos:
+
+![IndoGhuria1](/public/images/IndoGhuria1.jpg)
+![IndoGhuria1](/public/images/IndoGhuria2.jpg)
