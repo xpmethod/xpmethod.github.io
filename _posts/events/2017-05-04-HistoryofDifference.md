@@ -81,3 +81,10 @@ categories:
 
 ## Contacts:
 * [Manan Ahmed](mailto:ma3179@columbia.edu) for all matters.
+
+## Event Photos
+
+![HoD1](/public/images/HistoryofDiff1.jpg)
+
+![HoD2](/public/images/HistoryofDiff2.jpg)
+
