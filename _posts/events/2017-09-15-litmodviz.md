@@ -16,7 +16,7 @@ The [Literary Modeling and Visualization Lab][112] will hold its first meeting t
 Friday, 4-5pm at Butler 208b. We will be discussing
 
 Long, Hoyt, and Richard Jean So. “[Turbulent Flow A Computational Model of
-World Literature][111].” Modern Language Quarterly 77, no. 3 (September 1, 2016):
+World Literature][111].” *Modern Language Quarterly* 77, no. 3 (September 1, 2016):
 345–67.
 
 [111]: http://mlq.dukejournals.org.ezproxy.cul.columbia.edu/content/77/3/345
