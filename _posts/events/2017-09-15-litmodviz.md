@@ -1,9 +1,9 @@
 ---
 layout: event
-title: "Literary Modeling and Visualization Lab: Reading Circle"
+title: "Literary Modeling and Visualization Lab"
 location: Butler Studio, 208b
 participants:
-type: reading
+type: reading circle
 prompt: "The Literary Modeling and Visualization Lab meets weekly to discuss recent scholarship in the field."
 categories:
 - events
