@@ -13,5 +13,4 @@ images:
 
 This is the first event of the Startup Center on Data Ethics organized by Prof. Manan Ahmed. The center is in a pilot year to develop both a context of discussion that will attract colleagues from different fields to discuss ethics in data, and seed research to advance our understanding of ethics in the new age of data sciences and computational social science.
 
-For more information visit
-[http://iserp.columbia.edu/center/start-center-data-ethics].
+For more information visit [http://iserp.columbia.edu/center/start-center-data-ethics](http://iserp.columbia.edu/center/start-center-data-ethics).
