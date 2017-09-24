@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Macro-Etymological Textual Analysis"
-tags:
-- name: Jonathan Reeve
-  url: http://jonreeve.com
+tags: 
+ - Jonathan Reeve
 category: literary-modeling-and-visualization-lab
 published: true
 snippet: 82

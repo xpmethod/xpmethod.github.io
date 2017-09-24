@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Jail of Mountjoy"
-tags:
-- name: Casey Michael Henry
-  url: http://jailofmountjoy.newmedialab.cuny.edu/
+tags: 
+- Casey Michael Henry
 category: literary-modeling-and-visualization-lab
 type: graphic
 snippet: 350

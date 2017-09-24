@@ -40,12 +40,16 @@ ol
 
 h1
   font-size: $large
+  &#event-title
+    margin-bottom: 0.2em
 
 h2
   font-size: $medium
 
 h3
   font-size: $normal
+  &.cats
+    margin-bottom: 0.5em
 
 h1, h2, h3
   a
@@ -106,6 +110,8 @@ div.update-list
       content: ", "
     &:last-child:after
       content: ""
+    &:nth-last-child(2):after
+      content: ", & "
 
 .event
   .date

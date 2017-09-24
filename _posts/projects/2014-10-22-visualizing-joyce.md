@@ -1,9 +1,8 @@
 ---
 layout: project
 title: "Visualizing Joyce"
-tags:
-- name: Emily Fuhrman
-  url: http://emilyfuhrman.co
+tags: 
+ - Emily Fuhrman
 category: literary-modeling-and-visualization-lab
 type: graphic
 snippet: 105
