@@ -7,7 +7,7 @@ prompt: "Following the recent hurricane, people around the world are using the O
 categories:
 - events
 hour: 2pm-5pm
-images:pr.jpg
+images: pr.jpg
 
 ---
 
