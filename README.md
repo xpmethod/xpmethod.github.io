@@ -29,21 +29,18 @@ This section describes the fields in the site's YAML taxonomy.
 `layout:` looks for the corresponding .html in `_layouts/`  
 `title:` accessible though the `post.title` liquid tag  
 
-```
+```yaml
 tags:
  - Manan Ahmed
  - Alex Gil
  - Dennis Tenen
  - Grant Wythoff
 ```
-Used to pull out the contributors on the "People" page and for project description in "strain" and "project" views. Should be plural and using the dash list as illustrated above (even for singular tags!)  
+Used to pull out the contributors on the "People" page and for project description in "strain" and "project" views. Should be plural and using the dash list as illustrated above (even for singular tags!). If you’d like your contributor name to link to your personal website, add your name to `_data/contributors.yaml`, with your url, in the form: 
 
-Tags can also include URL using the following convention:
-
-```
-tags:
-- name: Author Name
-  url: http://www.authorsite.com
+```yaml
+Author Name: 
+ - url: http://authorsite.com
 ```
 
 If you use a name/url for one post, please make sure it is consistent with the
@@ -76,7 +73,7 @@ Try to keep the snippets clean for this reason.
 `image:` an image can be handled by this tag to gracefully handle image
 snippets. Avoid embedding images into the post otherwise.
 
-```
+```yaml
 images:
  - image1.jpg
  - image2.jpg
@@ -98,6 +95,6 @@ The site was originally forked from
 - set your editor to hard-wrap at 78 characters
 - if you are using vim, use the sample .vimrc file provided here for lab
 defaults
-- for links to static pages use internet archive snapshots as much as possible to minimize link rot
+- for links to static pages use Internet Archive snapshots as much as possible to minimize link rot
 - for simple issues use the [TODO.md](https://github.com/xpmethod/xpmethod.github.io/blob/master/TODO.md) file
 - travis

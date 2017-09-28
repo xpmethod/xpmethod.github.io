@@ -3,17 +3,19 @@ layout: vanilla
 title: lab-culture
 ---
 
-During the academic year, XPMethod team meets every Friday afternoon-- from
-3pm to 5pm-- at StudioButler (208-B Butler Library). This is an openLab and
-everyone is welcome to attend, regardless of their participation in our
-research project. To facilitate our gathering, we would like to maintain a
-conscious and engaged environment in the lab, sensitive to the dynamics of
-power---gender, sexuality, class, race---particularly as they manifest in
-spatial and temporal imbalances of participation.
+We believe in presence. Regular "open lab" sessions (on Friday afternoons from
+3-5pm, at Butler Studio 208b) are a key way to get involved and to stay in
+touch. Use the time to work on your projects, learn new skills, share
+expertise, or just catch up on our own work. There are no requirements to
+attend.
 
 ### Modalities of Engagement
 
-With this goal in mind, we actively promote the following practices:
+We would like to maintain a conscious and engaged environment in the lab,
+sensitive to the dynamics of power---gender, sexuality, class,
+race---particularly as they manifest in spatial and temporal imbalances of
+participation. With this goal in mind, we actively promote the following
+practices:
 
 1. Architectures of power---be mindful of the room's physical arrangement. At
 the beginning of lab, long tables should be broken down into smaller islands
@@ -51,6 +53,23 @@ advocate for free expression online: security, privacy, creativity, and access
 to knowledge.
 
 [1]: https://www.eff.org/electronic-frontier-alliance
+
+### Recommended Reading
+
+- Peter Kropotkin, "[Mutual Aid Amongst Ourselves][3]" (1902).
+- Jo (Joreen) Freeman, "[The Tyranny of Structurelessness][2]" (1972).
+- Yochai Benkler and Helen Nissenbaum, "[Commons based Peer Production and
+  Virtue][4]" (2006).
+- Yochai Benkler, Aaron Shaw, and Mako Hill, "[Peer Production: A Modality of
+Collective Intelligence][5]" (2014).
+
+[2]: https://web.archive.org/web/20170221193127/http://www.jofreeman.com/joreen/tyranny.htm
+
+[3]: https://www.marxists.org/reference/archive/kropotkin-peter/1902/mutual-aid/ch07.htm
+
+[4]: https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf
+
+[5]: http://mako.cc/academic/benkler_shaw_hill-peer_production_ci.pdf
 
 <sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
