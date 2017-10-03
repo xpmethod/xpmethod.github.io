@@ -7,8 +7,12 @@ prompt: "Following the recent hurricane, people around the world are using the [
 categories:
 - events
 hour: 2pm-5pm
-images: pr.jpg
-
+images:
+- pr.jpg
+- prmapathon-uo.jpg
+- prmapathon-um.jpg
+- prmapathon-rutgers.jpg
+- prmapathon-tc.jpg
 ---
 
 **Columbia University Libraries** & **Columbia’s Group for Experimental
@@ -22,3 +26,15 @@ No mapping experience necessary. No knowledge of local terrain is necessary.
 Come any time during the afternoon. This [short video](https://mapgive.state.gov/learn-to-map/) can introduce you to the OSM mapping work
 
 Please bring your laptop & RSVP to agil@columbia.edu
+
+---
+
+Since we announced our event on the weekend, we have been delighted to see other universities/teams follow our lead. Added to our event, we feel this can have a real impact on ground operations. Universities running mapathons so far:
+
+- [Boston University](http://www.bu.edu/disc/2017/09/26/disaster-relief-mapathon/)
+- University of Omaha
+- Rutgers University
+- University of Miami
+- Trinity College
+
+We are working on a toolkit with these teams that we hope to share with other teams looking to replicate our model in the future. Stay tuned. 
