@@ -42,5 +42,6 @@ Since we announced our event on the weekend, we have been delighted to see other
 - [Indiana University](https://libraries.indiana.edu/emergency-humanitarian-mapping-workshop)
 - Stony Brook University
 - [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
+- [University of Houston](https://www.facebook.com/events/682654438600333)
 
 We are working on a toolkit with these teams that we hope to share with other teams looking to replicate our model in the future. Stay tuned. 
