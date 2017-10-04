@@ -1,6 +1,6 @@
 ---
 layout: project
-title: piracyLab
+title: Outcaste Press
 category: social-difference-mumbai
 published: true
 image: outcaste-logo.jpg
