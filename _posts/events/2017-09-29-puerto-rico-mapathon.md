@@ -33,8 +33,14 @@ Since we announced our event on the weekend, we have been delighted to see other
 
 - [Boston University](http://www.bu.edu/disc/2017/09/26/disaster-relief-mapathon/)
 - University of Omaha
-- Rutgers University
+- [Rutgers University](https://www.njtvonline.org/news/video/rutgers-map-thon-aids-relief-efforts-puerto-rico/)
 - University of Miami
 - Trinity College
+- [UCLA](https://drive.google.com/file/d/0BxkhtDgbwP_XWXBUeVRGekI1RVE/view)
+- [University of Southern California](https://libraries.usc.edu/events/map-thon-puerto-rico)
+- [Vassar](http://pages.vassar.edu/library/2017/10/map-a-thon-for-puerto-rico-hurricane-relief/)
+- [Indiana University](https://libraries.indiana.edu/emergency-humanitarian-mapping-workshop)
+- Stony Brook University
+- [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
 
 We are working on a toolkit with these teams that we hope to share with other teams looking to replicate our model in the future. Stay tuned. 
