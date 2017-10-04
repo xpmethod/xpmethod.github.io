@@ -4,7 +4,7 @@ title: Outcaste Press
 category: social-difference-mumbai
 published: true
 image: outcaste-logo.jpg
-type: press
+type: publishing
 ---
 
 Dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
