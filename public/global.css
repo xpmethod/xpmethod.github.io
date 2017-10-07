@@ -1,0 +1,94 @@
+html *
+{
+    font-family: 'EB Garamond', serif;
+    text-rendering: optimizeLegibility;
+    font-feature-settings: "kern";
+    font-kerning: normal;
+    -webkit-font-feature-settings: "kern";
+    -moz-font-feature-settings: "kern";
+    -moz-font-feature-settings: "kern=1";
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    -webkit-hyphens: auto;
+    -moz-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+}
+
+a {
+    color: slategray;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: red;
+}
+
+article {
+   margin-top: 1em;
+}
+
+blockquote {
+    font-family: Georgia, serif;
+    font-size: 1.1rem;
+    margin: 0.25rem 0;
+    padding: 0.25em 40px;
+    line-height: 1.45;
+    position: relative;
+}
+
+blockquote:before {
+    display: block;
+    content: "\201C";
+    font-size: 5.5rem;
+    font-family: Times, serif;
+    position: absolute;
+    left: -1rem;
+    top: -1.75rem;
+    color: black;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    font-size: inherit;
+    margin: 0cm 0cm 0cm 0cm;
+}
+
+h2 {
+    text-transform: uppercase;
+    font-weight: inherit;
+}
+
+ul, ol {
+    margin-top: .5em;
+    margin-bottom: .5em;
+    margin-left: -1em;
+    list-style-position: outside;
+    }
+
+ul li {
+    list-style-type: none;
+    padding-bottom: .4em;
+}
+
+ol li {
+    padding-bottom: .4em;
+}
+
+p {
+    margin-top: 0em;
+}
+
+
+.footnotes ol {
+    margin-left: -1em;
+}
+
+.footnotes li {
+    font-size: .75em;
+    padding-bottom: 0em;
+}
