@@ -26,7 +26,7 @@ essays, fiction, non-fiction, and work in translation.
 ## Seal
 
 The seal of Outcaste Press uses original artwork from Dr. B.R. Ambedkar’s
-newspaper, "Bahishkrut Bharat" (Ostracized India).
+newspaper, "Bahishkrut Bharat" (Ostracized India) 3rd April, 1927.
 
 Besides being the chief architect of India's Constitution, Ambedkar had a
 prolific career as a publisher, working to establish the autonomous voice of
