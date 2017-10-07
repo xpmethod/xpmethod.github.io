@@ -23,7 +23,6 @@ social transformation: to educate, organize, and agitate for a more equitable
 India. To these ends we are soliciting academic monographs, collections of
 essays, fiction, non-fiction, and work in translation.
 
-
 ## Seal
 
 The seal of Outcaste Press uses original artwork from Dr. B.R. Ambedkar’s
@@ -32,6 +31,8 @@ newspaper, "Bahishkrut Bharat" (Ostracized India).
 Besides being the chief architect of India's Constitution, Ambedkar had a
 prolific career as a publisher, working to establish the autonomous voice of
 the untouchables.
+
+## People
 
 Varsha Ayyar, Founder and Editor
 
