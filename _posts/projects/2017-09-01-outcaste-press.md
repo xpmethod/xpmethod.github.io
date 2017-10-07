@@ -38,7 +38,7 @@ Varsha Ayyar, Founder and Editor
 
 ## International Advisory Board
 
-Manan Ahmed
-Tom Lutz
-Durba Mitra
-Dennis Yi Tenen
+- Manan Ahmed
+- Tom Lutz
+- Durba Mitra
+- Dennis Yi Tenen
