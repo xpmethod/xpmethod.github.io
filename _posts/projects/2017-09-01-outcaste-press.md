@@ -12,8 +12,8 @@ promoting anti-caste thought worldwide and to bringing global attention to
 Dalit women.
 
 Rooted in the thought of Dr. B.R Ambedkar and the radical feminism of Jyotiba
-and Savitribai Phule, the objective of the Press is to shed light on the
-struggles of India's marginalized groups.
+and Savitribai Phule, the Press aims to shed light on the struggles of India's
+marginalized groups.
 
 Our objective is to democratize the reading cultures in India and to bring
 diversity in women’s writing. We are interested in furthering critical debates
