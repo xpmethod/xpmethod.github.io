@@ -7,22 +7,38 @@ image: outcaste-logo.jpg
 type: publishing
 ---
 
-Dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget
-dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque
-eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo,
-fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut,
-imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis
-pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi.
-Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat
-vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis,
-feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque
-rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur
-ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus,
-tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing
-sem neque sed ipsum. Nam quam nunc, blandit vel, luctus pulvinar, hendrerit
-id, lorem. Maecenas nec odio et ante tincidunt tempus. Donec vitae sapien ut
-libero venenatis faucibus. Nullam quis ante. Etiam sit amet orci eget eros
-faucibus tincidunt. Duis leo. Sed fringilla mauris sit amet nibh. Donec
-sodales sagittis magna. Sed consequat, leo eget bibendum sodales, augue velit
-cursus nunc.
+Outcaste Press is the first international Dalit Feminist press committed to
+promoting anti-caste thought worldwide and to bringing global attention to
+Dalit women.
+
+Rooted in the thought of Dr. B.R Ambedkar and the radical feminism of Jyotiba
+and Savitribai Phule, the Press sheds light on the struggles of India's
+marginalized groups.
+
+Our objective is to democratize the reading cultures in India and to bring
+diversity in women’s writing. We are interested in furthering critical debates
+around gender, participatory democracy, socio-political and economic
+inequalities, culture, and difference. Our vision is to become a catalyst of
+social transformation: to educate, organize, and agitate for a more equitable
+India. To these ends we are soliciting academic monographs, collections of
+essays, fiction, non-fiction, and work in translation.
+
+## Seal
+
+The seal of Outcaste Press uses original artwork from Dr. B.R. Ambedkar’s
+newspaper, "Bahishkrut Bharat" (Ostracized India) 3rd April, 1927.
+
+Besides being the chief architect of India's Constitution, Ambedkar had a
+prolific career as a publisher, working to establish the autonomous voice of
+the untouchables.
+
+## People
+
+Varsha Ayyar, Founder and Editor
+
+## International Advisory Board
+
+- Manan Ahmed
+- Tom Lutz
+- Durba Mitra
+- Dennis Yi Tenen
