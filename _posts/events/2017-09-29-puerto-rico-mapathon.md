@@ -58,13 +58,8 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
 - [University of Houston](https://www.facebook.com/events/682654438600333)
 - University of Pennsylvania | Price Lab
-- 
+- MIT
 
 ---
-
-Press coverage:
-- [PBS NewsHour](http://www.pbs.org/newshour/rundown/volunteers-helping-puerto-rico-home-map-anyone-can-edit/)
-- [New York Times](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html)
-- [Library Journal](http://lj.libraryjournal.com/2017/10/academic-libraries/mainland-libraries-aid-maria-victims-money-mapathons/)
 
 We are working on a toolkit with these teams that we hope to share with other teams looking to replicate our model in the future. Stay tuned. 
