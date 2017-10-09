@@ -13,6 +13,23 @@ images:
 - prmapathon-um.jpg
 - prmapathon-rutgers.jpg
 - prmapathon-tc.jpg
+- prmapathon-1.jpg
+- prmapathon-2.jpg
+- prmapathon-price.jpg
+- prmapathon-final.jpg
+updates:
+
+- date: 10/17
+  type: press
+  text: "\"[Volunteers are helping Puerto Rico from home, with a map anyone can edit](http://www.pbs.org/newshour/rundown/volunteers-helping-puerto-rico-home-map-anyone-can-edit/),\" *PBS NewsHour*."
+
+- date: 10/17
+  type: press
+  text: "\"[A Mapathon to Pinpoint Areas Hardest Hit in Puerto Rico](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html),\" *New York Times*."
+
+- date: 10/17
+  type: press
+  text: "\"[Mainland Libraries Aid Maria Victims with Money, Mapathons](http://lj.libraryjournal.com/2017/10/academic-libraries/mainland-libraries-aid-maria-victims-money-mapathons/),\" *Library Journal*."
 ---
 
 **Columbia University Libraries** & **Columbia’s Group for Experimental Methods in the Humanities** invites you to a Puerto Rico Mapathon for relief efforts.
@@ -40,5 +57,14 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - Stony Brook University
 - [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
 - [University of Houston](https://www.facebook.com/events/682654438600333)
+- University of Pennsylvania | Price Lab
+- 
+
+---
+
+Press coverage:
+- [PBS NewsHour](http://www.pbs.org/newshour/rundown/volunteers-helping-puerto-rico-home-map-anyone-can-edit/)
+- [New York Times](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html)
+- [Library Journal](http://lj.libraryjournal.com/2017/10/academic-libraries/mainland-libraries-aid-maria-victims-money-mapathons/)
 
 We are working on a toolkit with these teams that we hope to share with other teams looking to replicate our model in the future. Stay tuned. 
