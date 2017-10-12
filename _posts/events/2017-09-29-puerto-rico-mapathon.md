@@ -57,8 +57,10 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - Stony Brook University
 - [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
 - [University of Houston](https://www.facebook.com/events/682654438600333)
-- University of Pennsylvania | Price Lab
+- University of Pennsylvania
 - MIT
+- Temple University
+- [San Jose State University](https://www.facebook.com/events/1961484704064767)
 
 ---
 
