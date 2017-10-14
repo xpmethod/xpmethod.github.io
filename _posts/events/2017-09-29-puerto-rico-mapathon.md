@@ -30,6 +30,11 @@ updates:
 - date: 10/17
   type: press
   text: "\"[Mainland Libraries Aid Maria Victims with Money, Mapathons](http://lj.libraryjournal.com/2017/10/academic-libraries/mainland-libraries-aid-maria-victims-money-mapathons/),\" *Library Journal*."
+
+- date: 10/17
+  type: press
+  text: "\"[When Cartography Meets Disaster Relief](https://www.citylab.com/environment/2017/10/how-open-source-mapping-helps-hurricane-recovery/542565/),\" *CityLab*."
+
 ---
 
 **Columbia University Libraries** & **Columbia’s Group for Experimental Methods in the Humanities** invites you to a Puerto Rico Mapathon for relief efforts.
@@ -61,6 +66,8 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - MIT
 - Temple University
 - [San Jose State University](https://www.facebook.com/events/1961484704064767)
+- California State University
+- Princeton University
 
 ---
 
