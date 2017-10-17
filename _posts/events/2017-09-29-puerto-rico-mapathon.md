@@ -73,6 +73,7 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - Rice University
 - Georgia Tech
 - Claremont Colleges
+- University of Virginia
 
 ---
 
