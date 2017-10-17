@@ -48,7 +48,7 @@ Please bring your laptop & RSVP to agil@columbia.edu
 
 ---
 
-Since we announced our event on the weekend, we have been moved to see other universities/teams follow our lead. Added to our event, we feel this can have a real impact on ground operations. Universities running mapathons so far:
+Since we announced our event on the weekend, we have been moved to see other universities/libraries follow our lead. Added to our original event, we feel this can have a real impact on ground operations. Universities running mapathons so far:
 
 - [Boston University](http://www.bu.edu/disc/2017/09/26/disaster-relief-mapathon/)
 - University of Omaha
@@ -63,11 +63,16 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - [Miami University](https://www.flickr.com/photos/darcusb/sets/72157688965495486/with/37414419341/)
 - [University of Houston](https://www.facebook.com/events/682654438600333)
 - University of Pennsylvania
-- MIT
+- [MIT](http://news.mit.edu/2017/mapathon-directing-humanitarian-aid-to-puerto-rico-1016)
 - Temple University
 - [San Jose State University](https://www.facebook.com/events/1961484704064767)
-- California State University
+- Cal State LA
 - Princeton University
+- [Claremont Colleges](http://claremont.libcal.com/event/3652609?hs=a)
+- Loyola University Chicago
+- Rice University
+- Georgia Tech
+- Claremont Colleges
 
 ---
 
