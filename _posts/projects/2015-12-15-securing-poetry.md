@@ -7,14 +7,11 @@ tags:
 - Alex Gil
 - Nosheen K. Ali
 published: true
-category: technologies-of-dissent
+image: umang.jpg
+category: trans-media-collective
 type: OpSec
 snippet: 145
 ---
-
-<!-- image: umang.jpg -->
-
-### UmangPoetry
 
 Umang is a digital humanities endeavor for poetic dialogue in South Asia. The
 platform showcases curated videos of contemporary poetic thought in more than
@@ -26,7 +23,7 @@ learners and lovers of the poetic word, Umang seeks to use new media to
 amplify traditions of poetic reflection and nurture our capacities for
 empathetic, cross-cultural connection.
 
-### SecuringUmang
+## SecuringUmang
 
 In June 2014, unknown organizations hacked and wiped the servers in an attempt
 to repress critical thought and expression in Pakistan. We will brainstorm and
