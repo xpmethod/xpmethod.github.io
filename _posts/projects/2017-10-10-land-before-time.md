@@ -7,7 +7,7 @@ image: land-1.jpg
 images: 
 - land-2.png
 - land-3.png
-type: publishing
+type: performance
 tags:
 - Gabrielle DaCosta
 - Sam Yulsman
@@ -44,7 +44,7 @@ manipulate, archive, and channel the emotion-objects he encounters, yet it is
 difficult to tell whether his relationship to them is motivated or
 indifferent. In this sense, he might resemble philosopher Manuel DeLanda’s
 “robot historian,” whose interest in human activity is ancillary to the
-assembling of a robot genealogy.[^2] The “air” in this future scene, is
+assembling of a robot genealogy.[^1] The “air” in this future scene, is
 simultaneously “the cloud,” i.e. both a storing and accessing system and a
 notion that metaphorizes the internet. In creating deliberate ambiguity
 between “real” and “simulated” orders—the “air” versus the “cloud”—in this
@@ -68,12 +68,9 @@ explore the stakes of, and conditions through which, cooperation and
 individuation, chaos and order, and a sense of the “machinic phylum” come into
 view.
 
-[^1]:  Manuel DeLanda, *War in the Age of Intelligent Machines* (New York:
-Urzone Inc, 1991), 3.
+[^1]:  Manuel DeLanda, *War in the Age of Intelligent Machines* (New York: Urzone Inc, 1991), 3.
 
-[^2]: DeLanda, 6; Gilles Deleuze and Felix Guattari, *A Thousand Plateaus:
-Capitalism and Schizophrenia*, Trans. Brian Massumi (Minneapolis: University
-of Minnesota Press, 1987).
+[^2]: DeLanda, 6; Gilles Deleuze and Felix Guattari, *A Thousand Plateaus: Capitalism and Schizophrenia*, Trans. Brian Massumi (Minneapolis: University of Minnesota Press, 1987).
 
 
 
