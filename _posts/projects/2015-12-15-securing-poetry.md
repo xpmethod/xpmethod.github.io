@@ -7,7 +7,7 @@ tags:
 - Alex Gil
 - Nosheen K. Ali
 published: true
-image: umang.jpg
+image: umang.png
 category: trans-media-collective
 type: OpSec
 snippet: 145
