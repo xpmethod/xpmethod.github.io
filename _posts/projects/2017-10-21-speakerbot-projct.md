@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The Speakerbot Project
-category: knowledge-design-studio
+category: trans-media-collective 
 published: true
 image: speakerbot_project.png
 tags:
