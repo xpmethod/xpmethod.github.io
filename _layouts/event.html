@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div id="post" class="event">
+<section id="event-list">
 
-        <h1>{{ page.title }}
+        <h1 id="event-title">{{ page.title }}
         {% if page.type %}
-            <sup><code>{{ page.type }}</code></sup>
+	<span class="tag">{{ page.type }}</span>
         {% endif %}</h1>
 
         <div id="time">
@@ -21,18 +21,17 @@ layout: default
 
     <!--include participants-->
     {% if page.participants %}
-        <div id="participants"><sup><ul id="taglist">
+        <div id="participants"><ul class="people-list">
             {% for participant in page.participants %}
                 <li>{{ participant }}</li>
             {% endfor %}
-        </ul></sup></div>
+        </ul></div>
     {% endif %}
 
     <!-- include prompt --!>
-    <div id="prompt">
+    <div class="box">
     {% if page.prompt %}
-        <h2>Prompt</h2>
-            {{ page.prompt }}
+        {{ page.prompt }}
     {% endif %}
     </div>
 
@@ -43,8 +42,9 @@ layout: default
     <div id="gallery-box">
     {% for image in page.images %}
         <a href="{{ site.url }}/public/images/{{ image }}">
-        <img src="{{ site.url }}/public/images/{{ image }}"></a>
+        <img alt="" src="{{ site.url }}/public/images/{{ image }}"></a>
     {% endfor %}
     </div>
 {% endif %}
-</div>
+
+</section>

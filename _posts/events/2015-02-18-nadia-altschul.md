@@ -7,6 +7,7 @@ type: lecture
 prompt: "On the methodological assumptions of philology and some of its colonial underpinnings, as well as the connections between digital humanities and this core method in humanities research."
 categories: events
 hour: 6:15pm
+issue: 15
 ---
 
 ## On Philology

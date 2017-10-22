@@ -2,9 +2,10 @@
 layout: project
 title: "Minimally Viable Digital Citizen (MVDCiT)"
 tags:
-categories: minimal-computing
+categories: technologies-of-dissent
 type: toolkit
 published: false
+issue: 14
 ---
 
 *Agency*, *Deliberation*, *Consensus*, *Dissent*.  

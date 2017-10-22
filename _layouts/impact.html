@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<div class="nav secondary" id="publications">
+    <a href="#publications" class="nav active">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
+<small>We support the publishing efforts of our members by a rigorous internal
+    peer-review process.</br></br></small>
+
+<div class="update-div">
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'publication' or update.type contains 'paper' %}
+            <div class="update-list">
+                <div class="update-date">{{ update.date }}
+                <a class="update-link" href="{{ post.url }}">
+                    {{ post.title | downcase }}</a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
+</br>
+<div class="nav secondary" id="grants">
+    <a href="#publications">publications</a> |
+    <a href="#grants" class="nav active">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
+<small>Research teams are encouraged to seek external funding.</br></br></small>
+
+<div class="update-div">
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'grant' or update.type contains 'award' %}
+            <div class="update-list">
+                <div class="update-date">
+                    {{ update.date }}
+                    <a class="update-link" href="{{ post.url }}">
+                        {{ post.title | downcase }}
+                    </a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
+</br>
+<div class="nav secondary" id="press">
+    <a href="#publications">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press" class="nav active">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
+<small>Our work has recieved national and international recognition.</br></br></small>
+
+<div class="update-div">
+    {% for post in site.posts %}
+        {% for update in post.updates %}
+            {% if update.type contains 'talk' or update.type contains 'press' %}
+            <div class="update-list">
+                <div class="update-date">
+                    {{ update.date }}
+                    <a class="update-link" href="{{ post.url }}">
+                        {{ post.title | downcase }}
+                    </a>
+                </div>
+                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+            {% endif %}
+        {% endfor %}
+    {% endfor %}
+</div>
+
+</br>
+<div class="nav secondary" id="jobs">
+    <a href="#publications">publications</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs" class="nav active">placements</a>
+    <hr>
+</div>
+<small>Placements are a reflection of individual achievement. The group offers
+    support in the form of mock interviews, portfolio preparation, and
+    application review.</br></br></small>
+
+<div class="update-div">
+    {% for job in site.data.jobs %}
+        <div class="update-list">
+            <div class="update-date">
+                {{ job.date }}
+                <a class="update-link" href="{{ post.url }}">
+                    Experimental Methods Group
+                </a>
+            </div>
+            <div class="update-text"> 
+                {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
+            </div>
+        </div>
+    {% endfor %}
+</div>

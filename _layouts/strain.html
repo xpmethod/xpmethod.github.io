@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div id="post">
+<section id="strain">
+
 {{ content }}
 
 <!-- Show all projects--!>
@@ -10,13 +11,14 @@ layout: default
 {% if site.categories[page.title] %}
     <h2>Activity</h2>
 {% endif %}
+
 {% for post in site.categories[page.title] %}
 <div id="strain">
-    <h3>&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
+    <h3 id="strain">&raquo; <a href="{{ post.url }}">{{ post.title }}</a>
 
     <!-- What kind of activity is this? Project, talk, blog post? -->
     {% if post.type %}
-        <sup><code>{{ post.type }}</code></sup>
+        <span class="tag">{{ post.type }}</span>
     {% endif %}
     </h3>
 
@@ -24,27 +26,24 @@ layout: default
     <!-- if post.tags is not working -->
     <!-- this tests for the first member in the list -->
     {% if post.tags[0] %}
-    <div id="peoplelist">
-        <sup>
-        <!-- remember tags are people -->
-        <!-- order of tags matters here -->
-        <!-- test before changing -->
-        <ul id="taglist">
-        {% for person in post.tags %}
-            <li>{{ person }}</li>
-        {% endfor %}
-        </ul>
-        </sup>
-    </div>
+    <ul class="people-list">
+	{% for person in post.tags %}
+	    {% if person.url and person.name %}
+		<li><a href="{{ person.url }}">{{ person.name }}</a></li>
+	    {% else %}
+		<li>{{ person }}</li>
+	    {% endif %}
+	{% endfor %}
+    </ul>
     {% endif %}
 
     <!-- events are different since we are pulling the prompt -->
     <!-- instead of post.content -->
     {% unless post.categories contains "event" %}
-        <div class="indent">
+        <div class="strain-text">
             <!-- move this out into css -->
             {% if post.image %}
-            <a href="{{ post.url }}"><img src="/public/images/{{ post.image }}"></a>
+            <a href="{{ post.url }}"><img alt="" src="/public/images/{{ post.image }}"></a>
             {% endif %}
 
             <!-- if we have sparks, show that -->
@@ -61,8 +60,12 @@ layout: default
             {% if post.snippet %}
                 {{ post.content | markdownify | truncatewords:post.snippet }}
             {% endif %}
+
+        <!-- hacky, but lets close all interrupted tags from previous post in the
+        loop -->
+        </strong>
         </div>
     {% endunless %}
 </div>
 {% endfor %}
-</div>
+</section>

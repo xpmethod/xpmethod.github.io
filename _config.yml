@@ -1,6 +1,7 @@
-highlighter: true
+highlighter: 'rouge'
 markdown: kramdown
 url: http://xpmethod.plaintext.in/
+future: true
 permalink: none
 
 # Required if you want to move pages into a a separate directory
@@ -8,7 +9,16 @@ permalink: none
 include: ['_pages']
 # relative_permalinks: false
 
+
+# Since Travis installs gems to /vendor, we have to remove
+# this to keep Travis from checking everything in /vendor.
+exclude: ['vendor', 'doc', 'README.md']
+
 # People Data -----------------------------------------
 rollcall:
     -last-name: Tenen
     -homepage: http://denen.plaintext.io/
+
+# enable redirects
+gems:
+    - jekyll-redirect-from

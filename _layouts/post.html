@@ -5,13 +5,13 @@ layout: default
 <div id="post">
     <h1>&raquo; {{ page.title }}
     {% if page.type %}
-        <sup><code>{{ page.type }}</code></sup>
+    <span class="tag">{{ page.type }}</span>
     {% endif %}</h1>
 
     <!-- remember tags are people -->
     <li>
     Participants: {% if page.tags %}
-        <ul id="taglist">
+        <ul id="people-list">
         {% for person in page.tags %}
         <li>{{ person }}</li>
         {% endfor %}
