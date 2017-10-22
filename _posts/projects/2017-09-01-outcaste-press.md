@@ -36,6 +36,10 @@ the untouchables.
 
 Varsha Ayyar, Founder and Editor
 
+## South Indian Advisory Board
+
+TBA
+
 ## International Advisory Board
 
 - Manan Ahmed
