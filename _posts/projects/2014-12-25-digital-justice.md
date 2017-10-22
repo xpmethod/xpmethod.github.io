@@ -10,7 +10,7 @@ tags:
 - Daniel Rojas
 - Ashley Sayed
 - Dennis Yi Tenen
-category: technologies-of-dissent
+category: trans-media-collective
 type: workshop
 published: true
 issue: 15
