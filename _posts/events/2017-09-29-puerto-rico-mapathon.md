@@ -74,6 +74,7 @@ Since we announced our event on the weekend, we have been moved to see other uni
 - Georgia Tech
 - Claremont Colleges
 - University of Virginia
+- New York University
 
 ---
 
