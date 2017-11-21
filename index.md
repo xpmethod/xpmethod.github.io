@@ -7,6 +7,3 @@ redirect_from:
     - /projects/
 
 ---
-
-Our work falls into several research clusters, as represented by the diverse
-interests by faculty moderators.
