@@ -36,7 +36,7 @@ the untouchables.
 
 Varsha Ayyar, Founder and Editor
 
-## South Indian Advisory Board
+## South Asian Advisory Board
 
 TBA
 
