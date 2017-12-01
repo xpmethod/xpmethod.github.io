@@ -47,4 +47,5 @@ TBA
 - Durba Mitra (Harvard University)
 - Sheldon Pollock (Columbia University)
 - Dennis Yi Tenen (Columbia University)
+- Rebecca Walker (Third Wave Fund)
 
