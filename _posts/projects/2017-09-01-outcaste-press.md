@@ -38,11 +38,10 @@ Varsha Ayyar, Founder and Editor
 
 ## South Asian Advisory Board
 
-TBA
+- Manan Ahmed (Columbia University)
 
 ## International Advisory Board
 
-- Manan Ahmed (Columbia University)
 - Tom Lutz (Los Angeles Review of Books)
 - Durba Mitra (Harvard University)
 - Sheldon Pollock (Columbia University)
