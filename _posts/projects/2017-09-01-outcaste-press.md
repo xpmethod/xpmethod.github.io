@@ -42,7 +42,9 @@ TBA
 
 ## International Advisory Board
 
-- Manan Ahmed
-- Tom Lutz
-- Durba Mitra
-- Dennis Yi Tenen
+- Manan Ahmed (Columbia University)
+- Tom Lutz (Los Angeles Review of Books)
+- Durba Mitra (Harvard University)
+- Sheldon Pollock (Columbia University)
+- Dennis Yi Tenen (Columbia University)
+
