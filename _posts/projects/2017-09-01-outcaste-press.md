@@ -42,6 +42,7 @@ Varsha Ayyar, Founder and Editor
 
 ## International Advisory Board
 
+- Wendy Doniger (University of Chicago)
 - Tom Lutz (Los Angeles Review of Books)
 - Durba Mitra (Harvard University)
 - Sheldon Pollock (Columbia University)
