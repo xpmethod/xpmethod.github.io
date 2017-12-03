@@ -38,14 +38,13 @@ Varsha Ayyar, Founder and Editor
 
 ## South Asian Advisory Board
 
-- Manan Ahmed (Columbia University)
+- TBA
 
 ## International Advisory Board
 
+- Group for Experimental Methods in the Humanities (Columbia University)
 - Wendy Doniger (University of Chicago)
 - Tom Lutz (Los Angeles Review of Books)
-- Durba Mitra (Harvard University)
 - Sheldon Pollock (Columbia University)
-- Dennis Yi Tenen (Columbia University)
 - Rebecca Walker (Third Wave Fund)
 
