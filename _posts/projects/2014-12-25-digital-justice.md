@@ -12,7 +12,7 @@ updates:
 
 ---
 
-## Schedule
+### Schedule
 
 - [Architectures of Knowledge:
 Mumbai](http://xpmethod.plaintext.in/events/dissent.html), 4 July 2016.
@@ -21,7 +21,7 @@ Mumbai](http://xpmethod.plaintext.in/events/dissent.html), 4 July 2016.
 
 - Architectures of Knowledge: Kyiv, Spring 2019.
 
-## About
+### About
 
 Architectures of Knowledge is a series of workshops that brings together
 activists, scholars, artists, and librarians concerned with global
