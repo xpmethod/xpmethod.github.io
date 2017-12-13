@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Architectures of Knowledge: Mumbai"
+title: "Architectures of Knowledge"
 tags:
 category: knowledge-design-studio
 type: workshop
