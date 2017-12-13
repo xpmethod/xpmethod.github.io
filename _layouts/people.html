@@ -30,7 +30,18 @@ layout: default
 
 <ul class="people-list">
     {% for mod in site.data.mods %}
-    <li><a href="{{ mod.url }}">{{ mod.name }}</a></li>
+        <li><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
+    {% endfor %}
+</ul>
+
+<h2>Alumni</h2>
+
+<ul class="people-list">
+    {% for mod in site.data.alumns %}
+        <li>
+            <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart}} -
+            {{ mod.dateend}})
+        </li>
     {% endfor %}
 </ul>
 
