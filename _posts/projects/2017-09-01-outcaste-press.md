@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Outcaste Press
-category: social-difference-mumbai
+category: knowledge-design-studio
 published: true
 image:
 type: publishing
