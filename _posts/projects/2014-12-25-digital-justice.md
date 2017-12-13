@@ -12,12 +12,12 @@ updates:
 
 ---
 
-[Architectures of Knowledge:
+1. [Architectures of Knowledge:
 Mumbai](http://xpmethod.plaintext.in/events/dissent.html), 4 July 2016.
 
-[Architectures of Knowledge: Lahore](), Spring 2018.
+2. [Architectures of Knowledge: Lahore](), Spring 2018.
 
-[Architectures of Knowledge: Kyiv](), Spring 2019.
+3. [Architectures of Knowledge: Kyiv](), Spring 2019.
 
 Architectures of Knowledge is a series of workshops that brings together
 activists, scholars, artists, and librarians concerned with global
