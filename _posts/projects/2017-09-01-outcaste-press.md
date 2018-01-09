@@ -44,7 +44,14 @@ Varsha Ayyar, Founder and Editor
 
 ## South Asian Advisory Board
 
-- TBA
+- Urmila Pawar
+- P. Sivakami
+- Usha Ambhore
+- Asha Kotwal
+- Pradnya Daya Pawar
+- Cynthia Stephens
+- Surendra Jondhale
+- Wandana SonalkarA
 
 ## International Advisory Board
 
