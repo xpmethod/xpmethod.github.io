@@ -20,5 +20,5 @@ rollcall:
     -homepage: http://denen.plaintext.io/
 
 # enable redirects
-gems:
+plugins:
     - jekyll-redirect-from
