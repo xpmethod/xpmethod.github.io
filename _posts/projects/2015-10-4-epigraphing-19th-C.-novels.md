@@ -45,7 +45,7 @@ by these texts.
 * **Finding untagged epigraphs in TEI-XML Files**
     While epigraphs have been tagged in XML by a human transcriber, there are
 certain novels in the digitized collection (such as James Fenimore Cooper's
-_Wyandotte_) that are mistagged <sup>1,2</sup>. Want some experience editing
+_Wyandotte_) that are mistagged.<sup>1,2</sup> Want some experience editing
 TEI? Have an algorithmic approach for tagging "rogue" epigraphs? Drop us a
 line!
 
@@ -60,12 +60,16 @@ shortly.
 
 ### Selected Talks / Publications / Press
 
-<sup>*1* Aaron Plasek and Rob Koehler. "Mediating Genres of Prestige, Credit,
-and Authority: The Epigraph and the Citation." Conference paper. Digital
+<sup>
+
+1. Aaron Plasek and Rob Koehler. "Mediating Genres of Prestige, Credit, and
+   Authority: The Epigraph and the Citation." Conference paper. Digital
 Crucible: Arts, Humanities, & Computation. Leslie Center for the Humanities &
 Neukom Institute for Computational Science. Dartmouth College, Hanover, NH. 7
-October 2014.</sup>
+October 2014.
 
-<sup>*2* Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as Critical
-Procedure”. Media Res #1: DH Lightning Talks. CUNY Graduate School, New York,
-NY. 8 May 2015.</sup>
+2. Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as Critical
+   Procedure”. Media Res #1: DH Lightning Talks. CUNY Graduate School, New
+York, NY. 8 May 2015.
+
+</sup>
