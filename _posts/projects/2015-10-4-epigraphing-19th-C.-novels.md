@@ -60,16 +60,12 @@ shortly.
 
 ### Selected Talks / Publications / Press
 
-<sup>
-
-1. Aaron Plasek and Rob Koehler. "Mediating Genres of Prestige, Credit, and
+<sup>1</sup> Aaron Plasek and Rob Koehler. "Mediating Genres of Prestige, Credit, and
    Authority: The Epigraph and the Citation." Conference paper. Digital
 Crucible: Arts, Humanities, & Computation. Leslie Center for the Humanities &
 Neukom Institute for Computational Science. Dartmouth College, Hanover, NH. 7
 October 2014.
 
-2. Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as Critical
-   Procedure”. Media Res #1: DH Lightning Talks. CUNY Graduate School, New
-York, NY. 8 May 2015.
-
-</sup>
+<sup>2</sup> Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as
+Critical Procedure”. Media Res #1: DH Lightning Talks. CUNY Graduate School,
+New York, NY. 8 May 2015.
