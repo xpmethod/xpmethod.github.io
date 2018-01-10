@@ -67,5 +67,5 @@ Neukom Institute for Computational Science. Dartmouth College, Hanover, NH. 7
 October 2014.
 
 <sup>2</sup> Aaron Plasek. “Fail Better: On Algorithmic ‘Transparency’ as
-Critical Procedure”. Media Res #1: DH Lightning Talks. CUNY Graduate School,
+Critical Procedure.” *Media Res* 1: DH Lightning Talks. CUNY Graduate School,
 New York, NY. 8 May 2015.
