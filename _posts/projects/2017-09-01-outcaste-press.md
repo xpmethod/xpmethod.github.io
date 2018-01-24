@@ -7,6 +7,7 @@ image:
 type: publishing
 tags:
 - Varsha Ayyar
+published: false
 ---
 
 Outcaste Press is the first international Dalit Feminist press committed to
