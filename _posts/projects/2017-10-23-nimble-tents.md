@@ -8,6 +8,7 @@ tags:
 - Alex Gil
 - Manan Ahmed
 updates:
+github: nimbletents/nimbletents.github.io
 ---
 
 Universities and Colleges, and their Libraries and Digital Scholarship Labs in particular, have the latent capacity to gather quickly and react to the urgencies we can expect from the anthropocene and our vulnerable political landscapes: reams of good will, talent, space, colleague networks, communication and management lines, pedagogical wherewithal, computational savvy, and much more. The *nimble tents toolkit* provides timelines, instructions and sample materials to help your team and organization tap into that potential.

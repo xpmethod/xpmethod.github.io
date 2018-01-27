@@ -6,6 +6,7 @@ tags:
 category: knowledge-design-studio
 type: tools
 published: true
+github: mnyrop/wax
 ---
 
 __Jekyll-Wax__ is a heterogeneous collection of experiments, strategies, and
