@@ -10,6 +10,7 @@ updates:
 - date: 12/16
   text: '“A Macro-Etymological Analysis of James Joyce’s A Portrait of the Artist as a Young Man” published in _Reading Modernism with Machines_, Palgrave Macmillan, 2016'
   type: publication
+github: JonathanReeve/macro-etym
 ---
 
 Word histories are correlated strongly with the tone and genre of a text. When a writer chooses the word “enchantment” instead of “spell,” or “inquire” instead of “ask,” this decision may indicate, to some degree, the speaker’s mode, dialect, or level of formality. These modes may be then be measured by quantifying the aggregated etymology of an entire text. [The Macro-Etymological Analyzer](https://github.com/JonathanReeve/macro-etym) is a command-line utility, written in Python, that quantifies the etymologies of a text using the [Etymological Wordnet](http://www1.icsi.berkeley.edu/~demelo/etymwn/). 
