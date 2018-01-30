@@ -15,7 +15,7 @@ tags:
 - Zoe Wood
 type: OpSec
 published: true
-category: technologies-of-dissent
+category: trans-media-collective
 image: woman-poster.jpg
 images:
 - hashtag-feminism.png
