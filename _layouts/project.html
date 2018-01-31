@@ -18,6 +18,20 @@ url: research/
         </ul>
     {% endif %}
 
+        <!-- Include GitHub badges if the project has a GitHub repo. -->
+        {% if page.github %}
+        <ul class="github-badges">
+            <li>
+                <a href="https://github.com/{{ page.github }}/issues">
+                <img src="https://img.shields.io/github/issues/{{ page.github }}.svg?style=flat-square"/>
+                </a>
+            </li>
+            <li><img src="https://img.shields.io/github/languages/top/{{ page.github }}.svg?style=flat-square"/></li> 
+            <li><img src="https://img.shields.io/github/commit-activity/y/{{ page.github }}.svg?style=flat-square"/></li>
+        </ul>
+        <a href="https://github.com/{{ page.github }}">Go to the project's GitHub repository.</a>
+        {% endif %} 
+
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
             <div id="feature">

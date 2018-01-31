@@ -6,9 +6,9 @@ tags:
 category: literary-modeling-and-visualization-lab
 type: geocoding
 image: fabulaandsjuzet.png
+github: muziejus/wandering-rocks
 ---
 
-Read the [README](https://github.com/muziejus/wandering-rocks) at GitHub.
 [Mapping Fabula and Sjužet in “Wandering
 Rocks”](http://muziejus.github.io/wandering-rocks) as hosted by GitHub.
 
