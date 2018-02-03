@@ -111,9 +111,9 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 ### What It Takes
 
 - 5 X [Lenovo N21
-  Chromebook](http://www.lenovopartnernetwork.com/products/lenovo-n21)
+  Chromebook](https://www.google.com/search?q=lenovo+n21)
 - [Installing Linux on Lenovo N21
-  Chromebook](https://github.com/xpmethod/rikersbot/blob/master/chromebooksetup.md)
+  Chromebook](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
 - [Crouton](https://github.com/dnschneid/crouton) +
   [Debian](https://www.debian.org/)
 - [Python](https://www.python.org/) + [iPython
