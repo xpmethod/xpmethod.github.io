@@ -8,9 +8,8 @@ tags:
 category: literary-modeling-and-visualization-lab
 published: true
 snippet: 82
+github: lit-mod-viz/middlemarch-critical-histories
 ---
-
-(The main project page may be found [here, via the XPMethod GitHub Organization](https://github.com/xpmethod/middlemarch-critical-histories).)
 
 Text reuse detection technology and approximate text matching have made possible the large-scale computational identification of intertextuality. These technologies have often been used in plagiarism detection and in studies of journalistic text reuse. Fewer studies, however, have applied these methods to humanities research. We present a method for quantifying the critical reception history of a source text by analyzing the precise location, density and chronology of its citations.
 
