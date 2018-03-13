@@ -14,7 +14,7 @@ layout: default
 
 <div class="update-div">
     {% for post in site.posts %}
-        {% for update in post.updates %}
+        {% for update in post.updates | sort %}
             {% if update.type contains 'publication' or update.type contains 'paper' %}
             <div class="update-list">
                 <div class="update-date">{{ update.date }}
@@ -40,7 +40,7 @@ layout: default
 
 <div class="update-div">
     {% for post in site.posts %}
-        {% for update in post.updates %}
+        {% for update in post.updates | sort %}
             {% if update.type contains 'grant' or update.type contains 'award' %}
             <div class="update-list">
                 <div class="update-date">
@@ -68,7 +68,7 @@ layout: default
 
 <div class="update-div">
     {% for post in site.posts %}
-        {% for update in post.updates %}
+        {% for update in post.updates | sort %}
             {% if update.type contains 'talk' or update.type contains 'press' %}
             <div class="update-list">
                 <div class="update-date">
