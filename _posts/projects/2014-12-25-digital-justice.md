@@ -14,7 +14,7 @@ updates:
   type: press
 
   text: "\"[All Set to Digitise Punjab’s Rare Historical
-Archives](https://web.archive.org/web/20180313112823/https://tribune.com.pk/story/1658149/1-preserving-assets-set-digitise-punjabs-rare-historical-archives/)\",
+Archives](https://web.archive.org/web/20180313112823/https://tribune.com.pk/story/1658149/1-preserving-assets-set-digitise-punjabs-rare-historical-archives/),\"
 *The Express Tribune* covers Architectures of Knowledge: Lahore conference."
 
 ---
