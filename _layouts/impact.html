@@ -70,7 +70,6 @@ layout: default
     {% for post in site.posts %}
         {% for update in post.updates %}
             {% if update.type contains 'talk' or update.type contains 'press' %}
-            {% update.date %}
             <div class="update-list">
                 <div class="update-date">
                     {{ update.date }}
