@@ -7,22 +7,6 @@ type: workshop
 published: true
 updates:
 
-- date: 05/15
-  type: grant
-  text: "The pilot project in Mumbai, India has been funded with generous support from the President's Global Innovation Fund."
-
-- date: 03/18
-  type: press
-  text: "\"[All Set to Digitise Punjab’s Rare Historical
-Archives](https://web.archive.org/web/20180313112823/https://tribune.com.pk/story/1658149/1-preserving-assets-set-digitise-punjabs-rare-historical-archives/),\"
-in *The Express Tribune*."
-
-- date: 03/18
-  type: press
-  text: "\"[PITB Organises Seminar on Knowledge
-Archives](https://web.archive.org/web/20180315014431/https://tribune.com.pk/story/1657447/1-pitb-organises-seminar-knowledge-archives/),\"
-in *The Express Tribune*."
-
 ---
 
 ### Schedule
