@@ -27,15 +27,11 @@ images:
 snippet: 121
 updates:
 
-- date: 03/19
-  type: update
-  text: "Last class takes place."
-
-- date: 12/03
+- date: 12/15
   type: press
-  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
+  text: "From the streets to programming tweets. [*Prison Education*](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
-- date: 11/30
+- date: 11/15
   type: press
   text: "How Rikers Inmates and Columbia Students Built A Twitter Bot--With No Internet. [Fast Company](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter), Innovation Agents."
 
@@ -51,21 +47,6 @@ Professor of Social Work at Columbia."
 project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less)
 for the Data Science Institute."
 
-- date: 10/15
-  type: update
-  text: Bot launched.
-
-- date: 08/15
-  type: update
-  text: Family event for Rikers workshop participants at Rikers on Aug 10.
-
-- date: 07/15
-  type: update
-  text: Andi Dixon joins the team as community coordinator.
-
-- date: 05/15
-  type: update
-  text: Brainstorming session with Columbia's Center for Justice.
 edited:
 - by: Phillip R. Polefrone
   date: 2016-08-26
