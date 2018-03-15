@@ -27,6 +27,11 @@ layout: default
 
     <!-- include updates if we have them--!>
 
+    <!-- include prompt --!>
+    <div class="box">
+    {% if page.prompt %}{{ page.prompt }}{% endif %}
+    </div>
+
     {% if page.updates%}
         <div class="update-div">
             <h3>Updates</h3>
@@ -38,11 +43,6 @@ layout: default
             {% endfor %}
         </div>
     {% endif %}
-
-    <!-- include prompt --!>
-    <div class="box">
-    {% if page.prompt %}{{ page.prompt }}{% endif %}
-    </div>
 
     {{ content }}
 
