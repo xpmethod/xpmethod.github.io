@@ -6,6 +6,12 @@ category: knowledge-design-studio
 type: workshop
 published: true
 updates:
+tags:
+- Manan Ahmed
+- Marcell Mars
+- Tomislav Medak
+- Durba Mitra
+- Dennis Yi Tenen
 
 ---
 
