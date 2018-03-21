@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Architectures of Knowledge"
+title: "Knowledge Architectures"
 tags:
 category: knowledge-design-studio
 type: workshop
@@ -11,17 +11,17 @@ updates:
 
 ### Schedule
 
-- [Architectures of Knowledge:
+- [Knowledge Architectures:
 Mumbai](http://xpmethod.plaintext.in/events/dissent.html), 4 July 2016.
 
-- [Architectures of Knowledge:
+- [Knowledge Architectures:
 Lahore](http://xpmethod.plaintext.in/events/lahore.html), 12-14 March 2018.
 
 - Architectures of Knowledge: Kyiv, Spring 2019.
 
 ### About
 
-Architectures of Knowledge is a series of workshops that brings together
+Knowledge Architectures is a series of workshops that brings together
 activists, scholars, artists, and librarians concerned with global
 inequalities facing knowledge work. These manifest in the aggregation of
 material and scientific archives in northern Europe and America; the pay-walls
