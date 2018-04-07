@@ -13,18 +13,18 @@ layout: default
     peer-review process.</br></br></small>
 
 <div class="update-div">
-    {% for post in site.posts %}
-        {% for update in post.updates %}
-            {% if update.type contains 'publication' or update.type contains 'paper' %}
-            <div class="update-list">
-                <div class="update-date">{{ update.date }}
-                <a class="update-link" href="{{ post.url }}">
-                    {{ post.title | downcase }}</a>
-                </div>
-                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% include date-sorting.html %}
+    {% for o in order %}
+        {% include date-split.html %}
+        {% if update.type contains 'publication' or update.type contains 'paper' %}
+        <div class="update-list">
+            <div class="update-date">{{ update.date | date: "%m/%y" }}
+            <a class="update-link" href="{{ post.url }}">
+                {{ post.title | downcase }}</a>
             </div>
-            {% endif %}
-        {% endfor %}
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+        {% endif %}
     {% endfor %}
 </div>
 
@@ -39,20 +39,20 @@ layout: default
 <small>Research teams are encouraged to seek external funding.</br></br></small>
 
 <div class="update-div">
-    {% for post in site.posts %}
-        {% for update in post.updates %}
-            {% if update.type contains 'grant' or update.type contains 'award' %}
-            <div class="update-list">
-                <div class="update-date">
-                    {{ update.date }}
-                    <a class="update-link" href="{{ post.url }}">
-                        {{ post.title | downcase }}
-                    </a>
-                </div>
-                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% include date-sorting.html %}
+    {% for o in order %}
+        {% include date-split.html %}
+        {% if update.type contains 'grant' or update.type contains 'award' %}
+        <div class="update-list">
+            <div class="update-date">
+                {{ update.date | date: "%m/%y" }}
+                <a class="update-link" href="{{ post.url }}">
+                    {{ post.title | downcase }}
+                </a>
             </div>
-            {% endif %}
-        {% endfor %}
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+        {% endif %}
     {% endfor %}
 </div>
 
@@ -67,20 +67,20 @@ layout: default
 <small>Our work has recieved national and international recognition.</br></br></small>
 
 <div class="update-div">
-    {% for post in site.posts %}
-        {% for update in post.updates %}
-            {% if update.type contains 'talk' or update.type contains 'press' %}
-            <div class="update-list">
-                <div class="update-date">
-                    {{ update.date }}
-                    <a class="update-link" href="{{ post.url }}">
-                        {{ post.title | downcase }}
-                    </a>
-                </div>
-                {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+    {% include date-sorting.html %}
+    {% for o in order %}
+        {% include date-split.html %}
+        {% if update.type contains 'talk' or update.type contains 'press' %}
+        <div class="update-list">
+            <div class="update-date">
+                {{ update.date | date: "%m/%y" }}
+                <a class="update-link" href="{{ post.url }}">
+                    {{ post.title | downcase }}
+                </a>
             </div>
-            {% endif %}
-        {% endfor %}
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+        {% endif %}
     {% endfor %}
 </div>
 

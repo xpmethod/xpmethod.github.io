@@ -7,7 +7,7 @@ category: literary-modeling-and-visualization-lab
 published: true
 snippet: 82
 updates:
-- date: 12/16
+- date: 2016-12-01
   text: '“A Macro-Etymological Analysis of James Joyce’s A Portrait of the Artist as a Young Man” published in _Reading Modernism with Machines_, Palgrave Macmillan, 2016'
   type: publication
 github: JonathanReeve/macro-etym

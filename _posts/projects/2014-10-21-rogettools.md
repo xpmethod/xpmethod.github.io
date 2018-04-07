@@ -8,7 +8,7 @@ type: toolkit
 snippet: 100
 issue: 14
 updates:
-- date: 09/15
+- date: 2015-09-01
   text: "Added two new methods to enable export of category-count arrays to
 [Pandas](http://http://pandas.pydata.org/) and CSV."
 

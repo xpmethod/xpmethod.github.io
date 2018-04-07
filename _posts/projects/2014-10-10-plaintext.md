@@ -10,25 +10,25 @@ image: control-2.png
 issue: 15
 updates:
 
-- date: 11/17
+- date: 2017-11-01
   text: "James Edward Draney calls the work \"an important and engaging book \
         ... which provides a lucid and legible map to our often vertiginous \
         computational climate\" in [*Los Angeles Review of Books*](https://web.archive.org/web/20171126230526/https://lareviewofbooks.org/article/computation-de-texte/)."
   type: press
 
-- date: 10/17
+- date: 2017-10-01
   text: "\"Plain Text is a vibrant call to rethink the two culture debate \
         in broad cultural and political terms,\" Jan Baetens writes for \
         [*Leonardo*](https://web.archive.org/web/20171126230920/https://www.leonardo.info/review/2017/10/review-of-plain-text-the-poetics-of-computation)."
   type: press
 
-- date: 09/17
+- date: 2017-09-01
 
   text: "\"[A] clear, forceful case for computational poetics as a necessary \
          literary practice in the digital age,\" Katherine Hayles writes for [*Critical Inquiry*](https://web.archive.org/web/20171126231710/http://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)."
   type: press
 
-- date: 06/16
+- date: 2016-06-01
   text: "Manuscript accepted at Stanford University Press."
   type: publication
 

@@ -7,19 +7,19 @@ image: piracy.png
 issue: 14
 updates:
 
-- date: 04/15
+- date: 2015-04-01
   text: "Research featured in *Le Monde*
 [print](https://raw.githubusercontent.com/xpmethod/xpmethod.github.io/master/public/images/lemonde1.png)
 and
 [online](http://www.lemonde.fr/sciences/article/2015/04/20/les-bibliotheques-clandestines-de-l-edition-scientifique_4619506_1650684.html)."
   type: press
 
-- date: 11/14
+- date: 2014-11-01
   text: "piracyLab members Maxwell Foxman and Dennis Tenen publish \"[Book
 Piracy as Peer Preservation](http://computationalculture.net/article/book-piracy-as-peer-preservation)\" in Computational Culture, no. 4."
   type: publication
 
-- date: 10/13
+- date: 2013-01-10
   text: "Sarah Laskow from [Columbia Journalism
 Review](http://www.cjr.org/cloud_control/piracylab.php) covers
 [piracyLab](http://xpmethod.plaintext.in/knowledge-design-studio/piracyLab.html).
@@ -29,7 +29,7 @@ House](http://www.mhpbooks.com/piracy-lab-study-investigates-e-book-piracy/),
 [ActuaLitté](https://www.actualitte.com/international/piracy-lab-fournit-son-eclairage-sur-le-piratage-de-contenus-universitaires-45495.htm)."
   type: press
 
-- date: 02/13
+- date: 2013-02-01
   text: "Mark Phillipson and Dennis Tenen on \"[Hacking the
 Archive](https://web.archive.org/web/20151119161942/http://ccnmtl.columbia.edu/nme2013/sessions.html)\" at New
 Media in Education Conference 2013."
