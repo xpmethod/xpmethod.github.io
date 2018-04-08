@@ -27,21 +27,21 @@ images:
 snippet: 121
 updates:
 
-- date: 12/15
+- date: 2015-12-01
   type: press
   text: "From the streets to programming tweets. [*Prison Education*](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
-- date: 11/15
+- date: 2015-11-01
   type: press
   text: "How Rikers Inmates and Columbia Students Built A Twitter Bot--With No Internet. [Fast Company](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter), Innovation Agents."
 
-- date: 11/15
+- date: 2015-11-01
   type: update
   text: "Welcome [Desmond
 Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant
 Professor of Social Work at Columbia."
 
-- date: 10/15
+- date: 2015-10-01
   type: press
   text: "Kim Martineau [wrote about the
 project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less)

@@ -10,7 +10,7 @@ published: true
 issue: 15
 updates:
 
-- date: 05/15
+- date: 2015-05-01
   type: grant
   text: "Project receives $5,000 from Columbia University's School of
 International and Public Affairs (SIPA) and Carnegie to further research on

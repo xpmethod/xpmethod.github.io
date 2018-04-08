@@ -19,19 +19,19 @@ images:
 - prmapathon-final.jpg
 updates:
 
-- date: 10/17
+- date: 2017-10-01
   type: press
   text: "\"[Volunteers are helping Puerto Rico from home, with a map anyone can edit](http://www.pbs.org/newshour/rundown/volunteers-helping-puerto-rico-home-map-anyone-can-edit/),\" *PBS NewsHour*."
 
-- date: 10/17
+- date: 2017-10-01
   type: press
   text: "\"[A Mapathon to Pinpoint Areas Hardest Hit in Puerto Rico](https://www.nytimes.com/2017/10/02/nyregion/maps-puerto-rico-hurricane-maria.html),\" *New York Times*."
 
-- date: 10/17
+- date: 2017-10-01
   type: press
   text: "\"[Mainland Libraries Aid Maria Victims with Money, Mapathons](http://lj.libraryjournal.com/2017/10/academic-libraries/mainland-libraries-aid-maria-victims-money-mapathons/),\" *Library Journal*."
 
-- date: 10/17
+- date: 2017-10-01
   type: press
   text: "\"[When Cartography Meets Disaster Relief](https://www.citylab.com/environment/2017/10/how-open-source-mapping-helps-hurricane-recovery/542565/),\" *CityLab*."
 
