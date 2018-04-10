@@ -4,31 +4,29 @@ layout: default
 
 {{ content }}
 
-<div id="feature">
-    <figure>
-        <a href="/public/images/lab.jpg">
-        <img alt="" src="/public/images/lab.jpg">
-        </a>
-    </figure>
-</div>
 
+<div id="feature" class="fr w5">
+    <a href="/public/images/lab.jpg">
+        <img alt="" src="/public/images/lab.jpg" class="mw-100">
+    </a>
+</div>
 <h2>Contributors</h2>
 <!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
 
-<ul class="people-list">
+<ul>
     {% for tag in site.tags %}
     {% assign name = tag[0] %}
     {% if site.data.contributors[name].url %}
-    <li><a href="{{ site.data.contributors[name].url }}">{{ name }}</a></li>
+    <li class="dib"><a href="{{ site.data.contributors[name].url }}">{{ name }}</a></li>
     {% else %}
-    <li>{{ name }}</li>
+    <li class="dib">{{ name }}</li>
     {% endif %}
     {% endfor %}
 </ul>
 
 <h2>Moderators</h2>
 
-<ul class="people-list">
+<ul>
     {% for mod in site.data.mods %}
         <li><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
     {% endfor %}
@@ -36,7 +34,7 @@ layout: default
 
 <h2>Alumni</h2>
 
-<ul class="people-list">
+<ul>
     {% for mod in site.data.alumns %}
         <li>
             <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart}} -
