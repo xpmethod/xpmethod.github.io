@@ -12,14 +12,14 @@ layout: default
 <small>We support the publishing efforts of our members by a rigorous internal
     peer-review process.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
-        <div class="mt2">
-            <div class="moon-gray">{{ update.date | date: "%m/%y" }}
-            <a class="gray" href="{{ post.url }}">
+        <div class="update-list">
+            <div class="update-date">{{ update.date | date: "%m/%y" }}
+            <a class="update-link" href="{{ post.url }}">
                 {{ post.title | downcase }}</a>
             </div>
             {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -29,7 +29,7 @@ layout: default
 </div>
 
 </br>
-<div id="grants">
+<div class="nav secondary" id="grants">
     <a href="#publications">publications</a> |
     <a href="#grants" class="nav active">grants-and-awards</a> |
     <a href="#press">press</a> |
@@ -38,15 +38,15 @@ layout: default
 </div>
 <small>Research teams are encouraged to seek external funding.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'grant' or update.type contains 'award' %}
-        <div class="mt2">
-            <div class="moon-gray">
+        <div class="update-list">
+            <div class="update-date">
                 {{ update.date | date: "%m/%y" }}
-                <a class="gray" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
                 </a>
             </div>
@@ -57,7 +57,7 @@ layout: default
 </div>
 
 </br>
-<div id="press">
+<div class="nav secondary" id="press">
     <a href="#publications">publications</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press" class="nav active">press</a> |
@@ -66,15 +66,15 @@ layout: default
 </div>
 <small>Our work has recieved national and international recognition.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'press' %}
-        <div class="mt2">
-            <div class="moon-gray">
+        <div class="update-list">
+            <div class="update-date">
                 {{ update.date | date: "%m/%y" }}
-                <a class="gray" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
                 </a>
             </div>
@@ -85,27 +85,27 @@ layout: default
 </div>
 
 </br>
-<div id="jobs">
+<div class="nav secondary" id="jobs">
     <a href="#publications">publications</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press">press</a> |
-    <a href="#jobs" class="active">placements</a>
+    <a href="#jobs" class="nav active">placements</a>
     <hr>
 </div>
 <small>Placements are a reflection of individual achievement. The group offers
     support in the form of mock interviews, portfolio preparation, and
     application review.</br></br></small>
 
-<div class="mb3">
+<div class="update-div">
     {% for job in site.data.jobs %}
-        <div class="mt2">
-            <div class="moon-gray">
+        <div class="update-list">
+            <div class="update-date">
                 {{ job.date }}
-                <a class="gray" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     Experimental Methods Group
                 </a>
             </div>
-            <div> 
+            <div class="update-text"> 
                 {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
         </div>
