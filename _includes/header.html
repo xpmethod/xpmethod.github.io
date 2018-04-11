@@ -1,12 +1,12 @@
-<header class="mb3">
-<a class="mb1 mt2 db f4 black" id="site-title" href="/">Columbia's Group for Experimental Methods in the Humanities</a>
-
+<header>
+<a id="site-title" href="/">Columbia's Group for Experimental Methods in the Humanities</a>
+<br>
     {% assign sorted_pages = site.pages | sort:"name" %}
     {% for node in sorted_pages %}
     {% if node.title != null %}
     {% unless node.url contains 'archive' %} 
             <!-- this matches strings in the url to node title to highlight the active page -->
-            <a class="hover-red ttl pr2 nav{% if page.url contains node.title %} active{% elsif page.url == '/' and node.title == 'projects' %} active{% endif %}" href="{{ node.url }}">
+            <a class="nav{% if page.url contains node.title %} active{% elsif page.url == '/' and node.title == 'projects' %} active{% endif %}" href="{{ node.url }}">
                 {{ node.title }}
             </a>
     {% endunless %}

@@ -21,26 +21,28 @@ url: research/
         <!-- Include GitHub badges if the project has a GitHub repo. -->
         {% if page.github %}
         <ul class="github-badges">
-            <li class="dib">
+            <li>
                 <a href="https://github.com/{{ page.github }}/issues">
                 <img src="https://img.shields.io/github/issues/{{ page.github }}.svg?style=flat-square"/>
                 </a>
             </li>
-            <li class="dib"><img src="https://img.shields.io/github/languages/top/{{ page.github }}.svg?style=flat-square"/></li> 
-            <li class="dib"><img src="https://img.shields.io/github/commit-activity/y/{{ page.github }}.svg?style=flat-square"/></li>
+            <li><img src="https://img.shields.io/github/languages/top/{{ page.github }}.svg?style=flat-square"/></li> 
+            <li><img src="https://img.shields.io/github/commit-activity/y/{{ page.github }}.svg?style=flat-square"/></li>
         </ul>
-        <a class="mb3 db" href="https://github.com/{{ page.github }}">Go to the project's GitHub repository.</a>
+        <a href="https://github.com/{{ page.github }}">Go to the project's GitHub repository.</a>
         {% endif %} 
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
-            <div id="feature" class="fr w5 ba b--black-05 bw2 ml4">
-                <a href="/public/images/{{ page.image }}">
+            <div id="feature">
+                <figure>
+                    <a href="/public/images/{{ page.image }}">
                     <img alt="" src="/public/images/{{ page.image }}">
-                </a>
-                {% if page.caption %}
-                    <figcaption>{{ page.caption }}</figcaption>
-                {% endif %}
+                    </a>
+                    {% if page.caption %}
+                        <figcaption>{{ page.caption }}</figcaption>
+                    {% endif %}
+                </figure>
             </div>
         {% endif %}
 
@@ -59,11 +61,11 @@ url: research/
     <!-- include updates if we have them--!>
 
     {% if page.updates%}
-        <div>
-            <h3 class="mb3">Updates</h3>
+        <div class="update-div">
+            <h3>Updates</h3>
             {% for update in page.updates %}
-                <div class="mb3">
-                    <span class="moon-gray">{{ update.date }}</span>
+                <div class="update-list">
+                    <span class="update-date">{{ update.date }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
@@ -73,14 +75,12 @@ url: research/
     {{ content }}
 
     <!-- image gallery support -->
-    {% if page.images %}
+        {% if page.images %}
 	<div id='gallery-box'>
 		{% for image in page.images %}
-		<a href="{{ site.url }}/public/images/{{ image }}">
-            <img class="w5 v-top" src="{{ site.url }}/public/images/{{ image }}">
-        </a>
+		<a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
 		{% endfor %}
 	</div>
-    {% endif %}
+        {% endif %}
 
 </div>
