@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<section id="events-list">
+<section id="events-list" class="fl w-100">
     <div class="events-preface">
         {{ content }}
     </div>
 
-    <section class="event">
+    <section>
         {% for post in site.categories['events'] %}
             {% if post.title != null %}
-	    <span class="date">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
+	    <span class="date f4">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
                 {% if post.type %}
 		<span class="tag">{{ post.type }}</span>
                 {% endif %}
             {% endif %}
-            <div>{{ post.prompt }}</div>
+            <p class="mt1">{{ post.prompt }}</p>
             <br>
         {% endfor %}
     </section>

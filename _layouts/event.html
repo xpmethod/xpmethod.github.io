@@ -8,13 +8,13 @@ layout: default
         {% if page.type %}
             <span class="tag">{{ page.type }}</span>
         {% endif %}
+        <div id="time" class="gray normal">
+            {% if page.hour %}{{ page.hour }},{% endif %}
+            {{ page.date | date_to_string }}
+            {% if page.location %}at  {{ page.location }}{% endif %}
+        </div>
     </h1>
 
-    <div id="time">
-        {% if page.hour %}{{ page.hour }},{% endif %}
-        {{ page.date | date_to_string }}
-        {% if page.location %}at  {{ page.location }}{% endif %}
-    </div>
 
     <!--include participants-->
     {% if page.participants %}
@@ -37,7 +37,7 @@ layout: default
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date">{{ update.date }}</span>
+                    <span class="moon-gray">{{ update.date }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
@@ -50,8 +50,10 @@ layout: default
 {% if page.images %}
     <div id="gallery-box">
     {% for image in page.images %}
-        <a href="{{ site.url }}/public/images/{{ image }}">
-        <img alt="" src="{{ site.url }}/public/images/{{ image }}"></a>
+        <div class="fl w-third pa2">
+            <a href="{{ site.url }}/public/images/{{ image }}">
+            <img alt="" src="{{ site.url }}/public/images/{{ image }}"></a>
+        </div>
     {% endfor %}
     </div>
 {% endif %}
