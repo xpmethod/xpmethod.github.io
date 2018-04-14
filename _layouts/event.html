@@ -8,12 +8,12 @@ layout: default
         {% if page.type %}
             <span class="tag">{{ page.type }}</span>
         {% endif %}
-        <div id="time" class="gray normal">
-            {% if page.hour %}{{ page.hour }},{% endif %}
-            {{ page.date | date_to_string }}
-            {% if page.location %}at  {{ page.location }}{% endif %}
-        </div>
     </h1>
+    <div id="time" class="gray normal">
+        {% if page.hour %}{{ page.hour }},{% endif %}
+        {{ page.date | date_to_string }}
+        {% if page.location %}at  {{ page.location }}{% endif %}
+    </div>
 
 
     <!--include participants-->

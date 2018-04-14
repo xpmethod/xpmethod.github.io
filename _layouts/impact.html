@@ -12,14 +12,14 @@ layout: default
 <small>We support the publishing efforts of our members by a rigorous internal
     peer-review process.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
-        <div class="mt2">
-            <div class="moon-gray">{{ update.date | date: "%m/%y" }}
-            <a class="gray" href="{{ post.url }}">
+        <div class="update-list">
+            <div class="update-date">{{ update.date | date: "%m/%y" }}
+            <a class="update-link" href="{{ post.url }}">
                 {{ post.title | downcase }}</a>
             </div>
             {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -38,15 +38,15 @@ layout: default
 </div>
 <small>Research teams are encouraged to seek external funding.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'grant' or update.type contains 'award' %}
-        <div class="mt2">
-            <div class="moon-gray">
+        <div class="update-list">
+            <div class="update-date">
                 {{ update.date | date: "%m/%y" }}
-                <a class="gray" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
                 </a>
             </div>
@@ -66,15 +66,15 @@ layout: default
 </div>
 <small>Our work has recieved national and international recognition.</br></br></small>
 
-<div>
+<div class="update-div">
     {% include date-sorting.html %}
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'press' %}
-        <div class="mt2">
-            <div class="moon-gray">
+        <div class="update-list">
+            <div class="update-date">
                 {{ update.date | date: "%m/%y" }}
-                <a class="gray" href="{{ post.url }}">
+                <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
                 </a>
             </div>
