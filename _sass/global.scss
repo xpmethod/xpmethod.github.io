@@ -67,7 +67,9 @@ img {
   /* Don't allow images to overflow. */
   max-width: 100%;
 }
-
+strong {
+  font-weight: bold;
+}
 /* Specific Elements */ 
 
 header {
@@ -90,7 +92,9 @@ header {
     }
   }
 }
-
+.nav.active {
+  color: red;
+}
 #strain, #feature {
   img {
     float: right;

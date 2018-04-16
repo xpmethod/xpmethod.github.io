@@ -59,11 +59,11 @@ url: research/
     <!-- include updates if we have them--!>
 
     {% if page.updates%}
-        <div>
-            <h3 class="mb3">Updates</h3>
+        <div class="update-div">
+            <h3>Updates</h3>
             {% for update in page.updates %}
-                <div class="mb3">
-                    <span class="moon-gray">{{ update.date }}</span>
+                <div class="update-list">
+                    <span class="update-date">{{ update.date }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
