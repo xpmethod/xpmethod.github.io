@@ -7,18 +7,19 @@
    <meta name="author" content="xpMethods" />
 
    <!-- syntax highlighting CSS -->
-   <link rel="stylesheet" href="/public/css/syntax.css" type="text/css" />
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/css/syntax.css" type="text/css" />
 
    <!-- Homepage CSS -->
-   <link rel="stylesheet" href="/public/css/screen.css" type="text/css" media="screen, projection" />
-   <link rel="shortcut icon" href="/public/favicon.ico?v=1"/> 
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/tachyons/css/tachyons.min.css" type="text/css" media="screen, projection" />
+   <link rel="stylesheet" href="{{ site.baseurl}}/public/css/main.css" type="text/css" media="screen, projection" />
+   <link rel="shortcut icon" href="{{ site.baseurl}}/public/favicon.ico?v=1"/> 
 
    <!-- custom Modernizr build for font compatibility -->
-   <script type='text/javascript' src='/public/js/modernizr-custom.js'></script>
+   <script type='text/javascript' src='public/js/modernizr-custom.js'></script>
 </head>
 
-<body>
-    <main class="site">
+<body class="center f4 fw1 mw9 mw7-ns normal ph4-ns">
+    <main class="fl w-100">
         {% include header.html %}
         {{ content }}
         {% include footer.html %}

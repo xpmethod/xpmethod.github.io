@@ -5,11 +5,9 @@ layout: default
 {{ content }}
 
 <div id="feature">
-    <figure>
-        <a href="/public/images/lab.jpg">
-        <img alt="" src="/public/images/lab.jpg">
-        </a>
-    </figure>
+    <a href="/public/images/lab.jpg">
+        <img alt="" src="/public/images/lab.jpg" class="mw-100">
+    </a>
 </div>
 
 <h2>Contributors</h2>
@@ -30,7 +28,7 @@ layout: default
 
 <ul class="people-list">
     {% for mod in site.data.mods %}
-        <li><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
+        <li class="dib"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
     {% endfor %}
 </ul>
 
@@ -38,7 +36,7 @@ layout: default
 
 <ul class="people-list">
     {% for mod in site.data.alumns %}
-        <li>
+        <li class="dib">
             <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart}} -
             {{ mod.dateend}})
         </li>
