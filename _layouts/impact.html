@@ -29,7 +29,7 @@ layout: default
 </div>
 
 </br>
-<div id="grants">
+<div class="nav secondary" id="grants">
     <a href="#publications">publications</a> |
     <a href="#grants" class="nav active">grants-and-awards</a> |
     <a href="#press">press</a> |
@@ -57,7 +57,7 @@ layout: default
 </div>
 
 </br>
-<div id="press">
+<div class="nav secondary" id="press">
     <a href="#publications">publications</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press" class="nav active">press</a> |
@@ -85,7 +85,7 @@ layout: default
 </div>
 
 </br>
-<div id="jobs">
+<div class="nav secondary" id="jobs">
     <a href="#publications">publications</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press">press</a> |
@@ -105,7 +105,7 @@ layout: default
                     Experimental Methods Group
                 </a>
             </div>
-            <div> 
+            <div class="update-text"> 
                 {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
         </div>
