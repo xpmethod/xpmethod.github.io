@@ -1,7 +1,7 @@
 <header>
     <a id="site-title" href="/">Columbia's Group for Experimental Methods in the Humanities</a>
 
-   {% assign sorted_pages = site.pages | sort:"name" %}
+    {% assign sorted_pages = site.pages | sort:"name" %}
     {% for node in sorted_pages %}
     {% if node.title != null %}
     {% unless node.url contains 'archive' %} 
