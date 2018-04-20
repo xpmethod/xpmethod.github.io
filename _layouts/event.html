@@ -9,12 +9,6 @@ layout: default
             <span class="tag">{{ page.type }}</span>
         {% endif %}
     </h1>
-    <div id="time" class="gray normal">
-        {% if page.hour %}{{ page.hour }},{% endif %}
-        {{ page.date | date_to_string }}
-        {% if page.location %}at  {{ page.location }}{% endif %}
-    </div>
-
     <div id="time">
         {% if page.hour %}{{ page.hour }},{% endif %}
         {{ page.date | date_to_string }}
