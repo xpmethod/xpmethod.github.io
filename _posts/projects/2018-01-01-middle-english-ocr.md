@@ -12,7 +12,7 @@ updates:
 
 - date: 2018-03-11
   type: grants-and-awards
-  text: "The project received summer grant funding ($4500) with generous support from the Data Science Institute Scholars Program and the Data, Media, & Society Center."
+  text: "The project received summer grant funding ($9000) with generous support from the Data Science Institute Scholars Program and the Data, Media, & Society Center."
 
 ---
 
