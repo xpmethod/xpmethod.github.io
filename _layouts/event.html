@@ -24,9 +24,7 @@ layout: default
         </ul></div>
     {% endif %}
 
-    <!-- include updates if we have them--!>
-
-    <!-- include prompt --!>
+    
     <div class="box">
     {% if page.prompt %}{{ page.prompt }}{% endif %}
     </div>
@@ -36,7 +34,7 @@ layout: default
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date">{{ update.date }}</span>
+                    <span class="update-date">{{ update.date | date: "%m/%y"  }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
