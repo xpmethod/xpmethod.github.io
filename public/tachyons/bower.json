@@ -1,7 +1,7 @@
 {
   "name": "tachyons",
   "description": "Functional CSS for humans",
-  "main": "public/tachyons/css/tachyons.css",
+  "main": "css/tachyons.css",
   "authors": [
     "mrmrs"
   ],
