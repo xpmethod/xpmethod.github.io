@@ -37,5 +37,4 @@ Humanities][6].
 [3]: http://library.columbia.edu/locations/rbml.html
 [4]: http://english.columbia.edu/
 [5]: https://www.arch.columbia.edu/books
-[6]: xpmethod.plaintext.in
-
+[6]: http://xpmethod.plaintext.in/
