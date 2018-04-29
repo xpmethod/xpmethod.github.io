@@ -3,7 +3,6 @@ layout: project
 title: The Roma Project
 category: knowledge-design-studio
 published: true
-image: roma-project.png
 tags:
 - Cristiana Grigore
 - Alex Gil
