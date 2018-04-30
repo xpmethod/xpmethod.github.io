@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+@import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
+@import url("https://fonts.googleapis.com/css?family=Inconsolata");
+@import url("https://fonts.googleapis.com/css?family=Cardo");
+body {
+  font-family: "Cardo", serif;
+  max-width: 40em;
+  font-size: 18px;
+  margin: 1em auto;
+  line-height: 1.3; 
+}
+
+p, a, div, li {
+  font-size: 18px;
+  line-height: 1.3; 
+}
+
+/* Generic Elements */
+a, a:visited {
+  color: DarkSlateGray;
+  text-decoration: none; 
+}
+  a:hover, a:visited:hover {
+    color: #1c2f2f; 
+  }
+
+ol {
+  padding: 0;
+  margin: 0; 
+}
+
+h1 {
+  font-size: 1.3rem; 
+}
+
+h2 {
+  font-size: 1.2rem; 
+}
+
+h3 {
+  font-size: 18px; 
+}
+
+h1 a, h2 a {
+  color: black; 
+}
+
+h1#event-title {
+  margin-bottom: .3em; 
+}
+
+img {
+  /* Don't allow images to overflow. */
+  max-width: 100%; 
+}
+
+strong {
+  font-weight: bold; 
+}
+
+/* Specific Elements */
+header {
+  margin-bottom: 1em; 
+}
+  header a, header a:visited {
+    font-size: 1.4rem;
+    font-family: "Inconsolata", monospace; 
+  }
+    header a#site-title, header a:visited#site-title {
+      text-transform: none;
+      color: black;
+      font-size: 1.4rem; 
+    }
+  header > a {
+    font-family: "Inconsolata", monospace;
+    text-transform: lowercase;
+    font-size: 1.2rem; 
+  }
+    header > a.active {
+      color: #F00; 
+    }
+
+.nav.active {
+  color: red; 
+}
+
+#strain img, #feature img {
+  float: right;
+  margin: 0 0 1.5em 1.5em;
+  max-width: 40%;
+  border: 2px solid #ddd; 
+}
+
+#strains {
+  margin: 0;
+  padding: 0; 
+}
+  #strains li {
+    display: inline; 
+  }
+    #strains li:after {
+      content: ' \00BB '; 
+    }
+    #strains li:last-child:after {
+      content: ""; 
+    }
+    #strains li a {
+      font-family: "Inconsolata", monospace;
+      color: black; 
+    }
+
+div.update-list {
+  margin-bottom: 0.5em; 
+}
+  div.update-list .update-link {
+    color: gray; 
+  }
+  div.update-list .update-date {
+    font-family: "Inconsolata", monospace;
+    color: lightgray; 
+  }
+
+.event .date {
+  font-family: "Inconsolata", monospace; 
+}
+
+#time {
+  color: gray;
+  margin-bottom: 1em; 
+}
+
+.tag {
+  font-family: "Inconsolata", monospace;
+  font-size: 0.9rem;
+  background-color: #EEF;
+  padding: 0.1em 0.2em;
+  border: 1px solid lightgray;
+  vertical-align: top; 
+}
+
+.box {
+  background-color: #FFFFCC;
+  margin: 2em 0;
+  margin: .5em -2em;
+  padding: 1em 2em; 
+}
+
+div.update-list {
+  margin-bottom: 0.5em; 
+}
+  div.update-list .update-link {
+    color: gray; 
+  }
+  div.update-list .update-date {
+    font-family: "Inconsolata", monospace;
+    margin-left: -3em;
+    color: lightgray; 
+  }
+
+.people-list li {
+  display: inline; 
+}
+  .people-list li:after {
+    content: ", "; 
+  }
+  .people-list li:last-child:after {
+    content: ""; 
+  }
+
+.event .date {
+  font-family: "Inconsolata", monospace; 
+}
+
+#post .github-badges {
+  list-style: none;
+}
+#gallery-box {
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  overflow: hidden; 
+}
+  #gallery-box img {
+    max-width: 30%;
+    margin: .5em;
+    float: left; 
+  }
+
+footer {
+  margin-top: 1em;
+  padding-top: 1em;
+  font-family: "Inconsolata", monospace;
+  border-top: 5px solid #eee;
+  font-size: 18px;
+  line-height: 1; 
+}
