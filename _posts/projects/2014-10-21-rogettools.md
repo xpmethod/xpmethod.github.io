@@ -57,7 +57,7 @@ list to the selected node.
 
 This is a work in progress, and suggestions for application and development
 are welcome. Full instructions can be found on the [main project
-page](http://prpole.github.io/roget-tools/), which also contains projections
+page](https://github.com/prpole/roget-tools), which also contains projections
 for future development.
 
 ### Download

@@ -85,7 +85,7 @@ _Middlemarch_](/public/images/middlemarch/annotated2.png)
 
 Figure 2 shows a finer grained analysis, no longer segmented by decade,
 displaying an excerpt from [our paragraph-level text browser for
-_Middlemarch_](http://xpmethod.plaintext.in/middlemarch-critical-histories/annotated.html).
+_Middlemarch_](https://lit-mod-viz.github.io/middlemarch-critical-histories/annotated.html).
 Here again, the color coding represents the number of quotations of each
 segment, ranging from unquoted black passages, to infrequently quoted purple
 and red passages and more frequently quoted yellow ones. In our sample, the
