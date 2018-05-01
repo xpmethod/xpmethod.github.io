@@ -34,7 +34,6 @@ an information session and workshop devoted to multimedia mapping project In
 the [*Same Boats: Toward an Intellectual Cartography of the
 Afro-Atlantic*][4].
 
-Can’t be here in person? Check us out via [live-stream][5]!
+Can’t be here in person? Check us out via ~~live-stream~~ (not archived)!
 
 [4]: http://caribbeandigitalnyc.net/2016/in-the-same-boats-workshop/
-[5]: https://livestream.com/accounts/11222260/events/6708015

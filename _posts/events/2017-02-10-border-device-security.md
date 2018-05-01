@@ -30,5 +30,5 @@ measures to limit our vulnerabilities.
 
 The workshop will be led by Prof. [Dennis
 Tenen](http://english.columbia.edu/people/profile/453) (English & Comp. Lit)
-and Prof. [Manan Ahmed](http://history.columbia.edu/faculty/Ahmed.html)
+and Prof. [Manan Ahmed](https://history.columbia.edu/faculty/manan-ahmed/)
 (History) at the Butler Studio (208b).
