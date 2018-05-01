@@ -50,22 +50,20 @@ url: research/
         {% if page.sparkle %}
             <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
-
-    <!-- include prompt --!>
+        <!-- include prompt  -->
     {% if page.prompt %}
     <div id="prompt">
         {{ page.prompt }}
     </div>
     {% endif %}
 
-    <!-- include updates if we have them--!>
-
+    <!-- include updates if we have them -->
     {% if page.updates%}
         <div class="update-div">
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date">{{ update.date }}</span>
+                    <span class="update-date">{{ update.date | date: "%m/%y" }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
