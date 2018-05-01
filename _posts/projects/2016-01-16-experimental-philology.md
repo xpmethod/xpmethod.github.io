@@ -42,12 +42,11 @@ edit these five biographies in the original version and in translation.
 This experimental project aims to offer a digital critical edition while
 exploring effective ways to present both texts synchronically, but our main
 purpose is to create a collaborative infrastructure with a workflow based on
-sustainability, collaboration, open source, and reusability. 
+sustainability, collaboration, open source, and reusability.
 
 The prototype is still in its very beginning phase. You can find it here
-<http://susannalles.github.io/Vitae/index.html>, as well as the code source in
-GitHub:
-<https://github.com/susannalles/susannalles.github.io/tree/master/Vitae>
+<http://susannalles.com/cv>, as well as the code source in
+GitHub: <https://github.com/susannalles/susannalles.github.io>.
 
 ### The Making and Knowing Project
 
@@ -56,7 +55,7 @@ open access critical edition of an early modern "book of secrets" containing
 technical recipes and working notes. The key to this project's workflow was
 collaboration and scalability in order to integrate grad students lab notes.
 Check the details
-[here](http://xpmethod.plaintext.in/events/public-discourse/pamela-smith.html).
+[here](http://xpmethod.plaintext.in/events/knowledge-design-studio/pamela-smith.html).
 
 
 

@@ -78,11 +78,10 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 ### Schedule
 
-- [Day
-  1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)<sup>†</sup>
-- [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)<sup>†</sup>
-- [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>†</sup>
-- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>†</sup>
+- [Day 1](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-1.md)<sup>†</sup>
+- [Day 2](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-2.md)<sup>†</sup>
+- [Day 3](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-3.md)<sup>†</sup>
+- [Day 4](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-4.md)<sup>†</sup>
 
 ### Twitter
 
@@ -109,7 +108,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 - [Fortune Society](http://fortunesociety.org/) Founded in 1967, The Fortune Society’s vision is to foster a world where all who are incarcerated or formerly incarcerated will thrive as positive, contributing members of society. We do this through a holistic, one-stop model of service provision.
 - [Exodus Transitional Community](http://www.etcny.org/#programs-home) To provide supportive services to formerly incarcerated men and women in order to help them reintegrate into their communities, thereby achieving social and economic well-being and breaking the cycle of recidivism.
-- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/ourprograms/) Free training for high tech jobs in NYC. No college degree necessary.
+- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc) Free training for high tech jobs in NYC. No college degree necessary.
 
 
 ### Young People of Rikers
@@ -139,14 +138,14 @@ Jared
 
 ### Outreach
 
-- [Cameron Rasmussen](https://twitter.com/cameron_916) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
+- [Cameron Rasmussen](https://twitter.com/CamRasNYC) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
 - [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
   xpMethod)
 
 ### CU Faculty Moderators
 
 - [Manan Ahmed](https://twitter.com/sepoy), [Assistant Professor,
-  Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+  Department of History](https://history.columbia.edu/faculty/manan-ahmed/)
 - [Desmond Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant Professor of Social Work
 - [Dennis Tenen](https://twitter.com/dennistenen), [Assistant
   Professor, Department of
