@@ -37,7 +37,7 @@ url: research/
             <div id="feature">
                 <figure>
                     <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}">
+                    <img alt="" src="/public/images/{{ page.image }}" class="mw-100 fr mb4 ml4 b--solid-ns bw1 b--black-30">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
@@ -59,7 +59,7 @@ url: research/
 
     <!-- include updates if we have them -->
     {% if page.updates%}
-        <div class="update-div">
+        <div class="update-div mb2">
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">

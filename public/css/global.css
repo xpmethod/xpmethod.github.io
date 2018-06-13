@@ -57,61 +57,51 @@ img {
 strong {
   font-weight: bold; 
 }
-
+.iconsolata {
+  font-family: "Inconsolata", monospace;
+}
 /* Specific Elements */
 header {
   margin-bottom: 1em; 
 }
-  header a, header a:visited {
-    font-size: 1.4rem;
-    font-family: "Inconsolata", monospace; 
-  }
-    header a#site-title, header a:visited#site-title {
-      text-transform: none;
-      color: black;
-      font-size: 1.4rem; 
-    }
-  header > a {
-    font-family: "Inconsolata", monospace;
-    text-transform: lowercase;
-    font-size: 1.2rem; 
-  }
-    header > a.active {
-      color: #F00; 
-    }
+header a, header a:visited {
+  font-size: 1.4rem;
+  font-family: "Inconsolata", monospace; 
+}
+header a#site-title, header a:visited#site-title {
+  text-transform: none;
+  color: black;
+  font-size: 1.4rem; 
+}
+header > a {
+  font-family: "Inconsolata", monospace;
+  text-transform: lowercase;
+  font-size: 1.2rem; 
+}
+header > a.active {
+  color: #F00; 
+}
 
 .nav.active {
   color: red; 
 }
 
-#strain img, #feature img {
-  float: right;
-  margin: 0 0 1.5em 1.5em;
+#feature img,
+#strain img {
   max-width: 40%;
-  border: 2px solid #ddd; 
 }
 
-#strains {
-  margin: 0;
-  padding: 0; 
+#strains li:after {
+  content: ' \00BB '; 
 }
-  #strains li {
-    display: inline; 
-  }
-    #strains li:after {
-      content: ' \00BB '; 
-    }
-    #strains li:last-child:after {
-      content: ""; 
-    }
-    #strains li a {
-      font-family: "Inconsolata", monospace;
-      color: black; 
-    }
+#strains li:last-child:after {
+  content: ""; 
+}
+#strains li a {
+  color: black; 
+}
 
-div.update-list {
-  margin-bottom: 0.5em; 
-}
+
   div.update-list .update-link {
     color: gray; 
   }
@@ -145,17 +135,15 @@ div.update-list {
   padding: 1em 2em; 
 }
 
-div.update-list {
-  margin-bottom: 0.5em; 
+
+div.update-list .update-link {
+  color: gray; 
 }
-  div.update-list .update-link {
-    color: gray; 
-  }
-  div.update-list .update-date {
-    font-family: "Inconsolata", monospace;
-    margin-left: -3em;
-    color: lightgray; 
-  }
+div.update-list .update-date {
+  font-family: "Inconsolata", monospace;
+  margin-left: -3em;
+  color: lightgray; 
+}
 
 .people-list li {
   display: inline; 

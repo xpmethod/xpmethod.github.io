@@ -33,7 +33,7 @@ layout: default
         <div class="update-div">
             <h3>Updates</h3>
             {% for update in page.updates %}
-                <div class="update-list">
+                <div class="update-list mb2">
                     <span class="update-date">{{ update.date | date: "%m/%y"  }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
