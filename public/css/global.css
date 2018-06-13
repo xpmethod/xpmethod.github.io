@@ -2,6 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Source+Code+Pro");
 @import url("https://fonts.googleapis.com/css?family=Inconsolata");
 @import url("https://fonts.googleapis.com/css?family=Cardo");
+
 body {
   font-family: "Cardo", serif;
   max-width: 40em;
@@ -9,7 +10,6 @@ body {
   margin: 1em auto;
   line-height: 1.3; 
 }
-
 p, a, div, li {
   font-size: 18px;
   line-height: 1.3; 
@@ -20,9 +20,9 @@ a, a:visited {
   color: DarkSlateGray;
   text-decoration: none; 
 }
-  a:hover, a:visited:hover {
-    color: #1c2f2f; 
-  }
+a:hover, a:visited:hover {
+  color: #1c2f2f; 
+}
 
 ol {
   padding: 0;
@@ -57,31 +57,31 @@ img {
 strong {
   font-weight: bold; 
 }
+
+
 .iconsolata {
   font-family: "Inconsolata", monospace;
 }
+.f4 {
+  font-size: 1.4rem; 
+}
+.f3 {
+  font-size: 1.2rem; 
+}
+
+
 /* Specific Elements */
 header {
   margin-bottom: 1em; 
 }
-header a, header a:visited {
-  font-size: 1.4rem;
-  font-family: "Inconsolata", monospace; 
-}
-header a#site-title, header a:visited#site-title {
-  text-transform: none;
+
+header a#site-title, 
+header a:visited#site-title {
   color: black;
-  font-size: 1.4rem; 
-}
-header > a {
-  font-family: "Inconsolata", monospace;
-  text-transform: lowercase;
-  font-size: 1.2rem; 
 }
 header > a.active {
   color: #F00; 
 }
-
 .nav.active {
   color: red; 
 }
@@ -102,16 +102,11 @@ header > a.active {
 }
 
 
-  div.update-list .update-link {
-    color: gray; 
-  }
-  div.update-list .update-date {
-    font-family: "Inconsolata", monospace;
-    color: lightgray; 
-  }
-
-.event .date {
-  font-family: "Inconsolata", monospace; 
+div.update-list .update-link {
+  color: gray; 
+}
+div.update-list .update-date {
+  color: lightgray; 
 }
 
 #time {
@@ -148,15 +143,11 @@ div.update-list .update-date {
 .people-list li {
   display: inline; 
 }
-  .people-list li:after {
-    content: ", "; 
-  }
-  .people-list li:last-child:after {
-    content: ""; 
-  }
-
-.event .date {
-  font-family: "Inconsolata", monospace; 
+.people-list li:after {
+  content: ", "; 
+}
+.people-list li:last-child:after {
+  content: ""; 
 }
 
 #post .github-badges {
@@ -168,11 +159,11 @@ div.update-list .update-date {
   position: relative;
   overflow: hidden; 
 }
-  #gallery-box img {
-    max-width: 30%;
-    margin: .5em;
-    float: left; 
-  }
+#gallery-box img {
+  max-width: 30%;
+  margin: .5em;
+  float: left; 
+}
 
 footer {
   margin-top: 1em;
