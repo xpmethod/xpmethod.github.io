@@ -4,20 +4,16 @@ layout: default
 
 <section id="event-list">
 
-        <h1 id="event-title">{{ page.title }}
+    <h1 id="event-title">{{ page.title }}
         {% if page.type %}
-	<span class="tag">{{ page.type }}</span>
-        {% endif %}</h1>
-
-        <div id="time">
-        {% if page.hour %}
-            {{ page.hour }},
+            <span class="tag">{{ page.type }}</span>
         {% endif %}
+    </h1>
+    <div id="time">
+        {% if page.hour %}{{ page.hour }},{% endif %}
         {{ page.date | date_to_string }}
-        {% if page.location %}
-            at  {{ page.location }}
-        {% endif %}
-        </div>
+        {% if page.location %}at  {{ page.location }}{% endif %}
+    </div>
 
     <!--include participants-->
     {% if page.participants %}
@@ -28,12 +24,22 @@ layout: default
         </ul></div>
     {% endif %}
 
-    <!-- include prompt --!>
+    
     <div class="box">
-    {% if page.prompt %}
-        {{ page.prompt }}
-    {% endif %}
+    {% if page.prompt %}{{ page.prompt }}{% endif %}
     </div>
+
+    {% if page.updates%}
+        <div class="update-div">
+            <h3>Updates</h3>
+            {% for update in page.updates %}
+                <div class="update-list">
+                    <span class="update-date">{{ update.date | date: "%m/%y"  }}</span>
+                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
 
     {{ content }}
 

@@ -1,10 +1,13 @@
 ---
 layout: project
 title: Outcaste Press
-category: social-difference-mumbai
+category: knowledge-design-studio
 published: true
-image: outcaste-logo.jpg
+image:
 type: publishing
+tags:
+- Varsha Ayyar
+published: false
 ---
 
 Outcaste Press is the first international Dalit Feminist press committed to
@@ -23,6 +26,8 @@ social transformation: to educate, organize, and agitate for a more equitable
 India. To these ends we are soliciting academic monographs, collections of
 essays, fiction, non-fiction, and work in translation.
 
+<!--
+
 ## Seal
 
 The seal of Outcaste Press uses original artwork from Dr. B.R. Ambedkar’s
@@ -32,13 +37,28 @@ Besides being the chief architect of India's Constitution, Ambedkar had a
 prolific career as a publisher, working to establish the autonomous voice of
 the untouchables.
 
+-->
+
 ## People
 
 Varsha Ayyar, Founder and Editor
 
+## South Asian Advisory Board
+
+- Urmila Pawar
+- P. Sivakami
+- Usha Ambhore
+- Asha Kotwal
+- Pradnya Daya Pawar
+- Cynthia Stephens
+- Surendra Jondhale
+- Wandana SonalkarA
+
 ## International Advisory Board
 
-- Manan Ahmed
-- Tom Lutz
-- Durba Mitra
-- Dennis Yi Tenen
+- Group for Experimental Methods in the Humanities (Columbia University)
+- Wendy Doniger (University of Chicago)
+- Tom Lutz (Los Angeles Review of Books)
+- Sheldon Pollock (Columbia University)
+- Rebecca Walker (Third Wave Fund)
+

@@ -1,18 +1,24 @@
 - name: Manan Ahmed
   url: https://twitter.com/sepoy
-- name: Varsha Ayyar
-  url: http://www.tiss.edu/view/9/employee/ayyarv/
+  datestart: 2014
 - name: Alex Gil
   url: https://twitter.com/elotroalex
+  datestart: 2016
 - name: Kaiama L. Glover
   url: https://barnard.edu/profiles/kaiama-l-glover
+  datestart: 2015
 - name: Durba Mitra
   url: http://wgs.fas.harvard.edu/
+  datestart: 2014
 - name: Frances Negrón-Muntaner
   url: http://www.francesnegronmuntaner.net/
+  datestart: 2015
 - name: Dennis Tenen
   url: http://denten.plaintext.in
-- name: Grant Wythoff
-  url: https://twitter.com/gwijthoff
+  datestart: 2014
 - name: Jeremiah Christensen
-  url: http://library.columbia.edu/locations/lehman/contact/jeremiah.html
+  url: http://library.columbia.edu/services/research-data-services/staff.html
+  datestart: 2017
+- name: Tian Zheng
+  url: http://www.stat.columbia.edu/~tzheng/
+  datestart: 2018

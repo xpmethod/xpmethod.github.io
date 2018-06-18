@@ -27,45 +27,26 @@ images:
 snippet: 121
 updates:
 
-- date: 03/19
-  type: update
-  text: "Last class takes place."
-
-- date: 12/03
+- date: 2015-12-01
   type: press
-  text: "From the streets to programming tweets. [PrisonEducation.com](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
+  text: "From the streets to programming tweets. [*Prison Education*](https://web.archive.org/web/20151210114937/http://www.prisoneducation.com/prison-education-news//from-the-streets-to-programming-tweets)."
 
-- date: 11/30
+- date: 2015-11-01
   type: press
   text: "How Rikers Inmates and Columbia Students Built A Twitter Bot--With No Internet. [Fast Company](https://web.archive.org/web/20151203024210/http://www.fastcompany.com/3053907/innovation-agents/how-rikers-inmates-and-columbia-students-built-a-twitter-bot-with-no-inter), Innovation Agents."
 
-- date: 11/15
+- date: 2015-11-01
   type: update
   text: "Welcome [Desmond
 Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant
 Professor of Social Work at Columbia."
 
-- date: 10/15
+- date: 2015-10-01
   type: press
   text: "Kim Martineau [wrote about the
 project](http://datascience.columbia.edu/stories-rikers-140-characters-or-less)
 for the Data Science Institute."
 
-- date: 10/15
-  type: update
-  text: Bot launched.
-
-- date: 08/15
-  type: update
-  text: Family event for Rikers workshop participants at Rikers on Aug 10.
-
-- date: 07/15
-  type: update
-  text: Andi Dixon joins the team as community coordinator.
-
-- date: 05/15
-  type: update
-  text: Brainstorming session with Columbia's Center for Justice.
 edited:
 - by: Phillip R. Polefrone
   date: 2016-08-26
@@ -97,11 +78,10 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 ### Schedule
 
-- [Day
-  1](https://github.com/xpmethod/rikersbot/blob/master/day-1.md)<sup>†</sup>
-- [Day 2](https://github.com/xpmethod/rikersbot/blob/master/day-2.md)<sup>†</sup>
-- [Day 3](https://github.com/xpmethod/rikersbot/blob/master/day-3.md)<sup>†</sup>
-- [Day 4](https://github.com/xpmethod/rikersbot/blob/master/day-4.md)<sup>†</sup>
+- [Day 1](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-1.md)<sup>†</sup>
+- [Day 2](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-2.md)<sup>†</sup>
+- [Day 3](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-3.md)<sup>†</sup>
+- [Day 4](https://github.com/xpmethod/rikersbot/blob/2015-summer/day-4.md)<sup>†</sup>
 
 ### Twitter
 
@@ -111,9 +91,9 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 ### What It Takes
 
 - 5 X [Lenovo N21
-  Chromebook](http://www.lenovopartnernetwork.com/products/lenovo-n21)
+  Chromebook](https://www.google.com/search?q=lenovo+n21)
 - [Installing Linux on Lenovo N21
-  Chromebook](https://github.com/xpmethod/rikersbot/blob/master/chromebooksetup.md)
+  Chromebook](https://github.com/dh-notes/dhnotes/blob/master/pages/chromeos-crouton.md)
 - [Crouton](https://github.com/dnschneid/crouton) +
   [Debian](https://www.debian.org/)
 - [Python](https://www.python.org/) + [iPython
@@ -128,7 +108,7 @@ bot](https://twitter.com/rikersbot) that will tell our story.
 
 - [Fortune Society](http://fortunesociety.org/) Founded in 1967, The Fortune Society’s vision is to foster a world where all who are incarcerated or formerly incarcerated will thrive as positive, contributing members of society. We do this through a holistic, one-stop model of service provision.
 - [Exodus Transitional Community](http://www.etcny.org/#programs-home) To provide supportive services to formerly incarcerated men and women in order to help them reintegrate into their communities, thereby achieving social and economic well-being and breaking the cycle of recidivism.
-- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc/ourprograms/) Free training for high tech jobs in NYC. No college degree necessary.
+- [NYC Tech Talent Pipeline](http://www.techtalentpipeline.nyc) Free training for high tech jobs in NYC. No college degree necessary.
 
 
 ### Young People of Rikers
@@ -158,14 +138,14 @@ Jared
 
 ### Outreach
 
-- [Cameron Rasmussen](https://twitter.com/cameron_916) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
+- [Cameron Rasmussen](https://twitter.com/CamRasNYC) (Community Coordinator, [Center for Justice](http://centerforjustice.columbia.edu/))
 - [Andi Dixon](https://twitter.com/thesignalis) (Community Coordinator,
   xpMethod)
 
 ### CU Faculty Moderators
 
 - [Manan Ahmed](https://twitter.com/sepoy), [Assistant Professor,
-  Department of History](http://history.columbia.edu/faculty/Ahmed.html)
+  Department of History](https://history.columbia.edu/faculty/manan-ahmed/)
 - [Desmond Patton](http://socialwork.columbia.edu/faculty/desmond-patton), Assistant Professor of Social Work
 - [Dennis Tenen](https://twitter.com/dennistenen), [Assistant
   Professor, Department of

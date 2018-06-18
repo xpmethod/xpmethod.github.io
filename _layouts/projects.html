@@ -5,7 +5,7 @@ url: research/
 
 <div class="categories">
     {{ content }}
-
+    
     {% for post in site.categories[page.title] %}
 
         {% if post.title != null %}
@@ -21,7 +21,7 @@ url: research/
             {% endfor %}
         </div>
 
-        <div class='indent'>
+        <div>
             {{ post.content | truncatewords:275 }}
         </div>
 

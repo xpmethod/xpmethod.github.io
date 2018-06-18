@@ -1,0 +1,5 @@
+{% assign p = o | split: '@' %}
+{% assign post_index = p[1] | plus: 0 %}
+{% assign update_index = p[2] | plus: 0 %}
+{% assign post = site.posts[post_index] %}
+{% assign update = post.updates[update_index] %}

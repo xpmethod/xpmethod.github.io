@@ -18,6 +18,20 @@ url: research/
         </ul>
     {% endif %}
 
+        <!-- Include GitHub badges if the project has a GitHub repo. -->
+        {% if page.github %}
+        <ul class="github-badges">
+            <li>
+                <a href="https://github.com/{{ page.github }}/issues">
+                <img src="https://img.shields.io/github/issues/{{ page.github }}.svg?style=flat-square"/>
+                </a>
+            </li>
+            <li><img src="https://img.shields.io/github/languages/top/{{ page.github }}.svg?style=flat-square"/></li> 
+            <li><img src="https://img.shields.io/github/commit-activity/y/{{ page.github }}.svg?style=flat-square"/></li>
+        </ul>
+        <a href="https://github.com/{{ page.github }}">Go to the project's GitHub repository.</a>
+        {% endif %} 
+
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
             <div id="feature">
@@ -36,22 +50,20 @@ url: research/
         {% if page.sparkle %}
             <div id="sparkle">{% include {{ page.sparkle }} %}</div>
         {% endif %}
-
-    <!-- include prompt --!>
+        <!-- include prompt  -->
     {% if page.prompt %}
     <div id="prompt">
         {{ page.prompt }}
     </div>
     {% endif %}
 
-    <!-- include updates if we have them--!>
-
+    <!-- include updates if we have them -->
     {% if page.updates%}
         <div class="update-div">
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date">{{ update.date }}</span>
+                    <span class="update-date">{{ update.date | date: "%m/%y" }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}

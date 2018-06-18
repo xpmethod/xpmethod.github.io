@@ -14,39 +14,39 @@ image: osp.png
 issue: 15
 updates:
 
-- date: 10/16
+- date: 2016-10-01
   type: press
   text: "\"[This Meta-Search Shows What Universities Everywhere Are Teaching](https://web.archive.org/save/http://www.nature.com/news/mining-the-secrets-of-college-syllabuses-1.20905),\" *Nature*."
 
-- date: 02/16
+- date: 2016-02-01
   type: press
   text: "\"These Are the 100 Most-Read Female Writers in College Classes,\" [*Time Magazine*](http://web.archive.org/web/20160320180619/http://time.com/4234719/college-textbooks-female-writers/)."
 
-- date: 02/16
+- date: 2016-02-01
   type: press
   text: "\"[How a ‘Syllabus Commons’ Could Change Higher Education](http://web.archive.org/web/20160320183010/http://chronicle.com/article/How-a-Syllabus-Commons-/235330)\", *The Chronicle of Higher Education*."
 
-- date: 02/16
+- date: 2016-02-01
   type: press
   text: "\"[Everyone Still Reads 'To Kill A Mockingbird'](http://web.archive.org/web/20160320182627/http://fivethirtyeight.com/features/to-kill-a-mockingbird-author-harper-lee-dies/),\" *FiveThirtyEight*."
 
-- date: 01/16
+- date: 2016-01-01
   type: press
   text: "\"[This Meta-Search Shows What Universities Everywhere Are Teaching](http://bostinno.streetwise.co/2016/01/29/syllabus-search-a-metasearch-engine-for-college-courses/),\" *BostonInno*." 
 
-- date: 01/16
+- date: 2016-01-01
   type: press
   text: "\"[¿Qué libros se estudian en algunas de las mejores universidades del mundo?](http://web.archive.org/web/20160320181414/http://www.europapress.es/sociedad/noticia-libros-estudian-algunas-mejores-universidades-mundo-20160128172631.html),\" *Europa Press*."
 
-- date: 01/16
+- date: 2016-01-01
   type: press
   text: "\"[Uni-Lehrplan: Diese zehn Bücher müssen Studenten in Harvard lesen](http://web.archive.org/web/20160320181648/http://www.spiegel.de/unispiegel/studium/aristoteles-bis-marx-diese-zehn-buecher-muessen-studenten-in-harvard-lesen-a-1074279.html)\", *Spiegel Online*."
 
-- date: 01/16
+- date: 2016-01-01
   type: press
   text: "\"[What a Million Syllabuses Can Teach Us](http://web.archive.org/web/20160320182509/https://myaccount.nytimes.com/auth/login?URI=http%3A%2F%2Fwww.nytimes.com%2F2016%2F01%2F24%2Fopinion%2Fsunday%2Fwhat-a-million-syllabuses-can-teach-us.html%3F_r%3D1),\" *The New York Times*."
 
-- date: 09/14
+- date: 2014-09-01
   type: grant
   text: "The project is grateful to receive generous support from the Alfred P. Sloan Foundation."
 ---

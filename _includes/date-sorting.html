@@ -1,0 +1,21 @@
+    {% assign order = '' %}
+    {% for post in site.posts %}
+
+        {% assign post_index = forloop.index0 %}
+
+        {% for update in post.updates %}
+            {% assign update_index = forloop.index0 %}
+            {% assign date = update.date | date: '%s' | append: '@' | append: post_index | append: '@' | append: update_index %}
+            {% if order == '' %}
+                {% assign order = date %}
+            {% else %}
+                {% assign order = order | append: '|' | append: date %}
+            {% endif %}
+        {% endfor %}
+
+    {% endfor %}
+
+    {% assign order = order | split: '|' | sort  | reverse  %}
+
+
+    
