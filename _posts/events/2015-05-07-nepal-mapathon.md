@@ -33,3 +33,5 @@ Come any time during the day.
 
 Please bring your laptop. RSVP
 [led2113@columbia.edu](mailto:led2113@columbia.edu).
+
+Nepal Mappathon is an example of our *Mobilized Humanities*. MH brings together digital tools to equip broad social awareness and help in global critical situations. We mobilize humanities faculties, libraries, and students with relevant language, archival, technical and social expertise to nimbly produce curated and applied knowledge. MH sits away from state and non-governmental organizations and is scholarship in an global context.
