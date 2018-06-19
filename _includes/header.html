@@ -1,12 +1,14 @@
 <header>
-    <a id="site-title" class="ttn f4 iconsolata " href="/">Columbia's Group for Experimental Methods in the Humanities</a>
+    <a class="ttn f4 iconsolata measure-narrow" href="/">
+        Columbia's Group for Experimental Methods in the Humanities
+    </a>
 
     {% assign sorted_pages = site.pages | sort:"name" %}
     {% for node in sorted_pages %}
     {% if node.title != null %}
     {% unless node.url contains 'archive' %} 
             <!-- this matches strings in the url to node title to highlight the active page -->
-            <a class="hover-red f3 ttl pr2 nav iconsolata
+            <a class="hover-red f3 ttl pr2 nav helvetica
             {% if page.url contains node.title %} active
             {% elsif page.path contains 'projects' and  node.title == 'projects' %} active
             {% elsif page.url == '/' and node.title == 'projects' %} active
