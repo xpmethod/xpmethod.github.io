@@ -47,6 +47,7 @@ Come any time during the afternoon. This [short video](https://mapgive.state.gov
 Please bring your laptop & RSVP to agil@columbia.edu
 
 ---
+PR Mappathon is an example of our *Mobilized Humanities*. MH brings together digital tools to equip broad social awareness and help in global critical situations. We mobilize humanities faculties, libraries, and students with relevant language, archival, technical and social expertise to nimbly produce curated and applied knowledge. MH sits away from state and non-governmental organizations and is scholarship in an global context.
 
 Since we announced our event on the weekend, we have been moved to see other universities/libraries follow our lead. Added to our original event, we feel this can have a real impact on ground operations. Universities running mapathons so far:
 
