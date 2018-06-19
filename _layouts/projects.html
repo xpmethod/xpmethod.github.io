@@ -9,10 +9,18 @@ url: research/
     {% for post in site.categories[page.title] %}
 
         {% if post.title != null %}
-            <h3 class="cats">
+            <div class="dib b">
                 <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-                <div class="dib ml3"><a href="{{ BASE_PATH }}{{ post.url }}">view all &#187;</a></div>
-            </h3>
+            </div>
+            <div class="dib ml3 f6 lh-copy Courier fr">
+                ↓ select projects ※
+                <a class="f6" "href="{{ BASE_PATH }}{{ post.url }}">
+                    view all →
+                </a>
+            </div>
+
+            <div class="ml3 f5 lh-copy">
+            </div>
         {% endif %}
 
         <!-- list all projects as a strain in subscript -->
