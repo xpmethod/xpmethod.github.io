@@ -4,7 +4,7 @@ title: "Shape of Time"
 tags:
 - Sierra Eckert
 - Allison Chaney
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 type: visualization
 published: true
 snippet: 102

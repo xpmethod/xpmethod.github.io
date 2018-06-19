@@ -1,7 +1,7 @@
 ---
 layout: project
 title: An Inquiry into the Creative Limits of Artificial Intelligence
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 type: book
 tags:
 - Dennis Yi Tenen
