@@ -24,7 +24,9 @@ right to be forgotten). Our proximity to the worlds of journalism, library
 science, and publishing gives us an opportunity to affect meaningful change in
 redressing inequalities of access, to envision the **future of books and
 literacy**, and to experiment with new modalities of human--computer
-interaction. Moderated by [Alex Gil][ag], Butler Library (Columbia University).
+interaction. Moderated by [Alex Gil][ag] and [Jeremiah Christensen][jc], Butler
+Library (Columbia University).
 
 [ag]: http://www.elotroalex.com/profile/
+[jc]: https://library.columbia.edu/services/research-data-services/staff.html
 
