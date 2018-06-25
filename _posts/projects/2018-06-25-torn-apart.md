@@ -22,8 +22,8 @@ updates:
 
 - date: 2018-06-25
   type: press
-  text: "\" ['ICE IS EVERYWHERE': USING LIBRARY SCIENCE TO MAP THE SEPARATION CRISIS](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
-in *WIRED* by Emily Dreyfuss"
+  text: "\"['ICE IS EVERYWHERE': USING LIBRARY SCIENCE TO MAP THE SEPARATION CRISIS](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
+in *WIRED* by Emily Dreyfuss."
 
 
 <http://xpmethod.plaintext.in/torn-apart/>
