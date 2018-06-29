@@ -13,17 +13,22 @@ tags:
 - Merisa Martinez
 - Linda Rodriguez
 updates:
+
+- date: 2018-06-25
+  type: press
+  text: "\"[Ice Is Everywhere: Using Library Science to Map the Separation
+Crisis](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
+in *WIRED* by Emily Dreyfuss."
+
+- date: 2018-08-27
+  type: press
+  text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](https://web.archive.org/web/20180629161007/https://elperiodico.com.gt/mundo/2018/06/27/donde-estan-los-ninos-un-mapa-de-la-separacion-de-familias-migrantes/) in *El Periódico* by Sylvia Fernández."
+
 github: xpmethod/torn-apart
 image: torn-apart.jpg
 type: map
 ---
 
-updates:
-
-- date: 2018-06-25
-  type: press
-  text: "\"['ICE IS EVERYWHERE': USING LIBRARY SCIENCE TO MAP THE SEPARATION CRISIS](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
-in *WIRED* by Emily Dreyfuss."
 
 
 <http://xpmethod.plaintext.in/torn-apart/>
