@@ -20,16 +20,18 @@ updates:
 Crisis](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
 in *WIRED* by Emily Dreyfuss."
 
-- date: 2018-08-27
+- date: 2018-06-27
   type: press
   text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](https://web.archive.org/web/20180629161007/https://elperiodico.com.gt/mundo/2018/06/27/donde-estan-los-ninos-un-mapa-de-la-separacion-de-familias-migrantes/) in *El Periódico* by Sylvia Fernández."
+
+- date: 2018-07-03
+  type: press
+  text: "\"[A shocking map of America’s vast \'immigrant detention machine\'](https://perma.cc/3TFX-6X8D),\" in *CO.DESIGN* by Katharine Schwab."
 
 github: xpmethod/torn-apart
 image: torn-apart.jpg
 type: map
 ---
-
-
 
 <http://xpmethod.plaintext.in/torn-apart/>
 
