@@ -31,6 +31,10 @@ in *WIRED* by Emily Dreyfuss."
 - date: 2018-07-03
   type: press
   text: "\"[Torn Apart:Mapping the Geography of US Immigration Policy\'](feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
+  
+- date: 2018-07-09
+  type: press
+  text: "\"[Digital Humanities for Social Good\'](https://www.insidehighered.com/news/2018/07/09/when-digital-humanities-meets-activism),\" in *Inside Higher Education* by Lindsay McKenzie."
 
 github: xpmethod/torn-apart
 image: torn-apart.jpg
