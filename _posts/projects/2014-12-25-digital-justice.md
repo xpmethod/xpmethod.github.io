@@ -8,6 +8,7 @@ published: true
 updates:
 tags:
 - Manan Ahmed
+- Christina P. Davis
 - Marcell Mars
 - Tomislav Medak
 - Durba Mitra
