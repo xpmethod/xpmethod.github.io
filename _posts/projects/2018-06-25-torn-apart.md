@@ -16,13 +16,15 @@ updates:
 
 - date: 2018-06-25
   type: press
-  text: "\"[Ice Is Everywhere: Using Library Science to Map the Separation
-Crisis](https://web.archive.org/web/20180625200248/https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\"
-in *WIRED* by Emily Dreyfuss."
+  text: "\"[Ice Is Everywhere: Using Library Science to Map the Separation Crisis](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),\" in *WIRED* by Emily Dreyfuss."
+
+- date: 2018-06-26
+  type: press
+  text: "\"[Editors’ Choice: Torn Apart/Separados](http://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/),\" in *Digital Humanities Now* by Editors At-Large.
 
 - date: 2018-06-27
   type: press
-  text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](https://web.archive.org/web/20180629161007/https://elperiodico.com.gt/mundo/2018/06/27/donde-estan-los-ninos-un-mapa-de-la-separacion-de-familias-migrantes/) in *El Periódico* by Sylvia Fernández."
+  text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](https://elperiodico.com.gt/mundo/2018/06/27/donde-estan-los-ninos-un-mapa-de-la-separacion-de-familias-migrantes/) in *El Periódico* by Sylvia Fernández."
 
 - date: 2018-07-03
   type: press
@@ -30,11 +32,35 @@ in *WIRED* by Emily Dreyfuss."
  
 - date: 2018-07-03
   type: press
-  text: "\"[Torn Apart:Mapping the Geography of US Immigration Policy\'](feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
+  text: "\"[Torn Apart:Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
+
+- date: 2018-07-09
+  type: press
+  text: "\"[TL;DR: Tools for covering ICE\"](https://www.cjr.org/tow_center/tldr-ice-crushers.php) in *Columbia Journalism Review* by Sam Thielman."
   
 - date: 2018-07-09
   type: press
   text: "\"[Digital Humanities for Social Good\'](https://www.insidehighered.com/news/2018/07/09/when-digital-humanities-meets-activism),\" in *Inside Higher Education* by Lindsay McKenzie."
+
+- date: 2018-07-13
+  type: press
+  text: "\"[Salem State professor helps create immigrant detention map](http://www.salemnews.com/news/local_news/salem-state-professor-helps-create-immigrant-detention-map/article_c24baed6-b0d8-59fb-9c38-386b09824616.html),\" in *The Salem News* by Dustin Luca (picked up by AP)."
+
+- date: 2018-07-13
+  type: press
+  text: "\"[Fronteras: Digitally Mapping Trump Administration's 'Zero Tolerance' Policy](http://www.tpr.org/post/fronteras-digitally-mapping-trump-administrations-zero-tolerance-policy),\" in *All Things Considered* by Norma Martinez."
+
+- date: 2018-07-16
+  type: press
+  text: "\"[La lucha por encontrar a los niños migrantes arrebatados a sus padres](http://www.jornada.com.mx/sin-fronteras/2018/06/26/la-lucha-por-encontrar-a-los-ninos-migrantes-arrebatados-a-sus-padres-2993.html),\" in *La Jornada* by Redacción Sin Fronteras."
+
+- date: 2018-08-01
+  type: press
+  text: "\"[News Focus 1 with Roopika Risam : "Torn Apart/Separados" mapping project for Separated families](https://player.fm/series/tbs-efm-this-morning-1273459/ep-0801-news-focus-1-with-roopika-risam-torn-apartseparados-mapping-project-for-separated-families),\" in *This Morning* by Alex Jensenn."
+
+- date: 2018-08-03
+  type: press
+  text: "\"[Digital Humanities Project Visualizes the Impact of Family Separations](https://www.libraryjournal.com/?detailStory=180803-Digital-Humanities-Project-Visualizes-the-Impact-of-Family-Separations),\" in *Library Journal* by Lisa Peet."
 
 github: xpmethod/torn-apart
 image: torn-apart.jpg
@@ -78,4 +104,4 @@ thus combine these sets of data. We are extremely grateful to ILRC and NIJC
 for making the ICE data publicly available. Our full sources of data are in
 the bibliography.
 
-[1]: https://web.archive.org/web/20180625162207/https://immigrantjustice.org/staff/blog/ice-released-its-most-comprehensive-immigration-detention-data-yet
+[1]: https://immigrantjustice.org/staff/blog/ice-released-its-most-comprehensive-immigration-detention-data-yet
