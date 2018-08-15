@@ -12,6 +12,7 @@ tags:
 - Roopika Risam
 - Merisa Martinez
 - Linda Rodriguez
+- Rachel Hendery
 updates:
 
 - date: 2018-06-25
@@ -20,7 +21,7 @@ updates:
 
 - date: 2018-06-26
   type: press
-  text: "\"[Editors’ Choice: Torn Apart/Separados](http://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/),\" in *Digital Humanities Now* by Editors At-Large.
+  text: "[Editors' Choice: Torn Apart/Separados](http://digitalhumanitiesnow.org/2018/06/editors-choice-torn-apart-separados/) in *Digital Humanities Now* by Editors At-Large."
 
 - date: 2018-06-27
   type: press
@@ -32,7 +33,7 @@ updates:
  
 - date: 2018-07-03
   type: press
-  text: "\"[Torn Apart:Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
+  text: "\"[Torn Apart: Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
 
 - date: 2018-07-09
   type: press
@@ -54,9 +55,9 @@ updates:
   type: press
   text: "\"[La lucha por encontrar a los niños migrantes arrebatados a sus padres](http://www.jornada.com.mx/sin-fronteras/2018/06/26/la-lucha-por-encontrar-a-los-ninos-migrantes-arrebatados-a-sus-padres-2993.html),\" in *La Jornada* by Redacción Sin Fronteras."
 
-- date: 2018-08-01
+- date: 2018-08-02
   type: press
-  text: "\"[News Focus 1 with Roopika Risam : "Torn Apart/Separados" mapping project for Separated families](https://player.fm/series/tbs-efm-this-morning-1273459/ep-0801-news-focus-1-with-roopika-risam-torn-apartseparados-mapping-project-for-separated-families),\" in *This Morning* by Alex Jensenn."
+  text: "\"[News Focus 1 with Roopika Risam: \"Torn Apart/Separados\" mapping project for Separated families](https://player.fm/series/tbs-efm-this-morning-1273459/ep-0801-news-focus-1-with-roopika-risam-torn-apartseparados-mapping-project-for-separated-families),\" in *This Morning* by Alex Jensenn."
 
 - date: 2018-08-03
   type: press
@@ -69,39 +70,16 @@ type: map
 
 <http://xpmethod.plaintext.in/torn-apart/>
 
-In response to the United States government's new policy to officially
-separate families at the border, we are designing an interactive map locating
-detention centers, border cross-points where arrests are happening and allied
-centers. We hope this map can be useful to activists, immigration workers, and
-other allies. In addition we hope the map can help inform parts of the general
-public and help us remain focused on these separations until we stop the US
-government from perpetrating these horrors on families.
+In response to the United States government's new policy to officially separate families at the border, we are designing an interactive map locating detention centers, border cross-points where arrests are happening and allied centers. We hope this map can be useful to activists, immigration workers, and other allies. In addition we hope the map can help inform parts of the general public and help us remain focused on these separations until we stop the US government from perpetrating these horrors on families.
 
-Torn Apart is part of our Mobilized Humanities interventions. MH brings
-together digital tools to equip broad social awareness and help in global
-critical situations. We mobilize humanities faculties, libraries, and students
-with relevant language, archival, technical, and social expertise to nimbly
-produce curated and applied knowledge. MH sits away from state and
-non-governmental organizations and is scholarly activism in a global context.
+Torn Apart is part of our Mobilized Humanities interventions. MH brings together digital tools to equip broad social awareness and help in global critical situations. We mobilize humanities faculties, libraries, and students with relevant language, archival, technical, and social expertise to nimbly produce curated and applied knowledge. MH sits away from state and non-governmental organizations and is scholarly activism in a global context.
 
-Torn Part is a rapidly deployed critical data & visualization intervention in
-the USA’s 2018 “Zero Tolerance Policy” for asylum seekers at the US Ports of
-Entry and the humanitarian crisis that has followed.
+Torn Part is a rapidly deployed critical data & visualization intervention in the USA’s 2018 “Zero Tolerance Policy” for asylum seekers at the US Ports of Entry and the humanitarian crisis that has followed.
 
 \#Separados \#TornApart
 
 ## Data
 
-We began with ICE/CBP websites and got the public geo-data that they serve. We
-then began looking into business records, federal records, and news records
-culling data about locations used by federal, state, and private for-profit
-agencies. Simultaneously, we were assembling data about “Allies”– those
-working to resist, assist, or alleviate this crisis. However, our largest data
-tranche came via our discovery of the “[November 2017 ICE Detention Facility
-Lists][1]” , which exists because of the FOIA efforts of the Immigrant Legal
-Resource Center and the National Immigrant Justice Center. Our visualizations
-thus combine these sets of data. We are extremely grateful to ILRC and NIJC
-for making the ICE data publicly available. Our full sources of data are in
-the bibliography.
+We began with ICE/CBP websites and got the public geo-data that they serve. We then began looking into business records, federal records, and news records culling data about locations used by federal, state, and private for-profit agencies. Simultaneously, we were assembling data about “Allies”– those working to resist, assist, or alleviate this crisis. However, our largest data tranche came via our discovery of the “[November 2017 ICE Detention Facility Lists][1]” , which exists because of the FOIA efforts of the Immigrant Legal Resource Center and the National Immigrant Justice Center. Our visualizations thus combine these sets of data. We are extremely grateful to ILRC and NIJC for making the ICE data publicly available. Our full sources of data are in the bibliography.
 
 [1]: https://immigrantjustice.org/staff/blog/ice-released-its-most-comprehensive-immigration-detention-data-yet
