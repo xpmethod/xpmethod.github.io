@@ -67,7 +67,7 @@ updates:
   text: "\"[Un portal explora con cifras el drama y lucro de la inmigración en el país](https://www.efe.com/efe/america/sociedad/un-portal-explora-con-cifras-el-drama-y-lucro-de-la-inmigracion-en-pais/20000013-3761457#),\" in *Library Journal* by Lisa Peet."
   
 - date: 2018-10-04
-  type: award
+  type: grants-and-awards
   text: "\"[APDU Vizualization of the Week](http://apdu.org/),\" in *APDU Weekly* - October 4, 2018."
 
 github: xpmethod/torn-apart
