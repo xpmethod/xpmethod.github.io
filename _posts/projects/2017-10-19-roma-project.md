@@ -9,8 +9,8 @@ tags:
 updates:
 ---
 
-*The Roma People’s Project* is [a start-up
-initiative](http://centerforjustice.columbia.edu/roma-digital-archive/) which
+*The Roma People’s Project* is a start-up
+initiative which
 aims to address misconceptions as well as foster research and public education
 about the Roma people and culture. At core of our project is the Roma Digital
 Archive--a platform that identifies, examines, and curates material about how
@@ -30,8 +30,8 @@ groups--ethnic or otherwise--to discuss their shared challenges and explore
 how their identities enrich themselves and their societies.
 
 The Roma People's Project at Columbia University launches on November 14th,
-2017 in partnership with Center for Justice at Columbia University, [Heyman
+2017 in partnership with Center for Justice at Columbia University, Heyman
 Center for
-Humanities](http://heymancenter.org/events/the-roma-peoples-project-launch-and-discussion/),
+Humanities,
 Columbia University Libraries Digital Scholarship and Columbia's Group for
 Experimental Methods in the Humanities.
