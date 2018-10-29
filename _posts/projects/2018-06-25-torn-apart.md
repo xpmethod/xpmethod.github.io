@@ -24,7 +24,7 @@ updates:
 
 - date: 2018-06-27
   type: press
-  text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](https://elperiodico.com.gt/mundo/2018/06/27/donde-estan-los-ninos-un-mapa-de-la-separacion-de-familias-migrantes/) in *El Periódico* by Sylvia Fernández."
+  text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](http://www.eluniversal.com.mx/mundo/mapa-en-donde-estan-los-ninos-migrantes-separados-de-sus-familias) in *El Periódico* by Sylvia Fernández."
 
 - date: 2018-07-03
   type: press
