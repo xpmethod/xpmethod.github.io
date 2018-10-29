@@ -21,16 +21,32 @@ url: research/
         <!-- Include GitHub badges if the project has a GitHub repo. -->
         {% if page.github %}
         <ul class="github-badges">
+
+
             <li>
-                <a href="https://github.com/{{ page.github }}/issues">
-                <img src="https://img.shields.io/github/issues/{{ page.github }}.svg?style=flat-square"/>
-                </a>
+
+                <a class="github-button"
+                    href="https://github.com/{{ page.github }}/subscription"
+                    aria-label="Watch {{ page.github }} on GitHub">Watch</a>
+
+                <a class="github-button"
+                    href="https://github.com/{{ page.github }}/issues"
+                    data-icon="octicon-issue-opened"
+                    aria-label="Issue {{ page.github }} on GitHub">Issue</a>
+
+                <a class="github-button"
+                    href="https://github.com/{{ page.github }}/fork"
+                    data-icon="octicon-repo-forked"
+                    aria-label="Fork {{ page.github }} on GitHub">Fork</a>
+
+            <img src="https://img.shields.io/github/languages/top/{{
+            page.github }}.svg?style=flat-square"/>
+
             </li>
-            <li><img src="https://img.shields.io/github/languages/top/{{ page.github }}.svg?style=flat-square"/></li> 
-            <li><img src="https://img.shields.io/github/commit-activity/y/{{ page.github }}.svg?style=flat-square"/></li>
+
         </ul>
-        <a href="https://github.com/{{ page.github }}">Go to the project's GitHub repository.</a>
-        {% endif %} 
+        {% endif %}
+
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
@@ -74,11 +90,11 @@ url: research/
 
     <!-- image gallery support -->
         {% if page.images %}
-	<div id='gallery-box'>
-		{% for image in page.images %}
-		<a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
-		{% endfor %}
-	</div>
+    <div id='gallery-box'>
+        {% for image in page.images %}
+        <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
+        {% endfor %}
+    </div>
         {% endif %}
 
 </div>
