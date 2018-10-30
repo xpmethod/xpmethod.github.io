@@ -24,10 +24,12 @@ layout: default
         </ul></div>
     {% endif %}
 
-    
-    <div class="box">
-    {% if page.prompt %}{{ page.prompt }}{% endif %}
-    </div>
+
+    {% if page.prompt %}
+        <div class="box">
+            {{ page.prompt }}
+        </div>
+    {% endif %}
 
     {% if page.updates%}
         <div class="update-div">
