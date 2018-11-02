@@ -45,10 +45,6 @@ h1 a, h2 a {
   color: black; 
 }
 
-h1#event-title {
-  margin-bottom: .3em; 
-}
-
 img {
   /* Don't allow images to overflow. */
   max-width: 100%; 
@@ -62,10 +58,11 @@ strong {
 .iconsolata {
   font-family: "Inconsolata", monospace;
 }
-.f4 {
+
+.f3 {
   font-size: 1.4rem; 
 }
-.f3 {
+.f5 {
   font-size: 1.2rem; 
 }
 
@@ -111,16 +108,11 @@ div.update-list .update-date {
 
 #time {
   color: gray;
-  margin-bottom: 1em; 
 }
 
 .tag {
-  font-family: "Inconsolata", monospace;
-  font-size: 0.9rem;
   background-color: #EEF;
   padding: 0.1em 0.2em;
-  border: 1px solid lightgray;
-  vertical-align: top; 
 }
 
 .box {

@@ -10,7 +10,7 @@ layout: default
     <section class="event">
         {% for post in site.categories['events'] %}
             {% if post.title != null %}
-	    <span class="date inconsolata">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
+	    <span class="date iconsolata">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
                 {% if post.type %}
 		<span class="tag">{{ post.type }}</span>
                 {% endif %}
