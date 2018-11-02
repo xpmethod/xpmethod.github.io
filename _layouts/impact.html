@@ -4,6 +4,7 @@ layout: default
 
 <div class="nav secondary" id="publications">
     <a href="#publications" class="nav active">publications</a> |
+    <a href="#talks">talks</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press">press</a> |
     <a href="#jobs">placements</a>
@@ -29,8 +30,38 @@ layout: default
 </div>
 
 </br>
+<div class="nav secondary" id="talks">
+    <a href="#publications">publications</a> |
+    <a href="#talks" class="nav active">talks</a> |
+    <a href="#grants">grants-and-awards</a> |
+    <a href="#press">press</a> |
+    <a href="#jobs">placements</a>
+    <hr>
+</div>
+<small>Talks, lectures, and workshops related to our projects.</br></br></small>
+
+<div class="update-div">
+    {% include date-sorting.html %}
+    {% for o in order %}
+        {% include date-split.html %}
+        {% if update.type contains 'talk' or update.type contains 'lecture' or update.type contains 'workshop'%}
+        <div class="update-list">
+            <div class="update-date">
+                {{ update.date | date: "%m/%y" }}
+                <a class="update-link" href="{{ post.url }}">
+                    {{ post.title | downcase }}
+                </a>
+            </div>
+            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+        </div>
+        {% endif %}
+    {% endfor %}
+</div>
+
+</br>
 <div class="nav secondary" id="grants">
     <a href="#publications">publications</a> |
+    <a href="#talks">talks</a> |
     <a href="#grants" class="nav active">grants-and-awards</a> |
     <a href="#press">press</a> |
     <a href="#jobs">placements</a>
@@ -59,6 +90,7 @@ layout: default
 </br>
 <div class="nav secondary" id="press">
     <a href="#publications">publications</a> |
+    <a href="#talks">talks</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press" class="nav active">press</a> |
     <a href="#jobs">placements</a>
@@ -87,6 +119,7 @@ layout: default
 </br>
 <div class="nav secondary" id="jobs">
     <a href="#publications">publications</a> |
+    <a href="#talks">talks</a> |
     <a href="#grants">grants-and-awards</a> |
     <a href="#press">press</a> |
     <a href="#jobs" class="nav active">placements</a>

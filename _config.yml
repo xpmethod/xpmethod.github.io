@@ -15,4 +15,4 @@ exclude: ['vendor', 'doc', 'README.md']
 
 # enable redirects
 plugins:
-    - jekyll-redirect-from
+    #    - jekyll-redirect-from

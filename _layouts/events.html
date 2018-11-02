@@ -10,9 +10,9 @@ layout: default
     <section class="event">
         {% for post in site.categories['events'] %}
             {% if post.title != null %}
-	    <span class="date iconsolata">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
+        <span class="code f5">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
                 {% if post.type %}
-		<span class="tag">{{ post.type }}</span>
+        <span class="tag">{{ post.type }}</span>
                 {% endif %}
             {% endif %}
             <div>{{ post.prompt }}</div>

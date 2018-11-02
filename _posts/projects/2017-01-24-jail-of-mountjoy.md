@@ -3,7 +3,7 @@ layout: project
 title: "Jail of Mountjoy"
 tags: 
 - Casey Michael Henry
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 type: graphic
 snippet: 350
 image: jail.png

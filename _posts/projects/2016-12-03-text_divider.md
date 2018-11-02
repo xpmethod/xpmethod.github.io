@@ -3,7 +3,7 @@ layout: project
 title: "Text Divider: Quick Markup for Chapter and Dialogue Splitting"
 tags: 
  - Moacir P. de Sá Pereira
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 type: markup
 image: url-alice.png
 snippet: 89
