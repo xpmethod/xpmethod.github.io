@@ -19,14 +19,14 @@ layout: default
     {% if page.participants %}
         <div id="participants"><ul class="people-list">
             {% for participant in page.participants %}
-                <li>{{ participant }}</li>
+                <li class="di">{{ participant }}</li>
             {% endfor %}
         </ul></div>
     {% endif %}
 
 
     {% if page.prompt %}
-        <div class="box">
+        <div class="box pv3 ph4">
             {{ page.prompt }}
         </div>
     {% endif %}
@@ -47,10 +47,10 @@ layout: default
 
 <!-- image gallery support -->
 {% if page.images %}
-    <div id="gallery-box">
+    <div id="gallery-box" class="ml-auto mr-auto relative overflow-hidden">
     {% for image in page.images %}
         <a href="{{ site.url }}/public/images/{{ image }}">
-        <img alt="" src="{{ site.url }}/public/images/{{ image }}"></a>
+        <img alt="" src="{{ site.url }}/public/images/{{ image }}" class="mw5 ma2 fl"></a>
     {% endfor %}
     </div>
 {% endif %}

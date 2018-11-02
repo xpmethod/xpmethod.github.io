@@ -68,9 +68,6 @@ strong {
 
 
 /* Specific Elements */
-header {
-  margin-bottom: 1em; 
-}
 
 header a#site-title, 
 header a:visited#site-title {
@@ -81,11 +78,6 @@ header > a.active {
 }
 .nav.active {
   color: red; 
-}
-
-#feature img,
-#strain img {
-  max-width: 40%;
 }
 
 #strains li:after {
@@ -112,14 +104,11 @@ div.update-list .update-date {
 
 .tag {
   background-color: #EEF;
-  padding: 0.1em 0.2em;
 }
 
 .box {
   background-color: #FFFFCC;
-  margin: 2em 0;
   margin: .5em -2em;
-  padding: 1em 2em; 
 }
 
 
@@ -127,14 +116,10 @@ div.update-list .update-link {
   color: gray; 
 }
 div.update-list .update-date {
-  font-family: "Inconsolata", monospace;
   margin-left: -3em;
   color: lightgray; 
 }
 
-.people-list li {
-  display: inline; 
-}
 .people-list li:after {
   content: ", "; 
 }
@@ -142,26 +127,10 @@ div.update-list .update-date {
   content: ""; 
 }
 
-#post .github-badges {
-  list-style: none;
-}
-#gallery-box {
-  margin-left: auto;
-  margin-right: auto;
-  position: relative;
-  overflow: hidden; 
-}
 #gallery-box img {
   max-width: 30%;
-  margin: .5em;
-  float: left; 
 }
 
 footer {
-  margin-top: 1em;
-  padding-top: 1em;
-  font-family: "Inconsolata", monospace;
   border-top: 5px solid #eee;
-  font-size: 18px;
-  line-height: 1; 
 }

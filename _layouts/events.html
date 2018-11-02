@@ -12,7 +12,7 @@ layout: default
             {% if post.title != null %}
         <span class="code f5">{{ post.date | date_to_string }} <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></span>
                 {% if post.type %}
-        <span class="tag">{{ post.type }}</span>
+        <span class="tag pv0 ph1">{{ post.type }}</span>
                 {% endif %}
             {% endif %}
             <div>{{ post.prompt }}</div>
