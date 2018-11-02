@@ -12,7 +12,7 @@ circumstances that are always indeterminate and subjective. In both spaces,
 thought is secreted in practice, "on the fetid and throbbing ground of
 life."[^1]
 
-The Columbia group for experimental methods in the humanities is dedicated to
+The Group for Experimental Methods in Humanistic Research is dedicated to
 the **rapid prototyping of speculative ideas**. To this end, we collect,
 curate, and publish intermediary artifacts of scholarship: drafts, notes,
 graphics, twitter bots, web-protocols, "situations," tools, and tutorials that

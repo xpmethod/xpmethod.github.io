@@ -3,7 +3,7 @@ layout: project
 title: "Macro-Etymological Textual Analysis"
 tags: 
  - Jonathan Reeve
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 published: true
 snippet: 82
 updates:

@@ -3,7 +3,7 @@ layout: project
 title: "Semantic Analysis of One Million &#35;GamerGate Tweets"
 tags:
 - Phillip R. Polefrone
-category: literary-modeling-and-visualization-lab
+category: lit-mod-viz
 type: semantic analysis
 snippet: 150
 published: true
@@ -33,5 +33,5 @@ methodology could be used to detect conversational trends on social media
 platforms more easily and with less human labor than other similar methods.
 
 The full working paper can be found [on my
-website](https://prpole.github.io/semantic-analysis-of-one-million-gamergate-tweets/).
+website](https://sipa.columbia.edu/sites/default/files/14-Polefrone_GamerGate.pdf).
 

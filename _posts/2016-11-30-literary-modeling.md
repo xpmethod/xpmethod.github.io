@@ -1,19 +1,16 @@
 ---
 layout: strain
-title: literary-modeling-and-visualization-lab
+title: lit-mod-viz
 category: projects
 ---
 
 <!-- A 75-100 word paragraph describing the motivation behind these projects -->
 
-We are a group of literary scholars, sociologists of knowledge, and
-information designers interested in experimenting with distant reading,
-lateral reading, cultural analytics, digital philology, micro- and
-macro-analysis, and textual trans-mediation. We believe that the humanities
-are not just a set of values or theories, they offer a way of enacting change
-in the world: from the creation of taxonomies, to knowledge design, material
-history, and large-scale text analysis. This research cluster therefore
-showcases **new research methods**, which complement traditional practices of
-deep thought and contextual reflection with a robust sense of making and
-doing.
+*Literary Modeling and Visualization Lab* is a research cluster located at the
+nexus of narratology, data science, and sociology of literature. We are
+particularly interested in advancing formal and exploratory methods for
+**computational literary analysis** in dialog with the rich theoretical
+traditions of the humanities. Moderated by [Dennis Yi Tenen][dt], Department
+of English and Comparative Literature (Columbia University).
 
+[dt]: http://denten.plaintext.in/

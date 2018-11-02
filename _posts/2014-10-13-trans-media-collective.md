@@ -15,4 +15,7 @@ media 'archaeology.' Archaeology, in its literal sense, reveals **platforms
 and infrastructures** that support cultural practice. To recover the object in
 its critical-theoretical figuration is to encounter it also as an **epistemic
 thing** and to recreate, experimentally, devices and techniques that brought
-it into existence.
+it into existence. Moderated by Professor [Durba Mitra][db], Studies of Women,
+Gender, and Sexuality (Harvard).
+
+[db]: https://wgs.fas.harvard.edu/people/durba-mitra
