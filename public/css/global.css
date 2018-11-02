@@ -62,12 +62,12 @@ strong {
 .f3 {
   font-size: 1.4rem; 
 }
-.f5 {
-  font-size: 1.2rem; 
+
+.mb4 {
+  margin-bottom: 1.8rem;
 }
 
 
-/* Specific Elements */
 
 header a#site-title, 
 header a:visited#site-title {
@@ -104,6 +104,8 @@ div.update-list .update-date {
 
 .tag {
   background-color: #EEF;
+  border: 1px solid lightgray;
+  padding: 0.1em 0.2em;
 }
 
 .box {

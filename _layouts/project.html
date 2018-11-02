@@ -6,14 +6,14 @@ url: research/
 <div id="post">
     <h2>{{ page.title }}
     {% if page.type %}
-    <span class="tag pv0 ph1">{{ page.type }}</span>
+    <span class="tag iconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
     {% endif %}</h2>
 
     <!-- remember tags are people -->
     {% if page.tags %}
         <ul class="people-list">
         {% for person in page.tags %}
-            <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
+            <li class="di">{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}
