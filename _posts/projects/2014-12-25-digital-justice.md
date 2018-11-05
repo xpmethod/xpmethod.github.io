@@ -1,30 +1,34 @@
 ---
 layout: project
-title: "Knowledge Architectures"
+title: "Architectures of Knowledge"
 tags:
 category: knowledge-design-studio
 type: workshop
 published: true
 updates:
 tags:
-- Manan Ahmed
-- Christina P. Davis
-- Marcell Mars
-- Tomislav Medak
-- Durba Mitra
-- Dennis Yi Tenen
+- Manan Ahmed (Columbia)
+- Christina P. Davis (Western Illinois)
+- Marcell Mars (Coventry)
+- Tomislav Medak (Coventry)
+- Durba Mitra (Harvard)
+- Joshua Neves (Concordia)
+- Dennis Yi Tenen (Columbia)
 
 ---
 
 ### Schedule
 
-- [Knowledge Architectures:
+- [Architectures of Knowledge:
 Mumbai](http://xpmethod.plaintext.in/events/dissent.html), 4 July 2016.
 
-- [Knowledge Architectures:
+- [Architectures of Knowledge:
 Lahore](http://xpmethod.plaintext.in/events/lahore.html), 12-14 March 2018.
 
-- Architectures of Knowledge: Kyiv, Spring 2019.
+- Architectures of Knowledge: Santo Domingo, Spring 2019.
+
+- Architectures of Knowledge: Kyiv, Spring 2020.
+
 
 ### About
 
