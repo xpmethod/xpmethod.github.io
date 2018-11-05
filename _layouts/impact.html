@@ -19,7 +19,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
         <div class="update-list mb2">
-            <div class="update-date inconsolata">{{ update.date | date: "%m/%y" }}
+            <div class="update-date iconsolata">{{ update.date | date: "%m/%y" }}
             <a class="update-link gray" href="{{ post.url }}">
                 {{ post.title | downcase }}</a>
             </div>
@@ -46,7 +46,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'lecture' or update.type contains 'workshop'%}
         <div class="update-list">
-            <div class="update-date">
+            <div class="update-date iconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -75,7 +75,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'grant' or update.type contains 'award' %}
         <div class="update-list mb2">
-            <div class="update-date inconsolata">
+            <div class="update-date iconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link gray" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -104,7 +104,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'press' %}
         <div class="update-list mb2">
-            <div class="update-date inconsolata">
+            <div class="update-date iconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link gray" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -132,7 +132,7 @@ layout: default
 <div class="update-div">
     {% for job in site.data.jobs %}
         <div class="update-list mb2">
-            <div class="update-date inconsolata">
+            <div class="update-date iconsolata">
                 {{ job.date }}
                 <a class="update-link gray" href="{{ post.url }}">
                     Experimental Methods Group

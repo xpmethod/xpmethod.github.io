@@ -6,21 +6,21 @@ url: research/
 <div id="post">
     <h2>{{ page.title }}
     {% if page.type %}
-    <span class="tag">{{ page.type }}</span>
+    <span class="tag iconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
     {% endif %}</h2>
 
     <!-- remember tags are people -->
     {% if page.tags %}
         <ul class="people-list">
         {% for person in page.tags %}
-            <li>{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
+            <li class="di">{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}
 
         <!-- Include GitHub badges if the project has a GitHub repo. -->
         {% if page.github %}
-        <ul class="github-badges">
+        <ul class="github-badges list">
 
 
             <li>
@@ -50,10 +50,10 @@ url: research/
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
-            <div id="feature">
+            <div>
                 <figure>
                     <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}" class="mw-100 fr mb4 ml4 b--solid-ns bw1 b--black-30">
+                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4 b--solid-ns bw1 b--black-30">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
@@ -79,7 +79,7 @@ url: research/
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y" }}</span>
+                    <span class="update-date iconsolata">{{ update.date | date: "%m/%y" }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
