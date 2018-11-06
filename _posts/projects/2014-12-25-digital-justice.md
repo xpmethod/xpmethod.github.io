@@ -7,13 +7,13 @@ type: workshop
 published: true
 updates:
 tags:
-- Manan Ahmed (Columbia)
-- Christina P. Davis (Western Illinois)
-- Marcell Mars (Coventry)
-- Tomislav Medak (Coventry)
-- Durba Mitra (Harvard)
-- Joshua Neves (Concordia)
-- Dennis Yi Tenen (Columbia)
+- Manan Ahmed
+- Christina P. Davis
+- Marcell Mars
+- Tomislav Medak
+- Durba Mitra
+- Joshua Neves
+- Dennis Yi Tenen
 
 ---
 
