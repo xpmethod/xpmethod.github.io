@@ -25,7 +25,6 @@ url: research/
         {% if page.github %}
         <ul class="list ml0 pl0 ">
 
-
             <li>
 
                 <a class="github-button"
@@ -50,13 +49,12 @@ url: research/
         </ul>
         {% endif %}
 
-
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
             <div>
                 <figure>
                     <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4 b--solid-ns bw1 b--black-30">
+                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
