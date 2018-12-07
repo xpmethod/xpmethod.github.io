@@ -25,15 +25,10 @@ updates:
   text: "[¿Dónde están los niños? Un mapa de la separación de familias migrantes](http://www.eluniversal.com.mx/mundo/mapa-en-donde-estan-los-ninos-migrantes-separados-de-sus-familias) in *El Periódico* by Sylvia Fernández."
 - date: 2018-07-03
   type: press
-<<<<<<< HEAD
-  text: "\"[Torn Apart: Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
-
-=======
   text: "“[A shocking map of America’s vast ‘immigrant detention machine’](https://perma.cc/3TFX-6X8D),” in *CO.DESIGN* by Katharine Schwab."
 - date: 2018-07-03
   type: press
   text: "“[Torn Apart: Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),” in *Feministing* by Jess Fournier."
->>>>>>> 5d6859b32b6a15d168f98bcd7db842128091a9ec
 - date: 2018-07-09
   type: press
   text: "“[TL;DR: Tools for covering ICE](https://www.cjr.org/tow_center/tldr-ice-crushers.php)” in *Columbia Journalism Review* by Sam Thielman."
