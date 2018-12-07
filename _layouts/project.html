@@ -6,7 +6,7 @@ url: research/
 <div id="post">
     <h2>{{ page.title }}
     {% if page.type %}
-    <span class="tag iconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
+    <span class="tag inconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
     {% endif %}</h2>
 
     <!-- remember tags are people -->
@@ -79,7 +79,7 @@ url: research/
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date iconsolata">{{ update.date | date: "%m/%y" }}</span>
+                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y" }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}

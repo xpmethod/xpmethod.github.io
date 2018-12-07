@@ -54,8 +54,7 @@ strong {
   font-weight: bold; 
 }
 
-
-.iconsolata {
+.inconsolata {
   font-family: "Inconsolata", monospace;
 }
 
@@ -90,7 +89,6 @@ header > a.active {
   color: black; 
 }
 
-
 div.update-list .update-link {
   color: gray; 
 }
@@ -106,13 +104,13 @@ div.update-list .update-date {
   background-color: #EEF;
   border: 1px solid lightgray;
   padding: 0.1em 0.2em;
+  margin-bottom: 1em;
 }
 
 .box {
   background-color: #FFFFCC;
   margin: .5em -2em;
 }
-
 
 div.update-list .update-link {
   color: gray; 
@@ -123,11 +121,25 @@ div.update-list .update-date {
 }
 
 .people-list li:after {
-  content: ", "; 
+  content: ", ";
 }
+
 .people-list li:last-child:after {
-  content: ""; 
+  content: "";
 }
+
+.people-list li:nth-last-child(2):after {
+  content: "";
+
+}
+.people-list li:last-child:before{
+  content: "and ";
+}
+
+.people-list li:first-child:before{
+  content: "";
+}
+
 
 #gallery-box img {
   max-width: 30%;

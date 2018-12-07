@@ -9,6 +9,7 @@ category: lit-mod-viz
 published: true
 snippet: 82
 github: lit-mod-viz/middlemarch-critical-histories
+type: research paper
 ---
 
 Text reuse detection technology and approximate text matching have made
