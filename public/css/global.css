@@ -147,10 +147,23 @@ footer {
 }
 
 .footnotes ol {
-    margin-left: -1em;
+    font-size: .75em;
+    margin-left: -.1em;
+    font-family: "Inconsolata", monospace;
 }
 
 .footnotes li {
     font-size: .75em;
     padding-bottom: 0em;
+    font-family: "Inconsolata", monospace;
+}
+
+.footnotes p {
+    font-size: .9em;
+    padding-bottom: 0em;
+}
+
+.footnote {
+    font-size: .9em;
+    font-family: "Inconsolata", monospace;
 }
