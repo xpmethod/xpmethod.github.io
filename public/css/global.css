@@ -66,8 +66,6 @@ strong {
   margin-bottom: 1.8rem;
 }
 
-
-
 header a#site-title, 
 header a:visited#site-title {
   color: black;
@@ -105,7 +103,10 @@ div.update-list .update-date {
   border: 1px solid lightgray;
   padding: 0.1em 0.2em;
   position: relative;
-  top: -.75em;
+  top: -.8em;
+  left: .75em;
+  font-family: "Inconsolata", monospace;
+  font-size: .75em;
 }
 
 .box {
@@ -139,11 +140,6 @@ div.update-list .update-date {
 
 .people-list li:first-child:before{
   content: "";
-}
-
-
-#gallery-box img {
-  max-width: 30%;
 }
 
 footer {
