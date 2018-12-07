@@ -31,7 +31,7 @@ updates:
   text: "“[Torn Apart: Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),” in *Feministing* by Jess Fournier."
 - date: 2018-07-09
   type: press
-  text: "“[TL;DR: Tools for covering ICE”](https://www.cjr.org/tow_center/tldr-ice-crushers.php) in *Columbia Journalism Review* by Sam Thielman."
+  text: "“[TL;DR: Tools for covering ICE](https://www.cjr.org/tow_center/tldr-ice-crushers.php)” in *Columbia Journalism Review* by Sam Thielman."
 - date: 2018-07-09
   type: press
   text: "“[Digital Humanities for Social Good](https://www.insidehighered.com/news/2018/07/09/when-digital-humanities-meets-activism),” in *Inside Higher Education* by Lindsay McKenzie."
@@ -46,8 +46,7 @@ updates:
   text: "“[La lucha por encontrar a los niños migrantes arrebatados a sus padres](http://www.jornada.com.mx/sin-fronteras/2018/06/26/la-lucha-por-encontrar-a-los-ninos-migrantes-arrebatados-a-sus-padres-2993.html),” in *La Jornada* by Redacción Sin Fronteras."
 - date: 2018-08-02
   type: press
-  text: "“[News Focus 1 with Roopika Risam: ‘Torn Apart/Separados’ mapping
-  project for Separated families](https://player.fm/series/tbs-efm-this-morning-1273459/ep-0801-news-focus-1-with-roopika-risam-torn-apartseparados-mapping-project-for-separated-families),” in *This Morning* by Alex Jensenn."
+  text: "“[News Focus 1 with Roopika Risam: ‘Torn Apart/Separados’ mapping project for Separated families](https://player.fm/series/tbs-efm-this-morning-1273459/ep-0801-news-focus-1-with-roopika-risam-torn-apartseparados-mapping-project-for-separated-families),” in *This Morning* by Alex Jensenn."
 - date: 2018-08-03
   type: press
   text: "“[Digital Humanities Project Visualizes the Impact of Family Separations](https://www.libraryjournal.com/?detailStory=180803-Digital-Humanities-Project-Visualizes-the-Impact-of-Family-Separations),” in *Library Journal* by Lisa Peet."
