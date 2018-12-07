@@ -28,10 +28,6 @@ updates:
 
 - date: 2018-07-03
   type: press
-  text: "\"[A shocking map of America’s vast \'immigrant detention machine\'](https://perma.cc/3TFX-6X8D),\" in *CO.DESIGN* by Katharine Schwab."
- 
-- date: 2018-07-03
-  type: press
   text: "\"[Torn Apart: Mapping the Geography of US Immigration Policy](http://feministing.com/2018/07/03/torn-apart-mapping-the-geography-of-u-s-immigration-policy/),\" in *Feministing* by Jess Fournier."
 
 - date: 2018-07-09
