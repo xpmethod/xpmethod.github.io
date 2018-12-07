@@ -104,7 +104,8 @@ div.update-list .update-date {
   background-color: #EEF;
   border: 1px solid lightgray;
   padding: 0.1em 0.2em;
-  margin-bottom: 1em;
+  position: relative;
+  top: -.75em;
 }
 
 .box {
