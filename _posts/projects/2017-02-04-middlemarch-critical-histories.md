@@ -102,7 +102,7 @@ neglected.
 The potential applications of this methodology are numerous and wide-ranging.
 Firstly, this methodology can be used in any discipline to investigate the
 discipline’s theoretical history. As with the 1980 study of Wundt's influence
-on the field of psychology[^2], our methodology could rapidly and easily
+on the field of psychology,[^2] our methodology could rapidly and easily
 produce similar investigations for the influence of Saussure in linguistics,
 Bourdieu in sociology, Mead in anthropology, Beauvoir in feminist theory, and
 so on. Moreover, this analysis would be much more fine-grained, registering
@@ -139,9 +139,6 @@ hypotheses about patterns of quotation within literary scholarship of recent
 decades, while also offering unprecedented insights into the works of each of
 these authors.
 
-[^1]: Dennis Tenen, “Digital Displacement,” in *Futures of Comparative
-Literature*, ed. Ursula K. Heise, Dudley Andrew, Alexander Beecroft, Jessica
-Berman, David Damrosch, Guillermina De Ferrari, César Domínguez, Barbara
-Harlow, and Eric Hayot (London: Routledge, forthcoming in 2017).
+[^1]: Dennis Tenen, “Digital Displacement,” in *Futures of Comparative Literature*, ed. Ursula K. Heise, Dudley Andrew, Alexander Beecroft, Jessica Berman, David Damrosch, Guillermina De Ferrari, César Domínguez, Barbara Harlow, and Eric Hayot (London: Routledge, forthcoming in 2017).
 
 [^2]: Brožek, Josef. “The Echoes of Wu."

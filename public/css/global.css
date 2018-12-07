@@ -136,3 +136,12 @@ div.update-list .update-date {
 footer {
   border-top: 5px solid #eee;
 }
+
+.footnotes ol {
+    margin-left: -1em;
+}
+
+.footnotes li {
+    font-size: .75em;
+    padding-bottom: 0em;
+}
