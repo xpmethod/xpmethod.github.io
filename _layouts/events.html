@@ -12,10 +12,10 @@ layout: default
             {% if post.title != null %}
 
                 <div class="w-100 code f5">
-                    {{ post.date | date_to_string }} | 
+                    {{ post.date | date_to_string }}
 
                     {% if post.type %}
-                        <span class="gray">{{ post.type }}</span>
+                        <span class="gray"> ※ {{ post.type }}</span>
                     {% endif %}
                 </div>
 
