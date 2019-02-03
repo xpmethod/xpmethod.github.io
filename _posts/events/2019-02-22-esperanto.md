@@ -4,7 +4,7 @@ title: "An Analysis of Root Word Similarity in Esperanto"
 location: Butler Studio 208b
 type: talk
 categories: events
-hour: 3:30pm-4:00pm
+hour: "3:30pm-4:00pm"
 ---
 
 Steve Eichblatt, a computational language analyst and esperantist, will present
