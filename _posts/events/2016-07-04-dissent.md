@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Knowledge Architectures: Mumbai"
+title: "Architectures of Knowledge: Mumbai"
 location: "Mumbai, India"
 participants:
 - Alex Gil
