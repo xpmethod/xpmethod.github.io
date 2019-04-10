@@ -2,14 +2,18 @@
 layout: default
 ---
 
-<section id="event-list">
+<section>
 
-    <h1 id="event-title" class="mb2">{{ page.title }}
-        {% if page.type %}
-            <span class="tag iconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
-        {% endif %}
+    <h1 class="mb2">{{ page.title }}
     </h1>
-    <div id="time" class="mb3">
+    <div class="mb3">
+
+        <span class="gray">
+            {% if page.type %}
+                {{ page.type | upcase }} ※ 
+            {% endif %}
+        </span>
+
         {% if page.hour %}{{ page.hour }},{% endif %}
         {{ page.date | date_to_string }}
         {% if page.location %}at  {{ page.location }}{% endif %}
@@ -17,7 +21,8 @@ layout: default
 
     <!--include participants-->
     {% if page.participants %}
-        <div id="participants"><ul class="people-list">
+        <div>
+            <ul class="people-list">
             {% for participant in page.participants %}
                 <li class="di">{{ participant }}</li>
             {% endfor %}
@@ -36,7 +41,7 @@ layout: default
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list mb2">
-                    <span class="update-date iconsolata">{{ update.date | date: "%m/%y"  }}</span>
+                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y"  }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}

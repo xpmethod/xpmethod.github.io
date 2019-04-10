@@ -4,12 +4,10 @@ title: "Text Divider: Quick Markup for Chapter and Dialogue Splitting"
 tags: 
  - Moacir P. de Sá Pereira
 category: lit-mod-viz
-type: markup
+type: python script
 image: url-alice.png
 snippet: 89
 ---
-
-Read the [README](https://github.com/muziejus/text_divider) at GitHub.
 
 This python script breaks up a text into its internal sections. It uses a
 light markup scheme to signal where chapters and sections begin, and it also
@@ -20,6 +18,8 @@ Tom Buchanan’s lines.
 The markup that breaks out the sections and dialogue was [created by David
 Hoover](https://wp.nyu.edu/exceltextanalysis/analyzetextualdivisions/), though
 the entirety of Prof. Hoover’s markup scheme has not been implemented here.
+
+Read the [README](https://github.com/muziejus/text_divider) at GitHub.
 
 The current state of the markup is:
 

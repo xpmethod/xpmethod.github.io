@@ -1,11 +1,12 @@
 ---
 layout: project
 title: "Macro-Etymological Textual Analysis"
-tags: 
+tags:
  - Jonathan Reeve
 category: lit-mod-viz
 published: true
-snippet: 82
+snippet: 81
+type: research paper
 updates:
 - date: 2016-12-01
   text: '“A Macro-Etymological Analysis of James Joyce’s A Portrait of the Artist as a Young Man” published in _Reading Modernism with Machines_, Palgrave Macmillan, 2016'

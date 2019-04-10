@@ -3,25 +3,27 @@ layout: default
 url: research/
 ---
 
-<div id="post">
-    <h2>{{ page.title }}
-    {% if page.type %}
-    <span class="tag iconsolata f6 ba b--moon-gray v-top">{{ page.type }}</span>
-    {% endif %}</h2>
+<div class="">
+    <div class="flex pa0 ma0">
+        <div class="b">{{ page.title }}</div>
+        {% if page.type %}
+        <div class="tag">{{ page.type }}</div>
+        {% endif %}
+    </div>
 
     <!-- remember tags are people -->
     {% if page.tags %}
-        <ul class="people-list">
-        {% for person in page.tags %}
-            <li class="di">{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
+        <div class="">
+            <ul class="people-list ma0 pl2">
+                {% for person in page.tags %}
+            <li class="di bodoni i f5 ma0">{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
     {% endif %}
 
         <!-- Include GitHub badges if the project has a GitHub repo. -->
         {% if page.github %}
-        <ul class="github-badges list">
-
+        <ul class="list ml0 pl0 ">
 
             <li>
 
@@ -47,13 +49,12 @@ url: research/
         </ul>
         {% endif %}
 
-
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
             <div>
                 <figure>
                     <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4 b--solid-ns bw1 b--black-30">
+                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
@@ -75,11 +76,15 @@ url: research/
 
     <!-- include updates if we have them -->
     {% if page.updates%}
-        <div class="update-div mb2">
-            <h3>Updates</h3>
+
+        <div class="w-50 update-div mb2 bb pv2 mt2 mid-gray">
+
+            <div class="tr dib ml3 f6 lh-copy w-100 Courier fr black">
+                updates ↓
+            </div></br>
             {% for update in page.updates %}
                 <div class="update-list">
-                    <span class="update-date iconsolata">{{ update.date | date: "%m/%y" }}</span>
+                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y" }}</span>
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
@@ -90,7 +95,7 @@ url: research/
 
     <!-- image gallery support -->
         {% if page.images %}
-    <div id='gallery-box'>
+    <div class="w-third">
         {% for image in page.images %}
         <a href="{{ site.url }}/public/images/{{ image }}"><img src="{{ site.url }}/public/images/{{ image }}"></a>
         {% endfor %}

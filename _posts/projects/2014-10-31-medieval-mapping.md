@@ -9,7 +9,6 @@ published: true
 image: delhi.png
 images:
 - delhi2.jpg
-issue: 15
 edited:
 - by: Phillip R. Polefrone
   date: 2016-08-24
@@ -61,13 +60,13 @@ in the spring of 2015. As part of the seminar, I also took on the exercise of
 constructing a map. I worked closely with Emily Fuhrman and Jeremiah
 Trinidad-Christensen. For the exercise, we picked a tenth century
 geography---Ibn KHurdādhbih's *Kitāb Masālik wa Mamālik*---and plotted the
-journey into Sind's cities from Iran. For constructing the map, we took our cue
-from James C. Scott's *The Art of Not Being Governed* where he produces a map
-of walking-time through mountainous territories. The resulting map is: [Delivering
-Posts by Foot in Medieval North
-India](http://emilyfuhrman.co/interactive/F2015002/). The GIS
-data was collected from various primary sources and the visualization was done
-using Leaflet.js. 
+journey into Sind's cities from Iran. For constructing the map, we took our
+cue from James C. Scott's *The Art of Not Being Governed* where he produces a
+map of walking-time through mountainous territories. The resulting map is:
+[Delivering Posts by Foot in Medieval North
+India](http://emilyfuhrman.co/interactive/F2015002/). The GIS data was
+collected from various primary sources and the visualization was done using
+Leaflet.js. 
 
 ### Next
 

@@ -3,10 +3,14 @@ layout: default
 ---
 
 <div class="nav secondary" id="publications">
-    <a href="#publications" class="nav active">publications</a> |
-    <a href="#talks">talks</a> |
-    <a href="#grants">grants-and-awards</a> |
-    <a href="#press">press</a> |
+    <a href="#publications" class="nav active">publications</a>
+    <span class="gray"> / </span>
+    <a href="#talks">talks</a>
+    <span class="gray"> / </span>
+    <a href="#grants">grants-and-awards</a>
+    <span class="gray"> / </span>
+    <a href="#press">press</a>
+    <span class="gray"> / </span>
     <a href="#jobs">placements</a>
     <hr>
 </div>
@@ -19,7 +23,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
         <div class="update-list mb2">
-            <div class="update-date iconsolata">{{ update.date | date: "%m/%y" }}
+            <div class="update-date inconsolata">{{ update.date | date: "%m/%y" }}
             <a class="update-link gray" href="{{ post.url }}">
                 {{ post.title | downcase }}</a>
             </div>
@@ -31,10 +35,14 @@ layout: default
 
 </br>
 <div class="nav secondary" id="talks">
-    <a href="#publications">publications</a> |
-    <a href="#talks" class="nav active">talks</a> |
-    <a href="#grants">grants-and-awards</a> |
-    <a href="#press">press</a> |
+    <a href="#publications">publications</a>
+    <span class="gray"> / </span>
+    <a href="#talks" class="nav active">talks</a>
+    <span class="gray"> / </span>
+    <a href="#grants">grants-and-awards</a>
+    <span class="gray"> / </span>
+    <a href="#press">press</a>
+    <span class="gray"> / </span>
     <a href="#jobs">placements</a>
     <hr>
 </div>
@@ -46,7 +54,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'lecture' or update.type contains 'workshop'%}
         <div class="update-list">
-            <div class="update-date iconsolata">
+            <div class="update-date inconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -60,10 +68,14 @@ layout: default
 
 </br>
 <div class="nav secondary" id="grants">
-    <a href="#publications">publications</a> |
-    <a href="#talks">talks</a> |
-    <a href="#grants" class="nav active">grants-and-awards</a> |
-    <a href="#press">press</a> |
+    <a href="#publications">publications</a>
+    <span class="gray"> / </span>
+    <a href="#talks">talks</a>
+    <span class="gray"> / </span>
+    <a href="#grants" class="nav active">grants-and-awards</a>
+    <span class="gray"> / </span>
+    <a href="#press">press</a>
+    <span class="gray"> / </span>
     <a href="#jobs">placements</a>
     <hr>
 </div>
@@ -75,7 +87,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'grant' or update.type contains 'award' %}
         <div class="update-list mb2">
-            <div class="update-date iconsolata">
+            <div class="update-date inconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link gray" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -89,10 +101,14 @@ layout: default
 
 </br>
 <div class="nav secondary" id="press">
-    <a href="#publications">publications</a> |
-    <a href="#talks">talks</a> |
-    <a href="#grants">grants-and-awards</a> |
-    <a href="#press" class="nav active">press</a> |
+    <a href="#publications">publications</a>
+    <span class="gray"> / </span>
+    <a href="#talks">talks</a>
+    <span class="gray"> / </span>
+    <a href="#grants">grants-and-awards</a>
+    <span class="gray"> / </span>
+    <a href="#press" class="nav active">press</a>
+    <span class="gray"> / </span>
     <a href="#jobs">placements</a>
     <hr>
 </div>
@@ -104,7 +120,7 @@ layout: default
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'press' %}
         <div class="update-list mb2">
-            <div class="update-date iconsolata">
+            <div class="update-date inconsolata">
                 {{ update.date | date: "%m/%y" }}
                 <a class="update-link gray" href="{{ post.url }}">
                     {{ post.title | downcase }}
@@ -118,10 +134,14 @@ layout: default
 
 </br>
 <div class="nav secondary" id="jobs">
-    <a href="#publications">publications</a> |
-    <a href="#talks">talks</a> |
-    <a href="#grants">grants-and-awards</a> |
-    <a href="#press">press</a> |
+    <a href="#publications">publications</a> 
+    <span class="gray"> / </span>
+    <a href="#talks">talks</a> 
+    <span class="gray"> / </span>
+    <a href="#grants">grants-and-awards</a>
+    <span class="gray"> / </span>
+    <a href="#press">press</a>
+    <span class="gray"> / </span>
     <a href="#jobs" class="nav active">placements</a>
     <hr>
 </div>
@@ -132,7 +152,7 @@ layout: default
 <div class="update-div">
     {% for job in site.data.jobs %}
         <div class="update-list mb2">
-            <div class="update-date iconsolata">
+            <div class="update-date inconsolata">
                 {{ job.date }}
                 <a class="update-link gray" href="{{ post.url }}">
                     Experimental Methods Group

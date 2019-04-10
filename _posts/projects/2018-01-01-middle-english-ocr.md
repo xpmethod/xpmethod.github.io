@@ -10,6 +10,10 @@ published: true
 image: med_ocr_image.jpg
 updates:
 
+- date: 2018-09-01 
+  type: project update 
+  text: "We compiled our training data (transcriptions from MS 198) and trained the OCR system *Kraken.* We then compiled ground-truth testing data and OCR'd different pages from MS 198 and four more manuscripts. The machine showed an accuracy rate of 90% on the training data, 85% on MS 198, and between 80% and 20% on the four other manuscripts (results varied greatly depending on the script, the layout, and the scribe)."
+
 - date: 2018-03-11
   type: grants-and-awards
   text: "The project received summer grant funding ($9000) with generous support from the Data Science Institute Scholars Program and the Data, Media, & Society Center."

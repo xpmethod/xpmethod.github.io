@@ -54,8 +54,7 @@ strong {
   font-weight: bold; 
 }
 
-
-.iconsolata {
+.inconsolata {
   font-family: "Inconsolata", monospace;
 }
 
@@ -66,8 +65,6 @@ strong {
 .mb4 {
   margin-bottom: 1.8rem;
 }
-
-
 
 header a#site-title, 
 header a:visited#site-title {
@@ -90,7 +87,6 @@ header > a.active {
   color: black; 
 }
 
-
 div.update-list .update-link {
   color: gray; 
 }
@@ -106,13 +102,17 @@ div.update-list .update-date {
   background-color: #EEF;
   border: 1px solid lightgray;
   padding: 0.1em 0.2em;
+  position: relative;
+  top: -.8em;
+  left: .75em;
+  font-family: "Inconsolata", monospace;
+  font-size: .75em;
 }
 
 .box {
   background-color: #FFFFCC;
   margin: .5em -2em;
 }
-
 
 div.update-list .update-link {
   color: gray; 
@@ -123,16 +123,47 @@ div.update-list .update-date {
 }
 
 .people-list li:after {
-  content: ", "; 
-}
-.people-list li:last-child:after {
-  content: ""; 
+  content: ", ";
 }
 
-#gallery-box img {
-  max-width: 30%;
+.people-list li:last-child:after {
+  content: "";
+}
+
+.people-list li:nth-last-child(2):after {
+  content: "";
+
+}
+.people-list li:last-child:before{
+  content: "and ";
+}
+
+.people-list li:first-child:before{
+  content: "";
 }
 
 footer {
   border-top: 5px solid #eee;
+}
+
+.footnotes ol {
+    font-size: .75em;
+    margin-left: -.1em;
+    font-family: "Inconsolata", monospace;
+}
+
+.footnotes li {
+    font-size: .75em;
+    padding-bottom: 0em;
+    font-family: "Inconsolata", monospace;
+}
+
+.footnotes p {
+    font-size: .9em;
+    padding-bottom: 0em;
+}
+
+.footnote {
+    font-size: .9em;
+    font-family: "Inconsolata", monospace;
 }

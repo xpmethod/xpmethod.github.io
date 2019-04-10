@@ -1,6 +1,6 @@
 ---
 layout: event
-title: "Knowledge Architectures: Lahore"
+title: "Architectures of Knowledge: Lahore"
 location: "Lahore, Pakistan"
 type: workshop
 images:

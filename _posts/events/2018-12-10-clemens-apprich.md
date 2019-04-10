@@ -4,7 +4,7 @@ title: "Media and Paranoia w/ Clemens Apprich (Leuphana University)"
 location: Butler Studio 208b
 type: talk
 categories: events
-hour: 3-4pm
+hour: 10-12am
 ---
 
 Clemens Apprich is visiting research fellow at the [Global Emergent Media

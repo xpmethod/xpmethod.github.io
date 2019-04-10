@@ -10,10 +10,12 @@ image: control-2.png
 issue: 15
 updates:
 
-- date: 2017-11-01
-  text: "James Edward Draney calls the work \"an important and engaging book \
-        ... which provides a lucid and legible map to our often vertiginous \
-        computational climate\" in [*Los Angeles Review of Books*](https://web.archive.org/web/20171126230526/https://lareviewofbooks.org/article/computation-de-texte/)."
+- date: 2017-09-01
+  text: "\"*Plain Text* adds to the impressive work of such computationally savvy theorists \
+         as Wendy Hui Kyong Chun, Alexander Galloway, Alan Liu, Rita Raley, and others \ 
+         to make a clear, forceful case for computational poetics as a necessary literary \
+         practice in the digital age,\" Katherine Hayles writes for [*Critical \
+         Inquiry*](https://web.archive.org/web/20190322221432/https://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)."
   type: press
 
 - date: 2017-10-01
@@ -22,10 +24,15 @@ updates:
         [*Leonardo*](https://web.archive.org/web/20171126230920/https://www.leonardo.info/review/2017/10/review-of-plain-text-the-poetics-of-computation)."
   type: press
 
-- date: 2017-09-01
+- date: 2017-11-01
+  text: "James Edward Draney calls the work \"an important and engaging book \
+        ... which provides a lucid and legible map to our often vertiginous \
+        computational climate\" in [*Los Angeles Review of Books*](https://web.archive.org/web/20171126230526/https://lareviewofbooks.org/article/computation-de-texte/)."
+  type: press
 
-  text: "\"[A] clear, forceful case for computational poetics as a necessary \
-         literary practice in the digital age,\" Katherine Hayles writes for [*Critical Inquiry*](https://web.archive.org/web/20171126231710/http://criticalinquiry.uchicago.edu/n._katherine_hayles_reviews_plain_text)."
+- date: 2018-07-01
+  text: "\"Necessary\" and \"convincing\" Maisie Ridgway writes for \
+        [*Textual Practice*](https://web.archive.org/web/20190322223023/https://www.tandfonline.com/doi/abs/10.1080/0950236X.2018.1496662?journalCode=rtpr20)."
   type: press
 
 - date: 2016-06-01
