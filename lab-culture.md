@@ -62,6 +62,7 @@ to knowledge.
   Virtue][4]" (2006).
 - Yochai Benkler, Aaron Shaw, and Mako Hill, "[Peer Production: A Modality of
 Collective Intelligence][5]" (2014).
+- Gayatri Spivak on "imatinative activism" and "affirmative sabotage," a good starting point [here][6].
 
 [2]: https://web.archive.org/web/20170221193127/http://www.jofreeman.com/joreen/tyranny.htm
 
@@ -70,6 +71,8 @@ Collective Intelligence][5]" (2014).
 [4]: https://www.nyu.edu/projects/nissenbaum/papers/jopp_235.pdf
 
 [5]: http://mako.cc/academic/benkler_shaw_hill-peer_production_ci.pdf
+
+[6]: https://web.archive.org/web/20190513185445/https://www.nytimes.com/2016/07/13/opinion/when-law-is-not-justice.html?_r=0
 
 <sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
 [here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
