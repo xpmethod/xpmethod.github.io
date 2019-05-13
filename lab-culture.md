@@ -62,7 +62,7 @@ to knowledge.
   Virtue][4]" (2006).
 - Yochai Benkler, Aaron Shaw, and Mako Hill, "[Peer Production: A Modality of
 Collective Intelligence][5]" (2014).
-- Gayatri Spivak on "imatinative activism" and "affirmative sabotage," a good starting point [here][6].
+- Gayatri Spivak on "imaginative activism" and "affirmative sabotage," a good starting point [here][6].
 
 [2]: https://web.archive.org/web/20170221193127/http://www.jofreeman.com/joreen/tyranny.htm
 
