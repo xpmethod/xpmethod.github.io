@@ -39,6 +39,7 @@ experience is required.
 | 14:00         | Campus Tour                    |
 | 15:00         | Discussion                     |
 | 18:30         | Dinner at Massawa              |
+| ------------- | -------------------------      |
 
 
 1. "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the Analytics
