@@ -55,7 +55,7 @@ experience is required.
 | ------------- | -------------------------                                              |
 | all day       | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
 
-\
+\\
 
 | *Sept 12*     |                                                     |
 | ------------- | -------------------------------------------------   |
