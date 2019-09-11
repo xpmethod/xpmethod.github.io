@@ -31,9 +31,9 @@ Mads Rosendahl Thomsen (Aarhus University)
 
 ## Program
 
-- September 10
+### September 10
 
-| Time          | Topic                     |
+| Time          |                           |
 | ------------- | ------------------------- |
 | 10:00         | Introduction to xpMethod  |
 | 11:00         | Reading Circle            |
@@ -42,14 +42,14 @@ Mads Rosendahl Thomsen (Aarhus University)
 | 15:00         | Discussion                |
 | 18:30         | Dinner at Massawa         |
 
-- September 11
+### September 11
 
 A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold.
 
 
-- September 12
+### September 12
 
-| Time          | Topic                                               |
+| Time          |                                                     |
 | ------------- | -------------------------------------------------   |
 | 9:30          | Case Study: Text Reuse in Pulp Fiction              |
 | 10:30         | LitModViz Python Workshop                           |
