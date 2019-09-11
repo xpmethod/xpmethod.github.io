@@ -40,8 +40,6 @@ experience is required.
 | 15:00         | Discussion                     |
 | 18:30         | Dinner at Massawa              |
 
-<br>
-
 1. "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the Analytics
    of Literature (1893) by L.A. Sherman, pages 281--302.
 2. Burrows, John F. “Chapter 5: Correlation Matrices and the Interrelationship of Characters.”
@@ -50,13 +48,10 @@ experience is required.
 3. Underwood, William E. “Genre Theory and Historicism.” Cultural Analytics, no. Oct 25 2016
    (October 25, 2016).
 
-<br>
-
 | *Sept 11*     |                                                                        |
 | ------------- | -------------------------                                              |
 | all day       | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
 
-<br>
 
 | *Sept 12*     |                                                     |
 | ------------- | -------------------------------------------------   |
