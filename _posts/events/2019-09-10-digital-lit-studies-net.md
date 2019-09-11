@@ -44,7 +44,7 @@ experience is required.
    of Literature (1893) by L.A. Sherman, pages 281--302.
 2. Burrows, John F. “Chapter 5: Correlation Matrices and the Interrelationship of Characters.”
    In Computation into Criticism: A Study of Jane Austen’s Novels and an Experiment in Method,
-81--106. New York, NY: Clarendon Press, 1989.</sub>
+81--106. New York, NY: Clarendon Press, 1989.
 3. Underwood, William E. “Genre Theory and Historicism.” Cultural Analytics, no. Oct 25 2016
    (October 25, 2016).
 <br>
