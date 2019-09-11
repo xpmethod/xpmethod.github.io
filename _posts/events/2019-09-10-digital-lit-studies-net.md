@@ -18,27 +18,27 @@ experience is required.
 
 ## List of participants
 
-Sofie Kluge (University of Southern Denmark)
-Kristoffer Nielbo (Aarhus University)
-Dennis Yi Tenen (Columbia University)
-Christian Dahl (University of Copenhagen)
-Jens Bjerring-Hansen (University of Copenhagen)
-Søren Frank (University of Southern Denmark)
-Max Roald Eckardt (Aarhus University)
-Torben Jelsbak (University of Copenhagen)
-Anna Lawaetz (Royal Library)
-Mads Rosendahl Thomsen (Aarhus University)
+- Sofie Kluge (University of Southern Denmark)
+- Kristoffer Nielbo (Aarhus University)
+- Dennis Yi Tenen (Columbia University)
+- Christian Dahl (University of Copenhagen)
+- Jens Bjerring-Hansen (University of Copenhagen)
+- Søren Frank (University of Southern Denmark)
+- Max Roald Eckardt (Aarhus University)
+- Torben Jelsbak (University of Copenhagen)
+- Anna Lawaetz (Royal Library)
+- Mads Rosendahl Thomsen (Aarhus University)
 
 ## Program
 
-| Sept 10       |                           |
-| ------------- | ------------------------- |
-| 10:00         | Introduction to xpMethod  |
-| 11:00         | Reading Circle            |
-| 13:00         | Lunch                     |
-| 14:00         | Campus Tour               |
-| 15:00         | Discussion                |
-| 18:30         | Dinner at Massawa         |
+| Sept 10       |                                |
+| ------------- | -------------------------      |
+| 10:00         | Introduction to xpMethod       |
+| 11:00         | Reading Circle<sup>1,2,3</sup> |
+| 13:00         | Lunch                          |
+| 14:00         | Campus Tour                    |
+| 15:00         | Discussion                     |
+| 18:30         | Dinner at Massawa              |
 
 
 | Sept 11       |                                                                        |
