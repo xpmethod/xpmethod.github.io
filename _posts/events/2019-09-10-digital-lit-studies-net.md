@@ -54,7 +54,10 @@ experience is required.
 | Sept 11       |                                                                        |
 | ------------- | -------------------------                                              |
 | all day       | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
-| ------------- | -------------------------                                              |
+
+    
+    
+
 | Sept 12       |                                                     |
 | ------------- | -------------------------------------------------   |
 | 9:30          | Case Study: Text Reuse in Pulp Fiction              |
