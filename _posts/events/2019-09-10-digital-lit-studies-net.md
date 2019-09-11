@@ -31,7 +31,7 @@ experience is required.
 
 ## Program
 
-| Sept 10       |                                |
+| `Sept 10`       |                                |
 | ------------- | -------------------------      |
 | 10:00         | Introduction to xpMethod       |
 | 11:00         | Reading Circle<sup>1,2,3</sup> |
@@ -52,14 +52,13 @@ experience is required.
 
 <br>
 
-| Sept 11       |                                                                        |
+| `Sept 11`       |                                                                        |
 | ------------- | -------------------------                                              |
 | all day       | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
 
-    
-    
+<br>
 
-| Sept 12       |                                                     |
+| *Sept 12*       |                                                     |
 | ------------- | -------------------------------------------------   |
 | 9:30          | Case Study: Text Reuse in Pulp Fiction              |
 | 10:30         | LitModViz Python Workshop                           |
