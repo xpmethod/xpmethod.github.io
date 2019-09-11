@@ -49,7 +49,6 @@ experience is required.
    (October 25, 2016).</sub>
 
 <br>
-<br>
 
 | Sept 11       |                                                                        |
 | ------------- | -------------------------                                              |
