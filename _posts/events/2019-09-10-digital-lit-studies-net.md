@@ -31,14 +31,14 @@ experience is required.
 
 ## Program
 
-| *Sept 10*     |                                |
-| ------------- | -------------------------      |
-| 10:00         | Introduction to xpMethod       |
-| 11:00         | Reading Circle<sup>1,2,3</sup> |
-| 13:00         | Lunch                          |
-| 14:00         | Campus Tour                    |
-| 15:00         | Discussion                     |
-| 18:30         | Dinner at Massawa              |
+| <small>*Sept 10*</small> |                                |
+| -------------            | -------------------------      |
+| <small>10:00</small>     | Introduction to xpMethod       |
+| <small>11:00</small>     | Reading Circle<sup>1,2,3</sup> |
+| <small>13:00</small>     | Lunch                          |
+| <small>14:00</small>     | Campus Tour                    |
+| <small>15:00</small>     | Discussion                     |
+| <small>18:30</small>     | Dinner at Massawa              |
 
 1. "Units of Thought and of Expression of Thought" and "The Weight of Styles" in the Analytics
    of Literature (1893) by L.A. Sherman, pages 281--302.
@@ -48,18 +48,18 @@ experience is required.
 3. Underwood, William E. “Genre Theory and Historicism.” Cultural Analytics, no. Oct 25 2016
    (October 25, 2016).
 
-| *Sept 11*     |                                                                        |
-| ------------- | -------------------------                                              |
-| all day       | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
+| <small>*Sept 11*</small> |                                                                        |
+| -------------            | -------------------------                                              |
+| <small>10:00</small>     | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
 
 
-| *Sept 12*     |                                                     |
-| ------------- | -------------------------------------------------   |
-| 9:30          | Case Study: Text Reuse in Pulp Fiction              |
-| 10:30         | Text Analysis in Python Workshop                    |
-| 13:00         | Lunch                                               |
-| 14:00         | Text Analysis in Python Workshop                    |
-| 16:00         | Roundtable: Limits and Possibilities of Computation |
+| <small>*Sept 12*</small> |                                                     |
+| -------------            | -------------------------------------------------   |
+| <small>9:30</small>     | Case Study: Text Reuse in Pulp Fiction              |
+| <small>10:30</small>    | Text Analysis in Python Workshop                    |
+| <small>13:00</small>    | Lunch                                               |
+| <small>14:00</small>    | Text Analysis in Python Workshop                    |
+| <small>16:00</small>    | Roundtable: Limits and Possibilities of Computation |
 
 ## About the network
 
