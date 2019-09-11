@@ -50,7 +50,7 @@ experience is required.
 
 | <small>*Sept 11*</small> |                                                                        |
 | -------------            | -------------------------                                              |
-| <small>10:00</small>     | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold. |
+| <small>10:00</small>     | A visit with CUNY Digital Humanities Initiative, lunch with Matt Gold  |
 
 
 | <small>*Sept 12*</small> |                                                     |
