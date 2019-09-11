@@ -48,8 +48,8 @@ experience is required.
 3. Underwood, William E. “Genre Theory and Historicism.” Cultural Analytics, no. Oct 25 2016
    (October 25, 2016).</sub>
 
-    
-    
+<br>
+<br>
 
 | Sept 11       |                                                                        |
 | ------------- | -------------------------                                              |
