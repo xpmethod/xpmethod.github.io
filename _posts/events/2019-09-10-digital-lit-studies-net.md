@@ -9,7 +9,7 @@ images:
  - litmodviz-den/litmodvizden4.jpg
  - litmodviz-den/litmodvizden1.jpg
  - litmodviz-den/litmodvizden3.jpg
- - litmodviz-den/litmodvizden2.jpg
+ - litmodviz-den/litmodvizden5.jpg
 ---
 
 In collaboration between the Network for Digital Literary Studies, University of Southern
