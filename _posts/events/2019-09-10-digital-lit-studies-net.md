@@ -5,6 +5,11 @@ location: Columbia University, Butler Studio 208b
 type: workshop
 prompt: "Bringing together researchers from different academic and national traditions, this workshop explores the limits and the possibilities of formal literary analysis."
 categories: events
+images:
+ - litmodviz-den/litmodvizden4.jpg
+ - litmodviz-den/litmodvizden1.jpg
+ - litmodviz-den/litmodvizden3.jpg
+ - litmodviz-den/litmodvizden2.jpg
 ---
 
 In collaboration between the Network for Digital Literary Studies, University of Southern
