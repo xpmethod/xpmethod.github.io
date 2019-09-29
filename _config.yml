@@ -16,5 +16,5 @@ include: ['_pages']
 exclude: ['vendor', 'doc', 'README.md']
 
 # enable redirects
-plugins:
+plugins: []
     #    - jekyll-redirect-from
