@@ -2,10 +2,9 @@
 layout: default
 ---
 
-<section>
+<article>
 
-    <h1 class="mb2">{{ page.title }}
-    </h1>
+    <h2 class="mb2">{{ page.title }}</h2>
     <div class="mb3">
 
         <span class="gray">
@@ -21,23 +20,24 @@ layout: default
 
     <!--include participants-->
     {% if page.participants %}
-        <div>
-            <ul class="people-list">
+        <ul class="ma0 people-list">
             {% for participant in page.participants %}
                 <li class="di">{{ participant }}</li>
             {% endfor %}
-        </ul></div>
+        </ul>
     {% endif %}
 
 
     {% if page.prompt %}
-        <div class="box pv3 ph4">
+      <section>
+        <p class="box pv3 ph4">
             {{ page.prompt }}
-        </div>
+        </p>
+      </section>
     {% endif %}
 
     {% if page.updates%}
-        <div class="update-div">
+        <section class="update-div">
             <h3>Updates</h3>
             {% for update in page.updates %}
                 <div class="update-list mb2">
@@ -45,7 +45,7 @@ layout: default
                     {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
                 </div>
             {% endfor %}
-        </div>
+        </section>
     {% endif %}
 
     {{ content }}
@@ -60,4 +60,4 @@ layout: default
     </div>
 {% endif %}
 
-</section>
+</article>

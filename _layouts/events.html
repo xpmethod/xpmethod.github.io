@@ -2,32 +2,33 @@
 layout: default
 ---
 
-<section>
-    <div>
-        {{ content }}
-    </div>
+<article>
+  <div>
+      {{ content }}
+  </div>
 
-    <div class="">
-        {% for post in site.categories['events'] %}
-            {% if post.title != null %}
+  {% for post in site.categories['events'] %}
+    <section class="mb4">
+      {% if post.title != null %}
 
-                <div class="w-100 code f5">
-                    {{ post.date | date_to_string }}
+          <div class="w-100 code f5">
+            <time datetime={{post.date}}>
+              {{ post.date | date_to_string }}
+            </time>
 
-                    {% if post.type %}
-                        <span class="gray"> ※ {{ post.type }}</span>
-                    {% endif %}
-                </div>
+              {% if post.type %}
+                  <span class="gray"> ※ {{ post.type }}</span>
+              {% endif %}
+          </div>
 
-                <div>
-                    <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-                </div>
+          <h2 class="ma0 normal">
+              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+          </h2>
 
 
-            {% endif %}
+      {% endif %}
 
-            <div>{{ post.prompt }}</div>
-            <br>
-        {% endfor %}
-    </div>
-</section>
+      <p class="ma0">{{ post.prompt }}</p>
+    </section>
+  {% endfor %}
+</article>
