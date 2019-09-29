@@ -41,7 +41,7 @@ h3 {
   font-size: 18px; 
 }
 
-h1 a, h2 a {
+h1 a {
   color: black; 
 }
 
@@ -130,10 +130,6 @@ div.update-list .update-date {
   content: "";
 }
 
-.people-list li:nth-last-child(2):after {
-  content: "";
-
-}
 .people-list li:last-child:before{
   content: "and ";
 }
