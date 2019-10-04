@@ -3,31 +3,41 @@ layout: vanilla
 url: research/
 ---
 
-{% for post in site.categories[page.title] %}
+<article class="categories">
+    {{ content }}
 
-    {% if post.title != null %}
-        <div class="dib b">
-            <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+    {% for post in site.categories[page.title] %}
+      <section>
+        {% if post.title != null %}
+            <h2 class="ma0 dib b">
+                <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+            </h2>
+            <div class="dib ml3 f6 lh-copy Courier fr">
+                ↓ projects.select(random) ※
+                <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
+                    view all →
+                </a>
+            </div>
+
+            <div class="ml3 f5 lh-copy">
+            </div>
+        {% endif %}
+
+        <!-- list all projects as a strain in subscript -->
+        <div id="strains" class="ma0 pa0">
+            <ul class="ma0 pa0">
+            {% assign projects = site.categories[post.title] | sample: 5 %}
+            {% for post in projects %}
+                <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title }}</a></li>
+            {% endfor %}
+            </ul>
         </div>
-        <div class="dib ml3 f6 lh-copy Courier fr">
-            ↓ projects.select(random) ※
-            <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
-                view all →
-            </a>
+
+        <div>
+            {{ post.content | truncatewords:275 }}
         </div>
 
-    {% endif %}
-
-    <!-- list all projects as a strain in subscript -->
-    <div id="strains" class="ma0 pa0">
-        {% assign projects = site.categories[post.title] | sample: 5 %}
-        {% for post in projects %}
-            <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title }}</a></li>
-        {% endfor %}
-    </div>
-
-    <div>
-        {{ post.content }}
-    </div>
-
-{% endfor %}
+        <!-- <a href="{{ post.url }}">Read more</a> -->
+      </section>
+    {% endfor %}
+</article>

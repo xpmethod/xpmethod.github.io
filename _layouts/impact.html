@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: article
 ---
 
+<section class="mb4">
 <div class="nav secondary" id="publications">
     <a href="#publications" class="nav active">publications</a>
     <span class="gray"> / </span>
@@ -14,8 +15,9 @@ layout: default
     <a href="#jobs">placements</a>
     <hr>
 </div>
+<p class="ma0 mb4">
 <small>We support the publishing efforts of our members by a rigorous internal
-    peer-review process.</br></br></small>
+  peer-review process.</small></p>
 
 <div class="update-div">
     {% include date-sorting.html %}
@@ -32,8 +34,9 @@ layout: default
         {% endif %}
     {% endfor %}
 </div>
+</section>
 
-</br>
+<section class="mb4">
 <div class="nav secondary" id="talks">
     <a href="#publications">publications</a>
     <span class="gray"> / </span>
@@ -46,7 +49,9 @@ layout: default
     <a href="#jobs">placements</a>
     <hr>
 </div>
-<small>Talks, lectures, and workshops related to our projects.</br></br></small>
+
+<p class="ma0 mb4">
+  <small>Talks, lectures, and workshops related to our projects.</small></p>
 
 <div class="update-div">
     {% include date-sorting.html %}
@@ -65,8 +70,9 @@ layout: default
         {% endif %}
     {% endfor %}
 </div>
+</section>
 
-</br>
+<section class="mb4">
 <div class="nav secondary" id="grants">
     <a href="#publications">publications</a>
     <span class="gray"> / </span>
@@ -79,7 +85,9 @@ layout: default
     <a href="#jobs">placements</a>
     <hr>
 </div>
-<small>Research teams are encouraged to seek external funding.</br></br></small>
+
+<p class="ma0 mb4">
+  <small>Research teams are encouraged to seek external funding.</small></p>
 
 <div class="update-div">
     {% include date-sorting.html %}
@@ -98,8 +106,9 @@ layout: default
         {% endif %}
     {% endfor %}
 </div>
+</section>
 
-</br>
+<section class="mb4">
 <div class="nav secondary" id="press">
     <a href="#publications">publications</a>
     <span class="gray"> / </span>
@@ -112,7 +121,9 @@ layout: default
     <a href="#jobs">placements</a>
     <hr>
 </div>
-<small>Our work has recieved national and international recognition.</br></br></small>
+
+<p class="ma0 mb4">
+  <small>Our work has recieved national and international recognition.</small></p>
 
 <div class="update-div">
     {% include date-sorting.html %}
@@ -131,8 +142,9 @@ layout: default
         {% endif %}
     {% endfor %}
 </div>
+</section>
 
-</br>
+<section class="ma4">
 <div class="nav secondary" id="jobs">
     <a href="#publications">publications</a> 
     <span class="gray"> / </span>
@@ -145,9 +157,11 @@ layout: default
     <a href="#jobs" class="nav active">placements</a>
     <hr>
 </div>
+
+<p class="ma0 mb4">
 <small>Placements are a reflection of individual achievement. The group offers
     support in the form of mock interviews, portfolio preparation, and
-    application review.</br></br></small>
+    application review.</small></p>
 
 <div class="update-div">
     {% for job in site.data.jobs %}
@@ -164,3 +178,4 @@ layout: default
         </div>
     {% endfor %}
 </div>
+</section>

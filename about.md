@@ -1,5 +1,5 @@
 ---
-layout: vanilla
+layout: article
 title: about
 ---
 
