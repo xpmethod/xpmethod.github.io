@@ -32,9 +32,6 @@ Science and Society](http://scienceandsociety.columbia.edu/) at Columbia will
 present on her ongoing research with [The Making and Knowing Project: From the
 Workshop to the Laboratory][11].
 
-[11]:
-https://web.archive.org/web/20150508213005/http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory
-
 Historians have long acknowledged the foundational importance of craft
 knowledge to the development of modern science. In recent years, historians of
 science have investigated the relationship of craft practice to various
@@ -67,3 +64,6 @@ material culture of the past.
 
 A quick proof-of-concept mock-up Making and Knowing materials can be found
 here: <http://xpmethod.plaintext.in/making-knowing/>.
+
+[11]: https://web.archive.org/web/20150508213005/http://scienceandsociety.columbia.edu/research-clusters/from-the-workshop-to-the-laboratory
+

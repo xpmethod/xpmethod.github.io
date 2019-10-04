@@ -16,13 +16,32 @@ layout: default
         {{ page.date | date_to_string }}
         {% if page.location %}at  {{ page.location }}{% endif %}
 
+    {% if page.updates%}
+
+        <div class="w-50 update-div mb2 bb pv2 mt2 mid-gray">
+
+            <div class="tr dib ml3 f6 lh-copy w-100 Courier fr black">
+                updates ↓
+            </div></br>
+            {% for update in page.updates %}
+                <div class="update-list">
+                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y" }}</span>
+                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+                </div>
+            {% endfor %}
+        </div>
+    {% endif %}
+
     <!--include participants-->
     {% if page.participants %}
+    <div class="">
+        <span class="ttu f6 i">with contribution from:</span>
         <ul class="ma0 people-list">
             {% for participant in page.participants %}
                 <li class="di">{{ participant }}</li>
             {% endfor %}
         </ul>
+    </div>
     {% endif %}
 
 
@@ -32,18 +51,6 @@ layout: default
             {{ page.prompt }}
         </p>
       </section>
-    {% endif %}
-
-    {% if page.updates%}
-        <section class="update-div">
-            <h3>Updates</h3>
-            {% for update in page.updates %}
-                <div class="update-list mb2">
-                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y"  }}</span>
-                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-                </div>
-            {% endfor %}
-        </section>
     {% endif %}
 
     {{ content }}
