@@ -2,11 +2,6 @@
 layout: default
 ---
 
-<article>
-  <div>
-      {{ content }}
-  </div>
-
   {% for post in site.categories['events'] %}
     <section class="mb4">
       {% if post.title != null %}
@@ -31,4 +26,3 @@ layout: default
       <p class="ma0">{{ post.prompt }}</p>
     </section>
   {% endfor %}
-</article>

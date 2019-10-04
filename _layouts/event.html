@@ -5,7 +5,6 @@ layout: default
 <article>
 
     <h2 class="mb2">{{ page.title }}</h2>
-    <div class="mb3">
 
         <span class="gray">
             {% if page.type %}
@@ -16,7 +15,6 @@ layout: default
         {% if page.hour %}{{ page.hour }},{% endif %}
         {{ page.date | date_to_string }}
         {% if page.location %}at  {{ page.location }}{% endif %}
-    </div>
 
     <!--include participants-->
     {% if page.participants %}
