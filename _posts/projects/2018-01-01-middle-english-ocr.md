@@ -12,7 +12,7 @@ updates:
 
 - date: 2019-09-30
   type: publication
-  text: "Article accepted to *Modern Philology* pending revisions."
+  text: "Article accepted to *Digital Philology* pending revisions."
 
 - date: 2018-09-01
   type: project update
