@@ -4,14 +4,18 @@ title: "Middle English Manuscript OCR"
 tags:
 - Gianmarco Saretto
 - Jenna Alexis Schoen
-category: knowledge-design-studio
+category: lit-mod-viz
 type: tool
 published: true
 image: med_ocr_image.jpg
 updates:
 
-- date: 2018-09-01 
-  type: project update 
+- date: 2019-09-30
+  type: publication
+  text: "Article accepted to *Modern Philology* pending revisions."
+
+- date: 2018-09-01
+  type: project update
   text: "We compiled our training data (transcriptions from MS 198) and trained the OCR system *Kraken.* We then compiled ground-truth testing data and OCR'd different pages from MS 198 and four more manuscripts. The machine showed an accuracy rate of 90% on the training data, 85% on MS 198, and between 80% and 20% on the four other manuscripts (results varied greatly depending on the script, the layout, and the scribe)."
 
 - date: 2018-03-11
