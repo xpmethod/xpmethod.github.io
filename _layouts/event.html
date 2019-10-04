@@ -12,13 +12,17 @@ layout: default
             {% endif %}
         </span>
 
-        {% if page.hour %}{{ page.hour }},{% endif %}
-        {{ page.date | date_to_string }}
-        {% if page.location %}at  {{ page.location }}{% endif %}
+        <span class="f4">
+            {% if page.hour %}{{ page.hour }},{% endif %}
+            {{ page.date | date_to_string }}</br>
+        </span>
+        <span class="f5">
+            {% if page.location %}at  {{ page.location }}{% endif %}
+        </span>
 
     {% if page.updates%}
 
-        <div class="w-50 mb2 bb pv2 mt2 mid-gray">
+        <div class="w-100 mb2 bb pv2 mt2 mid-gray">
 
             <div class="tr dib ml3 f6 lh-copy w-100 Courier fr black">
                 updates ↓
