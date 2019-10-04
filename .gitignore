@@ -3,3 +3,4 @@ _trash/
 .DS_Store
 
 .sass-cache/
+.jekyll-cache/
