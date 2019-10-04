@@ -31,10 +31,14 @@ ol {
 
 h1 {
   font-size: 1.3rem; 
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
 
 h2 {
   font-size: 1.2rem; 
+  margin-block-start: 0;
+  margin-block-end: 0;
 }
 
 h3 {
@@ -75,6 +79,10 @@ header > a.active {
 }
 .nav.active {
   color: red; 
+}
+
+nav li {
+  margin-right: 0.3rem;
 }
 
 #strains li:after {
@@ -167,4 +175,11 @@ footer {
 table {
     margin-top: 1em;
     margin-bottom: 1em;
+}
+
+.columbia {
+  display: block;
+  position: relative;
+  font-size: 18px;
+  top: -.05em;
 }

@@ -1,10 +1,10 @@
 <header class="mb4">
-    <h1 class="tr f3 ma0 normal">
-      <span class="inconsolata">Group for Experimental Methods in Humanistic Research</span><br />
-        at Columbia University
+    <h1 class="tr f3 ma0 normal" style="height: 52px;">
+      <span class="inconsolata">Group for Experimental Methods in Humanistic Research<br /></span>
+      <span class="columbia">at Columbia University</span>
     </h1>
 
-    <nav class="tl">
+    <nav class="tl overflow-hidden">
     {% assign sorted_pages = site.pages | sort:"name" %}
       <ul class="list ma0 pa0">
         {% for node in sorted_pages %}
@@ -12,7 +12,7 @@
             {% unless node.url contains 'archive' %} 
               <li class="fl">
                     <!-- this matches strings in the url to node title to highlight the active page -->
-                    <a class="hover-red ttl pr2 nav 
+                    <a class="hover-red ttl nav pr2
                     {% if page.url contains node.title %} active
                     {% elsif page.path contains 'projects' and  node.title == 'projects' %} active
                     {% elsif page.url == '/' and node.title == 'projects' %} active
