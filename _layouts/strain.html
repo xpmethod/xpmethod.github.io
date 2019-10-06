@@ -4,18 +4,18 @@ layout: default
 
 {{ content }}
 
-<div class="tr dib ml3 f6 lh-copy w-100 Courier fr">
-        view all ↓
-</div>
+<span class="tr dib ml3 f6 lh-copy w-100 Courier fr">
+    view all ↓
+</span>
 <br>
 
-<div class="">
+<div class="h-auto">
     {% for post in site.categories[page.title] %}
         <div class="pb2">
             <div class="flex pa0 ma0 bb">
-                <div class="b">
+                <span class="b">
                     <a href="{{ post.url }}">{{ post.title}}</a>
-                </div>
+                </span>
 
                 <!-- What kind of activity is this? Project, talk, blog post? -->
                 {% if post.type %}
@@ -45,7 +45,7 @@ layout: default
                     {% if post.image %}
                     <a href="{{ post.url }}">
                         <img alt="" src="/public/images/{{ post.image }}" class="mw5 fr mb4 ml4
-                        hauto">
+                        h-auto">
                     </a>
                     {% endif %}
 
