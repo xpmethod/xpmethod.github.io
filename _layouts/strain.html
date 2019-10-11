@@ -9,7 +9,7 @@ layout: default
 </span>
 <br>
 
-<article class="mb1 cf">
+<article class="mb1">
     {% for post in site.categories[page.title] %}
         <section class="pb2">
             <div class="flex pa0 ma0 bb">
@@ -41,13 +41,15 @@ layout: default
             <!-- events are different since we are pulling the prompt -->
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
-                <div class="pl3">
-                    {% if post.image %}
-                    <a href="{{ post.url }}">
-                        <img alt="" src="/public/images/{{ post.image }}" class="mw5 fr mb4 ml4
-                        h-auto">
-                    </a>
-                    {% endif %}
+                <div class="pl3 cf">
+                        {% if post.image %}
+                        <div class="fr">
+                            <a href="{{ post.url }}">
+                                <img alt="project image" src="/public/images/{{ post.image }}"
+                                class="mw5 mb4 ml4 h-auto debug">
+                            </a>
+                            </div>
+                        {% endif %}
 
                     <!-- if we have sparks, show that -->
                     {% if post.sparkle %}
