@@ -51,10 +51,15 @@ url: research/
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
+          {% if page.image contains "https://" or page.image contains "http://" %}
+            {% assign src = page.image %}
+          {% else %}
+            {% capture src %}/public/images/{{ page.image }}{% endcapture %}
+          {% endif %}
             <div>
                 <figure>
-                    <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4">
+                  <a href="{{src}}">
+                    <img alt="" src="{{src}}" class="mw5 fr mb4 ml4">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
