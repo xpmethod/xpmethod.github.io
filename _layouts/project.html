@@ -3,9 +3,9 @@ layout: default
 url: research/
 ---
 
-<div class="">
+<article>
     <div class="flex pa0 ma0">
-        <div class="b">{{ page.title }}</div>
+      <h2 class="b" style="font-size: 18px;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
         {% if page.type %}
         <div class="tag">{{ page.type }}</div>
         {% endif %}
@@ -51,10 +51,15 @@ url: research/
 
     <!-- grab image from yaml if there is one -->
         {% if page.image %}
+          {% if page.image contains "https://" or page.image contains "http://" %}
+            {% assign src = page.image %}
+          {% else %}
+            {% capture src %}/public/images/{{ page.image }}{% endcapture %}
+          {% endif %}
             <div>
                 <figure>
-                    <a href="/public/images/{{ page.image }}">
-                    <img alt="" src="/public/images/{{ page.image }}" class="mw5 fr mb4 ml4">
+                  <a href="{{src}}">
+                    <img alt="" src="{{src}}" class="mw5 fr mb4 ml4">
                     </a>
                     {% if page.caption %}
                         <figcaption>{{ page.caption }}</figcaption>
@@ -102,4 +107,4 @@ url: research/
     </div>
         {% endif %}
 
-</div>
+</article>

@@ -10,7 +10,7 @@ url: research/
       <section>
         {% if post.title != null %}
             <h2 class="ma0 dib b">
-                <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
             </h2>
             <div class="dib ml3 f6 lh-copy Courier fr">
                 ↓ projects.select(random) ※
@@ -28,7 +28,7 @@ url: research/
             <ul class="ma0 pa0">
             {% assign projects = site.categories[post.title] | sample: 5 %}
             {% for post in projects %}
-                <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title }}</a></li>
+                <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a></li>
             {% endfor %}
             </ul>
         </div>
