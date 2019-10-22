@@ -3,9 +3,9 @@ layout: default
 url: research/
 ---
 
-<div class="">
+<article>
     <div class="flex pa0 ma0">
-        <div class="b">{{ page.title }}</div>
+      <h2 class="b" style="font-size: 18px;">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>
         {% if page.type %}
         <div class="tag">{{ page.type }}</div>
         {% endif %}
@@ -107,4 +107,4 @@ url: research/
     </div>
         {% endif %}
 
-</div>
+</article>
