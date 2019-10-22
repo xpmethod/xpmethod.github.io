@@ -17,7 +17,7 @@ collaborative research dataset of the c16 memoir [_Bāburnāma_][4]. The project
 led by Research Data Librarian [Moacir P. de Sá Pereira][2] and Associate
 Professor of History [Manan Ahmed][3]. 
 
-The project aims to build a digital version of version of Annette Beveridge’s
+The project aims to build a digital version of Annette Beveridge’s
 1912–1922 translation of _Bāburnāma_, improving the geospatial data already
 collected as part of the earlier XPMethod project “[Mapping Mughal Hindustan,
 1500–1600 CE][5].” In addition, the researchers will assemble a rich
