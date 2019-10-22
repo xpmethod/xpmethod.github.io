@@ -138,12 +138,12 @@ div.update-list .update-date {
   content: "";
 }
 
-.people-list li:last-child:before{
-  content: "and ";
+.people-list li:nth-last-child(2):after {
+  content: " and ";
 }
 
-.people-list li:first-child:before{
-  content: "";
+.people-list li:nth-last-child(3) + li:after {
+  content: ", and ";
 }
 
 footer {
