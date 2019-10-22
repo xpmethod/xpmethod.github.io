@@ -14,7 +14,7 @@ layout: default
         <section class="pb2">
             <div class="flex pa0 ma0 bb">
                 <span class="b">
-                    <a href="{{ post.url }}">{{ post.title}}</a>
+                  <a href="{{ post.url }}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
                 </span>
 
                 <!-- What kind of activity is this? Project, talk, blog post? -->
@@ -43,9 +43,14 @@ layout: default
             {% unless post.categories contains "event" %}
                 <div class="pl3 cf">
                         {% if post.image %}
+                          {% if post.image contains "https://" or post.image contains "http://" %}
+                            {% assign src = post.image %}
+                          {% else %}
+                            {% capture src %}/public/images/{{ post.image }}{% endcapture %}
+                          {% endif %}
                         <div class="fr">
                             <a href="{{ post.url }}">
-                                <img alt="project image" src="/public/images/{{ post.image }}"
+                              <img alt="project image" src="{{src}}"
                                 class="mw5 mb4 ml4 h-auto debug">
                             </a>
                             </div>
