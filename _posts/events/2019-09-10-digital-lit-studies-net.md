@@ -33,8 +33,6 @@ experience is required.
 - Torben Jelsbak (University of Copenhagen)
 - Anna Lawaetz (Royal Library)
 - Mads Rosendahl Thomsen (Aarhus University)
-- Jonathan Reeve (Columbia University)
-- Moacir P. de Sá Pereira (Columbia University)
 
 ## Program
 
