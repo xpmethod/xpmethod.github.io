@@ -21,6 +21,11 @@ After a discussion on the history of formal analysis on Tuesday we will recreate
 encountered studies on Thursday, using contemporary computational techniques. No prior
 experience is required.
 
+For a glimpse into the proceedings, read "[Adventures in Reproducing 19th Century Digital
+Humanities Projects][1]" by Jonathan Reeve!
+
+[1]: https://jonreeve.com/2019/10/experiments-with-literary-genre/
+
 ## List of participants
 
 - Sofie Kluge (University of Southern Denmark)
