@@ -19,9 +19,9 @@ Open Spaces Society, and The Initiative for the Prevention of Biopiracy. The eth
 endeavour opposes the notion of intellectual property protections, particularly in cases where
 private ownership appropriates concerns previously held in the public domain.  Thus, for
 example, a type of indigenous maize long-cultivated by Oaxacan farmers was recently patented by
-Mars, Inc., a US-based corporation.<sup>^1</sup> Similar acts of bio-colonialism involved
+Mars, Inc., a US-based corporation.<sup>1</sup> Similar acts of bio-colonialism involved
 numerous endemic plants, including rooibos, honeybush, turmeric, and Darjeeling
-Tea.<sup>^2</sup> Less known is the gradual encroachment of private interests into the realm of
+Tea.<sup>2</sup> Less known is the gradual encroachment of private interests into the realm of
 the arts and the humanities, where cultural "innovators" are quietly patenting "teaching
 machines," "method and systems for automatic computation creativity for story generation," and
 "poet-assistants."
@@ -35,8 +35,8 @@ action.
 
 Theoretically, according to US Patent and Trademark Office, works in the public domain cannot
 
-1.https://web.archive.org/save/https://e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant
-2.https://web.archive.org/web/20200430164917/https://theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589
+1. [e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant](https://web.archive.org/save/https://e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant)
+2. [theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589](https://web.archive.org/web/20200430164917/https://theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589)
 
 
 
