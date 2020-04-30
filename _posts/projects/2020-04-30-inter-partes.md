@@ -33,10 +33,18 @@ properties ensures, at the very least, the continuing easement in the interest o
 A metaphorical ramble through illicitly annexed intellectual property further requires legal
 action.
 
-Theoretically, according to US Patent and Trademark Office, works in the public domain cannot
+According to US Code Title 35 § 102, an invention cannot be patented if "the claimed invention
+was patented, described in a printed publication, or in public use, on sale, or otherwise
+available to the public before the effective filing date of the claimed invention." However,
+the US Patent and Trademark Office does not always have resources to verify the absence of
+prior art, especially when it comes to matters of cultural production. Therefore, the IP Ramble
+project aims to: (a) locate prior art for patents issued absent due diligence or in bad faith,
+and (b) to use the inter parte review mechanisms through The Patent Trial and Appeal Board as
+provided by the America Invents Act (AIA) of 2012.<sup>3</sup>
 
 1. [e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant](https://web.archive.org/save/https://e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant)
 2. [theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589](https://web.archive.org/web/20200430164917/https://theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589)
+3. For more information on PTAB and AIA procedures see [www.uspto.gov/patents-application-process/patenttrialandappealboard](https://www.uspto.gov/patents-application-process/patenttrialandappealboard).
 
 
 
