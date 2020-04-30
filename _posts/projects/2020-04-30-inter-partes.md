@@ -42,6 +42,9 @@ project aims to: (a) locate prior art for patents issued absent due diligence or
 and (b) to use the inter parte review mechanisms through The Patent Trial and Appeal Board as
 provided by the America Invents Act (AIA) of 2012.<sup>3</sup>
 
+The project is in its infancy and I am actively looking for collaborators. Please contact
+[DYT](https://english.columbia.edu/content/dennis-tenen) with any questions.
+
 1. [e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant](https://web.archive.org/save/https://e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant)
 2. [theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589](https://web.archive.org/web/20200430164917/https://theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589)
 3. For more information on PTAB and AIA procedures see [www.uspto.gov/patents-application-process/patenttrialandappealboard](https://www.uspto.gov/patents-application-process/patenttrialandappealboard).
