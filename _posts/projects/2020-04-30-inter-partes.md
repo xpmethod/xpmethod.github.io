@@ -43,7 +43,7 @@ and (b) to use the inter parte review mechanisms through The Patent Trial and Ap
 provided by the America Invents Act (AIA) of 2012.<sup>3</sup>
 
 Please contact [DYT](https://english.columbia.edu/content/dennis-tenen) if you are interested
-in getting involved.
+in getting involved (and I will add you to the participants list on this page).
 
 1. [e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant](https://web.archive.org/save/https://e360.yale.edu/features/indigenous-maize-who-owns-the-rights-to-mexicos-wonder-plant)
 2. [theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589](https://web.archive.org/web/20200430164917/https://theconversation.com/biopiracy-when-indigenous-knowledge-is-patented-for-profit-55589)
