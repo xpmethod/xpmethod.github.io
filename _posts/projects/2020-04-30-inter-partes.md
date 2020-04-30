@@ -21,7 +21,7 @@ private ownership appropriates concerns previously held in the public domain.  T
 example, a type of indigenous maize long-cultivated by Oaxacan farmers was recently patented by
 Mars, Inc., a US-based corporation.<sup>1</sup> Similar acts of bio-colonialism involved
 numerous endemic plants, including rooibos, honeybush, turmeric, and Darjeeling
-Tea.<sup>2</sup> Less known is the gradual encroachment of private interests into the realm of
+tea.<sup>2</sup> Less known is the gradual encroachment of private interests into the realm of
 the arts and the humanities, where cultural "innovators" are quietly patenting "teaching
 machines," "method and systems for automatic computation creativity for story generation," and
 "poet-assistants."
