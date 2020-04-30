@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Plain Text
-category: trans-media-collective
+category: lit-mod-viz
 type: book
 tags:
 - Dennis Yi Tenen

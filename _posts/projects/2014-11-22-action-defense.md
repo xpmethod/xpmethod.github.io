@@ -15,7 +15,7 @@ tags:
 - Zoe Wood
 type: OpSec
 published: true
-category: trans-media-collective
+category: epistemic-action
 image: woman-poster.jpg
 images:
 - hashtag-feminism.png

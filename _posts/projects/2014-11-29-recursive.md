@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Recursive Encounters w/ AI
-category: trans-media-collective
+category: epistemic-action
 type: experiment
 tags:
 - Jonah Bossewitch

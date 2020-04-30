@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Land Before Time II
-category: trans-media-collective
+category: epistemic-action
 published: true
 image: land-1.jpg
 images: 

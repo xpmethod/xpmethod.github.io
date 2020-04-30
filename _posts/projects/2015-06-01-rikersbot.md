@@ -19,7 +19,7 @@ tags:
 - Elijah Strauss
 - Dennis Yi Tenen
 - Young People at Rikers
-category: trans-media-collective
+category: epistemic-action
 type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg

@@ -8,7 +8,7 @@ tags:
 - Nosheen K. Ali
 published: true
 image: umang.png
-category: trans-media-collective
+category: epistemic-action
 type: OpSec
 snippet: 145
 ---

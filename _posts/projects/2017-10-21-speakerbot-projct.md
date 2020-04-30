@@ -1,7 +1,7 @@
 ---
 layout: project
 title: The Speakerbot Project
-category: trans-media-collective 
+category: epistemic-action 
 published: true
 image: speakerbot_project.png
 tags:

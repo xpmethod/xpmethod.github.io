@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Torn Apart
-category: embodied-space-lab
+category: epistemic-action
 published: true
 tags:
 - Alex Gil
