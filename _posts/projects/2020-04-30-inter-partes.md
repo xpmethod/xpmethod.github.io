@@ -8,7 +8,7 @@ type: legal action
 image: book-patent.png
 github:
 snippet: 185
-published: false
+published: true
 updates:
 
 ---
