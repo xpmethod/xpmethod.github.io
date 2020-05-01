@@ -12,7 +12,7 @@ layout: default
             view portfolio →
         </a>
         <div class = "ml2">
-            {{ cluster.content }} Some randomly selected projects from this collective include:
+            {{ cluster.content }} A random sample of the projects from this collective includes:
             <ul class = "people-list di pa0 ma0">
                 {% assign projects = site[cluster.title] | sample: 5 %}
                 {% for post in projects %}
