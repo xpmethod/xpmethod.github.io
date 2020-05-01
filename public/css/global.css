@@ -178,11 +178,12 @@ footer {
 
 .footnotes p {
     padding-bottom: 0em;
+    font-size: 1em;
 }
 
 .footnote {
-    font-size: .9em;
     font-family: "Inconsolata", monospace;
+    font-size: .9em;
 }
 
 table {
