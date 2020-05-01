@@ -4,43 +4,41 @@ layout: article
 
 {{ content }}
 
-<div>
-    <a href="/public/images/lab.jpg">
-        <img alt="" src="/public/images/lab.jpg" class="mw-100 mw5 fr mb4 ml4 b--solid-ns bw1 b--black-20">
+<!-- lets iterate over the people tag and make a list of all participants -->
+{% assign people = site.documents | map: 'people' | uniq | compact %}
+
+<div class = "mb3">
+
+    <div class = "f4 mb2">Contributors</div>
+
+    <a href = "/public/images/lab.jpg">
+        <img alt = "" src = "/public/images/lab.jpg" class="mw-100 mw5 fr mb4 ml4 b--solid-ns bw1 b--black-20">
     </a>
+
+    <ul class = "people-list di">
+        {% for person in people %}
+            <li class = "di">{{ person }}</li>
+        {% endfor %}
+    </ul>
+
 </div>
 
-<div class="f4">Contributors</div>
-<!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
+<div class = "f4">Moderators</div>
+    <ul class = "people-list mt0 di">
+        {% for mod in site.data.mods %}
+            <li class = "di"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
+        {% endfor %}
+    </ul>
 
-<ul class="di people-list di mt0">
-    {% for tag in site.documents[people] %}
-    {% assign name = tag[0] %}
-    {% if site.data.contributors[name].url %}
-    <li class="di"><a href="{{ site.data.contributors[name].url }}">{{ name }}</a></li>
-    {% else %}
-    <li class="di">{{ name }}</li>
-    {% endif %}
-    {% endfor %}
-</ul>
+<div class="f4 mt3">Alumni</div>
 
-<div class="f4">Moderators</div>
-
-<ul class="people-list mt0">
-    {% for mod in site.data.mods %}
-        <li class="di"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
-    {% endfor %}
-</ul>
-
-<div class="f4">Alumni</div>
-
-<ul class="people-list mt0">
-    {% for mod in site.data.alumns %}
-        <li class="di">
-            <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} -
-            {{ mod.dateend }})
-        </li>
-    {% endfor %}
-</ul>
+    <ul class="people-list mt0 di">
+        {% for mod in site.data.alumns %}
+            <li class = "di">
+                <a href = "{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} -
+                {{ mod.dateend }})
+            </li>
+        {% endfor %}
+    </ul>
 
 
