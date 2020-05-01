@@ -34,7 +34,7 @@ collections:
   clusters:
     ouput: true
 
-# specifies default layouts for all items in collection subfolder
+# specifies default layouts for all items in collection subfolders
 defaults:
   - scope:
       path: ""
@@ -46,3 +46,23 @@ defaults:
       type: "clusters"
     values:
       layout: "cluster"
+  - scope:
+      path: ""
+      type: "lit-mod-viz"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "knowledge-design-studio"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "embodied-space-lab"
+    values:
+      layout: "project"
+  - scope:
+      path: ""
+      type: "epistemic-action"
+    values:
+      layout: "project"
