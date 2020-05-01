@@ -1,6 +1,6 @@
 ---
 title: "Mapping Mughal Hindustan, 1500-1600 CE"
-tags:
+people:
 - Manan Ahmed
 - Juan Francisco Saldarriaga
 - Sriharsha Devulapalli

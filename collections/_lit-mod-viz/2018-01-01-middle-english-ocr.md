@@ -1,6 +1,6 @@
 ---
 title: "Middle English Manuscript OCR"
-tags:
+people:
 - Gianmarco Saretto
 - Jenna Alexis Schoen
 type: tool

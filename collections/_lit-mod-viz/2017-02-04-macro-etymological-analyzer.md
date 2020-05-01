@@ -1,6 +1,6 @@
 ---
 title: "Macro-Etymological Textual Analysis"
-tags:
+people:
  - Jonathan Reeve
 published: true
 snippet: 81

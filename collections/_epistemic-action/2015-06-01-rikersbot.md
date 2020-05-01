@@ -1,6 +1,6 @@
 ---
 title: Rikers Bot
-tags:
+people:
 - Manan Ahmed
 - Adam Ares
 - Zeinab Aina

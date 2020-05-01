@@ -1,6 +1,6 @@
 ---
 title: "Semantic Analysis of One Million &#35;GamerGate Tweets"
-tags:
+people:
 - Phillip R. Polefrone
 type: semantic analysis
 snippet: 150

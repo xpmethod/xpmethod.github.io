@@ -1,6 +1,6 @@
 ---
 title: Character Networks for Narrative Generation
-tags:
+people:
 - Graham Alexander Sack
 type: article
 snippet: 185

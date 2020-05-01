@@ -1,6 +1,6 @@
 ---
 title: "Jail of Mountjoy"
-tags: 
+people: 
 - Casey Michael Henry
 type: graphic
 snippet: 350

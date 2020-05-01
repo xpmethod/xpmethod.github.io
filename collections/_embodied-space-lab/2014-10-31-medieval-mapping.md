@@ -1,6 +1,6 @@
 ---
 title: "Mapping Medieval Pasts"
-tags:
+people:
 - Manan Ahmed
 type: map
 published: true

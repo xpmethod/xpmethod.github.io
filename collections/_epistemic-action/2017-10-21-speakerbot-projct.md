@@ -2,7 +2,7 @@
 title: The Speakerbot Project
 published: true
 image: speakerbot_project.png
-tags:
+people:
 - Jonah Bossewitch
 updates:
 ---

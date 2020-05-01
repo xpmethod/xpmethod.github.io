@@ -1,6 +1,6 @@
 ---
 title: Roget Tools
-tags:
+people:
 - Phillip R. Polefrone
 type: toolkit
 snippet: 100

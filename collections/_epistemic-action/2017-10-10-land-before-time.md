@@ -5,7 +5,7 @@ images:
 - land-2.png
 - land-3.png
 type: performance
-tags:
+people:
 - Gabrielle DaCosta
 - Sam Yulsman
 published: true

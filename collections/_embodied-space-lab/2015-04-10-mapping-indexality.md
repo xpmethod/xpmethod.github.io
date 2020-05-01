@@ -1,6 +1,6 @@
 ---
 title: "Mapping Indexicality"
-tags: 
+people: 
  - Emily Fuhrman
 type: graphic
 published: true

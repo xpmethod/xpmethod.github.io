@@ -1,7 +1,7 @@
 ---
 title: An Inquiry into the Creative Limits of Artificial Intelligence
 type: book
-tags:
+people:
 - Dennis Yi Tenen
 image: robo-plotter.jpg
 

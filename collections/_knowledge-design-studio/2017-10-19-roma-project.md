@@ -1,7 +1,7 @@
 ---
 title: The Roma Project
 published: true
-tags:
+people:
 - Cristiana Grigore
 - Alex Gil
 updates:

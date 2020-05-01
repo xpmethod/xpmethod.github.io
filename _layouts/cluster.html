@@ -28,10 +28,10 @@ layout: default
             <!-- first test if tags is not nill -->
             <!-- if post.tags is not working -->
             <!-- this tests for the first member in the list -->
-            {% if post.tags[0] %}
+            {% if post.people[0] %}
                 <div class="">
                     <ul class="people-list ma0 pl2">
-                        {% for person in post.tags %}
+                        {% for person in post.people%}
                             <li class="di bodoni i f5 ma0">{{ person }}</li>
                         {% endfor %}
                     </ul>

@@ -1,6 +1,6 @@
 ---
 title: "Shape of Time"
-tags:
+people:
 - Sierra Eckert
 - Allison Chaney
 type: visualization

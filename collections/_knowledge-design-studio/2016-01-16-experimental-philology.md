@@ -1,6 +1,6 @@
 ---
 title: "Experimental Philology and Minimal Editions"
-tags:
+people:
 - Susanna Allés Torrent
 type: archive
 published: true

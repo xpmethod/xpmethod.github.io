@@ -2,7 +2,7 @@
 title: Nimble Tents
 published: true
 image: prmapathon-price.jpg
-tags:
+people:
 - Alex Gil
 - Manan Ahmed
 updates:

@@ -1,7 +1,7 @@
 ---
 title: Torn Apart
 published: true
-tags:
+people:
 - Alex Gil
 - Manan Ahmed
 - Moacir P. de Sá Pereira

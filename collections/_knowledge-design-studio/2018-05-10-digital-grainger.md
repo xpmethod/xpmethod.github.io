@@ -1,6 +1,6 @@
 ---
 title: "Digital Grainger: An Online Edition of The Sugar-Cane 1764"
-tags:
+people:
 - Kimberly Takahata
 type: template
 published: true

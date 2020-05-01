@@ -1,6 +1,6 @@
 ---
 title: "Middlemarch Critical Histories"
-tags:
+people:
  - Jonathan Reeve
  - Milan Terlunen
  - Sierra Eckert

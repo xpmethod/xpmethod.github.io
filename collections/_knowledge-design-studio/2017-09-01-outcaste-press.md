@@ -3,7 +3,7 @@ title: Outcaste Press
 published: true
 image:
 type: publishing
-tags:
+people:
 - Varsha Ayyar
 published: false
 ---

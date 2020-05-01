@@ -1,6 +1,6 @@
 ---
 title: "Text Divider: Quick Markup for Chapter and Dialogue Splitting"
-tags: 
+people: 
  - Moacir P. de Sá Pereira
 type: python script
 image: url-alice.png

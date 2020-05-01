@@ -1,7 +1,7 @@
 ---
 title: Recursive Encounters w/ AI
 type: experiment
-tags:
+people:
 - Jonah Bossewitch
 - Rob Garfield
 published: true

@@ -1,6 +1,6 @@
 ---
 title: Building a Digital _Bāburnāma_
-tags:
+people:
 - Moacir P. de Sá Pereira
 - Manan Ahmed
 type: dataset

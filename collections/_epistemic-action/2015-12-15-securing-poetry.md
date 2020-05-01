@@ -1,6 +1,6 @@
 ---
 title: "Securing Poetry: Umang"
-tags:
+people:
 - Manan Ahmed
 - Jonah Bossewitch
 - Alex Gil

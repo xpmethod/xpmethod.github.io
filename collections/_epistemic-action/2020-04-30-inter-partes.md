@@ -1,6 +1,6 @@
 ---
 title: Inter Partes Ramble in the Humanities
-tags:
+people:
 - Dennis Yi Tenen
 type: legal action
 image: book-patent.png

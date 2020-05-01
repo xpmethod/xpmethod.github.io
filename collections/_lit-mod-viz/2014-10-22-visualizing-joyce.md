@@ -1,6 +1,6 @@
 ---
 title: "Visualizing Joyce"
-tags: 
+people: 
  - Emily Fuhrman
 type: graphic
 snippet: 105

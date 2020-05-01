@@ -1,6 +1,6 @@
 ---
 title: "Epigraphing the 19th Century"
-tags:
+people:
 - Aaron Plasek
 type: experiment
 published: true

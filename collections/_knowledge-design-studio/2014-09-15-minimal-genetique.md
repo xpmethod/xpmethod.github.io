@@ -1,6 +1,6 @@
 ---
 title: minimal génétique
-tags:
+people:
  - Alex Gil
 categories: knowledge-design-studio
 type: draft

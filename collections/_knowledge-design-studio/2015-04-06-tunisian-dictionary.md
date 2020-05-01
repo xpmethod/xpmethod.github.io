@@ -1,6 +1,6 @@
 ---
 title: "English-Tunisian Dictionary"
-tags:
+people:
 - William J. Roberts
 type: public language pedagogy
 snippet: 150

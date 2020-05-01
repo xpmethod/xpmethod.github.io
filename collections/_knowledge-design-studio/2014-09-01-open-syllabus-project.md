@@ -1,6 +1,6 @@
 ---
 title: Open Syllabus Project
-tags:
+people:
 - Alex Gil
 - Joe Karaganis (American Assembly)
 - David McClure (Stanford)

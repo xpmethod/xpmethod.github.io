@@ -2,7 +2,7 @@
 layout: event
 title: "A Digital Critical Edition for the Making and Knowing Project"
 location: "Butler Studio"
-tags:
+people:
 - Pamela Smith
 participants:
 - Jenny Boulboullé

@@ -1,6 +1,6 @@
 ---
 title: No Connect
-tags:
+people:
 - Alex Gil
 - Dennis Yi Tenen
 type: web development

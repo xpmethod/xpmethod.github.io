@@ -1,6 +1,6 @@
 ---
 title: "Semi-Automated Literary Mapping"
-tags:
+people:
 - Phillip R. Polefrone
 type: interface
 snippet: 150

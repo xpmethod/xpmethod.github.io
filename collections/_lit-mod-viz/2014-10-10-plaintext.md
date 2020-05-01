@@ -1,7 +1,7 @@
 ---
 title: Plain Text
 type: book
-tags:
+people:
 - Dennis Yi Tenen
 sparkle: plain-text-prog.txt
 image: control-2.png
