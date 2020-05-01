@@ -16,8 +16,8 @@ include: ['_pages']
 exclude: ['vendor', 'doc', 'README.md']
 
 # enable redirects
-plugins: []
-    #    - jekyll-redirect-from
+plugins:
+  - jekyll-redirect-from
 
 collections_dir: collections
 collections:
@@ -66,3 +66,7 @@ defaults:
       type: "epistemic-action"
     values:
       layout: "project"
+      redirect-from:
+        - public-discourse/
+        - trans-media-collective/
+        - embodied-space-lab/

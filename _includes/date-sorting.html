@@ -1,5 +1,5 @@
     {% assign order = '' %}
-    {% for post in site.posts %}
+    {% for post in site.collections %}
 
         {% assign post_index = forloop.index0 %}
 
@@ -16,6 +16,3 @@
     {% endfor %}
 
     {% assign order = order | split: '|' | sort  | reverse  %}
-
-
-    

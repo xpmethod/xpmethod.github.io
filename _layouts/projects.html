@@ -4,12 +4,9 @@ layout: default
 
     {% for cluster in site.clusters reversed %}
     <div class = "mb3">
-        <h2 class="dib b">
-            <a href="{{ BASE_PATH }}{{ cluster.title }}">{{ cluster.title }} </a>
-        </h2>
-        <a class="dib f6 lh-copy Courier f6 " href="{{ BASE_PATH }}{{ cluster.url }}">
-        ※ 
-            view portfolio →
+        <a href="{{ BASE_PATH }}{{ cluster.url }}">
+            <h2 class="dib b">{{ cluster.title }}</h2>
+            <span class="dib f6 lh-copy Courier f6 " >※  view portfolio →</span>
         </a>
         <div class = "ml2">
             {{ cluster.content }} A random sample of the projects from this collective includes:
