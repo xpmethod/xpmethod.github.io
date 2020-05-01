@@ -7,8 +7,9 @@ layout: default
         <h2 class="dib b">
             <a href="{{ BASE_PATH }}{{ cluster.title }}">{{ cluster.title }} </a>
         </h2>
-        <a class=" dib f6 lh-copy Courier fr f6" href="{{ BASE_PATH }}{{ cluster.url }}">
-            view all projects →
+        <a class="dib f6 lh-copy Courier f6 " href="{{ BASE_PATH }}{{ cluster.url }}">
+        ※ 
+            view all projects in this collective →
         </a>
         <div class = "ml2">
             {{ cluster.content }} Some randomly selected projects in this cluster include:
@@ -19,7 +20,6 @@ layout: default
                 {% endfor %}
             </ul>
         </div>
-        <!--※  -->
     </div>
 
     {% endfor %}
