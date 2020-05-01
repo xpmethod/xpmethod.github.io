@@ -1,6 +1,5 @@
     {% assign order = '' %}
-    {% for post in site.collections %}
-
+    {% for post in site.documents %}
         {% assign post_index = forloop.index0 %}
 
         {% for update in post.updates %}
