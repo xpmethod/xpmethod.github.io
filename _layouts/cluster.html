@@ -1,0 +1,83 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<span class="tr dib ml3 f6 lh-copy w-100 Courier fr">
+    view portfolio ↓
+</span>
+<br>
+
+<article class="mb1">
+    {% for post in site[page.title] reversed %}
+        <section class="pb2">
+            <div class="flex pa0 ma0 bb">
+                <span class="b">
+                  <a href="{{ post.url }}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+                </span>
+
+                <!-- What kind of activity is this? Project, talk, blog post? -->
+                {% if post.type %}
+                    <div class="tag">
+                        {{ post.type}}
+                    </div>
+                {% endif %}
+            </div>
+
+            <!-- first test if tags is not nill -->
+            <!-- if post.tags is not working -->
+            <!-- this tests for the first member in the list -->
+            {% if post.people[0] %}
+                <div class="">
+                    <ul class="people-list ma0 pl2">
+                        {% for person in post.people%}
+                            <li class="di bodoni i f5 ma0">{{ person }}</li>
+                        {% endfor %}
+                    </ul>
+                </div>
+            {% endif %}
+
+            <!-- events are different since we are pulling the prompt -->
+            <!-- instead of post.content -->
+            {% unless post.categories contains "event" %}
+                <div class="pl3 cf">
+                    <div class="">
+                        {% if post.image %}
+                          {% if post.image contains "https://" or post.image contains "http://" %}
+                            {% assign src = post.image %}
+                          {% else %}
+                            {% capture src %}/public/images/{{ post.image }}{% endcapture %}
+                          {% endif %}
+                        <div class="fr">
+                            <a href="{{ post.url }}">
+                              <img alt="project image" src="{{src}}"
+                                class="mw5 mb4 ml4 h-auto">
+                            </a>
+                            </div>
+                        {% endif %}
+
+                    <!-- if we have sparks, show that -->
+                    {% if post.sparkle %}
+                        <div id="sparkle">{% include {{ post.sparkle }} %}</div>
+                    {% endif %}
+
+                    <!-- if post does not list snippet length in the yaml, use default -->
+                    {% unless post.snippet %}
+                        {{ post.content | markdownify | truncatewords:125 }}
+                    {% endunless %}
+
+                    <!-- if post lists snippet length in the yaml, use that -->
+                    {% if post.snippet %}
+                        {{ post.content | markdownify | truncatewords:post.snippet }}
+                    {% endif %}
+
+                <!-- hacky, but lets close all interrupted tags from previous post in the
+                loop -->
+                </strong>
+                </div>
+            {% endunless %}
+        </section>
+    {% endfor %}
+
+</article>

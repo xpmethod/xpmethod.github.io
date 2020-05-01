@@ -1,39 +1,22 @@
 ---
 layout: default
-url: research/
 ---
 
-    {{ content }}
-
-    {% for post in site.categories['projects'] %}
-        {% if post.title != null %}
-            <h2 class="ma0 dib b">
-              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <div class="dib ml3 f6 lh-copy Courier fr">
-                ↓ projects.select(random) ※
-                <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
-                    view all →
-                </a>
-            </div>
-
-            <div class="ml3 f5 lh-copy">
-            </div>
-        {% endif %}
-
-        <!-- list all projects as a strain in subscript -->
-        <div id="strains" class="ma0 pa0">
-            <ul class="ma0 pa0">
-            {% assign projects = site.categories[post.title] | sample: 5 %}
-            {% for post in projects %}
-                <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a></li>
-            {% endfor %}
+    {% for cluster in site.clusters reversed %}
+    <div class = "mb3">
+        <a href="{{ BASE_PATH }}{{ cluster.url }}">
+            <h2 class="dib b">{{ cluster.title }}</h2>
+            <span class="dib f6 lh-copy Courier f6 " >※  view portfolio →</span>
+        </a>
+        <div class = "ml2">
+            {{ cluster.content }} A random sample of the projects from this collective includes:
+            <ul class = "sentence-list di pa0 ma0">
+                {% assign projects = site[cluster.title] | sample: 5 %}
+                {% for post in projects %}
+                    <li class = "di pa0 ma0"><a href="{{ post.url }}" class="inconsolata">{{ post.title | strip }}</a></li>
+                {% endfor %}
             </ul>
         </div>
+    </div>
 
-        <div>
-            {{ post.content | truncatewords:275 }}
-        </div>
-
-        <!-- <a href="{{ post.url }}">Read more</a> -->
     {% endfor %}

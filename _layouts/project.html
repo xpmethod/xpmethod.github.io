@@ -11,11 +11,10 @@ url: research/
         {% endif %}
     </div>
 
-    <!-- remember tags are people -->
-    {% if page.tags %}
+    {% if page.people%}
         <div class="">
             <ul class="people-list ma0 pl2">
-                {% for person in page.tags %}
+                {% for person in page.people %}
             <li class="di bodoni i f5 ma0">{% if person.name %}<a href="{{ person.url }}">{{ person.name }}</a>{% else %}{{ person }}{% endif %}</li>
         {% endfor %}
         </ul>
