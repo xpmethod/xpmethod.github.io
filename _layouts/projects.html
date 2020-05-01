@@ -2,36 +2,26 @@
 layout: default
 ---
 
-<article class="categories">
-    {{ content }}
-
-    {% for col in site.collections %}
-        <h2 class="ma0 dib b">
-            <a href="{{ BASE_PATH }}{{ col.label }}">{{ col.label }}</a>
+    {% for cluster in site.clusters reversed %}
+    <div class = "mb3">
+        <h2 class="dib b">
+            <a href="{{ BASE_PATH }}{{ cluster.title }}">{{ cluster.title }} </a>
         </h2>
-        <div class="dib ml3 f6 lh-copy Courier fr">
-            ↓ projects.select(random) ※
-            <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
-                view all →
-            </a>
-        </div>
-
-        <div class="ml3 f5 lh-copy">
-        </div>
-
-        <!-- list all projects as a strain in subscript -->
-        <div id="strains" class="ma0 pa0">
-            <ul class="ma0 pa0">
-            {% assign projects = site.categories[post.title] | sample: 5 %}
-            {% for post in projects %}
-                <li class="di"><a href="{{ post.url }}" class="inconsolata">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a></li>
-            {% endfor %}
+        <a class=" dib f6 lh-copy Courier fr f6" href="{{ BASE_PATH }}{{ cluster.url }}">
+            view all projects →
+        </a>
+        <div class = "ml2">
+            {{ cluster.content }} Some randomly selected projects in this cluster include:
+            <ul class = "people-list di pa0">
+                {% assign projects = site.lit-mod-viz] | sample: 5 %}
+                {% for post in projects %}
+                    <li class = "di pa0">
+                        <a href="{{ post.url }}" class="inconsolata">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
+                    </li>
+                {% endfor %}
             </ul>
         </div>
-
-        <div>
-            {{ post.content | truncatewords:275 }}
-        </div>
+        <!--※  -->
+    </div>
 
     {% endfor %}
-</article>

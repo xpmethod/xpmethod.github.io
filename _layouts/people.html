@@ -10,10 +10,10 @@ layout: article
     </a>
 </div>
 
-<h2>Contributors</h2>
+<div class="f4">Contributors</div>
 <!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
 
-<ul class="people-list">
+<ul class="di people-list di mt0">
     {% for tag in site.tags %}
     {% assign name = tag[0] %}
     {% if site.data.contributors[name].url %}
@@ -24,21 +24,21 @@ layout: article
     {% endfor %}
 </ul>
 
-<h2>Moderators</h2>
+<div class="f4">Moderators</div>
 
-<ul class="people-list">
+<ul class="people-list mt0">
     {% for mod in site.data.mods %}
-        <li class="dib"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
+        <li class="di"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
     {% endfor %}
 </ul>
 
-<h2>Alumni</h2>
+<div class="f4">Alumni</div>
 
-<ul class="people-list">
+<ul class="people-list mt0">
     {% for mod in site.data.alumns %}
-        <li class="dib">
-            <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart}} -
-            {{ mod.dateend}})
+        <li class="di">
+            <a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} -
+            {{ mod.dateend }})
         </li>
     {% endfor %}
 </ul>

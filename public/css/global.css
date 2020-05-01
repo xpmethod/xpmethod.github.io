@@ -130,12 +130,17 @@ div.update-list .update-date {
   color: lightgray; 
 }
 
-.people-list li:after {
-  content: ", ";
+.people-list ul {
+  font-size: 0;
 }
 
-.people-list li:last-child:after {
-  content: "";
+.people-list ul li {
+    font-size: 14px;
+    display: inline-block;
+}
+
+.people-list li:after {
+  content: ", ";
 }
 
 .people-list li:nth-last-child(2):after {
@@ -145,6 +150,15 @@ div.update-list .update-date {
 .people-list li:nth-last-child(3) + li:after {
   content: ", and ";
 }
+
+.people-list li:last-child:after {
+  content: ".";
+}
+
+.people-list li:only-child:after {
+  content: ".";
+}
+
 
 footer {
   border-top: 5px solid #eee;
