@@ -1,27 +1,23 @@
 ---
 layout: default
-url: research/
 ---
 
 <article class="categories">
     {{ content }}
 
-    {% for post in site.categories[page.title] %}
-      <section>
-        {% if post.title != null %}
-            <h2 class="ma0 dib b">
-              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
-            </h2>
-            <div class="dib ml3 f6 lh-copy Courier fr">
-                ↓ projects.select(random) ※
-                <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
-                    view all →
-                </a>
-            </div>
+    {% for col in site.collections %}
+        <h2 class="ma0 dib b">
+            <a href="{{ BASE_PATH }}{{ col.label }}">{{ col.label }}</a>
+        </h2>
+        <div class="dib ml3 f6 lh-copy Courier fr">
+            ↓ projects.select(random) ※
+            <a class="f6" href="{{ BASE_PATH }}{{ post.url }}">
+                view all →
+            </a>
+        </div>
 
-            <div class="ml3 f5 lh-copy">
-            </div>
-        {% endif %}
+        <div class="ml3 f5 lh-copy">
+        </div>
 
         <!-- list all projects as a strain in subscript -->
         <div id="strains" class="ma0 pa0">
@@ -37,7 +33,5 @@ url: research/
             {{ post.content | truncatewords:275 }}
         </div>
 
-        <!-- <a href="{{ post.url }}">Read more</a> -->
-      </section>
     {% endfor %}
 </article>
