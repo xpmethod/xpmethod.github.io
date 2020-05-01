@@ -3,7 +3,7 @@ layout: project
 title: Roget Tools
 tags:
 - Phillip R. Polefrone
-category: literary-modeling-and-visualisation-lab
+category: lit-mod-viz
 type: toolkit
 snippet: 100
 issue: 14

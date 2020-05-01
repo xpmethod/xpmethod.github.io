@@ -2,27 +2,27 @@
 layout: default
 ---
 
-  {% for post in site.categories['events'] %}
+  {% for event in site.events %}
     <section class="mb4">
-      {% if post.title != null %}
+      {% if event.title != null %}
 
           <div class="w-100 code f5">
-            <time datetime={{post.date}}>
-              {{ post.date | date_to_string }}
+            <time datetime={{event.date}}>
+              {{ event.date | date_to_string }}
             </time>
 
-              {% if post.type %}
-                  <span class="gray"> ※ {{ post.type }}</span>
+              {% if event.type %}
+                  <span class="gray"> ※ {{ event.type }}</span>
               {% endif %}
           </div>
 
           <h2 class="ma0 normal">
-              <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a>
+              <a href="{{ BASE_PATH }}{{ event.url }}">{{ event.title }}</a>
           </h2>
 
 
       {% endif %}
 
-      <p class="mt0 ml3">{{ post.prompt }}</p>
+      <p class="mt0 ml3">{{ event.prompt }}</p>
     </section>
   {% endfor %}

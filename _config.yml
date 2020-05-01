@@ -18,3 +18,17 @@ exclude: ['vendor', 'doc', 'README.md']
 # enable redirects
 plugins: []
     #    - jekyll-redirect-from
+
+collections_dir: collections
+collections:
+  events:
+    description: "test 1"
+  lit-mod-viz:
+    description: "test 2"
+  embodied-space-lab:
+    description: "test 3"
+  knowledge-design-studio:
+    description: "test 4"
+  epistemic-action:
+    description: "test 5"
+
