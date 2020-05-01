@@ -5,12 +5,12 @@ layout: default
 {{ content }}
 
 <span class="tr dib ml3 f6 lh-copy w-100 Courier fr">
-    view all ↓
+    view portfolio ↓
 </span>
 <br>
 
 <article class="mb1">
-    {% for post in site.categories[page.title] %}
+    {% for post in site[page.title] reversed %}
         <section class="pb2">
             <div class="flex pa0 ma0 bb">
                 <span class="b">
