@@ -74,8 +74,8 @@ Collective Intelligence][5]" (2014).
 
 [6]: https://web.archive.org/web/20190513185445/https://www.nytimes.com/2016/07/13/opinion/when-law-is-not-justice.html?_r=0
 
-<sub>*Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
-[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md)*.</sub>
+Last edited on {{ site.time | date: '%d/%m/%y' }}. Change log
+[here](https://github.com/xpmethod/xpmethod.github.io/commits/master/lab-culture.md).
 
 
 
