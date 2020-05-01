@@ -42,6 +42,7 @@ layout: default
             <!-- instead of post.content -->
             {% unless post.categories contains "event" %}
                 <div class="pl3 cf">
+                    <div class="">
                         {% if post.image %}
                           {% if post.image contains "https://" or post.image contains "http://" %}
                             {% assign src = post.image %}
@@ -51,7 +52,7 @@ layout: default
                         <div class="fr">
                             <a href="{{ post.url }}">
                               <img alt="project image" src="{{src}}"
-                                class="mw5 mb4 ml4 h-auto debug">
+                                class="mw5 mb4 ml4 h-auto">
                             </a>
                             </div>
                         {% endif %}
