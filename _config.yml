@@ -22,13 +22,12 @@ plugins: []
 collections_dir: collections
 collections:
   events:
-    description: "test 1"
+    output: true
   lit-mod-viz:
-    description: "test 2"
+    output: true
   embodied-space-lab:
-    description: "test 3"
+    output: true
   knowledge-design-studio:
-    description: "test 4"
+    output: true
   epistemic-action:
-    description: "test 5"
 
