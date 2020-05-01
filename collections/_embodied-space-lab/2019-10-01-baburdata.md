@@ -3,7 +3,6 @@ title: Building a Digital _Bāburnāma_
 tags:
 - Moacir P. de Sá Pereira
 - Manan Ahmed
-category: embodied-space-lab
 type: dataset
 image: https://i.imgur.com/nB6Jt5c.png
 published: true

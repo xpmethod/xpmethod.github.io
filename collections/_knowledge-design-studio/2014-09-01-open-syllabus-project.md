@@ -5,7 +5,6 @@ tags:
 - Joe Karaganis (American Assembly)
 - David McClure (Stanford)
 - Dennis Yi Tenen
-category: knowledge-design-studio
 type: database
 snippet: 150
 published: true

@@ -2,7 +2,6 @@
 title: "English-Tunisian Dictionary"
 tags:
 - William J. Roberts
-category: knowledge-design-studio
 type: public language pedagogy
 snippet: 150
 published: false

@@ -2,7 +2,6 @@
 title: "Visualizing Joyce"
 tags: 
  - Emily Fuhrman
-category: lit-mod-viz
 type: graphic
 snippet: 105
 image: "joyce.png"

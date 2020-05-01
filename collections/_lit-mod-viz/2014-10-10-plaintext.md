@@ -1,6 +1,5 @@
 ---
 title: Plain Text
-category: lit-mod-viz
 type: book
 tags:
 - Dennis Yi Tenen

@@ -3,7 +3,6 @@ title: "Middle English Manuscript OCR"
 tags:
 - Gianmarco Saretto
 - Jenna Alexis Schoen
-category: lit-mod-viz
 type: tool
 published: true
 image: med_ocr_image.jpg

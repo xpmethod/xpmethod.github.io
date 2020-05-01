@@ -4,7 +4,6 @@ tags:
  - Jonathan Reeve
  - Milan Terlunen
  - Sierra Eckert
-category: lit-mod-viz
 published: true
 snippet: 82
 github: lit-mod-viz/middlemarch-critical-histories

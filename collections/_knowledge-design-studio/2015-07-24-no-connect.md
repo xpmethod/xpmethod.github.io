@@ -3,7 +3,6 @@ title: No Connect
 tags:
 - Alex Gil
 - Dennis Yi Tenen
-category: knowledge-design-studio
 type: web development
 snippet: 150
 published: true

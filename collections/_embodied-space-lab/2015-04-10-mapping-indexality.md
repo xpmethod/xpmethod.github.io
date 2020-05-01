@@ -2,7 +2,6 @@
 title: "Mapping Indexicality"
 tags: 
  - Emily Fuhrman
-category: embodied-space-lab
 type: graphic
 published: true
 snippet: 102

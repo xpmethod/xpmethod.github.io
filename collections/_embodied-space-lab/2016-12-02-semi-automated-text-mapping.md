@@ -2,7 +2,6 @@
 title: "Semi-Automated Literary Mapping"
 tags:
 - Phillip R. Polefrone
-category: embodied-space-lab
 type: interface
 snippet: 150
 published: true

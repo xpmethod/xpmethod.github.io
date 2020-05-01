@@ -1,6 +1,5 @@
 ---
 title: Outcaste Press
-category: knowledge-design-studio
 published: true
 image:
 type: publishing

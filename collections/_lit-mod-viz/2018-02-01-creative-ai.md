@@ -1,6 +1,5 @@
 ---
 title: An Inquiry into the Creative Limits of Artificial Intelligence
-category: lit-mod-viz
 type: book
 tags:
 - Dennis Yi Tenen

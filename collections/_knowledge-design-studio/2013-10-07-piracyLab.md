@@ -1,6 +1,5 @@
 ---
 title: piracyLab
-category: knowledge-design-studio
 published: true
 image: piracy.png
 issue: 14

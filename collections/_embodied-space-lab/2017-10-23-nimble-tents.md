@@ -1,6 +1,5 @@
 ---
 title: Nimble Tents
-category: embodied-space-lab
 published: true
 image: prmapathon-price.jpg
 tags:

@@ -2,7 +2,6 @@
 title: Roget Tools
 tags:
 - Phillip R. Polefrone
-category: lit-mod-viz
 type: toolkit
 snippet: 100
 issue: 14

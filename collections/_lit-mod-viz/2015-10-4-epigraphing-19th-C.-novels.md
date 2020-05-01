@@ -2,7 +2,6 @@
 title: "Epigraphing the 19th Century"
 tags:
 - Aaron Plasek
-category: lit-mod-viz
 type: experiment
 published: true
 snippet: 123

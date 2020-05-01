@@ -2,7 +2,6 @@
 title: "Semantic Analysis of One Million &#35;GamerGate Tweets"
 tags:
 - Phillip R. Polefrone
-category: lit-mod-viz
 type: semantic analysis
 snippet: 150
 published: true

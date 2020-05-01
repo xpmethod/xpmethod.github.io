@@ -2,7 +2,6 @@
 title: "Jail of Mountjoy"
 tags: 
 - Casey Michael Henry
-category: lit-mod-viz
 type: graphic
 snippet: 350
 image: jail.png

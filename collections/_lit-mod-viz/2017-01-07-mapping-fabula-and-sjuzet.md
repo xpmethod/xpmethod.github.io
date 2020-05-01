@@ -2,7 +2,6 @@
 title: "Mapping Fabula and Sjužet in “Wandering Rocks”"
 tags:  
  - Moacir P. de Sá Pereira
-category: lit-mod-viz
 type: geocoding
 image: fabulaandsjuzet.png
 github: muziejus/wandering-rocks
