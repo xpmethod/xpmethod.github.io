@@ -21,8 +21,6 @@ plugins: []
 
 collections_dir: collections
 collections:
-  clusters:
-    ouput: true
   events:
     output: true
   lit-mod-viz:
@@ -33,6 +31,8 @@ collections:
     output: true
   epistemic-action:
     output: true
+  clusters:
+    ouput: true
 
 # specifies default layouts for all items in collection subfolder
 defaults:
