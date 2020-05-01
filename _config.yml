@@ -21,6 +21,8 @@ plugins: []
 
 collections_dir: collections
 collections:
+  clusters:
+    ouput: true
   events:
     output: true
   lit-mod-viz:
@@ -30,9 +32,7 @@ collections:
   knowledge-design-studio:
     output: true
   epistemic-action:
-    output: false
-  strains:
-    ouput: false
+    output: true
 
 # specifies default layouts for all items in collection subfolder
 defaults:
@@ -41,3 +41,8 @@ defaults:
       type: "events"
     values:
       layout: "event"
+  - scope:
+      path: ""
+      type: "clusters"
+    values:
+      layout: "cluster"

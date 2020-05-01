@@ -1,7 +1,5 @@
 ---
-layout: strain
 title: embodied-space-lab
-category: strains
 ---
 
 Walking can be a mode of analysis that encompasses text, body, and place. The *Embodied Space
