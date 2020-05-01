@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Jail of Mountjoy"
 tags: 
 - Casey Michael Henry

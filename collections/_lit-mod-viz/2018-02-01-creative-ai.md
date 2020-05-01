@@ -1,5 +1,4 @@
 ---
-layout: project
 title: An Inquiry into the Creative Limits of Artificial Intelligence
 category: lit-mod-viz
 type: book

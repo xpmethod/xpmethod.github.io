@@ -1,5 +1,4 @@
 ---
-layout: project
 title: piracyLab
 category: knowledge-design-studio
 published: true

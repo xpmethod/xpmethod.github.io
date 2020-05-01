@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Mapping Fabula and Sjužet in “Wandering Rocks”"
 tags:  
  - Moacir P. de Sá Pereira

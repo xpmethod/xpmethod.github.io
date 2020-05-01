@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Experimental Philology and Minimal Editions"
 tags:
 - Susanna Allés Torrent

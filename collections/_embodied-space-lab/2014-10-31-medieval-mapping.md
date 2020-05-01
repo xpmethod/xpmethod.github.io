@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Mapping Medieval Pasts"
 tags:
 - Manan Ahmed

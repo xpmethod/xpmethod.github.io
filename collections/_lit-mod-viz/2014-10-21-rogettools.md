@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Roget Tools
 tags:
 - Phillip R. Polefrone

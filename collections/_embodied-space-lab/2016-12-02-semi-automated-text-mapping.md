@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Semi-Automated Literary Mapping"
 tags:
 - Phillip R. Polefrone

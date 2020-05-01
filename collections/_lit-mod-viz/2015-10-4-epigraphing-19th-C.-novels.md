@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Epigraphing the 19th Century"
 tags:
 - Aaron Plasek

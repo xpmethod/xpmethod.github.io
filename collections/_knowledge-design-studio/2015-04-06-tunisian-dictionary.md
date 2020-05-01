@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "English-Tunisian Dictionary"
 tags:
 - William J. Roberts

@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Visualizing Joyce"
 tags: 
  - Emily Fuhrman

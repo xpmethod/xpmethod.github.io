@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Nimble Tents
 category: embodied-space-lab
 published: true

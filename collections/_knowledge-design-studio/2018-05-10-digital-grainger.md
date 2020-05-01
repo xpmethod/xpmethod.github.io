@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Digital Grainger: An Online Edition of The Sugar-Cane 1764"
 tags:
 - Kimberly Takahata

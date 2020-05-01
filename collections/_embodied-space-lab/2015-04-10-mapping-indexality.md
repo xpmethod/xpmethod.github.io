@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Mapping Indexicality"
 tags: 
  - Emily Fuhrman

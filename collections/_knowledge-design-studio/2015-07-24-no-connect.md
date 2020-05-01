@@ -1,5 +1,4 @@
 ---
-layout: project
 title: No Connect
 tags:
 - Alex Gil

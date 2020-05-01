@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Plain Text
 category: lit-mod-viz
 type: book

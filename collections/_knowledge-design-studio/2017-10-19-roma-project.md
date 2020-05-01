@@ -1,5 +1,4 @@
 ---
-layout: project
 title: The Roma Project
 category: knowledge-design-studio
 published: true

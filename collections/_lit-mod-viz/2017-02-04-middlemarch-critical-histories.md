@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Middlemarch Critical Histories"
 tags:
  - Jonathan Reeve

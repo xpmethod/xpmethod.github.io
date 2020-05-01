@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Semantic Analysis of One Million &#35;GamerGate Tweets"
 tags:
 - Phillip R. Polefrone

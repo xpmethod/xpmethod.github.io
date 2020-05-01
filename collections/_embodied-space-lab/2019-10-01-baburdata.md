@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Building a Digital _Bāburnāma_
 tags:
 - Moacir P. de Sá Pereira

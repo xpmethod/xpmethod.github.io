@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Outcaste Press
 category: knowledge-design-studio
 published: true

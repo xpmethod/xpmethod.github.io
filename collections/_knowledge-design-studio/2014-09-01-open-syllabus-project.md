@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Open Syllabus Project
 tags:
 - Alex Gil

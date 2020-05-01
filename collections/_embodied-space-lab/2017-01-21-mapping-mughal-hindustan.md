@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Mapping Mughal Hindustan, 1500-1600 CE"
 tags:
 - Manan Ahmed

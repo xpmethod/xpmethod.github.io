@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Macro-Etymological Textual Analysis"
 tags:
  - Jonathan Reeve

@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Middle English Manuscript OCR"
 tags:
 - Gianmarco Saretto

@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Shape of Time"
 tags:
 - Sierra Eckert
