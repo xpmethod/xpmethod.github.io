@@ -6,7 +6,6 @@ type: template
 published: true
 snippet: 102
 images:
-issue: 15
 ---
 
 *Digital Grainger: An Online Edition of The Sugar-Cane 1764* is an digital edition of the 1764 edition of James Grainger's georgic poem "The Sugar-Cane." The work of a Scottish physican and writer who lived in St. Kitts during the mid-eighteenth century, "The Sugar-Cane" primarily presents itself as a set of instructions to Caribbean planters, meditating on enslavement, natural productions, sugar cane processing, and the British empire over the course of its 168 pages.

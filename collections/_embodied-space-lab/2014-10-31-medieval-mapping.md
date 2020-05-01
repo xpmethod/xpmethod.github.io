@@ -7,9 +7,6 @@ published: true
 image: delhi.png
 images:
 - delhi2.jpg
-edited:
-- by: Phillip R. Polefrone
-  date: 2016-08-24
 ---
 
 One of my central concerns has been to think about medieval and early modern

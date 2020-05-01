@@ -2,7 +2,6 @@
 title: piracyLab
 published: true
 image: piracy.png
-issue: 14
 updates:
 
 - date: 2015-04-01

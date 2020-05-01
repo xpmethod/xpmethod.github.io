@@ -5,7 +5,6 @@ tags:
 type: graphic
 snippet: 105
 image: "joyce.png"
-issue: 14
 ---
 
 In reference to schemas for Ulysses, Joyce describes the compositional

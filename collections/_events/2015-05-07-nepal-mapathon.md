@@ -6,7 +6,6 @@ type: mapathon
 prompt: "Come help with relief efforts on the ground in Nepal by contributing your time to open-source mapping."
 categories: events
 hour: 10:00am
-issue: 15
 images: nepal.jpg
 ---
 

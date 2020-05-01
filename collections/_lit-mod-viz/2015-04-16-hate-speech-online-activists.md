@@ -5,7 +5,6 @@ tags:
 type: semantic analysis
 snippet: 150
 published: true
-issue: 15
 updates:
 
 - date: 2015-05-01

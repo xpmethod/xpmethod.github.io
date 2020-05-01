@@ -9,7 +9,6 @@ type: database
 snippet: 150
 published: true
 image: osp.png
-issue: 15
 updates:
 
 - date: 2016-10-01

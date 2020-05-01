@@ -6,7 +6,6 @@ categories: knowledge-design-studio
 type: draft
 published: false
 snippet: 90
-issue: 14
 ---
 
 Digital editions today range from simple text or html transcriptions of texts, with minimal apparatus (ex. Project Guttenberg) to very elaborate deep explorations of TEI encoded texts (ex. Shelly-Godwin Archive, Bichitra). While the former can be the work of one individual working in isolation, the latter requires a richness of expertise and infrastructure. As a result, the new republic of letters will have to contend with a non-interoperable—and even incommensurable—range of editions; thus we feel the need to pursue an editorial and generational practice that focuses on the training of rising scholars in simple production and transformation scenarios and the power of minimal computing.

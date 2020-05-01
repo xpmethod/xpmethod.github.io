@@ -5,7 +5,6 @@ tags:
 - Dennis Yi Tenen
 sparkle: plain-text-prog.txt
 image: control-2.png
-issue: 15
 updates:
 
 - date: 2017-09-01

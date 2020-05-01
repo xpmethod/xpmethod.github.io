@@ -18,7 +18,6 @@ hour: 3pm
 images:
 - bensqr.png
 - bitcoin.jpg
-issue: 15
 ---
 
 

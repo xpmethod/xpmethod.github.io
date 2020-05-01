@@ -6,7 +6,6 @@ tags:
 type: web development
 snippet: 150
 published: true
-issue: 15
 ---
 
 [No Connect](https://github.com/xpmethod/no-connect) is a template for Jekyll

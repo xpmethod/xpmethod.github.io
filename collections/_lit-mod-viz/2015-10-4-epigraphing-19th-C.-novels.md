@@ -5,7 +5,6 @@ tags:
 type: experiment
 published: true
 snippet: 123
-issue: 15
 updates:
 - date: 2015-09-01
   text: "Collected 7,689 epigraphs from 3,000 XML-encoded 19th-century US

@@ -14,7 +14,7 @@ layout: article
 <!-- people are tags, it was the fastest way to avoid duplicate names when iterating-->
 
 <ul class="di people-list di mt0">
-    {% for tag in site.tags %}
+    {% for tag in site.documents[tags] %}
     {% assign name = tag[0] %}
     {% if site.data.contributors[name].url %}
     <li class="di"><a href="{{ site.data.contributors[name].url }}">{{ name }}</a></li>
