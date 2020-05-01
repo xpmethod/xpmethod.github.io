@@ -1,9 +1,7 @@
 ---
-layout: project
 title: Inter Partes Ramble in the Humanities
 tags:
 - Dennis Yi Tenen
-category: epistemic-action
 type: legal action
 image: book-patent.png
 github:

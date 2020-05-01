@@ -1,8 +1,5 @@
 ---
-layout: project
 title: Land Before Time II
-category: epistemic-action
-published: true
 image: land-1.jpg
 images: 
 - land-2.png
@@ -11,6 +8,7 @@ type: performance
 tags:
 - Gabrielle DaCosta
 - Sam Yulsman
+published: true
 ---
 
 

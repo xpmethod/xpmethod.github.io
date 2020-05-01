@@ -1,5 +1,4 @@
 ---
-layout: project
 title: Rikers Bot
 tags:
 - Manan Ahmed
@@ -19,7 +18,6 @@ tags:
 - Elijah Strauss
 - Dennis Yi Tenen
 - Young People at Rikers
-category: epistemic-action
 type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg

@@ -1,7 +1,5 @@
 ---
-layout: project
 title: Torn Apart
-category: epistemic-action
 published: true
 tags:
 - Alex Gil

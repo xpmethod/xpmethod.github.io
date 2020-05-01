@@ -1,7 +1,5 @@
 ---
-layout: project
 title: The Speakerbot Project
-category: epistemic-action 
 published: true
 image: speakerbot_project.png
 tags:

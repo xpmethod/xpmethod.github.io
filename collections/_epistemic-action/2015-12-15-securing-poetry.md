@@ -1,5 +1,4 @@
 ---
-layout: project
 title: "Securing Poetry: Umang"
 tags:
 - Manan Ahmed
@@ -8,7 +7,6 @@ tags:
 - Nosheen K. Ali
 published: true
 image: umang.png
-category: epistemic-action
 type: OpSec
 snippet: 145
 ---

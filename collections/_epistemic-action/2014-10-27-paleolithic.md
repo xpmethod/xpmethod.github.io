@@ -1,13 +1,10 @@
 ---
-layout: project
 title: Mobile Media and the Paleolithic
 tags:
 - Grant Wythoff
-category: epistemic-action
 type: article
 snippet: 105
 image: "mousterian_tools.jpg"
-issue: 14
 ---
 
 An article in progress, previously presented at the New Apparatus Theory panel at [SLSA-Turin 2014](http://bernardg.com/blog/new-apparatus-theory), [Archaeologies of Film and Media, Bradford](http://archmediafilm.org/), and the [Heyman Center for the Humanities](http://societyoffellows.columbia.edu/events/mobile-media-and-the-paleolithic/).  As we begin to take up new objects of study, how do humanists---largely trained in the analysis of text---apply their expertise to the interpretation of artifacts?  What are the unique forms of evidence and argumentation found in media studies and digital humanities?

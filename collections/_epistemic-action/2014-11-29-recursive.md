@@ -1,13 +1,10 @@
 ---
-layout: project
 title: Recursive Encounters w/ AI
-category: epistemic-action
 type: experiment
 tags:
 - Jonah Bossewitch
 - Rob Garfield
 published: true
-issue: 14
 ---
 
 <div style="margin-top: 1em;">

@@ -3,7 +3,6 @@ layout: project
 title: "Mapping Medieval Pasts"
 tags:
 - Manan Ahmed
-category: embodied-space-lab
 type: map
 published: true
 image: delhi.png
