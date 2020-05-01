@@ -9,10 +9,10 @@ layout: default
         </h2>
         <a class="dib f6 lh-copy Courier f6 " href="{{ BASE_PATH }}{{ cluster.url }}">
         ※ 
-            view all projects in this collective →
+            view portfolio →
         </a>
         <div class = "ml2">
-            {{ cluster.content }} Some randomly selected projects in this cluster include:
+            {{ cluster.content }} Some randomly selected projects from this collective include:
             <ul class = "people-list di pa0 ma0">
                 {% assign projects = site[cluster.title] | sample: 5 %}
                 {% for post in projects %}
