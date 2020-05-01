@@ -32,7 +32,7 @@ collections:
   epistemic-action:
     output: true
   clusters:
-    ouput: true
+    output: true
 
 # specifies default layouts for all items in collection subfolders
 defaults:
