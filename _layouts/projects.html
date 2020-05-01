@@ -10,7 +10,7 @@ layout: default
         </a>
         <div class = "ml2">
             {{ cluster.content }} A random sample of the projects from this collective includes:
-            <ul class = "people-list di pa0 ma0">
+            <ul class = "sentence-list di pa0 ma0">
                 {% assign projects = site[cluster.title] | sample: 5 %}
                 {% for post in projects %}
                     <li class = "di pa0 ma0"><a href="{{ post.url }}" class="inconsolata">{{ post.title | strip }}</a></li>

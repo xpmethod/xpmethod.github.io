@@ -76,31 +76,21 @@ header a:visited#site-title {
   color: black;
 }
 header > a.active {
-  color: #F00; 
+  color: #F00;
 }
 .nav.active {
-  color: red; 
+  color: red;
 }
 
 nav li {
   margin-right: 0.3rem;
 }
 
-#strains li:after {
-  content: ' \00BB '; 
-}
-#strains li:last-child:after {
-  content: ""; 
-}
-#strains li a {
-  color: black; 
-}
-
 div.update-list .update-link {
-  color: gray; 
+  color: gray;
 }
 div.update-list .update-date {
-  color: lightgray; 
+  color: lightgray;
 }
 
 #time {
@@ -144,14 +134,28 @@ div.update-list .update-date {
 }
 
 .people-list li:last-child:after {
+  content: "";
+}
+
+.sentence-list li:after {
+  content: ", ";
+}
+
+.sentence-list li:nth-last-child(2):after {
+  content: " and ";
+}
+
+.sentence-list li:nth-last-child(3) + li:after {
+  content: ", and ";
+}
+
+.sentence-list li:last-child:after {
   content: ".";
 }
 
-.people-list li:only-child:after {
+.sentence-list li:only-child:after {
   content: ".";
 }
-
-
 footer {
   border-top: 5px solid #eee;
 }
