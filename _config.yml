@@ -30,4 +30,14 @@ collections:
   knowledge-design-studio:
     output: true
   epistemic-action:
+    output: false
+  strains:
+    ouput: false
 
+# specifies default layouts for all items in collection subfolder
+defaults:
+  - scope:
+      path: ""
+      type: "events"
+    values:
+      layout: "event"

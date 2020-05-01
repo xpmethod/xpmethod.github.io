@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Digital Amati: Structure and Interpretation of Classical String
 Instruments"
 location: "Butler Studio (208b)"

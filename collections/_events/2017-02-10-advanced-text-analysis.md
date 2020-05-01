@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Advanced Text Analysis with SpaCy and Scikit-Learn"
 location: "NYU Draper Program Conference Room, 14 University Place"
 type: workshop

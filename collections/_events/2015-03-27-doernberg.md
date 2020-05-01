@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Bitcoin Basics w/ Ben Doernberg"
 location: "Butler Studio (208b)"
 participants:

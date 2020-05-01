@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Architectures of Knowledge: Bishkek"
 location: "Bishkek, Kyrgyztan"
 participants:

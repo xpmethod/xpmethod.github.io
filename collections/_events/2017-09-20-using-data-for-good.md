@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Using Data For Good: What does it mean?"
 location: "Uris Hall 301"
 type: lecture

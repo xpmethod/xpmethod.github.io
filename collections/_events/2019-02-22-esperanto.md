@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "An Analysis of Root Word Similarity in Esperanto"
 location: Butler Studio 208b
 type: talk

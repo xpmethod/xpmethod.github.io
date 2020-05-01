@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Leigh Hunt, Textual Studies, and Digital Humanities"
 location: "Butler Studio, 208b"
 type: lecture

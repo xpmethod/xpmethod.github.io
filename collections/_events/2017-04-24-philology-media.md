@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "The Marriage of Philology and Media: Two 1960's Media Archeologies, w/ Jeffrey Schnapp (Harvard University)"
 location: "TBD"
 type: lecture

@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Architectures of Knowledge: Mumbai"
 location: "Mumbai, India"
 participants:

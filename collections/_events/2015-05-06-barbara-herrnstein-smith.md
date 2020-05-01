@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Barbara Herrnstein Smith"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 

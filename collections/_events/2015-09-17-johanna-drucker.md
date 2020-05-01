@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Johanna Drucker"
 location: "Butler Studio, 208b"
 participants:

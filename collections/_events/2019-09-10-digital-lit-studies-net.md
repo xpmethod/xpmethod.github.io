@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Literary Modeling and Visualization"
 location: Columbia University, Butler Studio 208b
 type: workshop

@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Electronic Device Security at the Border"
 location: "Butler Studio (208b)"
 type: teach-in

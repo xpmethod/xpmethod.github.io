@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Eben Moglen"
 location: "Butler Studio, 208b"
 participants:

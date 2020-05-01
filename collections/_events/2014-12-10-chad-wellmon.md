@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Chad Wellmon"
 location: "Heyman Center for the Humanities, Second Floor Common Room"
 tags: 

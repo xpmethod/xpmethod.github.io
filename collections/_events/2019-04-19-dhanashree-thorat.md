@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Decolonizing Data Regimes"
 location: Butler Studio 208b
 type: talk

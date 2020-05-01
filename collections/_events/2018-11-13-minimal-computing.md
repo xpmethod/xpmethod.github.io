@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Introduction to Minimal Computing in the Humanities: Building an Exhibit of Primary Sources Using Wax"
 location: "Butler Studio"
 type: workshop series

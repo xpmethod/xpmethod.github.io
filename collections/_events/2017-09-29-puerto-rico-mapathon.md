@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Puerto Rico Mapathon for Hurricane Relief"
 location: "Butler Studio (208b)"
 type: mapathon

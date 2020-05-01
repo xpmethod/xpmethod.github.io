@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Literary Modeling and Visualization Lab"
 location: Butler Studio, 208b
 participants:

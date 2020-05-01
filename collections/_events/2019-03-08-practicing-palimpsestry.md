@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Practicing Palimpsestry in Seattle's Urban Landscape: Archives, Counter-mapping, and Public Scholarship"
 location: Butler Studio 208b
 type: talk

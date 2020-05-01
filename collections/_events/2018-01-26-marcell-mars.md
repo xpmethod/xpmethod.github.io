@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Public Library/Memory of the World with Marcell Mars"
 location: Butler Studio 208b
 type: talk

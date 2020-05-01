@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Nepal Mapathon for Earthquake Relief"
 location: "Studio@Butler, Butler Library 208b"
 tags: 

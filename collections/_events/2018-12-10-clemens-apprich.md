@@ -1,5 +1,4 @@
 ---
-layout: event
 title: "Media and Paranoia w/ Clemens Apprich (Leuphana University)"
 location: Butler Studio 208b
 type: talk
