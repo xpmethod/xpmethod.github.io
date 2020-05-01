@@ -130,15 +130,6 @@ div.update-list .update-date {
   color: lightgray; 
 }
 
-.people-list ul {
-  font-size: 0;
-}
-
-.people-list ul li {
-    font-size: 14px;
-    display: inline-block;
-}
-
 .people-list li:after {
   content: ", ";
 }

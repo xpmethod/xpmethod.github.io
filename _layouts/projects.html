@@ -12,12 +12,10 @@ layout: default
         </a>
         <div class = "ml2">
             {{ cluster.content }} Some randomly selected projects in this cluster include:
-            <ul class = "people-list di pa0">
+            <ul class = "people-list di pa0 ma0">
                 {% assign projects = site.lit-mod-viz] | sample: 5 %}
                 {% for post in projects %}
-                    <li class = "di pa0">
-                        <a href="{{ post.url }}" class="inconsolata">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
-                    </li>
+                    <li class = "di pa0 ma0"><a href="{{ post.url }}" class="inconsolata">{{ post.title | strip }}</a></li>
                 {% endfor %}
             </ul>
         </div>
