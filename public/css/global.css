@@ -121,6 +121,7 @@ div.update-list .update-date {
   color: lightgray; 
 }
 
+/* used in project.html and elewhere without the trailing period */
 .people-list li:after {
   content: ", ";
 }
@@ -137,6 +138,7 @@ div.update-list .update-date {
   content: "";
 }
 
+/* used in projects.html for inline paragraph lists with trailing period */
 .sentence-list li:after {
   content: ", ";
 }
