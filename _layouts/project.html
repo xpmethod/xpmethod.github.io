@@ -80,18 +80,11 @@ url: research/
 
     <!-- include updates if we have them -->
     {% if page.updates%}
-
         <div class="w-50 mb2 bb pv2 mt2 mid-gray">
-
             <div class="tr dib ml3 f6 lh-copy w-100 Courier fr black">
                 updates ↓
             </div></br>
-            {% for update in page.updates %}
-                <div class="update-list">
-                    <span class="update-date inconsolata">{{ update.date | date: "%m/%y" }}</span>
-                    {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-                </div>
-            {% endfor %}
+            {% include update.html %}
         </div>
     {% endif %}
 

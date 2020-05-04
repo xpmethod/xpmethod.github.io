@@ -26,24 +26,24 @@ prompt: "The Knowledge Architectures workshop is an itinerant dialogue between s
 
 updates:
 
-- date: 2018-03-01
+- date: 2018-03-13
   type: press
   text: "\"[All Set to Digitise Punjab’s Rare Historical
 Archives](https://web.archive.org/web/20180315022414/https://tribune.com.pk/story/1658149/1-preserving-assets-set-digitise-punjabs-rare-historical-archives/),\"
 in *The Express Tribune*."
 
-- date: 2018-03-01
+- date: 2018-03-19
   type: press
   text: "\"[Inside Punjab’s Plan to Digitise its Past](https://web.archive.org/web/20180319221925/https://dailytimes.com.pk/216569/inside-punjabs-plan-to-digitise-its-past/),\"
 in *Daily Times*."
 
-- date: 2018-03-01
+- date: 2018-03-12
   type: press
   text: "\"[PITB Organises Seminar on Knowledge
 Archives](https://web.archive.org/web/20180315014431/https://tribune.com.pk/story/1657447/1-pitb-organises-seminar-knowledge-archives/),\"
 in *The Express Tribune*."
 
-- date: 2018-03-01
+- date: 2018-03-12
   type: press
   text: "Architectures of Knowledge: Lahore covered in [Urdu
 Point](https://web.archive.org/web/20180315021822/https://www.urdupoint.com/en/technology/punjab-information-technology-board-informat-281206.html)."
