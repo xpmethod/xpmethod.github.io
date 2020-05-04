@@ -2,3 +2,4 @@
 - fix mobile fonts
 - snapshot all news updates
 - fix notes
+- more elegant navigation for impact
