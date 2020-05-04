@@ -1,1 +1,4 @@
 - check redirects
+- fix mobile fonts
+- snapshot all news updates
+- fix notes
