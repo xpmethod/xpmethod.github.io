@@ -1,6 +1,6 @@
 ---
 title: COVID Maker Response
-type: rapid response
+type: 3D Printing
 image: cmr.jpg
 published: true
 people:
@@ -43,8 +43,18 @@ updates:
   type: press
   text: "“[Andover Stories: A news roundup to make you smile](https://www.andover.edu/news/2020/andover-stories-a-news-roundup-to-make-you-smile).”"
 ---
-        
-In response to the shortage of personal protective equipment (PPE) as hospitals and clinics scrambled to respond to the COVID-19 pandemic, XP moderators Madiha Choksi, Alex Gil and Moacir P. de Sá Pereira, and XP contributor Jeremiah Trinidad-Christensen teamed up to organize a collective effort to produce face shields for hospitals in NYC. This collective came to include Tangible Creative, MakerBot and a host of volunteers from all walks of life.
 
-The first outcome of their collaboration was the release of a [Guide and Design for Rapidly Manufacturing Face Shields](https://studio.cul.columbia.edu/face-shield) with a 3D printer and household tools. Soon after, the team was producing, assembling and distributing hundreds of face shields a day. As of the writing of this card, COVID Maker Response has distributed more than 13,000 face shields to more than 40 hospitals, clinics, social workers and first responder teams in NYC. The team has also sent care packages to several countries in the global south with acute needs.            
+In response to the shortage of personal protective equipment (PPE) as hospitals and clinics
+scrambled to respond to the COVID-19 pandemic, XP moderators Madiha Choksi, Alex Gil and Moacir
+P. de Sá Pereira, and XP contributor Jeremiah Trinidad-Christensen teamed up to organize a
+collective effort to produce face shields for hospitals in NYC. This collective came to include
+Tangible Creative, MakerBot and a host of volunteers from all walks of life.
+
+The first outcome of their collaboration was the release of a [Guide and Design for Rapidly
+Manufacturing Face Shields](https://studio.cul.columbia.edu/face-shield) with a 3D printer and
+household tools. Soon after, the team was producing, assembling and distributing hundreds of
+face shields a day. As of the writing of this card, COVID Maker Response has distributed more
+than 13,000 face shields to more than 40 hospitals, clinics, social workers and first responder
+teams in NYC. The team has also sent care packages to several countries in the global south
+with acute needs.            
 

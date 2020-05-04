@@ -3,6 +3,8 @@ title: "Muslim World Manuscript Project"
 type: archive
 published: true
 snippet: 125
+redirect-from:
+- 2016-05-10-mwmp.md
 
 people:
 - Manan Ahmed
