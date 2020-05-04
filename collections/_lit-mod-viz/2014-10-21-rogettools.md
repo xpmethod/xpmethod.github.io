@@ -22,18 +22,7 @@ automated text analysis, thus providing a basis for stable interpretation of
 quantitative results. Second, it facilitates an integration of semantic
 network analysis into the analysis of textual corpora.
 
-[^1]: Klingenstein, Sara, Tim Hitchcock, and Simon DeDeo. “The Civilizing
-Process in London’s Old Bailey.” *Proceedings of the National Academy of
-Sciences* 111.26 \(2014\): 9419–24. www.pnas.org. Web. 20 Aug. 2014.
-[http://www.pnas.org/content/111/26/9419.abstract](http://www.pnas.org/content/111/26/9419.abstract)
 
-[^2]: These tools were derived from the 1911 index to and full text of the
-*Thesaurus* [available from Project
-Gutenberg](http://www.gutenberg.org/ebooks/search/?query=roget) and were
-generated using 1. automated regular expression text extraction on the
-[index](http://www.gutenberg.org/cache/epub/10681/pg10681.txt) and 2.
-reconstruction of the hierarchy represented by the headings of the [full 1911
-edition](http://www.gutenberg.org/cache/epub/22/pg22.txt).
 
 With this integration in mind, the library provides several primary tools for
 analysis. First, it enables Python-readable categorization of individual words
@@ -62,4 +51,18 @@ for future development.
 Roget Tools can be downloaded
 [here](https://github.com/prpole/roget-tools/archive/master.zip).
 
-[^3]: Jarmasz, Mario, and Stan Szpakowicz. “Roget’s Thesaurus and Semantic Similarity.” arXiv:1204.0245 \[cs\]\(2012\): n. pag. arXiv.org. Web. 20 Aug. 2014. [http://arxiv.org/abs/1204.0245](http://arxiv.org/abs/1204.0245)
+[^1]: Klingenstein, Sara, Tim Hitchcock, and Simon DeDeo. “The Civilizing Process in London’s 
+    Old Bailey.” *Proceedings of the National Academy of Sciences* 111.26 \(2014\): 9419–24.
+www.pnas.org. Web. 20 Aug. 2014.
+[http://www.pnas.org/content/111/26/9419.abstract](http://www.pnas.org/content/111/26/9419.abstract)
+
+[^2]: These tools were derived from the 1911 index to and full text of the *Thesaurus*
+    [available from Project Gutenberg](http://www.gutenberg.org/ebooks/search/?query=roget) and
+were generated using (1) automated regular expression text extraction on the
+[index](http://www.gutenberg.org/cache/epub/10681/pg10681.txt) and (2) reconstruction of the
+hierarchy represented by the headings of the [full 1911
+edition](http://www.gutenberg.org/cache/epub/22/pg22.txt).
+
+[^3]: Jarmasz, Mario, and Stan Szpakowicz. “Roget’s Thesaurus and Semantic Similarity.”
+    arXiv:1204.0245 \[cs\]\(2012\): n. pag. arXiv.org. Web. 20 Aug. 2014.
+[http://arxiv.org/abs/1204.0245](http://arxiv.org/abs/1204.0245)
