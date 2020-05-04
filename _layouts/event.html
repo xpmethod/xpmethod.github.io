@@ -6,13 +6,13 @@ layout: default
 
     <h2 class="mb2">{{ page.title }}</h2>
 
-        <span class="gray">
+        <span class="gray f5">
             {% if page.type %}
                 {{ page.type | upcase }} ※ 
             {% endif %}
         </span>
 
-        <span class="f4">
+        <span class="f5 code">
             {% if page.hour %}{{ page.hour }},{% endif %}
             {{ page.date | date_to_string }}</br>
         </span>

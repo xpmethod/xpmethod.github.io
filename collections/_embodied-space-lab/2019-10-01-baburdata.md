@@ -4,31 +4,28 @@ people:
 - Moacir P. de Sá Pereira
 - Manan Ahmed
 type: dataset
-image: https://i.imgur.com/nB6Jt5c.png
+image: babur.png
 published: true
 updates:
 
 ---
 
-The [Embodied Space Lab][1] at Columbia University is constructing a
-collaborative research dataset of the c16 memoir [_Bāburnāma_][4]. The project is
-led by Research Data Librarian [Moacir P. de Sá Pereira][2] and Associate
-Professor of History [Manan Ahmed][3]. 
+The [Embodied Space Lab][1] at Columbia University is constructing a collaborative research
+dataset of the c16 memoir [_Bāburnāma_][4]. The project is led by Research Data Librarian
+[Moacir P. de Sá Pereira][2] and Associate Professor of History [Manan Ahmed][3].
 
-The project aims to build a digital version of Annette Beveridge’s
-1912–1922 translation of _Bāburnāma_, improving the geospatial data already
-collected as part of the earlier XPMethod project “[Mapping Mughal Hindustan,
-1500–1600 CE][5].” In addition, the researchers will assemble a rich
-collection of datasets around the work, tracking places mentioned, people,
-their relationships to each other, and various sentiments, laying the
-ground-work for a gazetteer of medieval Central Asia.
+The project aims to build a digital version of Annette Beveridge’s 1912–1922 translation of
+_Bāburnāma_, improving the geospatial data already collected as part of the earlier XPMethod
+project “[Mapping Mughal Hindustan, 1500–1600 CE][5].” In addition, the researchers will
+assemble a rich collection of datasets around the work, tracking places mentioned, people,
+their relationships to each other, and various sentiments, laying the ground-work for a
+gazetteer of medieval Central Asia.
 
 Beveridge’s translation is available [for partner institution download from
-HathiTrust](https://catalog.hathitrust.org/Record/011261317) and, importantly
-for our purposes, also [available as a human-edited text file from Project
-Gutenberg](https://www.gutenberg.org/ebooks/44608), made possible by the
-efforts of Barbara Tozier, Turgut Dincer, Bill Tozier, and the [Online
-Distributed Proofreading Team](http://www.pgdp.net). 
+HathiTrust](https://catalog.hathitrust.org/Record/011261317) and, importantly for our purposes,
+also [available as a human-edited text file from Project Gutenberg](https://www.gutenberg.org/ebooks/44608), made possible by the efforts of Barbara
+Tozier, Turgut Dincer, Bill Tozier, and the [Online Distributed Proofreading
+Team](http://www.pgdp.net).
 
 ### Preliminary Research Questions
 

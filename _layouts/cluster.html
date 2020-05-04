@@ -71,6 +71,7 @@ layout: default
                     {% if post.snippet %}
                         {{ post.content | markdownify | truncatewords:post.snippet }}
                     {% endif %}
+                    <a class="f6 code fr mt1" href="{{ post.url }}">read more →</a>
 
                 <!-- hacky, but lets close all interrupted tags from previous post in the
                 loop -->
