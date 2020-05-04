@@ -8,8 +8,7 @@ people:
 - Moacir P. de Sá Pereira
 type: geocoding
 published: true
-image:
-snippet: 35
+image: al-idrisi.jpg
 ---
 
 The aim of the project is to publish a co-authored paper where the various
@@ -18,7 +17,7 @@ secondary aim is release the data-sets for Mughal India on git. Parameters are
 below.
 
 1. Aim: To produce a data-set, visualization, and position paper for a DH journal.
-2. Data: To extract place-names from three sixteenth century texts. 
+2. Data: To extract place-names from three sixteenth century texts.
 The texts are in English and Persian and exist in both print-form and manuscript form. 
 Besides place-names, we would also extract qualifiers and descriptors of the place-names. The texts are *Baburnama*, *Humayunnama* and *Akbarnama*. 
 *Baburnama* was written in the first two decades of the sixteenth century by Zahiruddin Babur (1483-1530)-- [English edition](http://www.worldcat.org/title/baburnama/oclc/855672100?referer=di&ht=edition) and [Persian edition](http://www.worldcat.org/title/baburnama-baburname-cagatayca-asli-abdurrahim-hanhananin-farsca-tercumesi-ve-ingilizcesi-baburnama-chaghatay-turkish-text-with-abdul-rahim-khankhanans-persian-translation/oclc/862305195?ht=edition&referer=di). *Akbar Nama* and *Humayun Nama* were both compiled in the last decade of the sixteenth century-- the first by Abu'l Fazl and the second by Gulbadan Begum. We will use the [Bilingual Persian-English edition of Akbarnama](http://www.worldcat.org/title/history-of-akbar-volume-1/oclc/913097580&referer=brief_results)

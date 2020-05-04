@@ -24,13 +24,7 @@ layout: article
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'publication' or update.type contains 'paper' %}
-        <div class="update-list mb2">
-            <div class="update-date inconsolata">{{ update.date | date: "%m/%y" }}
-            <a class="update-link gray" href="{{ post.url }}">
-                {{ post.title | downcase }}</a>
-            </div>
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
+            {% include impact-updates.html %}
         {% endif %}
     {% endfor %}
 </div>
@@ -58,15 +52,7 @@ layout: article
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'lecture' or update.type contains 'workshop'%}
-        <div class="update-list">
-            <div class="update-date inconsolata">
-                {{ update.date | date: "%m/%y" }}
-                <a class="update-link" href="{{ post.url }}">
-                    {{ post.title | downcase }}
-                </a>
-            </div>
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
+            {% include impact-updates.html %}
         {% endif %}
     {% endfor %}
 </div>
@@ -94,15 +80,7 @@ layout: article
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'grant' or update.type contains 'award' %}
-        <div class="update-list mb2">
-            <div class="update-date inconsolata">
-                {{ update.date | date: "%m/%y" }}
-                <a class="update-link gray" href="{{ post.url }}">
-                    {{ post.title | downcase }}
-                </a>
-            </div>
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
+            {% include impact-updates.html %}
         {% endif %}
     {% endfor %}
 </div>
@@ -130,15 +108,7 @@ layout: article
     {% for o in order %}
         {% include date-split.html %}
         {% if update.type contains 'talk' or update.type contains 'press' %}
-        <div class="update-list mb2">
-            <div class="update-date inconsolata">
-                {{ update.date | date: "%m/%y" }}
-                <a class="update-link gray" href="{{ post.url }}">
-                    {{ post.title | downcase }}
-                </a>
-            </div>
-            {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
-        </div>
+            {% include impact-updates.html %}
         {% endif %}
     {% endfor %}
 </div>
@@ -165,14 +135,13 @@ layout: article
 
 <div>
     {% for job in site.data.jobs %}
-        <div class="update-list mb2">
-            <div class="update-date inconsolata">
-                {{ job.date }}
-                <a class="update-link gray" href="{{ post.url }}">
-                    Experimental Methods Group
-                </a>
+    <!-- styles here should accord with _includes/impact-updates.html -->
+        <div class="mb2">
+            <div>
+                <span class = "code f6 gray">{{ job.date | date: "%d/%m/%y" }} ⌱</span>
+                <a href="{{ post.url }}">Experimental Methods Group</a>
             </div>
-            <div class="update-text"> 
+            <div>
                 {{ job.text | markdownify | remove: '<p>' | remove: '</p>' }}
             </div>
         </div>

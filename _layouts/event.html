@@ -27,7 +27,9 @@ layout: default
             <div class="tr dib ml3 f6 lh-copy w-100 Courier fr black">
                 updates ↓
             </div></br>
-            {% include update.html %}
+            {% for update in page.updates %}
+                {% include update.html %}
+            {% endfor %}
         </div>
     {% endif %}
 

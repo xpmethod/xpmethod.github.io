@@ -11,7 +11,7 @@ layout: default
 
 <article class="mb1">
     {% for post in site[page.title] reversed %}
-        <section class="pb2">
+        <section class="pb2 mb2">
             <div class="flex pa0 ma0 bb">
                 <span class="b">
                   <a href="{{ post.url }}">{{ post.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
@@ -75,6 +75,7 @@ layout: default
 
                 <!-- hacky, but lets close all interrupted tags from previous post in the
                 loop -->
+                </li></ul></ol>
                 </strong>
                 </div>
             {% endunless %}

@@ -1,6 +1,4 @@
-{% for update in page.updates %}
-    <div class="update-list f5">
-        <span class="f6 update-date code">{{ update.date | date: "%m/%d/%y" }} </span>
-        <span class="">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
-    </div>
-{% endfor %}
+<div class="update-list f5">
+    <span class="f6 update-date code">{{ update.date | date: "%m/%d/%y" }} </span>
+    <span class="">{{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}</span>
+</div>

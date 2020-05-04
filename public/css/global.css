@@ -88,17 +88,6 @@ nav li {
   margin-right: 0.3rem;
 }
 
-div.update-list .update-link {
-  color: gray;
-}
-div.update-list .update-date {
-  color: lightgray;
-}
-
-#time {
-  color: gray;
-}
-
 .tag {
   background-color: #EEF;
   border: 1px solid lightgray;
@@ -115,9 +104,6 @@ div.update-list .update-date {
   margin: .5em -2em;
 }
 
-div.update-list .update-link {
-  color: gray;
-}
 div.update-list .update-date {
   margin-left: -6em;
   color: lightgray;

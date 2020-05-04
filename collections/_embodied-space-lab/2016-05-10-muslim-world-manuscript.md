@@ -3,6 +3,7 @@ title: "Muslim World Manuscript Project"
 type: archive
 published: true
 snippet: 125
+image: mwmp.jpg
 redirect-from:
 - 2016-05-10-mwmp.md
 
@@ -18,10 +19,6 @@ people:
 - Peter Magierski
 - Sean Quimby
 - Jane Siegel
-
-edited:
-- by: Phillip R. Polefrone
-  date: 2016-08-24
 
 updates:
 - date: 2018-01-01

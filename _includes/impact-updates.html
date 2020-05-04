@@ -1,0 +1,9 @@
+<div class="mb2">
+    <div>
+        <span class = "code f6 gray">{{ update.date | date: "%d/%m/%y" }} ⌱</span>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+    </div>
+    <div>
+        {{ update.text | markdownify | remove: '<p>' | remove: '</p>' }}
+    </div>
+</div>
