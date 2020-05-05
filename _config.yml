@@ -19,6 +19,10 @@ exclude: ['vendor', 'doc', 'README.md']
 plugins:
   - jekyll-redirect-from
 
+# for use with --safe mode to mimic github pages
+whitelist: 
+  - jekyll-redirect-from
+
 collections_dir: collections
 collections:
   events:
@@ -66,7 +70,3 @@ defaults:
       type: "epistemic-action"
     values:
       layout: "project"
-      redirect-from:
-        - public-discourse/
-        - trans-media-collective/
-        - embodied-space-lab/

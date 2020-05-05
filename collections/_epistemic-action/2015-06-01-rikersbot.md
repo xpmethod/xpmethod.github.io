@@ -21,7 +21,10 @@ people:
 type: digital storytelling
 published: true
 image: rikersbot-flyer.jpg
-images:
+redirect_from:
+- /public-discourse/rikersbot
+- /trans-media-collective/rikersbot
+
 snippet: 121
 updates:
 
