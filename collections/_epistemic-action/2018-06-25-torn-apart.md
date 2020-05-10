@@ -14,7 +14,8 @@ people:
 - Merisa Martinez
 - Linda Rodriguez
 - Rachel Hendery
-updates: - date: 2018-06-25
+updates: 
+- date: 2018-06-25
   type: press
   text: "“[Ice Is Everywhere: Using Library Science to Map the Separation Crisis](https://www.wired.com/story/ice-is-everywhere-using-library-science-to-map-child-separation/),” in *WIRED* by Emily Dreyfuss."
 - date: 2018-06-26
