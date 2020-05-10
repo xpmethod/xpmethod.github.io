@@ -6,4 +6,3 @@
 - redirects
 - create gemfile
 - a browsing page
-- update archipelagos with news of name change
