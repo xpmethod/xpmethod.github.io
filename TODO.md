@@ -2,3 +2,7 @@
 - snapshot all news updates
 - fix notes
 - more elegant navigation for impact
+- search box
+- redirects
+- create gemfile
+- a browsing page
