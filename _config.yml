@@ -20,7 +20,7 @@ plugins:
   - jekyll-redirect-from
 
 # for use with --safe mode to mimic github pages
-whitelist: 
+whitelist:
   - jekyll-redirect-from
 
 collections_dir: collections
