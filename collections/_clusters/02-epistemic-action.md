@@ -9,8 +9,8 @@ with the belief that certain theoretical commitments---deconstruction, decoloniz
 historical materialism---necessitate corresponding practical **engagement**. To be effective,
 critique must be followed by concerted action. And action requires new modalities of
 scholarship: critical making, workshops, tech training camps, community support, and legal
-reform. Moderated by Professor [Durba Mitra][db], Studies of Women, Gender, and Sexuality
-(Harvard) and [Madiha Choksi][mc] (Columbia Libraries).
+reform. Moderated by Moderated by [Alex Gil][ag], Libraries (Columbia University) and [Madiha
+Choksi][mc] (Columbia Libraries).
 
-[db]: https://wgs.fas.harvard.edu/people/durba-mitra
+[ag]: http://www.elotroalex.com/profile/
 [mc]: https://twitter.com/thedatarealist
