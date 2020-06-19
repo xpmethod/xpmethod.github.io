@@ -2,7 +2,7 @@ highlighter: 'rouge'
 markdown: kramdown
 kramdown:
   footnote_backlink: "⤻"
-url: http://xpmethod.plaintext.in/
+url: http://xpmethod.columbia.edu/
 future: true
 permalink: none
 
