@@ -45,15 +45,6 @@ the exposure of junior colleagues. In public, credit the involved collectives
 and encourage others to read through the records carefully for granular
 attribution.
 
-### Electronic Frontier Alliance
-
-In addition to these principles, we are a member of [Electronic Frontier
-Alliance][1], a grassroots network of community and campus organizations that
-advocate for free expression online: security, privacy, creativity, and access
-to knowledge.
-
-[1]: https://www.eff.org/electronic-frontier-alliance
-
 ### Recommended Reading
 
 - Peter Kropotkin, "[Mutual Aid Amongst Ourselves][3]" (1902).
