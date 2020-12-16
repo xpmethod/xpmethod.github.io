@@ -17,6 +17,6 @@ as well as to challenge accepted orthodoxies. Spurning the tedium of jargon-lade
 commentary, we prefer strong authorial voices, who write with passion about their craft.
 
 Edited by Dennis Yi Tenen, Marta Figlerowicz, and Manan Ahmed along with current
-[moderators][1] of the xpMethod group.
+[moderators][1] of the xpMethods group.
 
 [1]: http://xpmethod.columbia.edu/about.html
