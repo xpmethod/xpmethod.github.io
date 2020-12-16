@@ -5,9 +5,9 @@ title: book-series
 
 **On Method** book series from Columbia University Press publishes concise, provocative
 reflections on the process of *doing* research in the humanities. From close reading to distant
-reading, critical making, mapping, walking, computing, experimenting, or surveying---on the
-street, in the lab, or in the archives---the series presents advanced practitioners of their
-craft in dialogue with their materials, tools, and techniques.
+reading, critical making, mapping, walking, computing, annotating, experimenting, or
+surveying---on the street, in the lab, or in the archives---the series presents advanced
+practitioners of their craft in dialogue with their materials, tools, and techniques.
 
 The editorial collective seeks proposals for book projects of 40,000--60,000 words, which
 articulate a single method: explain its history, its possibilities, and limitations. Addressed
