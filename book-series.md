@@ -15,7 +15,4 @@ like for our volumes to inspire novice readers as well as to challenge accepted 
 addressing a wide audience across disciplines, and representing a rich variety of perspectives
 from authors who write with passion about their craft.
 
-Edited by Dennis Yi Tenen, Marta Figlerowicz, and Manan Ahmed along with current
-[moderators][1] of the xpMethods group.
-
 [1]: http://xpmethod.columbia.edu/about.html
