@@ -13,4 +13,5 @@ Studies of Women, Gender, and Sexuality (Harvard),  -->[Alex Gil][ag] (Columbia 
 
 [kg]: https://french.barnard.edu/profiles/kaiama-l-glover
 [db]: https://wgs.fas.harvard.edu/people/durba-mitra
+[ag]: https://www.elotroalex.com/
 
