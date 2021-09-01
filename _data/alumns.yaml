@@ -1,16 +1,28 @@
-- name: Grant Wythoff
-  url: https://twitter.com/gwijthoff
-  datestart: 2014
-  dateend: 2016
 - name: Manan Ahmed
   url: https://twitter.com/sepoy
   datestart: 2014
   dateend: 2020
+- name: Madiha Choksi
+  url: https://twitter.com/thedatarealist
+  datestart: 2020
+  dateend: 2021
+- name: Jeremiah Christensen
+  url: http://library.columbia.edu/services/research-data-services/staff.html
+  datestart: 2017
+  dateend: 2021
 - name: Durba Mitra
   url: http://wgs.fas.harvard.edu/
   datestart: 2014
+  dateend: 2020
+- name: Frances Negrón-Muntaner
+  url: http://www.francesnegronmuntaner.net/
+  datestart: 2015
   dateend: 2021
 - name: Moacir P. de Sá Pereira
   url: https://moacir.com/
   datestart: 2018
   dateend: 2021
+- name: Grant Wythoff
+  url: https://twitter.com/gwijthoff
+  datestart: 2014
+  dateend: 2016
