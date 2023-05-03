@@ -14,5 +14,11 @@ articulate a single method: explain its history, its possibilities, and limitati
 like for our volumes to inspire novice readers as well as to challenge accepted orthodoxies,
 addressing a wide audience across disciplines, and representing a rich variety of perspectives
 from authors who write with passion about their craft.
+ 
+Editors: [Marta Figlerowicz][2] (Yale), [Alex Gil][3] (Yale), [Marisa Parham][4] (UMD), [Dennis Yi Tenen][5] (Columbia).  
 
 [1]: http://xpmethod.columbia.edu/about.html
+[2]: https://english.yale.edu/people/tenured-and-tenure-track-faculty-associate-professors/marta-figlerowicz
+[3]: https://www.elotroalex.com/
+[4]: https://mp285.com/
+[5]: https://dennistenen.com/
