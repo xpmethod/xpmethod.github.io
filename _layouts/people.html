@@ -23,21 +23,18 @@ layout: article
 
 </div>
 
-<div class = "f4">Moderators</div>
+<div class = "f4">Editors</div>
     <ul class = "people-list mt0 di">
         {% for mod in site.data.mods %}
             <li class = "di"><a href="{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }})</li>
         {% endfor %}
     </ul>
 
-<div class="f4 mt3">Alumni</div>
+<div class="f4 mt3">Past Editors</div>
 
     <ul class="people-list mt0 di">
         {% for mod in site.data.alumns %}
-            <li class = "di">
-                <a href = "{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} -
-                {{ mod.dateend }})
-            </li>
+            <li class = "di"><a href = "{{ mod.url }}">{{ mod.name }}</a> ({{ mod.datestart }} - {{ mod.dateend }})</li>
         {% endfor %}
     </ul>
 
