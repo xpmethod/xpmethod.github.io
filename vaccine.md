@@ -1,6 +1,6 @@
 ---
 layout: article
-title: vaccine
+title: vaccine_archive
 ---
 
 *The following information is excerpted from [fda.gov][1], detailing the Emergency Use
