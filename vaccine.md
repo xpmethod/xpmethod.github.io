@@ -3,7 +3,7 @@ layout: article
 title: FDA COVID-19 Vaccine Information
 ---
 
-*The following information is excerpted from [www.fda.gov][1], detailing the Emergency Use
+*The following information is excerpted from [fda.gov][1], detailing the Emergency Use
 Authorization (EUA) as it relates to COVID-19 vaccine:*
 
 [1]: https://www.fda.gov/emergency-preparedness-and-response/mcm-legal-regulatory-and-policy-framework/emergency-use-authorization#covid19euas
