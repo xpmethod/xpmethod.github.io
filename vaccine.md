@@ -1,6 +1,6 @@
 ---
 layout: article
-title: FDA COVID-19 Vaccine Information
+title: vaccine
 ---
 
 *The following information is excerpted from [fda.gov][1], detailing the Emergency Use

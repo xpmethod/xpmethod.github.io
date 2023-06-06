@@ -9,7 +9,7 @@
       <ul class="list ma0 pa0">
         {% for node in sorted_pages %}
           {% if node.title != null %}
-            {% unless node.url contains 'archive' %} 
+            {% unless node.url contains 'archive' or 'vaccine' %} 
               <li class="fl di">
                     <!-- this matches strings in the url to node title to highlight the active page -->
                     <a class="hover-red ttl nav pr2
